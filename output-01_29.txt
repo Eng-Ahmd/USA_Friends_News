@@ -1,0 +1,73 @@
+Consulate: ALG
++---------------+-------------+---------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City    | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+---------+-----------+--------------+----------+--------------|
+| 2023AF5707    | ALG         | Algiers | Algeria   | Refused221g  | AP       | 29-Jan-2023  |
+| 2023AF8951    | ALG         | Algiers | Algeria   | Ready        | AP       | 29-Jan-2023  |
+| 2023AF9345    | ALG         | Algiers | Algeria   | Ready        | AP       | 29-Jan-2023  |
+| 2023AF10357   | ALG         | Algiers | Algeria   | Ready        | AP       | 29-Jan-2023  |
+| 2023AF10730   | ALG         | Algiers | Algeria   | Ready        | AP       | 29-Jan-2023  |
++---------------+-------------+---------+-----------+--------------+----------+--------------+
+Consulate: AMM
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023AS4482    | AMM         | Amman  | Jordan    | Ready        | AP       | 29-Jan-2023  |
+| 2023AS4515    | AMM         | Amman  | Jordan    | Ready        | AP       | 29-Jan-2023  |
+| 2023AS5084    | AMM         | Amman  | Jordan    | Ready        | AP       | 29-Jan-2023  |
+| 2023AS5580    | AMM         | Amman  | Jordan    | Refused221g  | AP       | 29-Jan-2023  |
+| 2023AS5990    | AMM         | Amman  | Jordan    | Ready        | AP       | 29-Jan-2023  |
+| 2023AS8816    | AMM         | Amman  | Jordan    | Ready        | AP       | 29-Jan-2023  |
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+Consulate: CRO
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023AF3344    | CRO         | Cairo  | Egypt     | AP           | Issued   | 29-Jan-2023  |
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+Consulate: CSB
++---------------+-------------+------------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City       | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+------------+-----------+--------------+----------+--------------|
+| 2023AF1890    | CSB         | Casablanca | Morocco   | Ready        | AP       | 28-Jan-2023  |
+| 2023AF7012    | CSB         | Casablanca | Morocco   | Refused221g  | AP       | 28-Jan-2023  |
+| 2023AF9013    | CSB         | Casablanca | Morocco   | Refused221g  | AP       | 28-Jan-2023  |
+| 2023AF9966    | CSB         | Casablanca | Morocco   | Ready        | AP       | 28-Jan-2023  |
+| 2023AF16147   | CSB         | Casablanca | Morocco   | Refused221g  | Ready    | 28-Jan-2023  |
++---------------+-------------+------------+-----------+--------------+----------+--------------+
+Consulate: DJI
++---------------+-------------+----------+-----------+--------------+-------------+--------------+
+| Case Number   | Consulate   | City     | Country   | PrevStatus   | Status      | statusDate   |
+|---------------+-------------+----------+-----------+--------------+-------------+--------------|
+| 2023AF10423   | DJI         | Djibouti | Djibouti  | Ready        | AP          | 29-Jan-2023  |
+| 2023AF12070   | DJI         | Djibouti | Djibouti  | Ready        | Refused221g | 29-Jan-2023  |
+| 2023AF13064   | DJI         | Djibouti | Djibouti  | Ready        | Refused221g | 29-Jan-2023  |
+| 2023AF14079   | DJI         | Djibouti | Djibouti  | Ready        | Refused221g | 29-Jan-2023  |
+| 2023AF16393   | DJI         | Djibouti | Djibouti  | Ready        | Refused221g | 29-Jan-2023  |
++---------------+-------------+----------+-----------+--------------+-------------+--------------+
+Consulate: KWT
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023AF11656   | KWT         | Kuwait | Kuwait    | Issued       | Ready    | 29-Jan-2023  |
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+Consulate: MNA
++---------------+-------------+--------+-----------+--------------+-------------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status      | statusDate   |
+|---------------+-------------+--------+-----------+--------------+-------------+--------------|
+| 2023AS3608    | MNA         | Manama | Bahrain   | Ready        | Refused221g | 29-Jan-2023  |
++---------------+-------------+--------+-----------+--------------+-------------+--------------+
+Consulate: SAR
++---------------+-------------+----------+------------------------+--------------+----------+--------------+
+| Case Number   | Consulate   | City     | Country                | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+----------+------------------------+--------------+----------+--------------|
+| 2023EU7045    | SAR         | Sarajevo | Bosnia and Herzegovina |              | Issued   | 26-Jan-2023  |
++---------------+-------------+----------+------------------------+--------------+----------+--------------+
+Consulate: SUV
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023OC61      | SUV         | Suva   | Fiji      | Refused221g  | Issued   | 30-Jan-2023  |
+| 2023OC466     | SUV         | Suva   | Fiji      | Refused221g  | Issued   | 30-Jan-2023  |
+| 2023OC622     | SUV         | Suva   | Fiji      | Refused221g  | Issued   | 30-Jan-2023  |
++---------------+-------------+--------+-----------+--------------+----------+--------------+
