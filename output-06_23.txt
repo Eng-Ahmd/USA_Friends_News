@@ -1,0 +1,1663 @@
+Consulate: ACC
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023AF11345   | ACC         | Accra  | Ghana     | AP           | Issued   | 23-Jun-2023  |
+| 2023AF15029   | ACC         | Accra  | Ghana     | AP           | Issued   | 23-Jun-2023  |
+| 2023AF15659   | ACC         | Accra  | Ghana     | AP           | Issued   | 23-Jun-2023  |
+| 2023AF17557   | ACC         | Accra  | Ghana     | Refused221g  | Refused  | 23-Jun-2023  |
+| 2023AF20631   | ACC         | Accra  | Ghana     | AP           | Issued   | 23-Jun-2023  |
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+Consulate: ADD
++---------------+-------------+-------------+-----------+--------------+-------------+--------------+
+| Case Number   | Consulate   | City        | Country   | PrevStatus   | Status      | statusDate   |
+|---------------+-------------+-------------+-----------+--------------+-------------+--------------|
+| 2023AF202     | ADD         | Addis Ababa | Ethiopia  | Ready        | AP          | 23-Jun-2023  |
+| 2023AF906     | ADD         | Addis Ababa | Ethiopia  | AP           | Issued      | 23-Jun-2023  |
+| 2023AF1481    | ADD         | Addis Ababa | Ethiopia  | Ready        | AP          | 23-Jun-2023  |
+| 2023AF3376    | ADD         | Addis Ababa | Ethiopia  | Ready        | AP          | 23-Jun-2023  |
+| 2023AF8096    | ADD         | Addis Ababa | Ethiopia  | AP           | Issued      | 23-Jun-2023  |
+| 2023AF10783   | ADD         | Addis Ababa | Ethiopia  | AP           | Issued      | 23-Jun-2023  |
+| 2023AF19182   | ADD         | Addis Ababa | Ethiopia  | Ready        | Refused221g | 23-Jun-2023  |
++---------------+-------------+-------------+-----------+--------------+-------------+--------------+
+Consulate: ANK
++---------------+-------------+--------+-----------+--------------+-------------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status      | statusDate   |
+|---------------+-------------+--------+-----------+--------------+-------------+--------------|
+| 2023AS4883    | ANK         | Ankara | Turkey    | AP           | Issued      | 23-Jun-2023  |
+| 2023AS5310    | ANK         | Ankara | Turkey    | Ready        | Refused221g | 23-Jun-2023  |
+| 2023AS5425    | ANK         | Ankara | Turkey    | Ready        | AP          | 23-Jun-2023  |
+| 2023AS8890    | ANK         | Ankara | Turkey    | Ready        | Refused     | 23-Jun-2023  |
+| 2023EU3100    | ANK         | Ankara | Turkey    | Ready        | AP          | 23-Jun-2023  |
+| 2023EU3733    | ANK         | Ankara | Turkey    | AP           | Issued      | 23-Jun-2023  |
+| 2023EU4939    | ANK         | Ankara | Turkey    | Refused221g  | AP          | 23-Jun-2023  |
+| 2023EU6121    | ANK         | Ankara | Turkey    | Ready        | Refused221g | 23-Jun-2023  |
+| 2023EU6324    | ANK         | Ankara | Turkey    | Ready        | AP          | 23-Jun-2023  |
+| 2023EU6352    | ANK         | Ankara | Turkey    | Ready        | AP          | 23-Jun-2023  |
+| 2023EU6495    | ANK         | Ankara | Turkey    | Ready        | AP          | 23-Jun-2023  |
+| 2023EU7167    | ANK         | Ankara | Turkey    | Ready        | AP          | 23-Jun-2023  |
+| 2023EU7214    | ANK         | Ankara | Turkey    | Ready        | AP          | 23-Jun-2023  |
++---------------+-------------+--------+-----------+--------------+-------------+--------------+
+Consulate: BCH
++---------------+-------------+-----------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City      | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+-----------+-----------+--------------+----------+--------------|
+| 2023EU25554   | BCH         | Bucharest | Romania   | Refused221g  | Issued   | 23-Jun-2023  |
+| 2023EU26206   | BCH         | Bucharest | Romania   | Refused221g  | Issued   | 23-Jun-2023  |
++---------------+-------------+-----------+-----------+--------------+----------+--------------+
+Consulate: BEN
++---------------+-------------+--------+-------------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country     | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-------------+--------------+----------+--------------|
+| 2023EU13703   | BEN         | Bern   | Switzerland | Refused221g  | AP       | 23-Jun-2023  |
++---------------+-------------+--------+-------------+--------------+----------+--------------+
+Consulate: BKK
++---------------+-------------+---------+------------+--------------+-------------+--------------+
+| Case Number   | Consulate   | City    | Country    | PrevStatus   | Status      | statusDate   |
+|---------------+-------------+---------+------------+--------------+-------------+--------------|
+| 2023EU15706   | BKK         | Bishkek | Kyrgyzstan | Ready        | AP          | 23-Jun-2023  |
+| 2023EU22895   | BKK         | Bishkek | Kyrgyzstan | Ready        | AP          | 23-Jun-2023  |
+| 2023EU23150   | BKK         | Bishkek | Kyrgyzstan | Ready        | Refused221g | 23-Jun-2023  |
+| 2023EU23183   | BKK         | Bishkek | Kyrgyzstan | Ready        | AP          | 23-Jun-2023  |
+| 2023EU23208   | BKK         | Bishkek | Kyrgyzstan | Ready        | AP          | 23-Jun-2023  |
+| 2023EU23489   | BKK         | Bishkek | Kyrgyzstan | Ready        | Refused221g | 23-Jun-2023  |
+| 2023EU23501   | BKK         | Bishkek | Kyrgyzstan | Ready        | AP          | 23-Jun-2023  |
+| 2023EU23585   | BKK         | Bishkek | Kyrgyzstan | Ready        | AP          | 23-Jun-2023  |
+| 2023EU23608   | BKK         | Bishkek | Kyrgyzstan | Ready        | AP          | 23-Jun-2023  |
+| 2023EU23636   | BKK         | Bishkek | Kyrgyzstan | Ready        | AP          | 23-Jun-2023  |
+| 2023EU23637   | BKK         | Bishkek | Kyrgyzstan | Ready        | AP          | 24-Jun-2023  |
++---------------+-------------+---------+------------+--------------+-------------+--------------+
+Consulate: BLG
++---------------+-------------+----------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City     | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+----------+-----------+--------------+----------+--------------|
+| 2023EU19998   | BLG         | Belgrade | Serbia    | AP           | Issued   | 23-Jun-2023  |
++---------------+-------------+----------+-----------+--------------+----------+--------------+
+Consulate: BMB
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023AF60378   | BMB         | Mumbai | India     | AP           | Issued   | 23-Jun-2023  |
+| 2023AS14274   | BMB         | Mumbai | India     | Refused221g  | Refused  | 24-Jun-2023  |
+| 2023AS18471   | BMB         | Mumbai | India     | AP           | Issued   | 23-Jun-2023  |
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+Consulate: BRT
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023AS17932   | BRT         | Beirut | Lebanon   | AP           | Issued   | 23-Jun-2023  |
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+Consulate: CHS
++---------------+-------------+----------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City     | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+----------+-----------+--------------+----------+--------------|
+| 2023EU14396   | CHS         | Chisinau | Moldova   | Refused221g  | Ready    | 23-Jun-2023  |
++---------------+-------------+----------+-----------+--------------+----------+--------------+
+Consulate: CSB
++---------------+-------------+------------+-----------+--------------+-------------+--------------+
+| Case Number   | Consulate   | City       | Country   | PrevStatus   | Status      | statusDate   |
+|---------------+-------------+------------+-----------+--------------+-------------+--------------|
+| 2023AF5039    | CSB         | Casablanca | Morocco   | Ready        | AP          | 23-Jun-2023  |
+| 2023AF5249    | CSB         | Casablanca | Morocco   | Ready        | Refused221g | 23-Jun-2023  |
+| 2023AF5600    | CSB         | Casablanca | Morocco   | Ready        | Refused221g | 23-Jun-2023  |
+| 2023AF5973    | CSB         | Casablanca | Morocco   | Ready        | AP          | 23-Jun-2023  |
+| 2023AF6331    | CSB         | Casablanca | Morocco   | Ready        | Refused221g | 23-Jun-2023  |
+| 2023AF6819    | CSB         | Casablanca | Morocco   | Ready        | AP          | 23-Jun-2023  |
+| 2023AF7994    | CSB         | Casablanca | Morocco   | AP           | Issued      | 23-Jun-2023  |
+| 2023AF24163   | CSB         | Casablanca | Morocco   | AP           | Issued      | 23-Jun-2023  |
+| 2023AF24640   | CSB         | Casablanca | Morocco   | Refused221g  | Ready       | 23-Jun-2023  |
+| 2023AF25140   | CSB         | Casablanca | Morocco   | Ready        | AP          | 23-Jun-2023  |
+| 2023AF28604   | CSB         | Casablanca | Morocco   | AP           | Issued      | 23-Jun-2023  |
+| 2023AF28810   | CSB         | Casablanca | Morocco   | Ready        | Refused221g | 23-Jun-2023  |
+| 2023AF29649   | CSB         | Casablanca | Morocco   | Ready        | AP          | 23-Jun-2023  |
+| 2023AF30399   | CSB         | Casablanca | Morocco   | Ready        | Refused221g | 23-Jun-2023  |
+| 2023AF30995   | CSB         | Casablanca | Morocco   | AP           | Issued      | 23-Jun-2023  |
+| 2023AF31820   | CSB         | Casablanca | Morocco   | Ready        | AP          | 23-Jun-2023  |
+| 2023AF31846   | CSB         | Casablanca | Morocco   | Ready        | Refused221g | 23-Jun-2023  |
+| 2023AF31847   | CSB         | Casablanca | Morocco   | Ready        | AP          | 23-Jun-2023  |
+| 2023AF31888   | CSB         | Casablanca | Morocco   | Ready        | Refused221g | 23-Jun-2023  |
+| 2023AF31911   | CSB         | Casablanca | Morocco   | Ready        | AP          | 23-Jun-2023  |
+| 2023AF32238   | CSB         | Casablanca | Morocco   | Refused221g  | AP          | 23-Jun-2023  |
+| 2023AF32341   | CSB         | Casablanca | Morocco   | Ready        | Refused221g | 23-Jun-2023  |
+| 2023AF32347   | CSB         | Casablanca | Morocco   | Ready        | AP          | 23-Jun-2023  |
+| 2023AF32362   | CSB         | Casablanca | Morocco   | Ready        | AP          | 23-Jun-2023  |
+| 2023AF32378   | CSB         | Casablanca | Morocco   | Ready        | Refused221g | 23-Jun-2023  |
+| 2023AF32386   | CSB         | Casablanca | Morocco   | Ready        | AP          | 23-Jun-2023  |
+| 2023AF32667   | CSB         | Casablanca | Morocco   | Ready        | AP          | 23-Jun-2023  |
+| 2023AF32809   | CSB         | Casablanca | Morocco   | AP           | Issued      | 23-Jun-2023  |
+| 2023AF33246   | CSB         | Casablanca | Morocco   | Ready        | AP          | 23-Jun-2023  |
+| 2023AF33287   | CSB         | Casablanca | Morocco   | Ready        | AP          | 23-Jun-2023  |
+| 2023AF33292   | CSB         | Casablanca | Morocco   | Ready        | AP          | 23-Jun-2023  |
+| 2023AF33306   | CSB         | Casablanca | Morocco   | Ready        | Refused221g | 23-Jun-2023  |
+| 2023AF33312   | CSB         | Casablanca | Morocco   | Ready        | AP          | 23-Jun-2023  |
+| 2023AF33333   | CSB         | Casablanca | Morocco   | Ready        | Refused     | 23-Jun-2023  |
+| 2023AF33622   | CSB         | Casablanca | Morocco   | Ready        | AP          | 23-Jun-2023  |
+| 2023AF33751   | CSB         | Casablanca | Morocco   | Ready        | AP          | 23-Jun-2023  |
+| 2023AF33821   | CSB         | Casablanca | Morocco   | Ready        | AP          | 23-Jun-2023  |
+| 2023AF33867   | CSB         | Casablanca | Morocco   | Ready        | AP          | 23-Jun-2023  |
+| 2023AF34191   | CSB         | Casablanca | Morocco   | AP           | Issued      | 23-Jun-2023  |
+| 2023AF34287   | CSB         | Casablanca | Morocco   | Ready        | AP          | 23-Jun-2023  |
+| 2023AF34292   | CSB         | Casablanca | Morocco   | Ready        | AP          | 23-Jun-2023  |
+| 2023AF34332   | CSB         | Casablanca | Morocco   | Ready        | AP          | 23-Jun-2023  |
+| 2023AF34581   | CSB         | Casablanca | Morocco   | Refused221g  | AP          | 23-Jun-2023  |
+| 2023AF34618   | CSB         | Casablanca | Morocco   | Ready        | AP          | 23-Jun-2023  |
+| 2023AF34622   | CSB         | Casablanca | Morocco   | Ready        | AP          | 23-Jun-2023  |
+| 2023AF35024   | CSB         | Casablanca | Morocco   | Ready        | AP          | 23-Jun-2023  |
+| 2023AF35045   | CSB         | Casablanca | Morocco   | Ready        | AP          | 23-Jun-2023  |
+| 2023AF35081   | CSB         | Casablanca | Morocco   | Ready        | AP          | 23-Jun-2023  |
+| 2023AF35378   | CSB         | Casablanca | Morocco   | Ready        | AP          | 23-Jun-2023  |
+| 2023AF35415   | CSB         | Casablanca | Morocco   | Ready        | Refused221g | 23-Jun-2023  |
+| 2023AF35447   | CSB         | Casablanca | Morocco   | Ready        | AP          | 23-Jun-2023  |
+| 2023AF35553   | CSB         | Casablanca | Morocco   | Ready        | AP          | 23-Jun-2023  |
+| 2023AF35791   | CSB         | Casablanca | Morocco   | Ready        | AP          | 23-Jun-2023  |
+| 2023AF35813   | CSB         | Casablanca | Morocco   | Ready        | AP          | 23-Jun-2023  |
+| 2023AF35823   | CSB         | Casablanca | Morocco   | Ready        | AP          | 23-Jun-2023  |
+| 2023AF36055   | CSB         | Casablanca | Morocco   | Ready        | AP          | 23-Jun-2023  |
+| 2023AF36061   | CSB         | Casablanca | Morocco   | Ready        | Refused221g | 23-Jun-2023  |
+| 2023AF36109   | CSB         | Casablanca | Morocco   | Ready        | AP          | 23-Jun-2023  |
+| 2023AF36159   | CSB         | Casablanca | Morocco   | Ready        | AP          | 23-Jun-2023  |
+| 2023AF36213   | CSB         | Casablanca | Morocco   | Ready        | AP          | 23-Jun-2023  |
+| 2023AF36227   | CSB         | Casablanca | Morocco   | Ready        | AP          | 23-Jun-2023  |
+| 2023AF36229   | CSB         | Casablanca | Morocco   | Ready        | AP          | 23-Jun-2023  |
+| 2023AF36249   | CSB         | Casablanca | Morocco   | Ready        | AP          | 23-Jun-2023  |
+| 2023AF36697   | CSB         | Casablanca | Morocco   | Ready        | AP          | 23-Jun-2023  |
+| 2023AF36868   | CSB         | Casablanca | Morocco   | Ready        | AP          | 23-Jun-2023  |
+| 2023AF36891   | CSB         | Casablanca | Morocco   | Ready        | Refused221g | 23-Jun-2023  |
+| 2023AF36955   | CSB         | Casablanca | Morocco   | Ready        | Refused221g | 23-Jun-2023  |
+| 2023AF37328   | CSB         | Casablanca | Morocco   | Ready        | AP          | 23-Jun-2023  |
+| 2023AF37578   | CSB         | Casablanca | Morocco   | Ready        | AP          | 23-Jun-2023  |
+| 2023AF37597   | CSB         | Casablanca | Morocco   | Ready        | Refused     | 23-Jun-2023  |
+| 2023AF37612   | CSB         | Casablanca | Morocco   | Ready        | AP          | 23-Jun-2023  |
+| 2023AF37792   | CSB         | Casablanca | Morocco   | Ready        | AP          | 23-Jun-2023  |
+| 2023AF37807   | CSB         | Casablanca | Morocco   | Ready        | AP          | 23-Jun-2023  |
+| 2023AF37846   | CSB         | Casablanca | Morocco   | Ready        | AP          | 23-Jun-2023  |
+| 2023AF38119   | CSB         | Casablanca | Morocco   | Ready        | Refused221g | 23-Jun-2023  |
+| 2023AF38211   | CSB         | Casablanca | Morocco   | Ready        | AP          | 23-Jun-2023  |
+| 2023AF38451   | CSB         | Casablanca | Morocco   | Ready        | Refused221g | 23-Jun-2023  |
+| 2023AF38574   | CSB         | Casablanca | Morocco   | Ready        | AP          | 23-Jun-2023  |
+| 2023AF38580   | CSB         | Casablanca | Morocco   | Ready        | AP          | 23-Jun-2023  |
+| 2023AF38771   | CSB         | Casablanca | Morocco   | Ready        | AP          | 23-Jun-2023  |
+| 2023AF38781   | CSB         | Casablanca | Morocco   | Ready        | Refused     | 23-Jun-2023  |
+| 2023AF38809   | CSB         | Casablanca | Morocco   | Ready        | AP          | 23-Jun-2023  |
+| 2023AF45814   | CSB         | Casablanca | Morocco   | Ready        | Refused221g | 23-Jun-2023  |
++---------------+-------------+------------+-----------+--------------+-------------+--------------+
+Consulate: DHB
++---------------+-------------+----------+------------+--------------+----------+--------------+
+| Case Number   | Consulate   | City     | Country    | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+----------+------------+--------------+----------+--------------|
+| 2023EU14787   | DHB         | Dushanbe | Tajikistan | AP           | Issued   | 23-Jun-2023  |
+| 2023EU23114   | DHB         | Dushanbe | Tajikistan | Refused221g  | Issued   | 23-Jun-2023  |
+| 2023EU25285   | DHB         | Dushanbe | Tajikistan | AP           | Issued   | 23-Jun-2023  |
+| 2023EU26170   | DHB         | Dushanbe | Tajikistan | Refused221g  | Issued   | 23-Jun-2023  |
++---------------+-------------+----------+------------+--------------+----------+--------------+
+Consulate: DKR
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023AF19292   | DKR         | Dakar  | Senegal   | Refused221g  | Ready    | 23-Jun-2023  |
+| 2023AF21274   | DKR         | Dakar  | Senegal   | Refused221g  | Issued   | 23-Jun-2023  |
+| 2023AF27641   | DKR         | Dakar  | Senegal   | Refused221g  | AP       | 23-Jun-2023  |
+| 2023AF52620   | DKR         | Dakar  | Senegal   | Refused221g  | AP       | 23-Jun-2023  |
+| 2023AF53799   | DKR         | Dakar  | Senegal   | Refused221g  | AP       | 23-Jun-2023  |
+| 2023AF57792   | DKR         | Dakar  | Senegal   | Refused221g  | AP       | 23-Jun-2023  |
+| 2023AF61511   | DKR         | Dakar  | Senegal   | Refused221g  | AP       | 23-Jun-2023  |
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+Consulate: DRS
++---------------+-------------+---------------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City          | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+---------------+-----------+--------------+----------+--------------|
+| 2023AF9355    | DRS         | Dar es Salaam | Tanzania  | AP           | Issued   | 23-Jun-2023  |
+| 2023AF10505   | DRS         | Dar es Salaam | Tanzania  | AP           | Issued   | 23-Jun-2023  |
+| 2023AF13285   | DRS         | Dar es Salaam | Tanzania  | AP           | Issued   | 23-Jun-2023  |
+| 2023AF17641   | DRS         | Dar es Salaam | Tanzania  | None         | Ready    | 23-Jun-2023  |
+| 2023AF45303   | DRS         | Dar es Salaam | Tanzania  | AP           | Issued   | 23-Jun-2023  |
+| 2023AF45490   | DRS         | Dar es Salaam | Tanzania  | AP           | Issued   | 23-Jun-2023  |
+| 2023AF49807   | DRS         | Dar es Salaam | Tanzania  | AP           | Issued   | 23-Jun-2023  |
++---------------+-------------+---------------+-----------+--------------+----------+--------------+
+Consulate: FRN
++---------------+-------------+-----------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City      | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+-----------+-----------+--------------+----------+--------------|
+| 2023EU5649    | FRN         | Frankfurt | Germany   | Refused221g  | AP       | 23-Jun-2023  |
+| 2023EU13482   | FRN         | Frankfurt | Germany   | AP           | Issued   | 23-Jun-2023  |
+| 2023EU18326   | FRN         | Frankfurt | Germany   | Ready        | AP       | 23-Jun-2023  |
++---------------+-------------+-----------+-----------+--------------+----------+--------------+
+Consulate: GYQ
++---------------+-------------+-----------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City      | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+-----------+-----------+--------------+----------+--------------|
+| 2023EU13073   | GYQ         | Guayaquil | Ecuador   | Refused221g  | Ready    | 23-Jun-2023  |
++---------------+-------------+-----------+-----------+--------------+----------+--------------+
+Consulate: HAV
++---------------+-------------+--------+-----------+--------------+-------------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status      | statusDate   |
+|---------------+-------------+--------+-----------+--------------+-------------+--------------|
+| 2023SA1058    | HAV         | Havana | Cuba      | Ready        | Refused221g | 23-Jun-2023  |
+| 2023SA2443    | HAV         | Havana | Cuba      | AP           | Ready       | 22-Jun-2023  |
+| 2023SA2485    | HAV         | Havana | Cuba      | Ready        | Refused221g | 23-Jun-2023  |
+| 2023SA2617    | HAV         | Havana | Cuba      | AP           | Issued      | 23-Jun-2023  |
+| 2023SA2622    | HAV         | Havana | Cuba      | Ready        | AP          | 23-Jun-2023  |
+| 2023SA2706    | HAV         | Havana | Cuba      | Ready        | AP          | 23-Jun-2023  |
+| 2023SA2713    | HAV         | Havana | Cuba      | AP           | Issued      | 23-Jun-2023  |
++---------------+-------------+--------+-----------+--------------+-------------+--------------+
+Consulate: ISL
++---------------+-------------+-----------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City      | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+-----------+-----------+--------------+----------+--------------|
+| 2023AS13934   | ISL         | Islamabad | Pakistan  | Ready        | AP       | 23-Jun-2023  |
+| 2023AS14378   | ISL         | Islamabad | Pakistan  | Ready        | AP       | 23-Jun-2023  |
++---------------+-------------+-----------+-----------+--------------+----------+--------------+
+Consulate: JHN
++---------------+-------------+--------------+--------------+--------------+----------+--------------+
+| Case Number   | Consulate   | City         | Country      | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------------+--------------+--------------+----------+--------------|
+| 2023AF38858   | JHN         | Johannesburg | South Africa | AP           | Issued   | 23-Jun-2023  |
+| 2023AF52361   | JHN         | Johannesburg | South Africa | AP           | Issued   | 23-Jun-2023  |
++---------------+-------------+--------------+--------------+--------------+----------+--------------+
+Consulate: KDU
++---------------+-------------+-----------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City      | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+-----------+-----------+--------------+----------+--------------|
+| 2023AS5505    | KDU         | Kathmandu | Nepal     | Refused221g  | AP       | 23-Jun-2023  |
+| 2023AS11355   | KDU         | Kathmandu | Nepal     | Refused221g  | AP       | 23-Jun-2023  |
+| 2023AS11357   | KDU         | Kathmandu | Nepal     | Ready        | AP       | 23-Jun-2023  |
+| 2023AS13077   | KDU         | Kathmandu | Nepal     | Refused221g  | Refused  | 23-Jun-2023  |
++---------------+-------------+-----------+-----------+--------------+----------+--------------+
+Consulate: KGL
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023AF47667   | KGL         | Kigali | Rwanda    | AP           | Issued   | 23-Jun-2023  |
+| 2023AF52474   | KGL         | Kigali | Rwanda    | AP           | Issued   | 23-Jun-2023  |
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+Consulate: KHT
++---------------+-------------+----------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City     | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+----------+-----------+--------------+----------+--------------|
+| 2023AF4662    | KHT         | Khartoum | Sudan     | Refused221g  | Transfer | 23-Jun-2023  |
++---------------+-------------+----------+-----------+--------------+----------+--------------+
+Consulate: KIN
++---------------+-------------+----------+----------------------------------+--------------+----------+--------------+
+| Case Number   | Consulate   | City     | Country                          | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+----------+----------------------------------+--------------+----------+--------------|
+| 2023AF14006   | KIN         | Kinshasa | Democratic Republic of the Congo | AP           | Issued   | 23-Jun-2023  |
+| 2023AF34660   | KIN         | Kinshasa | Democratic Republic of the Congo | AP           | Ready    | 23-Jun-2023  |
++---------------+-------------+----------+----------------------------------+--------------+----------+--------------+
+Consulate: KLL
++---------------+-------------+--------------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City         | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------------+-----------+--------------+----------+--------------|
+| 2023AF61517   | KLL         | Kuala Lumpur | Malaysia  | AP           | Issued   | 23-Jun-2023  |
++---------------+-------------+--------------+-----------+--------------+----------+--------------+
+Consulate: LMA
++---------------+-------------+--------+-----------+--------------+-------------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status      | statusDate   |
+|---------------+-------------+--------+-----------+--------------+-------------+--------------|
+| 2023SA703     | LMA         | Lima   | Peru      | Ready        | Refused221g | 23-Jun-2023  |
+| 2023SA1526    | LMA         | Lima   | Peru      | AP           | Issued      | 23-Jun-2023  |
+| 2023SA2436    | LMA         | Lima   | Peru      | Ready        | Refused221g | 23-Jun-2023  |
+| 2023SA2479    | LMA         | Lima   | Peru      | Ready        | AP          | 23-Jun-2023  |
+| 2023SA2503    | LMA         | Lima   | Peru      | Ready        | AP          | 23-Jun-2023  |
+| 2023SA2525    | LMA         | Lima   | Peru      | Ready        | AP          | 23-Jun-2023  |
+| 2023SA2578    | LMA         | Lima   | Peru      | Ready        | Refused221g | 23-Jun-2023  |
+| 2023SA2680    | LMA         | Lima   | Peru      | Ready        | AP          | 23-Jun-2023  |
+| 2023SA2683    | LMA         | Lima   | Peru      | Ready        | AP          | 23-Jun-2023  |
++---------------+-------------+--------+-----------+--------------+-------------+--------------+
+Consulate: LND
++---------------+-------------+--------+----------------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country        | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+----------------+--------------+----------+--------------|
+| 2023AF50548   | LND         | London | United Kingdom | Ready        | AP       | 23-Jun-2023  |
+| 2023EU5050    | LND         | London | United Kingdom | AP           | Issued   | 23-Jun-2023  |
++---------------+-------------+--------+----------------+--------------+----------+--------------+
+Consulate: LOM
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023AF11836   | LOM         | Lome   | Togo      | AP           | Issued   | 23-Jun-2023  |
+| 2023AF13350   | LOM         | Lome   | Togo      | AP           | Issued   | 23-Jun-2023  |
+| 2023AF14547   | LOM         | Lome   | Togo      | AP           | Issued   | 23-Jun-2023  |
+| 2023AF17795   | LOM         | Lome   | Togo      | AP           | Issued   | 23-Jun-2023  |
+| 2023AF23010   | LOM         | Lome   | Togo      | AP           | Issued   | 23-Jun-2023  |
+| 2023AF25904   | LOM         | Lome   | Togo      | AP           | Issued   | 23-Jun-2023  |
+| 2023AF26351   | LOM         | Lome   | Togo      | AP           | Issued   | 23-Jun-2023  |
+| 2023AF29798   | LOM         | Lome   | Togo      | AP           | Issued   | 23-Jun-2023  |
+| 2023AF43757   | LOM         | Lome   | Togo      | AP           | Issued   | 23-Jun-2023  |
+| 2023AF43893   | LOM         | Lome   | Togo      | AP           | Issued   | 23-Jun-2023  |
+| 2023AF44083   | LOM         | Lome   | Togo      | AP           | Issued   | 23-Jun-2023  |
+| 2023AF44182   | LOM         | Lome   | Togo      | AP           | Issued   | 23-Jun-2023  |
+| 2023AF45019   | LOM         | Lome   | Togo      | AP           | Issued   | 23-Jun-2023  |
+| 2023AF45044   | LOM         | Lome   | Togo      | AP           | Issued   | 23-Jun-2023  |
+| 2023AF45721   | LOM         | Lome   | Togo      | AP           | Issued   | 23-Jun-2023  |
+| 2023AF47853   | LOM         | Lome   | Togo      | AP           | Issued   | 23-Jun-2023  |
+| 2023AF48260   | LOM         | Lome   | Togo      | AP           | Issued   | 23-Jun-2023  |
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+Consulate: MRV
++---------------+-------------+----------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City     | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+----------+-----------+--------------+----------+--------------|
+| 2023AF18516   | MRV         | Monrovia | Liberia   | Refused221g  | AP       | 23-Jun-2023  |
++---------------+-------------+----------+-----------+--------------+----------+--------------+
+Consulate: NRB
++---------------+-------------+---------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City    | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+---------+-----------+--------------+----------+--------------|
+| 2023AF5109    | NRB         | Nairobi | Kenya     | AP           | Issued   | 23-Jun-2023  |
+| 2023AF6209    | NRB         | Nairobi | Kenya     | Refused221g  | AP       | 23-Jun-2023  |
+| 2023AF12892   | NRB         | Nairobi | Kenya     | AP           | Issued   | 23-Jun-2023  |
+| 2023AF20325   | NRB         | Nairobi | Kenya     | AP           | Issued   | 23-Jun-2023  |
++---------------+-------------+---------+-----------+--------------+----------+--------------+
+Consulate: None
++---------------+-------------+--------+-----------+--------------+-----------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status    | statusDate   |
+|---------------+-------------+--------+-----------+--------------+-----------+--------------|
+| 2023AF2229    | None        |        |           | NVC          | InTransit | None         |
+| 2023AF2483    | None        |        |           | NVC          | InTransit | None         |
+| 2023AF4740    | None        |        |           | NVC          | InTransit | None         |
+| 2023AF4997    | None        |        |           | NVC          | InTransit | None         |
+| 2023AF5129    | None        |        |           | NVC          | InTransit | None         |
+| 2023AF5500    | None        |        |           | NVC          | InTransit | None         |
+| 2023AF5598    | None        |        |           | NVC          | InTransit | None         |
+| 2023AF6036    | None        |        |           | NVC          | InTransit | None         |
+| 2023AF6096    | None        |        |           | NVC          | InTransit | None         |
+| 2023AF6353    | None        |        |           | NVC          | InTransit | None         |
+| 2023AF6829    | None        |        |           | NVC          | InTransit | None         |
+| 2023AF6957    | None        |        |           | NVC          | InTransit | None         |
+| 2023AF7069    | None        |        |           | NVC          | InTransit | None         |
+| 2023AF7207    | None        |        |           | NVC          | InTransit | None         |
+| 2023AF7241    | None        |        |           | NVC          | InTransit | None         |
+| 2023AF7253    | None        |        |           | NVC          | InTransit | None         |
+| 2023AF7289    | None        |        |           | NVC          | InTransit | None         |
+| 2023AF7308    | None        |        |           | NVC          | InTransit | None         |
+| 2023AF7723    | None        |        |           | NVC          | InTransit | None         |
+| 2023AF8285    | None        |        |           | NVC          | InTransit | None         |
+| 2023AF8341    | None        |        |           | NVC          | InTransit | None         |
+| 2023AF8343    | None        |        |           | NVC          | InTransit | None         |
+| 2023AF8746    | None        |        |           | NVC          | InTransit | None         |
+| 2023AF8862    | None        |        |           | NVC          | InTransit | None         |
+| 2023AF9271    | None        |        |           | NVC          | InTransit | None         |
+| 2023AF9348    | None        |        |           | NVC          | InTransit | None         |
+| 2023AF9606    | None        |        |           | NVC          | InTransit | None         |
+| 2023AF9855    | None        |        |           | NVC          | InTransit | None         |
+| 2023AF9915    | None        |        |           | NVC          | InTransit | None         |
+| 2023AF10020   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF10149   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF10335   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF10400   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF10496   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF10590   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF11017   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF11142   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF11325   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF11429   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF11573   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF11854   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF11929   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF11956   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF12073   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF12124   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF12332   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF12723   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF12739   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF12776   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF12802   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF13039   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF13183   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF13354   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF13584   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF14010   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF14123   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF14137   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF14338   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF14566   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF14813   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF15229   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF15289   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF15430   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF15541   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF15542   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF15548   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF16130   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF16157   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF16159   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF16502   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF16574   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF16633   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF17434   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF17515   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF17805   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF18049   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF18155   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF18177   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF18317   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF18482   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF19109   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF19129   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF19388   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF19397   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF19714   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF19761   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF19875   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF20402   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF20435   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF20446   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF20914   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF20923   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF21140   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF21284   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF21367   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF21631   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF21656   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF21759   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF21855   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF21872   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF21934   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF22014   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF22047   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF22099   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF22294   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF22655   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF22794   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF22809   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF23155   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF23224   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF23279   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF23516   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF23603   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF23726   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF23744   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF23764   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF23900   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF23903   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF24011   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF24028   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF24172   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF24188   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF24226   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF24273   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF24287   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF24292   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF24357   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF24370   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF24457   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF24462   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF24733   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF25106   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF25155   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF25175   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF25263   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF25400   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF25663   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF25817   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF25944   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF25981   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF26463   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF26708   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF27007   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF27024   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF27239   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF27284   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF27295   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF27360   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF27448   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF27475   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF27490   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF27523   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF27611   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF27705   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF27786   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF27830   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF27832   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF27931   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF27964   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF28047   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF28048   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF28055   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF28073   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF28180   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF28463   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF28642   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF28686   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF28721   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF28859   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF28894   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF29055   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF29141   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF29286   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF29455   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF29562   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF29663   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF29747   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF29853   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF30059   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF30352   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF30372   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF30426   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF30695   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF30740   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF30754   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF30884   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF30931   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF31018   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF31142   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF31389   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF31424   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF31480   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF31589   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF31658   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF31785   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF31957   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF32208   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF32211   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF32275   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF32385   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF32430   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF32613   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF32694   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF32837   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF32926   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF33007   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF33216   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF33242   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF33295   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF33398   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF33427   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF33454   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF33596   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF33906   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF33910   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF33926   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF33984   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF34023   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF34092   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF34179   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF34302   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF34309   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF34501   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF34557   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF34599   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF34822   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF34837   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF34853   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF34855   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF34976   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF35096   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF35138   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF35203   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF35322   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF35487   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF35511   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF35596   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF35858   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF35892   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF35966   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF36317   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF36338   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF36519   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF36587   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF36631   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF36977   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF37157   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF37244   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF37583   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF37892   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF39150   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF39316   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF39330   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF39456   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF39497   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF39573   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF39629   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF39681   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF39695   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF39711   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF40130   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF40234   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF40401   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF40432   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF40469   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF40499   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF40563   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF40836   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF40838   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF41029   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF41043   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF41174   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF41196   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF41259   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF41351   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF41495   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF41656   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF41678   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF41724   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF41844   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF41951   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF41992   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF42187   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF42236   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF42302   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF42532   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF42655   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF42903   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF42993   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF43121   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF43852   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF44221   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF44456   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF44471   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF44580   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF44609   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF44628   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF44653   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF44743   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF45150   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF45155   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF45177   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF45204   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF45256   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF45282   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF45308   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF45418   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF45427   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF45514   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF45541   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF45688   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF45703   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF45724   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF45842   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF45847   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF45887   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF45914   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF45919   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF45953   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF46056   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF46118   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF46124   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF46145   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF46289   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF46406   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF46418   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF46499   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF46500   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF46639   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF46647   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF46692   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF46780   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF46827   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF46878   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF46967   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF47028   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF47044   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF47063   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF47070   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF47086   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF47136   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF47170   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF47204   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF47236   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF47291   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF47414   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF47495   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF47541   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF47562   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF47615   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF47734   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF47752   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF47819   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF47872   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF47943   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF47957   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF48117   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF48160   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF48272   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF48277   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF48350   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF48383   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF48391   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF48429   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF48514   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF48669   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF48672   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF48803   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF48867   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF48966   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF48983   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF48999   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF49149   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF49152   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF49223   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF49375   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF49446   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF49569   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF49658   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF49829   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF49939   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF50034   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF50107   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF50177   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF50224   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF50298   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF50421   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF50485   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF50501   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF50510   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF50581   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF50605   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF50635   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF50656   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF50714   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF50794   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF50869   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF50891   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF50904   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF50943   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF50967   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF51024   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF51048   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF51084   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF51088   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF51102   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF51146   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF51185   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF51248   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF51266   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF51308   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF51341   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF51360   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF51547   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF51559   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF51588   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF51634   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF51662   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF51744   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF51878   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF51879   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF51933   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF52016   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF52058   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF52179   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF52290   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF52291   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF52297   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF52302   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF52369   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF52379   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF52397   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF52446   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF52562   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF52591   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF52616   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF52648   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF52689   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF52764   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF52836   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF52878   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF52907   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF52944   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF53182   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF53186   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF53324   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF53375   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF53432   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF53477   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF53495   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF53560   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF53611   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF53669   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF53701   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF53797   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF53845   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF54016   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF54072   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF54184   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF54328   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF54363   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF54380   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF54424   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF54432   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF54612   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF54621   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF54635   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF54683   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF54714   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF54786   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF54966   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF55033   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF55223   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF55423   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF55447   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF55558   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF55652   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF55867   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF55894   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF56151   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF56165   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF56321   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF56426   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF56467   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF56575   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF56623   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF57189   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF57352   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF57426   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF57738   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF57785   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF57809   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF57836   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF57871   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF57876   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF57921   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF58387   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF58657   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF58682   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF58776   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF58949   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF59044   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF59287   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF59439   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF59792   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF59825   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF59870   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF59961   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF59991   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF60111   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF60448   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF60558   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF60755   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF61010   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF61041   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF61287   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF61296   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF61416   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF61586   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF61830   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF61916   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF61992   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF62125   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF62421   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF62658   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF62724   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF62759   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF62871   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF63031   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF63101   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF63225   | None        |        |           | NVC          | InTransit | None         |
+| 2023AF63431   | None        |        |           | NVC          | InTransit | None         |
+| 2023AS1470    | None        |        |           | NVC          | InTransit | None         |
+| 2023AS4919    | None        |        |           | NVC          | InTransit | None         |
+| 2023AS6241    | None        |        |           | NVC          | InTransit | None         |
+| 2023AS6720    | None        |        |           | NVC          | InTransit | None         |
+| 2023AS6951    | None        |        |           | NVC          | InTransit | None         |
+| 2023AS7755    | None        |        |           | NVC          | InTransit | None         |
+| 2023AS8706    | None        |        |           | NVC          | InTransit | None         |
+| 2023AS8806    | None        |        |           | NVC          | InTransit | None         |
+| 2023AS8884    | None        |        |           | NVC          | InTransit | None         |
+| 2023AS9000    | None        |        |           | NVC          | InTransit | None         |
+| 2023AS9001    | None        |        |           | NVC          | InTransit | None         |
+| 2023AS9078    | None        |        |           | NVC          | InTransit | None         |
+| 2023AS9125    | None        |        |           | NVC          | InTransit | None         |
+| 2023AS9922    | None        |        |           | NVC          | InTransit | None         |
+| 2023AS10403   | None        |        |           | NVC          | InTransit | None         |
+| 2023AS10564   | None        |        |           | NVC          | InTransit | None         |
+| 2023AS10921   | None        |        |           | NVC          | InTransit | None         |
+| 2023AS11156   | None        |        |           | NVC          | InTransit | None         |
+| 2023AS12504   | None        |        |           | NVC          | InTransit | None         |
+| 2023AS12542   | None        |        |           | NVC          | InTransit | None         |
+| 2023AS12544   | None        |        |           | NVC          | InTransit | None         |
+| 2023AS12564   | None        |        |           | NVC          | InTransit | None         |
+| 2023AS12566   | None        |        |           | NVC          | InTransit | None         |
+| 2023AS12577   | None        |        |           | NVC          | InTransit | None         |
+| 2023AS12594   | None        |        |           | NVC          | InTransit | None         |
+| 2023AS12659   | None        |        |           | NVC          | InTransit | None         |
+| 2023AS12677   | None        |        |           | NVC          | InTransit | None         |
+| 2023AS12734   | None        |        |           | NVC          | InTransit | None         |
+| 2023AS12739   | None        |        |           | NVC          | InTransit | None         |
+| 2023AS12747   | None        |        |           | NVC          | InTransit | None         |
+| 2023AS12751   | None        |        |           | NVC          | InTransit | None         |
+| 2023AS12812   | None        |        |           | NVC          | InTransit | None         |
+| 2023AS12831   | None        |        |           | NVC          | InTransit | None         |
+| 2023AS12902   | None        |        |           | NVC          | InTransit | None         |
+| 2023AS12907   | None        |        |           | NVC          | InTransit | None         |
+| 2023AS12940   | None        |        |           | NVC          | InTransit | None         |
+| 2023AS12996   | None        |        |           | NVC          | InTransit | None         |
+| 2023AS13019   | None        |        |           | NVC          | InTransit | None         |
+| 2023AS13022   | None        |        |           | NVC          | InTransit | None         |
+| 2023AS13057   | None        |        |           | NVC          | InTransit | None         |
+| 2023AS13080   | None        |        |           | NVC          | InTransit | None         |
+| 2023AS13089   | None        |        |           | NVC          | InTransit | None         |
+| 2023AS13090   | None        |        |           | NVC          | InTransit | None         |
+| 2023AS13101   | None        |        |           | NVC          | InTransit | None         |
+| 2023AS13113   | None        |        |           | NVC          | InTransit | None         |
+| 2023AS13141   | None        |        |           | NVC          | InTransit | None         |
+| 2023AS13173   | None        |        |           | NVC          | InTransit | None         |
+| 2023AS13185   | None        |        |           | NVC          | InTransit | None         |
+| 2023AS13217   | None        |        |           | NVC          | InTransit | None         |
+| 2023AS13219   | None        |        |           | NVC          | InTransit | None         |
+| 2023AS13224   | None        |        |           | NVC          | InTransit | None         |
+| 2023AS13243   | None        |        |           | NVC          | InTransit | None         |
+| 2023AS13259   | None        |        |           | NVC          | InTransit | None         |
+| 2023AS13397   | None        |        |           | NVC          | InTransit | None         |
+| 2023AS13398   | None        |        |           | NVC          | InTransit | None         |
+| 2023AS13426   | None        |        |           | NVC          | InTransit | None         |
+| 2023AS13448   | None        |        |           | NVC          | InTransit | None         |
+| 2023AS13516   | None        |        |           | NVC          | InTransit | None         |
+| 2023AS13660   | None        |        |           | NVC          | InTransit | None         |
+| 2023AS13672   | None        |        |           | NVC          | InTransit | None         |
+| 2023AS13751   | None        |        |           | NVC          | InTransit | None         |
+| 2023AS13757   | None        |        |           | NVC          | InTransit | None         |
+| 2023AS13771   | None        |        |           | NVC          | InTransit | None         |
+| 2023AS13784   | None        |        |           | NVC          | InTransit | None         |
+| 2023AS13800   | None        |        |           | NVC          | InTransit | None         |
+| 2023AS13812   | None        |        |           | NVC          | InTransit | None         |
+| 2023AS13829   | None        |        |           | NVC          | InTransit | None         |
+| 2023AS13833   | None        |        |           | NVC          | InTransit | None         |
+| 2023AS13847   | None        |        |           | NVC          | InTransit | None         |
+| 2023AS13871   | None        |        |           | NVC          | InTransit | None         |
+| 2023AS13910   | None        |        |           | NVC          | InTransit | None         |
+| 2023AS13917   | None        |        |           | NVC          | InTransit | None         |
+| 2023AS13963   | None        |        |           | NVC          | InTransit | None         |
+| 2023AS13994   | None        |        |           | NVC          | InTransit | None         |
+| 2023AS15395   | None        |        |           | NVC          | InTransit | None         |
+| 2023AS15841   | None        |        |           | NVC          | InTransit | None         |
+| 2023AS16644   | None        |        |           | NVC          | InTransit | None         |
+| 2023AS18339   | None        |        |           | NVC          | InTransit | None         |
+| 2023AS18658   | None        |        |           | NVC          | InTransit | None         |
+| 2023AS18765   | None        |        |           | NVC          | InTransit | None         |
+| 2023AS18965   | None        |        |           | NVC          | InTransit | None         |
+| 2023AS19405   | None        |        |           | NVC          | InTransit | None         |
+| 2023AS19413   | None        |        |           | NVC          | InTransit | None         |
+| 2023AS19872   | None        |        |           | NVC          | InTransit | None         |
+| 2023AS20434   | None        |        |           | NVC          | InTransit | None         |
+| 2023AS20519   | None        |        |           | NVC          | InTransit | None         |
+| 2023AS20545   | None        |        |           | NVC          | InTransit | None         |
+| 2023AS20576   | None        |        |           | NVC          | InTransit | None         |
+| 2023AS20749   | None        |        |           | NVC          | InTransit | None         |
+| 2023AS20840   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU1030    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU1316    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU1599    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU2542    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU3767    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU5200    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU7778    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU8405    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU8528    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU8800    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9016    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9154    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9192    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9204    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9248    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9249    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9261    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9285    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9286    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9305    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9306    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9312    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9319    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9326    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9340    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9353    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9355    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9361    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9369    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9370    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9388    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9404    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9410    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9417    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9428    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9429    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9432    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9466    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9468    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9470    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9473    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9490    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9511    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9517    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9534    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9535    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9564    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9566    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9570    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9581    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9586    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9589    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9602    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9612    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9614    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9624    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9629    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9636    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9642    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9652    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9653    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9668    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9670    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9674    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9677    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9680    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9698    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9709    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9710    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9719    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9731    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9740    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9749    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9767    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9774    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9775    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9780    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9787    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9790    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9792    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9800    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9804    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9814    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9819    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9826    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9827    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9841    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9874    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9876    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9878    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9892    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9897    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9911    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9917    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9921    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9923    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9933    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9939    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9941    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9943    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9959    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9973    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9974    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU9983    | None        |        |           | NVC          | InTransit | None         |
+| 2023EU10016   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU10032   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU10050   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU10070   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU10076   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU10094   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU10099   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU10112   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU10114   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU10124   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU10125   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU10126   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU10133   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU10137   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU10138   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU10140   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU10157   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU10165   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU10169   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU10286   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU10297   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU10603   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU10718   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU10770   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU11052   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU11095   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU11228   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU11577   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU11737   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU12071   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU12683   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU12791   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU13173   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU13699   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU13712   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU13807   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU13852   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU14140   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU14169   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU14188   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU14212   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU14350   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU14585   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU14679   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU14809   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU15010   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU15085   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU15108   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU15147   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU15386   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU15816   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU15820   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU15840   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU15894   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU15901   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU15928   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU15974   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU15999   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU16022   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU16071   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU16116   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU16120   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU16127   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU16131   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU16149   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU16158   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU16181   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU16191   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU16193   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU16197   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU16215   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU16222   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU16237   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU16251   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU16264   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU16273   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU16287   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU16343   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU16403   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU16449   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU16474   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU16481   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU16485   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU16532   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU16547   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU16577   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU16639   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU16641   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU16667   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU16697   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU16708   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU16728   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU16752   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU16791   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU16823   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU16829   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU16851   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU16894   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU17011   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU17043   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU17051   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU17060   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU17105   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU17131   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU17133   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU17147   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU17177   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU17179   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU17189   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU17279   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU17288   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU17299   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU17342   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU17375   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU17400   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU17415   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU17486   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU17497   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU17545   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU17668   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU17673   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU17692   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU17796   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU17797   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU17863   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU17899   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU17900   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU17942   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU17964   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU18036   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU18060   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU18082   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU18191   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU18249   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU18286   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU18308   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU18322   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU18324   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU18330   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU18522   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU18540   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU19049   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU19268   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU19629   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU19880   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU20093   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU20100   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU20220   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU20863   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU20977   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU21047   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU21091   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU21212   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU21239   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU21259   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU21738   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU22094   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU22125   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU22178   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU22318   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU22444   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU22512   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU22733   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU22846   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU22877   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU22914   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU22942   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU23017   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU23055   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU23191   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU23248   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU23358   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU23361   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU23385   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU23400   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU23463   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU23617   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU23685   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU23699   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU23730   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU23861   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU23919   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU23954   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU24121   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU24169   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU24224   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU24286   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU24313   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU24349   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU24436   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU24458   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU24494   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU24497   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU24553   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU24637   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU24762   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU24881   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU25013   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU25118   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU25182   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU25218   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU25255   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU25330   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU25519   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU25538   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU25569   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU25631   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU25649   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU25716   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU25772   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU25813   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU26023   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU26053   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU26056   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU26091   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU26137   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU26148   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU26164   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU26171   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU26207   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU26241   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU26299   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU26303   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU26315   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU26354   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU26363   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU26377   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU26382   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU26398   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU26401   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU26411   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU26412   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU26417   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU26419   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU26423   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU26448   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU26450   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU26459   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU26468   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU26494   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU26504   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU26548   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU26576   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU26620   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU26638   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU26675   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU26691   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU26703   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU26707   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU26733   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU26740   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU26760   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU26771   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU26779   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU26789   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU26798   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU26834   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU26843   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU26862   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU26898   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU26945   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU26970   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU26989   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU26994   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU27002   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU27007   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU27023   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU27025   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU27052   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU27059   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU27084   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU27090   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU27132   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU27142   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU27147   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU27176   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU27186   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU27250   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU27251   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU27255   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU27269   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU27283   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU27304   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU27324   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU27327   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU27328   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU27330   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU27351   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU27360   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU27393   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU27397   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU27400   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU27405   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU27414   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU27438   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU27442   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU27459   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU27466   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU27482   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU27498   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU27534   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU27552   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU27570   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU27578   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU27583   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU27596   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU27685   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU27861   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU27864   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU27876   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU27878   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU27907   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU27916   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU27923   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU27950   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU27951   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU27962   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU27999   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU28003   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU28039   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU28047   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU28063   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU28093   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU28096   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU28138   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU28154   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU28163   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU28193   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU28201   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU28217   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU28227   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU28238   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU28241   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU28289   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU28309   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU28323   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU28325   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU28342   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU28406   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU28409   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU28419   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU28421   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU28441   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU28455   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU28464   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU28474   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU28487   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU28492   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU28518   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU28531   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU28541   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU28581   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU28595   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU28616   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU28629   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU28637   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU28648   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU28651   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU28673   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU28676   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU28729   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU28772   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU28809   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU28850   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU28862   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU28923   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU28958   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU28961   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU28999   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU29017   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU29041   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU29063   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU29068   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU29073   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU29076   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU29088   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU29157   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU29179   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU29188   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU29211   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU29214   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU29216   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU29227   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU29242   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU29248   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU29301   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU29317   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU29338   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU29357   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU29399   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU29410   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU29462   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU29464   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU29521   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU29525   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU29533   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU29561   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU29586   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU29592   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU29670   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU29677   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU29687   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU29720   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU29747   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU29750   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU29769   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU29773   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU29785   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU29790   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU29791   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU29793   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU29797   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU29858   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU29872   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU29874   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU29911   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU29922   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU29963   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU29988   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU29997   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU30044   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU30060   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU30242   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU30265   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU30294   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU30325   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU30374   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU30423   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU30451   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU30456   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU30460   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU30506   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU30550   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU31327   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU31937   | None        |        |           | NVC          | InTransit | None         |
+| 2023EU31996   | None        |        |           | NVC          | InTransit | None         |
+| 2023SA1684    | None        |        |           | NVC          | InTransit | None         |
++---------------+-------------+--------+-----------+--------------+-----------+--------------+
+Consulate: PRS
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023AF10742   | PRS         | Paris  | France    | Ready        | AP       | 23-Jun-2023  |
+| 2023EU10159   | PRS         | Paris  | France    | Refused221g  | AP       | 23-Jun-2023  |
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+Consulate: RNG
++---------------+-------------+---------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City    | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+---------+-----------+--------------+----------+--------------|
+| 2023AS2021    | RNG         | Rangoon | Burma     | Ready        | AP       | 23-Jun-2023  |
++---------------+-------------+---------+-----------+--------------+----------+--------------+
+Consulate: SEO
++---------------+-------------+--------+-------------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country     | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-------------+--------------+----------+--------------|
+| 2023EU10860   | SEO         | Seoul  | South Korea | Ready        | AP       | 23-Jun-2023  |
++---------------+-------------+--------+-------------+--------------+----------+--------------+
+Consulate: SKO
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023EU2761    | SKO         | Skopje | Macedonia | Ready        | AP       | 23-Jun-2023  |
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+Consulate: SYD
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023AS7773    | SYD         | Sydney | Australia | Refused221g  | AP       | 23-Jun-2023  |
+| 2023AS10847   | SYD         | Sydney | Australia | Refused221g  | AP       | 23-Jun-2023  |
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+Consulate: TBL
++---------------+-------------+---------+-----------+--------------+-------------+--------------+
+| Case Number   | Consulate   | City    | Country   | PrevStatus   | Status      | statusDate   |
+|---------------+-------------+---------+-----------+--------------+-------------+--------------|
+| 2023EU5378    | TBL         | Tbilisi | Georgia   | Ready        | AP          | 23-Jun-2023  |
+| 2023EU5420    | TBL         | Tbilisi | Georgia   | Ready        | Refused221g | 23-Jun-2023  |
+| 2023EU6594    | TBL         | Tbilisi | Georgia   | Ready        | Refused221g | 23-Jun-2023  |
+| 2023EU8104    | TBL         | Tbilisi | Georgia   | Ready        | AP          | 23-Jun-2023  |
+| 2023EU9451    | TBL         | Tbilisi | Georgia   | Ready        | Refused221g | 23-Jun-2023  |
+| 2023EU9777    | TBL         | Tbilisi | Georgia   | Ready        | AP          | 23-Jun-2023  |
+| 2023EU11023   | TBL         | Tbilisi | Georgia   | Ready        | AP          | 23-Jun-2023  |
+| 2023EU12613   | TBL         | Tbilisi | Georgia   | Ready        | AP          | 23-Jun-2023  |
+| 2023EU13039   | TBL         | Tbilisi | Georgia   | Ready        | AP          | 23-Jun-2023  |
+| 2023EU13793   | TBL         | Tbilisi | Georgia   | Ready        | AP          | 23-Jun-2023  |
+| 2023EU14535   | TBL         | Tbilisi | Georgia   | Ready        | AP          | 23-Jun-2023  |
+| 2023EU20184   | TBL         | Tbilisi | Georgia   | Ready        | Refused221g | 23-Jun-2023  |
++---------------+-------------+---------+-----------+--------------+-------------+--------------+
+Consulate: THT
++---------------+-------------+----------+------------+--------------+----------+--------------+
+| Case Number   | Consulate   | City     | Country    | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+----------+------------+--------------+----------+--------------|
+| 2023EU4483    | THT         | Tashkent | Uzbekistan | AP           | Issued   | 23-Jun-2023  |
++---------------+-------------+----------+------------+--------------+----------+--------------+
+Consulate: TIA
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023EU21808   | TIA         | Tirana | Albania   | Refused221g  | AP       | 23-Jun-2023  |
+| 2023EU24321   | TIA         | Tirana | Albania   | Refused221g  | AP       | 23-Jun-2023  |
+| 2023EU26867   | TIA         | Tirana | Albania   | Refused221g  | AP       | 23-Jun-2023  |
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+Consulate: TKY
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023AS16022   | TKY         | Tokyo  | Japan     | AP           | Issued   | 23-Jun-2023  |
+| 2023AS18529   | TKY         | Tokyo  | Japan     | AP           | Issued   | 23-Jun-2023  |
+| 2023EU19343   | TKY         | Tokyo  | Japan     | Refused221g  | AP       | 23-Jun-2023  |
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+Consulate: TNS
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023AF46228   | TNS         | Tunis  | Tunisia   | AP           | Issued   | 23-Jun-2023  |
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+Consulate: ULN
++---------------+-------------+-------------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City        | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+-------------+-----------+--------------+----------+--------------|
+| 2023AS7148    | ULN         | Ulaanbaatar | Mongolia  | Ready        | Issued   | 23-Jun-2023  |
+| 2023AS7476    | ULN         | Ulaanbaatar | Mongolia  | Ready        | Issued   | 23-Jun-2023  |
+| 2023AS17922   | ULN         | Ulaanbaatar | Mongolia  | Ready        | Issued   | 23-Jun-2023  |
+| 2023AS17950   | ULN         | Ulaanbaatar | Mongolia  | Ready        | Issued   | 23-Jun-2023  |
++---------------+-------------+-------------+-----------+--------------+----------+--------------+
+Consulate: VNN
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023EU14097   | VNN         | Vienna | Austria   | Refused221g  | Issued   | 23-Jun-2023  |
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+Consulate: WRW
++---------------+-------------+--------+-----------+--------------+-------------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status      | statusDate   |
+|---------------+-------------+--------+-----------+--------------+-------------+--------------|
+| 2023EU3680    | WRW         | Warsaw | Poland    | Refused221g  | Issued      | 23-Jun-2023  |
+| 2023EU9476    | WRW         | Warsaw | Poland    | Refused221g  | Issued      | 23-Jun-2023  |
+| 2023EU10395   | WRW         | Warsaw | Poland    | Refused221g  | Issued      | 23-Jun-2023  |
+| 2023EU10544   | WRW         | Warsaw | Poland    | Ready        | Refused     | 23-Jun-2023  |
+| 2023EU11580   | WRW         | Warsaw | Poland    | Ready        | Issued      | 23-Jun-2023  |
+| 2023EU16045   | WRW         | Warsaw | Poland    | Ready        | Issued      | 23-Jun-2023  |
+| 2023EU17384   | WRW         | Warsaw | Poland    | Refused221g  | Issued      | 23-Jun-2023  |
+| 2023EU17578   | WRW         | Warsaw | Poland    | Refused221g  | AP          | 23-Jun-2023  |
+| 2023EU22372   | WRW         | Warsaw | Poland    | Ready        | Refused221g | 23-Jun-2023  |
+| 2023EU22422   | WRW         | Warsaw | Poland    | Refused221g  | Issued      | 23-Jun-2023  |
+| 2023EU22426   | WRW         | Warsaw | Poland    | Ready        | Refused221g | 23-Jun-2023  |
+| 2023EU22530   | WRW         | Warsaw | Poland    | Ready        | Refused221g | 23-Jun-2023  |
+| 2023EU22812   | WRW         | Warsaw | Poland    | Ready        | Refused221g | 23-Jun-2023  |
+| 2023EU25223   | WRW         | Warsaw | Poland    | Ready        | Refused221g | 23-Jun-2023  |
+| 2023EU28157   | WRW         | Warsaw | Poland    | Ready        | Refused221g | 23-Jun-2023  |
+| 2023EU29444   | WRW         | Warsaw | Poland    | Ready        | Refused221g | 23-Jun-2023  |
++---------------+-------------+--------+-----------+--------------+-------------+--------------+
+Consulate: YDE
++---------------+-------------+---------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City    | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+---------+-----------+--------------+----------+--------------|
+| 2023AF6009    | YDE         | Yaounde | Cameroon  | Refused221g  | AP       | 23-Jun-2023  |
+| 2023AF7037    | YDE         | Yaounde | Cameroon  | Refused221g  | AP       | 23-Jun-2023  |
+| 2023AF23548   | YDE         | Yaounde | Cameroon  | Issued       | AP       | 23-Jun-2023  |
+| 2023AF27871   | YDE         | Yaounde | Cameroon  | AP           | Issued   | 23-Jun-2023  |
+| 2023AF30330   | YDE         | Yaounde | Cameroon  | Refused221g  | AP       | 23-Jun-2023  |
+| 2023AF46723   | YDE         | Yaounde | Cameroon  | Refused221g  | AP       | 23-Jun-2023  |
+| 2023AF46940   | YDE         | Yaounde | Cameroon  | Refused221g  | AP       | 23-Jun-2023  |
+| 2023AF47187   | YDE         | Yaounde | Cameroon  | Refused221g  | AP       | 23-Jun-2023  |
+| 2023AF48471   | YDE         | Yaounde | Cameroon  | AP           | Issued   | 23-Jun-2023  |
+| 2023AF49838   | YDE         | Yaounde | Cameroon  | AP           | Issued   | 23-Jun-2023  |
+| 2023AF54008   | YDE         | Yaounde | Cameroon  | Refused221g  | AP       | 23-Jun-2023  |
++---------------+-------------+---------+-----------+--------------+----------+--------------+
+Consulate: YRV
++---------------+-------------+---------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City    | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+---------+-----------+--------------+----------+--------------|
+| 2023AS8390    | YRV         | Yerevan | Armenia   | Refused221g  | Ready    | 23-Jun-2023  |
+| 2023AS9547    | YRV         | Yerevan | Armenia   | Refused221g  | Issued   | 23-Jun-2023  |
+| 2023EU733     | YRV         | Yerevan | Armenia   | AP           | Issued   | 23-Jun-2023  |
+| 2023EU14846   | YRV         | Yerevan | Armenia   | Refused221g  | Ready    | 23-Jun-2023  |
+| 2023EU22718   | YRV         | Yerevan | Armenia   | AP           | Issued   | 23-Jun-2023  |
+| 2023EU22788   | YRV         | Yerevan | Armenia   | Refused221g  | Ready    | 23-Jun-2023  |
+| 2023EU23162   | YRV         | Yerevan | Armenia   | Ready        | Issued   | 23-Jun-2023  |
+| 2023EU23443   | YRV         | Yerevan | Armenia   | AP           | Issued   | 23-Jun-2023  |
+| 2023EU23466   | YRV         | Yerevan | Armenia   | Ready        | Issued   | 23-Jun-2023  |
+| 2023EU23498   | YRV         | Yerevan | Armenia   | AP           | Issued   | 23-Jun-2023  |
+| 2023EU23544   | YRV         | Yerevan | Armenia   | AP           | Issued   | 23-Jun-2023  |
+| 2023EU23622   | YRV         | Yerevan | Armenia   | AP           | Issued   | 23-Jun-2023  |
++---------------+-------------+---------+-----------+--------------+----------+--------------+
