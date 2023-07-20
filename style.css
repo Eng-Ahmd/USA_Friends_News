@@ -1,0 +1,26 @@
+body {
+  font-size: 18px;
+  text-align: center;
+}
+
+.slider-container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+#dateSlider {
+  width: 100%;
+}
+
+pre {
+  color: lime;
+  background-color: black;
+  padding: 10px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+@media only screen and (max-width: 600px) {
+  body {
+    font-size: 14px;
+  }
+}
