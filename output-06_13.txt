@@ -20,6 +20,18 @@ Consulate: ADD
 | 2023AF19840   | ADD         | Addis Ababa | Ethiopia  | Ready        | AP          | 13-Jun-2023  |
 | 2023AF19858   | ADD         | Addis Ababa | Ethiopia  | AP           | Issued      | 13-Jun-2023  |
 +---------------+-------------+-------------+-----------+--------------+-------------+--------------+
+Consulate: AKD
++---------------+-------------+----------+--------------+--------------+----------+--------------+
+| Case Number   | Consulate   | City     | Country      | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+----------+--------------+--------------+----------+--------------|
+| 2023AS8767    | AKD         | Ashgabat | Turkmenistan | InTransit    | Ready    | 13-Jun-2023  |
+| 2023EU7352    | AKD         | Ashgabat | Turkmenistan | InTransit    | Ready    | 13-Jun-2023  |
+| 2023EU12498   | AKD         | Ashgabat | Turkmenistan | InTransit    | Ready    | 13-Jun-2023  |
+| 2023EU15581   | AKD         | Ashgabat | Turkmenistan | InTransit    | Ready    | 13-Jun-2023  |
+| 2023EU15984   | AKD         | Ashgabat | Turkmenistan | InTransit    | Ready    | 13-Jun-2023  |
+| 2023EU17010   | AKD         | Ashgabat | Turkmenistan | InTransit    | Ready    | 13-Jun-2023  |
+| 2023EU18452   | AKD         | Ashgabat | Turkmenistan | InTransit    | Ready    | 13-Jun-2023  |
++---------------+-------------+----------+--------------+--------------+----------+--------------+
 Consulate: ALG
 +---------------+-------------+---------+-----------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City    | Country   | PrevStatus   | Status      | statusDate   |
@@ -292,9 +304,24 @@ Consulate: HNK
 +---------------+-------------+-----------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City      | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+-----------+-----------+--------------+----------+--------------|
+| 2023AF34381   | HNK         | Hong Kong | China     | InTransit    | Ready    | 13-Jun-2023  |
+| 2023EU5918    | HNK         | Hong Kong | China     | InTransit    | Ready    | 13-Jun-2023  |
 | 2023EU9816    | HNK         | Hong Kong | China     | Refused221g  | Issued   | 13-Jun-2023  |
+| 2023EU12162   | HNK         | Hong Kong | China     | InTransit    | Ready    | 13-Jun-2023  |
+| 2023EU12763   | HNK         | Hong Kong | China     | InTransit    | Ready    | 13-Jun-2023  |
+| 2023EU14379   | HNK         | Hong Kong | China     | InTransit    | Ready    | 13-Jun-2023  |
+| 2023EU15004   | HNK         | Hong Kong | China     | InTransit    | Ready    | 13-Jun-2023  |
 | 2023EU15007   | HNK         | Hong Kong | China     | Ready        | AP       | 13-Jun-2023  |
+| 2023EU15354   | HNK         | Hong Kong | China     | InTransit    | Ready    | 13-Jun-2023  |
+| 2023EU16192   | HNK         | Hong Kong | China     | InTransit    | Ready    | 13-Jun-2023  |
+| 2023EU18504   | HNK         | Hong Kong | China     | InTransit    | Ready    | 13-Jun-2023  |
+| 2023EU20252   | HNK         | Hong Kong | China     | InTransit    | Ready    | 13-Jun-2023  |
+| 2023EU22925   | HNK         | Hong Kong | China     | InTransit    | Ready    | 13-Jun-2023  |
+| 2023EU25621   | HNK         | Hong Kong | China     | InTransit    | Ready    | 13-Jun-2023  |
 | 2023EU26158   | HNK         | Hong Kong | China     | AP           | Issued   | 13-Jun-2023  |
+| 2023EU27967   | HNK         | Hong Kong | China     | InTransit    | Ready    | 13-Jun-2023  |
+| 2023EU29002   | HNK         | Hong Kong | China     | InTransit    | Ready    | 13-Jun-2023  |
+| 2023EU29159   | HNK         | Hong Kong | China     | InTransit    | Ready    | 13-Jun-2023  |
 +---------------+-------------+-----------+-----------+--------------+----------+--------------+
 Consulate: HRE
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
@@ -317,25 +344,36 @@ Consulate: JHN
 | 2023AF43351   | JHN         | Johannesburg | South Africa | Refused221g  | AP       | 13-Jun-2023  |
 +---------------+-------------+--------------+--------------+--------------+----------+--------------+
 Consulate: KDU
-+---------------+-------------+-----------+-----------+--------------+----------+--------------+
-| Case Number   | Consulate   | City      | Country   | PrevStatus   | Status   | statusDate   |
-|---------------+-------------+-----------+-----------+--------------+----------+--------------|
-| 2023AS257     | KDU         | Kathmandu | Nepal     | AP           | Issued   | 13-Jun-2023  |
-| 2023AS1837    | KDU         | Kathmandu | Nepal     | AP           | Issued   | 13-Jun-2023  |
-| 2023AS5844    | KDU         | Kathmandu | Nepal     | Refused221g  | Refused  | 13-Jun-2023  |
-| 2023AS9270    | KDU         | Kathmandu | Nepal     | AP           | Issued   | 13-Jun-2023  |
-| 2023AS10251   | KDU         | Kathmandu | Nepal     | AP           | Issued   | 13-Jun-2023  |
-| 2023AS11439   | KDU         | Kathmandu | Nepal     | AP           | Issued   | 13-Jun-2023  |
-| 2023AS11829   | KDU         | Kathmandu | Nepal     | AP           | Issued   | 13-Jun-2023  |
-| 2023AS11861   | KDU         | Kathmandu | Nepal     | AP           | Issued   | 13-Jun-2023  |
-| 2023AS12840   | KDU         | Kathmandu | Nepal     | AP           | Issued   | 13-Jun-2023  |
-| 2023AS13189   | KDU         | Kathmandu | Nepal     | Refused221g  | AP       | 13-Jun-2023  |
-| 2023AS15307   | KDU         | Kathmandu | Nepal     | Refused221g  | AP       | 13-Jun-2023  |
-| 2023AS15534   | KDU         | Kathmandu | Nepal     | AP           | Issued   | 13-Jun-2023  |
-| 2023AS15796   | KDU         | Kathmandu | Nepal     | AP           | Ready    | 13-Jun-2023  |
-| 2023AS16812   | KDU         | Kathmandu | Nepal     | Refused221g  | Refused  | 13-Jun-2023  |
-| 2023AS16974   | KDU         | Kathmandu | Nepal     | AP           | Issued   | 13-Jun-2023  |
-+---------------+-------------+-----------+-----------+--------------+----------+--------------+
++---------------+-------------+-----------+-----------+--------------+-------------+--------------+
+| Case Number   | Consulate   | City      | Country   | PrevStatus   | Status      | statusDate   |
+|---------------+-------------+-----------+-----------+--------------+-------------+--------------|
+| 2023AF76      | KDU         | Kathmandu | Nepal     | InTransit    | Refused221g | 13-Jun-2023  |
+| 2023AF5858    | KDU         | Kathmandu | Nepal     | InTransit    | Refused221g | 13-Jun-2023  |
+| 2023AF6108    | KDU         | Kathmandu | Nepal     | InTransit    | Ready       | 13-Jun-2023  |
+| 2023AF7326    | KDU         | Kathmandu | Nepal     | InTransit    | Refused221g | 13-Jun-2023  |
+| 2023AF10729   | KDU         | Kathmandu | Nepal     | InTransit    | Ready       | 13-Jun-2023  |
+| 2023AF11260   | KDU         | Kathmandu | Nepal     | InTransit    | Ready       | 13-Jun-2023  |
+| 2023AF13640   | KDU         | Kathmandu | Nepal     | InTransit    | Ready       | 13-Jun-2023  |
+| 2023AF14526   | KDU         | Kathmandu | Nepal     | InTransit    | Ready       | 13-Jun-2023  |
+| 2023AF16754   | KDU         | Kathmandu | Nepal     | InTransit    | Ready       | 13-Jun-2023  |
+| 2023AS257     | KDU         | Kathmandu | Nepal     | AP           | Issued      | 13-Jun-2023  |
+| 2023AS1837    | KDU         | Kathmandu | Nepal     | AP           | Issued      | 13-Jun-2023  |
+| 2023AS5844    | KDU         | Kathmandu | Nepal     | Refused221g  | Refused     | 13-Jun-2023  |
+| 2023AS9270    | KDU         | Kathmandu | Nepal     | AP           | Issued      | 13-Jun-2023  |
+| 2023AS10251   | KDU         | Kathmandu | Nepal     | AP           | Issued      | 13-Jun-2023  |
+| 2023AS11439   | KDU         | Kathmandu | Nepal     | AP           | Issued      | 13-Jun-2023  |
+| 2023AS11829   | KDU         | Kathmandu | Nepal     | AP           | Issued      | 13-Jun-2023  |
+| 2023AS11861   | KDU         | Kathmandu | Nepal     | AP           | Issued      | 13-Jun-2023  |
+| 2023AS12766   | KDU         | Kathmandu | Nepal     | InTransit    | Ready       | 13-Jun-2023  |
+| 2023AS12840   | KDU         | Kathmandu | Nepal     | AP           | Issued      | 13-Jun-2023  |
+| 2023AS13189   | KDU         | Kathmandu | Nepal     | Refused221g  | AP          | 13-Jun-2023  |
+| 2023AS13836   | KDU         | Kathmandu | Nepal     | InTransit    | Refused221g | 13-Jun-2023  |
+| 2023AS15307   | KDU         | Kathmandu | Nepal     | Refused221g  | AP          | 13-Jun-2023  |
+| 2023AS15534   | KDU         | Kathmandu | Nepal     | AP           | Issued      | 13-Jun-2023  |
+| 2023AS15796   | KDU         | Kathmandu | Nepal     | AP           | Ready       | 13-Jun-2023  |
+| 2023AS16812   | KDU         | Kathmandu | Nepal     | Refused221g  | Refused     | 13-Jun-2023  |
+| 2023AS16974   | KDU         | Kathmandu | Nepal     | AP           | Issued      | 13-Jun-2023  |
++---------------+-------------+-----------+-----------+--------------+-------------+--------------+
 Consulate: KGL
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
@@ -378,6 +416,7 @@ Consulate: KWT
 | 2023AF19846   | KWT         | Kuwait | Kuwait    | Ready        | AP       | 13-Jun-2023  |
 | 2023AF26490   | KWT         | Kuwait | Kuwait    | Ready        | AP       | 13-Jun-2023  |
 | 2023AF29650   | KWT         | Kuwait | Kuwait    | Refused221g  | AP       | 13-Jun-2023  |
+| 2023AF35428   | KWT         | Kuwait | Kuwait    | InTransit    | Ready    | 13-Jun-2023  |
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: LIB
 +---------------+-------------+------------+-----------+--------------+-------------+--------------+
@@ -494,8 +533,26 @@ Consulate: SYD
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status      | statusDate   |
 |---------------+-------------+--------+-----------+--------------+-------------+--------------|
+| 2023AF8150    | SYD         | Sydney | Australia | InTransit    | Ready       | 13-Jun-2023  |
+| 2023AF23150   | SYD         | Sydney | Australia | InTransit    | Ready       | 13-Jun-2023  |
+| 2023AF37682   | SYD         | Sydney | Australia | InTransit    | Ready       | 13-Jun-2023  |
+| 2023AF47694   | SYD         | Sydney | Australia | InTransit    | Ready       | 13-Jun-2023  |
+| 2023AS10094   | SYD         | Sydney | Australia | InTransit    | Ready       | 13-Jun-2023  |
+| 2023AS12432   | SYD         | Sydney | Australia | InTransit    | Ready       | 13-Jun-2023  |
+| 2023AS19356   | SYD         | Sydney | Australia | InTransit    | Ready       | 13-Jun-2023  |
+| 2023AS20829   | SYD         | Sydney | Australia | InTransit    | Ready       | 13-Jun-2023  |
+| 2023EU30567   | SYD         | Sydney | Australia | InTransit    | Ready       | 13-Jun-2023  |
+| 2023EU31798   | SYD         | Sydney | Australia | InTransit    | Ready       | 13-Jun-2023  |
+| 2023OC950     | SYD         | Sydney | Australia | InTransit    | Ready       | 13-Jun-2023  |
+| 2023OC1096    | SYD         | Sydney | Australia | InTransit    | Ready       | 13-Jun-2023  |
+| 2023OC1299    | SYD         | Sydney | Australia | InTransit    | Ready       | 13-Jun-2023  |
 | 2023OC1307    | SYD         | Sydney | Australia | Ready        | Refused221g | 13-Jun-2023  |
 | 2023OC1427    | SYD         | Sydney | Australia | Ready        | AP          | 13-Jun-2023  |
+| 2023OC1476    | SYD         | Sydney | Australia | InTransit    | Ready       | 13-Jun-2023  |
+| 2023OC1536    | SYD         | Sydney | Australia | InTransit    | Ready       | 13-Jun-2023  |
+| 2023OC1587    | SYD         | Sydney | Australia | InTransit    | Ready       | 13-Jun-2023  |
+| 2023OC1631    | SYD         | Sydney | Australia | InTransit    | Ready       | 13-Jun-2023  |
+| 2023OC1635    | SYD         | Sydney | Australia | InTransit    | Ready       | 13-Jun-2023  |
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
 Consulate: TAI
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
@@ -544,7 +601,23 @@ Consulate: THT
 | 2023EU7563    | THT         | Tashkent | Uzbekistan | Ready        | AP       | 13-Jun-2023  |
 | 2023EU7577    | THT         | Tashkent | Uzbekistan | Ready        | AP       | 13-Jun-2023  |
 | 2023EU8065    | THT         | Tashkent | Uzbekistan | Ready        | AP       | 13-Jun-2023  |
+| 2023EU8507    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 13-Jun-2023  |
+| 2023EU8622    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 13-Jun-2023  |
+| 2023EU8697    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 13-Jun-2023  |
+| 2023EU8724    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 13-Jun-2023  |
+| 2023EU8777    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 13-Jun-2023  |
+| 2023EU8995    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 13-Jun-2023  |
+| 2023EU9079    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 13-Jun-2023  |
 | 2023EU9124    | THT         | Tashkent | Uzbekistan | Ready        | AP       | 13-Jun-2023  |
+| 2023EU9140    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 13-Jun-2023  |
+| 2023EU9152    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 13-Jun-2023  |
+| 2023EU9163    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 13-Jun-2023  |
+| 2023EU9168    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 13-Jun-2023  |
+| 2023EU9199    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 13-Jun-2023  |
+| 2023EU9201    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 13-Jun-2023  |
+| 2023EU9214    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 13-Jun-2023  |
+| 2023EU9216    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 13-Jun-2023  |
+| 2023EU9615    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 13-Jun-2023  |
 | 2023EU10027   | THT         | Tashkent | Uzbekistan | Ready        | AP       | 13-Jun-2023  |
 | 2023EU11811   | THT         | Tashkent | Uzbekistan | Ready        | AP       | 13-Jun-2023  |
 +---------------+-------------+----------+------------+--------------+----------+--------------+

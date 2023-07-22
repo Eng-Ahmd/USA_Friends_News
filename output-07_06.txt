@@ -18,6 +18,7 @@ Consulate: ACK
 |---------------+-------------+----------+-------------+--------------+----------+--------------|
 | 2023OC897     | ACK         | Auckland | New Zealand | Ready        | Issued   | 06-Jul-2023  |
 | 2023OC1524    | ACK         | Auckland | New Zealand | Refused221g  | Issued   | 06-Jul-2023  |
+| 2023OC1573    | ACK         | Auckland | New Zealand | InTransit    | Ready    | 05-Jul-2023  |
 +---------------+-------------+----------+-------------+--------------+----------+--------------+
 Consulate: ADD
 +---------------+-------------+-------------+-----------+--------------+-------------+--------------+
@@ -94,6 +95,7 @@ Consulate: BDP
 +---------------+-------------+----------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City     | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+----------+-----------+--------------+----------+--------------|
+| 2023AS12178   | BDP         | Budapest | Hungary   | InTransit    | Ready    | 06-Jul-2023  |
 | 2023EU29428   | BDP         | Budapest | Hungary   | Refused221g  | Issued   | 06-Jul-2023  |
 +---------------+-------------+----------+-----------+--------------+----------+--------------+
 Consulate: BGH
@@ -150,7 +152,11 @@ Consulate: BRT
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status      | statusDate   |
 |---------------+-------------+--------+-----------+--------------+-------------+--------------|
+| 2023AF58470   | BRT         | Beirut | Lebanon   | InTransit    | Ready       | 05-Jul-2023  |
+| 2023AS5080    | BRT         | Beirut | Lebanon   | InTransit    | Ready       | 05-Jul-2023  |
 | 2023AS13047   | BRT         | Beirut | Lebanon   | Ready        | Refused221g | 05-Jul-2023  |
+| 2023AS16127   | BRT         | Beirut | Lebanon   | InTransit    | AP          | 06-Jul-2023  |
+| 2023AS16223   | BRT         | Beirut | Lebanon   | InTransit    | Ready       | 05-Jul-2023  |
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
 Consulate: CHS
 +---------------+-------------+----------+-----------+--------------+-------------+--------------+
@@ -425,12 +431,14 @@ Consulate: KDU
 | 2023AF7326    | KDU         | Kathmandu | Nepal     | AP           | Issued   | 06-Jul-2023  |
 | 2023AF10346   | KDU         | Kathmandu | Nepal     | AP           | Issued   | 05-Jul-2023  |
 | 2023AF10729   | KDU         | Kathmandu | Nepal     | AP           | Issued   | 05-Jul-2023  |
+| 2023AF20896   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 05-Jul-2023  |
 | 2023AF37009   | KDU         | Kathmandu | Nepal     | AP           | Issued   | 05-Jul-2023  |
 | 2023AS9689    | KDU         | Kathmandu | Nepal     | AP           | Issued   | 06-Jul-2023  |
 | 2023AS12103   | KDU         | Kathmandu | Nepal     | AP           | Issued   | 05-Jul-2023  |
 | 2023AS13836   | KDU         | Kathmandu | Nepal     | Refused221g  | AP       | 06-Jul-2023  |
 | 2023AS18804   | KDU         | Kathmandu | Nepal     | Ready        | Issued   | 06-Jul-2023  |
 | 2023AS19260   | KDU         | Kathmandu | Nepal     | AP           | Issued   | 05-Jul-2023  |
+| 2023AS20828   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 05-Jul-2023  |
 +---------------+-------------+-----------+-----------+--------------+----------+--------------+
 Consulate: KIN
 +---------------+-------------+----------+----------------------------------+--------------+-------------+--------------+
@@ -684,6 +692,7 @@ Consulate: SYD
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+--------+-----------+--------------+----------+--------------|
 | 2023AS19626   | SYD         | Sydney | Australia | Transfer     | Ready    | 05-Jul-2023  |
+| 2023EU30216   | SYD         | Sydney | Australia | InTransit    | Ready    | 05-Jul-2023  |
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: TBL
 +---------------+-------------+---------+-----------+--------------+----------+--------------+

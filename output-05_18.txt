@@ -277,14 +277,42 @@ Consulate: HAV
 | 2023SA2342    | HAV         | Havana | Cuba      | Ready        | AP          | 18-May-2023  |
 | 2023SA2347    | HAV         | Havana | Cuba      | Ready        | AP          | 18-May-2023  |
 | 2023SA2395    | HAV         | Havana | Cuba      | Ready        | Issued      | 18-May-2023  |
+| 2023SA2740    | HAV         | Havana | Cuba      | InTransit    | Ready       | 18-May-2023  |
+| 2023SA2742    | HAV         | Havana | Cuba      | InTransit    | Ready       | 18-May-2023  |
+| 2023SA2750    | HAV         | Havana | Cuba      | InTransit    | Ready       | 18-May-2023  |
+| 2023SA2767    | HAV         | Havana | Cuba      | InTransit    | Ready       | 18-May-2023  |
+| 2023SA2776    | HAV         | Havana | Cuba      | InTransit    | Ready       | 18-May-2023  |
+| 2023SA2804    | HAV         | Havana | Cuba      | InTransit    | Ready       | 18-May-2023  |
+| 2023SA2822    | HAV         | Havana | Cuba      | InTransit    | Ready       | 18-May-2023  |
+| 2023SA2830    | HAV         | Havana | Cuba      | InTransit    | Ready       | 18-May-2023  |
+| 2023SA2839    | HAV         | Havana | Cuba      | InTransit    | Ready       | 18-May-2023  |
+| 2023SA2840    | HAV         | Havana | Cuba      | InTransit    | Ready       | 18-May-2023  |
+| 2023SA2849    | HAV         | Havana | Cuba      | InTransit    | Ready       | 18-May-2023  |
+| 2023SA2856    | HAV         | Havana | Cuba      | InTransit    | Ready       | 18-May-2023  |
+| 2023SA2857    | HAV         | Havana | Cuba      | InTransit    | Ready       | 18-May-2023  |
+| 2023SA2861    | HAV         | Havana | Cuba      | InTransit    | Ready       | 18-May-2023  |
+| 2023SA2867    | HAV         | Havana | Cuba      | InTransit    | Ready       | 18-May-2023  |
+| 2023SA2870    | HAV         | Havana | Cuba      | InTransit    | Ready       | 18-May-2023  |
+| 2023SA2871    | HAV         | Havana | Cuba      | InTransit    | Ready       | 18-May-2023  |
+| 2023SA2875    | HAV         | Havana | Cuba      | InTransit    | Ready       | 18-May-2023  |
+| 2023SA2877    | HAV         | Havana | Cuba      | InTransit    | Ready       | 18-May-2023  |
+| 2023SA2883    | HAV         | Havana | Cuba      | InTransit    | Ready       | 18-May-2023  |
+| 2023SA2894    | HAV         | Havana | Cuba      | InTransit    | Ready       | 18-May-2023  |
+| 2023SA2896    | HAV         | Havana | Cuba      | InTransit    | Ready       | 18-May-2023  |
+| 2023SA2899    | HAV         | Havana | Cuba      | InTransit    | Ready       | 18-May-2023  |
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
 Consulate: HNK
 +---------------+-------------+-----------+-----------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City      | Country   | PrevStatus   | Status      | statusDate   |
 |---------------+-------------+-----------+-----------+--------------+-------------+--------------|
+| 2023AS8574    | HNK         | Hong Kong | China     | InTransit    | Ready       | 18-May-2023  |
 | 2023EU13029   | HNK         | Hong Kong | China     | Ready        | AP          | 18-May-2023  |
+| 2023EU16734   | HNK         | Hong Kong | China     | InTransit    | Ready       | 18-May-2023  |
 | 2023EU18877   | HNK         | Hong Kong | China     | Refused221g  | Issued      | 18-May-2023  |
+| 2023EU26940   | HNK         | Hong Kong | China     | InTransit    | Ready       | 18-May-2023  |
+| 2023EU28577   | HNK         | Hong Kong | China     | InTransit    | Ready       | 18-May-2023  |
 | 2023EU29100   | HNK         | Hong Kong | China     | Ready        | Refused221g | 18-May-2023  |
+| 2023EU31450   | HNK         | Hong Kong | China     | InTransit    | Ready       | 18-May-2023  |
 +---------------+-------------+-----------+-----------+--------------+-------------+--------------+
 Consulate: HRE
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
@@ -292,6 +320,12 @@ Consulate: HRE
 |---------------+-------------+--------+-----------+--------------+-------------+--------------|
 | 2023AF2351    | HRE         | Harare | Zimbabwe  | Ready        | Refused221g | 18-May-2023  |
 | 2023AF12301   | HRE         | Harare | Zimbabwe  | Ready        | Refused221g | 18-May-2023  |
+| 2023AF14316   | HRE         | Harare | Zimbabwe  | InTransit    | Ready       | 18-May-2023  |
+| 2023AF23383   | HRE         | Harare | Zimbabwe  | InTransit    | Ready       | 18-May-2023  |
+| 2023AF25991   | HRE         | Harare | Zimbabwe  | InTransit    | Ready       | 18-May-2023  |
+| 2023AF35050   | HRE         | Harare | Zimbabwe  | InTransit    | Ready       | 18-May-2023  |
+| 2023AF35346   | HRE         | Harare | Zimbabwe  | InTransit    | Ready       | 18-May-2023  |
+| 2023AF38385   | HRE         | Harare | Zimbabwe  | InTransit    | Ready       | 18-May-2023  |
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
 Consulate: JHN
 +---------------+-------------+--------------+--------------+--------------+-------------+--------------+
@@ -311,13 +345,63 @@ Consulate: KDU
 +---------------+-------------+-----------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City      | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+-----------+-----------+--------------+----------+--------------|
+| 2023AF33612   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 18-May-2023  |
+| 2023AS1951    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 18-May-2023  |
+| 2023AS5768    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 18-May-2023  |
+| 2023AS7369    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 18-May-2023  |
+| 2023AS11508   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 18-May-2023  |
+| 2023AS12373   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 18-May-2023  |
 | 2023AS13405   | KDU         | Kathmandu | Nepal     | Refused221g  | AP       | 18-May-2023  |
 | 2023AS13439   | KDU         | Kathmandu | Nepal     | Ready        | AP       | 18-May-2023  |
 | 2023AS14162   | KDU         | Kathmandu | Nepal     | Refused221g  | AP       | 18-May-2023  |
 | 2023AS14546   | KDU         | Kathmandu | Nepal     | Ready        | Refused  | 18-May-2023  |
 | 2023AS15765   | KDU         | Kathmandu | Nepal     | Refused221g  | AP       | 18-May-2023  |
+| 2023AS16566   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 18-May-2023  |
 | 2023AS16601   | KDU         | Kathmandu | Nepal     | Refused221g  | AP       | 18-May-2023  |
 | 2023AS17349   | KDU         | Kathmandu | Nepal     | Refused221g  | AP       | 18-May-2023  |
+| 2023AS17775   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 18-May-2023  |
+| 2023AS17793   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 18-May-2023  |
+| 2023AS17800   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 18-May-2023  |
+| 2023AS17816   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 18-May-2023  |
+| 2023AS17818   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 18-May-2023  |
+| 2023AS17828   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 18-May-2023  |
+| 2023AS17836   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 18-May-2023  |
+| 2023AS17840   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 18-May-2023  |
+| 2023AS17843   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 18-May-2023  |
+| 2023AS17857   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 18-May-2023  |
+| 2023AS17873   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 18-May-2023  |
+| 2023AS17886   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 18-May-2023  |
+| 2023AS17888   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 18-May-2023  |
+| 2023AS17934   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 18-May-2023  |
+| 2023AS17960   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 18-May-2023  |
+| 2023AS17993   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 18-May-2023  |
+| 2023AS18010   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 18-May-2023  |
+| 2023AS18017   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 18-May-2023  |
+| 2023AS18018   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 18-May-2023  |
+| 2023AS18023   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 18-May-2023  |
+| 2023AS18027   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 18-May-2023  |
+| 2023AS18035   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 18-May-2023  |
+| 2023AS18046   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 18-May-2023  |
+| 2023AS18056   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 18-May-2023  |
+| 2023AS18060   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 18-May-2023  |
+| 2023AS18072   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 18-May-2023  |
+| 2023AS18102   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 18-May-2023  |
+| 2023AS18104   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 18-May-2023  |
+| 2023AS18126   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 18-May-2023  |
+| 2023AS18134   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 18-May-2023  |
+| 2023AS18139   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 18-May-2023  |
+| 2023AS18148   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 18-May-2023  |
+| 2023AS18157   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 18-May-2023  |
+| 2023AS18160   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 18-May-2023  |
+| 2023AS18165   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 18-May-2023  |
+| 2023AS18183   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 18-May-2023  |
+| 2023AS18193   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 18-May-2023  |
+| 2023AS18199   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 18-May-2023  |
+| 2023AS18206   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 18-May-2023  |
+| 2023AS18243   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 18-May-2023  |
+| 2023AS18262   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 18-May-2023  |
+| 2023AS18277   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 18-May-2023  |
+| 2023AS18281   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 18-May-2023  |
 +---------------+-------------+-----------+-----------+--------------+----------+--------------+
 Consulate: KGL
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
@@ -351,12 +435,28 @@ Consulate: KIN
 | 2023AF15610   | KIN         | Kinshasa | Democratic Republic of the Congo | Ready        | Refused221g | 18-May-2023  |
 | 2023AF18401   | KIN         | Kinshasa | Democratic Republic of the Congo | AP           | Issued      | 18-May-2023  |
 +---------------+-------------+----------+----------------------------------+--------------+-------------+--------------+
+Consulate: KLL
++---------------+-------------+--------------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City         | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------------+-----------+--------------+----------+--------------|
+| 2023AF31931   | KLL         | Kuala Lumpur | Malaysia  | InTransit    | Ready    | 18-May-2023  |
+| 2023AF32451   | KLL         | Kuala Lumpur | Malaysia  | InTransit    | Ready    | 18-May-2023  |
+| 2023AF32805   | KLL         | Kuala Lumpur | Malaysia  | InTransit    | Ready    | 18-May-2023  |
+| 2023AF34082   | KLL         | Kuala Lumpur | Malaysia  | InTransit    | Ready    | 18-May-2023  |
+| 2023AF39425   | KLL         | Kuala Lumpur | Malaysia  | InTransit    | Ready    | 18-May-2023  |
+| 2023AS6079    | KLL         | Kuala Lumpur | Malaysia  | InTransit    | Ready    | 18-May-2023  |
+| 2023AS10400   | KLL         | Kuala Lumpur | Malaysia  | InTransit    | Ready    | 18-May-2023  |
+| 2023AS19610   | KLL         | Kuala Lumpur | Malaysia  | InTransit    | Ready    | 18-May-2023  |
+| 2023AS20155   | KLL         | Kuala Lumpur | Malaysia  | InTransit    | Ready    | 18-May-2023  |
+| 2023AS20766   | KLL         | Kuala Lumpur | Malaysia  | InTransit    | Ready    | 18-May-2023  |
++---------------+-------------+--------------+-----------+--------------+----------+--------------+
 Consulate: KWT
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+--------+-----------+--------------+----------+--------------|
 | 2023AF18025   | KWT         | Kuwait | Kuwait    | AP           | Issued   | 18-May-2023  |
 | 2023AF18507   | KWT         | Kuwait | Kuwait    | AP           | Issued   | 18-May-2023  |
+| 2023AF39815   | KWT         | Kuwait | Kuwait    | InTransit    | Ready    | 18-May-2023  |
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: LND
 +---------------+-------------+--------+----------------+--------------+----------+--------------+
@@ -368,7 +468,72 @@ Consulate: MDD
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023AF35650   | MDD         | Madrid | Spain     | InTransit    | Ready    | 18-May-2023  |
+| 2023AF37274   | MDD         | Madrid | Spain     | InTransit    | Ready    | 18-May-2023  |
+| 2023AF57260   | MDD         | Madrid | Spain     | InTransit    | Ready    | 18-May-2023  |
+| 2023AS2005    | MDD         | Madrid | Spain     | InTransit    | Ready    | 18-May-2023  |
+| 2023AS20203   | MDD         | Madrid | Spain     | InTransit    | Ready    | 18-May-2023  |
 | 2023EU17790   | MDD         | Madrid | Spain     | AP           | Issued   | 18-May-2023  |
+| 2023EU29730   | MDD         | Madrid | Spain     | InTransit    | Ready    | 18-May-2023  |
+| 2023EU30379   | MDD         | Madrid | Spain     | InTransit    | Ready    | 18-May-2023  |
+| 2023EU30436   | MDD         | Madrid | Spain     | InTransit    | Ready    | 18-May-2023  |
+| 2023EU31489   | MDD         | Madrid | Spain     | InTransit    | Ready    | 18-May-2023  |
+| 2023OC1579    | MDD         | Madrid | Spain     | InTransit    | Ready    | 18-May-2023  |
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+Consulate: MRV
++---------------+-------------+----------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City     | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+----------+-----------+--------------+----------+--------------|
+| 2023AF477     | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 18-May-2023  |
+| 2023AF12986   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 18-May-2023  |
+| 2023AF15020   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 18-May-2023  |
+| 2023AF16397   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 18-May-2023  |
+| 2023AF16661   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 18-May-2023  |
+| 2023AF17152   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 18-May-2023  |
+| 2023AF18756   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 18-May-2023  |
+| 2023AF18900   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 18-May-2023  |
+| 2023AF18973   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 18-May-2023  |
+| 2023AF19686   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 18-May-2023  |
+| 2023AF20447   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 18-May-2023  |
+| 2023AF20798   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 18-May-2023  |
+| 2023AF21164   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 18-May-2023  |
+| 2023AF21475   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 18-May-2023  |
+| 2023AF22564   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 18-May-2023  |
+| 2023AF24272   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 18-May-2023  |
+| 2023AF24490   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 18-May-2023  |
+| 2023AF25151   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 18-May-2023  |
+| 2023AF25254   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 18-May-2023  |
+| 2023AF26668   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 18-May-2023  |
+| 2023AF26750   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 18-May-2023  |
+| 2023AF27550   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 18-May-2023  |
+| 2023AF28586   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 18-May-2023  |
+| 2023AF28881   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 18-May-2023  |
+| 2023AF29430   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 18-May-2023  |
+| 2023AF45202   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 18-May-2023  |
+| 2023AF46699   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 18-May-2023  |
+| 2023AF48263   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 18-May-2023  |
+| 2023AF49524   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 18-May-2023  |
+| 2023AF49768   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 18-May-2023  |
++---------------+-------------+----------+-----------+--------------+----------+--------------+
+Consulate: MST
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023AF18200   | MST         | Muscat | Oman      | InTransit    | Ready    | 18-May-2023  |
+| 2023AF18664   | MST         | Muscat | Oman      | InTransit    | Ready    | 18-May-2023  |
+| 2023AF19293   | MST         | Muscat | Oman      | InTransit    | Ready    | 18-May-2023  |
+| 2023AF24344   | MST         | Muscat | Oman      | InTransit    | Ready    | 18-May-2023  |
+| 2023AF30770   | MST         | Muscat | Oman      | InTransit    | Ready    | 18-May-2023  |
+| 2023AF37400   | MST         | Muscat | Oman      | InTransit    | Ready    | 18-May-2023  |
+| 2023AF37470   | MST         | Muscat | Oman      | InTransit    | Ready    | 18-May-2023  |
+| 2023AF41034   | MST         | Muscat | Oman      | InTransit    | Ready    | 18-May-2023  |
+| 2023AF45502   | MST         | Muscat | Oman      | InTransit    | Ready    | 18-May-2023  |
+| 2023EU10240   | MST         | Muscat | Oman      | InTransit    | Ready    | 18-May-2023  |
+| 2023EU17153   | MST         | Muscat | Oman      | InTransit    | Ready    | 18-May-2023  |
+| 2023EU21005   | MST         | Muscat | Oman      | InTransit    | Ready    | 18-May-2023  |
+| 2023EU21195   | MST         | Muscat | Oman      | InTransit    | Ready    | 18-May-2023  |
+| 2023EU28202   | MST         | Muscat | Oman      | InTransit    | Ready    | 18-May-2023  |
+| 2023EU28901   | MST         | Muscat | Oman      | InTransit    | Ready    | 18-May-2023  |
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: NCS
 +---------------+-------------+---------+-----------+--------------+----------+--------------+
@@ -396,7 +561,49 @@ Consulate: NRB
 | 2023AF13816   | NRB         | Nairobi | Kenya     | Ready        | AP          | 18-May-2023  |
 | 2023AF13979   | NRB         | Nairobi | Kenya     | Refused221g  | AP          | 18-May-2023  |
 | 2023AF15535   | NRB         | Nairobi | Kenya     | Ready        | Refused     | 18-May-2023  |
+| 2023AF16365   | NRB         | Nairobi | Kenya     | InTransit    | Ready       | 18-May-2023  |
 | 2023AF17901   | NRB         | Nairobi | Kenya     | AP           | Issued      | 18-May-2023  |
+| 2023AF20553   | NRB         | Nairobi | Kenya     | InTransit    | Ready       | 18-May-2023  |
+| 2023AF20951   | NRB         | Nairobi | Kenya     | InTransit    | Ready       | 18-May-2023  |
+| 2023AF20953   | NRB         | Nairobi | Kenya     | InTransit    | Ready       | 18-May-2023  |
+| 2023AF20990   | NRB         | Nairobi | Kenya     | InTransit    | Ready       | 18-May-2023  |
+| 2023AF21255   | NRB         | Nairobi | Kenya     | InTransit    | Ready       | 18-May-2023  |
+| 2023AF21316   | NRB         | Nairobi | Kenya     | InTransit    | Ready       | 18-May-2023  |
+| 2023AF21317   | NRB         | Nairobi | Kenya     | InTransit    | Ready       | 18-May-2023  |
+| 2023AF21640   | NRB         | Nairobi | Kenya     | InTransit    | Ready       | 18-May-2023  |
+| 2023AF21706   | NRB         | Nairobi | Kenya     | InTransit    | Ready       | 18-May-2023  |
+| 2023AF21769   | NRB         | Nairobi | Kenya     | InTransit    | Ready       | 18-May-2023  |
+| 2023AF21823   | NRB         | Nairobi | Kenya     | InTransit    | Ready       | 18-May-2023  |
+| 2023AF21847   | NRB         | Nairobi | Kenya     | InTransit    | Ready       | 18-May-2023  |
+| 2023AF21897   | NRB         | Nairobi | Kenya     | InTransit    | Ready       | 18-May-2023  |
+| 2023AF21927   | NRB         | Nairobi | Kenya     | InTransit    | Ready       | 18-May-2023  |
+| 2023AF22112   | NRB         | Nairobi | Kenya     | InTransit    | Ready       | 18-May-2023  |
+| 2023AF22118   | NRB         | Nairobi | Kenya     | InTransit    | Ready       | 18-May-2023  |
+| 2023AF22126   | NRB         | Nairobi | Kenya     | InTransit    | Ready       | 18-May-2023  |
+| 2023AF22140   | NRB         | Nairobi | Kenya     | InTransit    | Ready       | 18-May-2023  |
+| 2023AF22146   | NRB         | Nairobi | Kenya     | InTransit    | Ready       | 18-May-2023  |
+| 2023AF22183   | NRB         | Nairobi | Kenya     | InTransit    | Ready       | 18-May-2023  |
+| 2023AF22215   | NRB         | Nairobi | Kenya     | InTransit    | Ready       | 18-May-2023  |
+| 2023AF22306   | NRB         | Nairobi | Kenya     | InTransit    | Ready       | 18-May-2023  |
+| 2023AF22358   | NRB         | Nairobi | Kenya     | InTransit    | Ready       | 18-May-2023  |
+| 2023AF22374   | NRB         | Nairobi | Kenya     | InTransit    | Ready       | 18-May-2023  |
+| 2023AF22476   | NRB         | Nairobi | Kenya     | InTransit    | Ready       | 18-May-2023  |
+| 2023AF22528   | NRB         | Nairobi | Kenya     | InTransit    | Ready       | 18-May-2023  |
+| 2023AF22571   | NRB         | Nairobi | Kenya     | InTransit    | Ready       | 18-May-2023  |
+| 2023AF22582   | NRB         | Nairobi | Kenya     | InTransit    | Ready       | 18-May-2023  |
+| 2023AF22653   | NRB         | Nairobi | Kenya     | InTransit    | Ready       | 18-May-2023  |
+| 2023AF22756   | NRB         | Nairobi | Kenya     | InTransit    | Ready       | 18-May-2023  |
+| 2023AF22812   | NRB         | Nairobi | Kenya     | InTransit    | Ready       | 18-May-2023  |
+| 2023AF22896   | NRB         | Nairobi | Kenya     | InTransit    | Ready       | 18-May-2023  |
+| 2023AF22907   | NRB         | Nairobi | Kenya     | InTransit    | Ready       | 18-May-2023  |
+| 2023AF23040   | NRB         | Nairobi | Kenya     | InTransit    | Ready       | 18-May-2023  |
+| 2023AF23094   | NRB         | Nairobi | Kenya     | InTransit    | Ready       | 18-May-2023  |
+| 2023AF23117   | NRB         | Nairobi | Kenya     | InTransit    | Ready       | 18-May-2023  |
+| 2023AF23120   | NRB         | Nairobi | Kenya     | InTransit    | Ready       | 18-May-2023  |
+| 2023AF23130   | NRB         | Nairobi | Kenya     | InTransit    | Ready       | 18-May-2023  |
+| 2023AF23157   | NRB         | Nairobi | Kenya     | InTransit    | Ready       | 18-May-2023  |
+| 2023AF23235   | NRB         | Nairobi | Kenya     | InTransit    | Ready       | 18-May-2023  |
+| 2023AF23747   | NRB         | Nairobi | Kenya     | InTransit    | Ready       | 18-May-2023  |
 +---------------+-------------+---------+-----------+--------------+-------------+--------------+
 Consulate: None
 +---------------+-------------+--------+-----------+--------------+-----------+--------------+
@@ -1388,6 +1595,19 @@ Consulate: PRG
 |---------------+-------------+--------+----------------+--------------+----------+--------------|
 | 2023EU23283   | PRG         | Prague | Czech Republic | Ready        | AP       | 18-May-2023  |
 +---------------+-------------+--------+----------------+--------------+----------+--------------+
+Consulate: PTS
++---------------+-------------+---------------+---------------------+--------------+----------+--------------+
+| Case Number   | Consulate   | City          | Country             | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+---------------+---------------------+--------------+----------+--------------|
+| 2023SA2841    | PTS         | Port Of Spain | Trinidad and Tobago | InTransit    | Ready    | 18-May-2023  |
++---------------+-------------+---------------+---------------------+--------------+----------+--------------+
+Consulate: RGA
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023EU19517   | RGA         | Riga   | Latvia    | InTransit    | Ready    | 18-May-2023  |
+| 2023EU31584   | RGA         | Riga   | Latvia    | InTransit    | Ready    | 18-May-2023  |
++---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: RID
 +---------------+-------------+--------+--------------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City   | Country      | PrevStatus   | Status      | statusDate   |

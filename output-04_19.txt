@@ -115,6 +115,12 @@ Consulate: AMM
 | 2023AS17107   | AMM         | Amman  | Jordan    | Ready        | AP       | 19-Apr-2023  |
 | 2023AS17964   | AMM         | Amman  | Jordan    | Ready        | AP       | 19-Apr-2023  |
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
+Consulate: AMS
++---------------+-------------+-----------+-------------+--------------+----------+--------------+
+| Case Number   | Consulate   | City      | Country     | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+-----------+-------------+--------------+----------+--------------|
+| 2023EU1756    | AMS         | Amsterdam | Netherlands | InTransit    | Ready    | 19-Apr-2023  |
++---------------+-------------+-----------+-------------+--------------+----------+--------------+
 Consulate: ANK
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
@@ -151,8 +157,18 @@ Consulate: BLG
 +---------------+-------------+----------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City     | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+----------+-----------+--------------+----------+--------------|
+| 2023AF55488   | BLG         | Belgrade | Serbia    | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU15734   | BLG         | Belgrade | Serbia    | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU16921   | BLG         | Belgrade | Serbia    | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU18034   | BLG         | Belgrade | Serbia    | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU19998   | BLG         | Belgrade | Serbia    | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU20512   | BLG         | Belgrade | Serbia    | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU22382   | BLG         | Belgrade | Serbia    | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU22559   | BLG         | Belgrade | Serbia    | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU24563   | BLG         | Belgrade | Serbia    | InTransit    | Ready    | 19-Apr-2023  |
 | 2023EU25254   | BLG         | Belgrade | Serbia    | Refused221g  | Issued   | 19-Apr-2023  |
 | 2023EU28741   | BLG         | Belgrade | Serbia    | Transfer     | Ready    | 19-Apr-2023  |
+| 2023EU29655   | BLG         | Belgrade | Serbia    | InTransit    | Ready    | 19-Apr-2023  |
 +---------------+-------------+----------+-----------+--------------+----------+--------------+
 Consulate: BMB
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
@@ -172,6 +188,61 @@ Consulate: BRS
 | Case Number   | Consulate   | City     | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+----------+-----------+--------------+----------+--------------|
 | 2023EU20815   | BRS         | Brussels | Belgium   | AP           | Issued   | 19-Apr-2023  |
++---------------+-------------+----------+-----------+--------------+----------+--------------+
+Consulate: CHS
++---------------+-------------+----------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City     | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+----------+-----------+--------------+----------+--------------|
+| 2023EU2042    | CHS         | Chisinau | Moldova   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU2916    | CHS         | Chisinau | Moldova   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU3685    | CHS         | Chisinau | Moldova   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU4532    | CHS         | Chisinau | Moldova   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU11149   | CHS         | Chisinau | Moldova   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU11800   | CHS         | Chisinau | Moldova   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU12134   | CHS         | Chisinau | Moldova   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU13028   | CHS         | Chisinau | Moldova   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU13113   | CHS         | Chisinau | Moldova   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU13420   | CHS         | Chisinau | Moldova   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU13645   | CHS         | Chisinau | Moldova   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU14323   | CHS         | Chisinau | Moldova   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU14396   | CHS         | Chisinau | Moldova   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU14910   | CHS         | Chisinau | Moldova   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU15247   | CHS         | Chisinau | Moldova   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU16154   | CHS         | Chisinau | Moldova   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU16678   | CHS         | Chisinau | Moldova   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU16704   | CHS         | Chisinau | Moldova   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU16775   | CHS         | Chisinau | Moldova   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU16997   | CHS         | Chisinau | Moldova   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU18013   | CHS         | Chisinau | Moldova   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU19975   | CHS         | Chisinau | Moldova   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU19983   | CHS         | Chisinau | Moldova   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU20148   | CHS         | Chisinau | Moldova   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU21410   | CHS         | Chisinau | Moldova   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU22275   | CHS         | Chisinau | Moldova   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU22747   | CHS         | Chisinau | Moldova   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU22852   | CHS         | Chisinau | Moldova   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU23253   | CHS         | Chisinau | Moldova   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU24008   | CHS         | Chisinau | Moldova   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU25721   | CHS         | Chisinau | Moldova   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU25846   | CHS         | Chisinau | Moldova   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU26376   | CHS         | Chisinau | Moldova   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU26552   | CHS         | Chisinau | Moldova   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU26722   | CHS         | Chisinau | Moldova   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU27558   | CHS         | Chisinau | Moldova   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU27725   | CHS         | Chisinau | Moldova   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU28006   | CHS         | Chisinau | Moldova   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU28081   | CHS         | Chisinau | Moldova   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU28169   | CHS         | Chisinau | Moldova   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU28245   | CHS         | Chisinau | Moldova   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU28335   | CHS         | Chisinau | Moldova   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU28337   | CHS         | Chisinau | Moldova   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU28538   | CHS         | Chisinau | Moldova   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU28663   | CHS         | Chisinau | Moldova   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU29016   | CHS         | Chisinau | Moldova   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU29059   | CHS         | Chisinau | Moldova   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU29414   | CHS         | Chisinau | Moldova   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU29532   | CHS         | Chisinau | Moldova   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU29758   | CHS         | Chisinau | Moldova   | InTransit    | Ready    | 19-Apr-2023  |
 +---------------+-------------+----------+-----------+--------------+----------+--------------+
 Consulate: CLM
 +---------------+-------------+---------+-----------+--------------+----------+--------------+
@@ -203,12 +274,411 @@ Consulate: CSB
 +---------------+-------------+------------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City       | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+------------+-----------+--------------+----------+--------------|
+| 2023AF2027    | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF2529    | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF3001    | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF4096    | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF4825    | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF5039    | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF5249    | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF5600    | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF5973    | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF6331    | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF6819    | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF7255    | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF7477    | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF7541    | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF7628    | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF7994    | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF8558    | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
 | 2023AF8830    | CSB         | Casablanca | Morocco   | AP           | Issued   | 19-Apr-2023  |
+| 2023AF8886    | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF9097    | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF9620    | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF10025   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF10555   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF11224   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
 | 2023AF11606   | CSB         | Casablanca | Morocco   | AP           | Issued   | 19-Apr-2023  |
+| 2023AF11625   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF11863   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF12888   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF13558   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF15152   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
 | 2023AF15362   | CSB         | Casablanca | Morocco   | Ready        | AP       | 19-Apr-2023  |
+| 2023AF15502   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF15681   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF15929   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF16761   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
 | 2023AF17487   | CSB         | Casablanca | Morocco   | AP           | Issued   | 19-Apr-2023  |
+| 2023AF17552   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF18681   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF18714   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF19510   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF19806   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF20147   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF20849   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF21266   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF21593   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF21771   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF22534   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
 | 2023AF23850   | CSB         | Casablanca | Morocco   | AP           | Issued   | 19-Apr-2023  |
+| 2023AF23926   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF25068   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF25782   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF26047   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
 | 2023AF26337   | CSB         | Casablanca | Morocco   | AP           | Issued   | 19-Apr-2023  |
+| 2023AF26496   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF26776   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF27087   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF27100   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF27462   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF27547   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF27683   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF28067   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF28225   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF28810   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF28930   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF29263   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF29649   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF29704   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF29958   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF30008   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF30382   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF30399   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF30587   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF30714   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF30874   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF30975   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF31234   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF31558   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF31724   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF31727   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF31792   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF31820   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF31846   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF31847   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF31884   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF31888   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF31911   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF31959   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF32006   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF32052   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF32059   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF32065   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF32114   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF32170   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF32183   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF32188   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF32190   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF32198   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF32202   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF32206   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF32210   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF32217   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF32236   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF32238   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF32266   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF32341   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF32347   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF32362   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF32378   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF32386   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF32406   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF32444   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF32467   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF32511   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF32551   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF32580   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF32667   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF32718   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF32741   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF32750   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF32758   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF32809   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF32813   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF32831   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF32897   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF32903   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF32941   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF32950   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF32986   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF32988   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF33045   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF33063   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF33088   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF33121   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF33151   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF33152   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF33173   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF33246   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF33287   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF33292   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF33306   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF33312   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF33333   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF33355   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF33360   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF33366   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF33377   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF33403   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF33413   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF33434   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF33435   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF33462   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF33466   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF33480   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF33519   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF33556   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF33558   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF33560   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF33561   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF33571   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF33572   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF33579   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF33622   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF33634   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF33680   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF33700   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF33726   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF33751   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF33762   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF33770   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF33776   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF33795   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF33800   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF33805   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF33813   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF33821   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF33864   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF33867   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF33883   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF33954   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF33998   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF34009   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF34031   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF34061   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF34119   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF34121   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF34139   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF34160   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF34177   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF34191   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF34204   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF34208   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF34213   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF34287   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF34292   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF34332   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF34404   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF34412   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF34419   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF34433   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF34441   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF34444   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF34459   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF34473   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF34486   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF34488   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF34497   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF34542   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF34581   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF34582   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF34618   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF34622   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF34641   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF34661   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF34684   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF34699   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF34718   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF34740   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF34742   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF34769   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF34804   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF34843   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF34885   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF34909   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF34929   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF34955   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF34979   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF35000   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF35011   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF35024   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF35045   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF35081   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF35100   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF35113   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF35121   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF35150   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF35176   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF35196   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF35198   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF35237   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF35251   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF35265   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF35309   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF35343   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF35354   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF35362   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF35378   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF35415   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF35447   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF35553   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF35581   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF35591   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF35601   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF35609   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF35622   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF35623   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF35642   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF35704   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF35720   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF35735   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF35742   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF35791   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF35807   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF35813   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF35823   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF35841   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF35871   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF35877   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF35882   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF35952   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF36003   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF36031   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF36049   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF36055   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF36061   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF36109   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF36128   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF36150   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF36159   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF36213   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF36227   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF36229   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF36249   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF36273   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF36286   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF36333   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF36340   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF36354   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF36380   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF36402   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF36414   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF36440   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF36453   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF36459   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF36482   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF36531   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF36548   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF36619   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF36639   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF36643   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF36650   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF36697   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF36747   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF36771   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF36773   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF36824   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF36825   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF36845   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF36854   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF36868   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF36891   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF36955   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF36965   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF36990   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF37014   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF37017   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF37031   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF37060   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF37067   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF37069   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF37089   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF37097   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF37155   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF37203   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF37221   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF37222   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF37252   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF37255   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF37280   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF37289   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF37313   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF37328   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF37336   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF37362   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF37388   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF37408   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF37443   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF37456   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF37550   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF37578   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF37597   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF37612   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF37615   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF37715   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF37739   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF37749   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF37792   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF37807   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF37846   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF37883   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF37912   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF37945   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF37970   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF37977   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF37979   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF37984   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF38020   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF38068   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF38078   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF38082   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF38093   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF38098   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF38119   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF38130   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF38138   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF38139   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF38156   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF38157   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF38172   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF38203   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF38211   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF38338   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF38345   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF38354   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF38406   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF38426   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF38440   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF38447   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF38449   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF38451   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF38473   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF38491   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF38501   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF38502   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF38508   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF38546   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF38564   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF38574   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF38580   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF38596   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF38653   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF38658   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF38689   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF38734   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF38750   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF38771   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF38781   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF38809   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF45814   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF47535   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF48206   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF48421   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF49111   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AS3514    | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU26166   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU28036   | CSB         | Casablanca | Morocco   | InTransit    | Ready    | 19-Apr-2023  |
 +---------------+-------------+------------+-----------+--------------+----------+--------------+
 Consulate: DBL
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
@@ -220,15 +690,95 @@ Consulate: DHB
 +---------------+-------------+----------+------------+--------------+----------+--------------+
 | Case Number   | Consulate   | City     | Country    | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+----------+------------+--------------+----------+--------------|
+| 2023EU123     | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU189     | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU696     | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU947     | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU1068    | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU1142    | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU1310    | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU1329    | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU1417    | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU2209    | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU2487    | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU3279    | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU3488    | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU3715    | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU4041    | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU4239    | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU4293    | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU4437    | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU4808    | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU5007    | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU5772    | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU5778    | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU6230    | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU6251    | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU6274    | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU6561    | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU7265    | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU7458    | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU7515    | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU7748    | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU8107    | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU8397    | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU8652    | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU9212    | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU9665    | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU9979    | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU10142   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 19-Apr-2023  |
 | 2023EU10148   | DHB         | Dushanbe | Tajikistan | AP           | Issued   | 19-Apr-2023  |
+| 2023EU10635   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU10935   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU10982   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU10988   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU11583   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU11647   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU11712   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU11730   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU11828   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU11864   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU11939   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU12047   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 19-Apr-2023  |
 | 2023EU12140   | DHB         | Dushanbe | Tajikistan | AP           | Issued   | 19-Apr-2023  |
+| 2023EU12219   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU12575   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU12654   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU13080   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU13179   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU13292   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 19-Apr-2023  |
 | 2023EU13368   | DHB         | Dushanbe | Tajikistan | AP           | Issued   | 19-Apr-2023  |
+| 2023EU13663   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 19-Apr-2023  |
 | 2023EU13673   | DHB         | Dushanbe | Tajikistan | AP           | Issued   | 19-Apr-2023  |
 | 2023EU13695   | DHB         | Dushanbe | Tajikistan | AP           | Issued   | 19-Apr-2023  |
 | 2023EU14334   | DHB         | Dushanbe | Tajikistan | Ready        | AP       | 19-Apr-2023  |
+| 2023EU14710   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU14821   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU15286   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU15745   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU16091   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 19-Apr-2023  |
 | 2023EU16238   | DHB         | Dushanbe | Tajikistan | AP           | Issued   | 19-Apr-2023  |
 | 2023EU16462   | DHB         | Dushanbe | Tajikistan | Ready        | AP       | 19-Apr-2023  |
+| 2023EU16540   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 19-Apr-2023  |
 | 2023EU17751   | DHB         | Dushanbe | Tajikistan | AP           | Issued   | 19-Apr-2023  |
+| 2023EU18190   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU19475   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU19558   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU19579   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU20764   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU20940   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU20963   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU22024   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU23420   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU24913   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU25530   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU25589   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU25684   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU25690   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU25699   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU25758   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU25796   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU25811   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 19-Apr-2023  |
 +---------------+-------------+----------+------------+--------------+----------+--------------+
 Consulate: DJI
 +---------------+-------------+----------+-----------+--------------+----------+--------------+
@@ -256,8 +806,68 @@ Consulate: DOH
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023AF302     | DOH         | Doha   | Qatar     | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF1451    | DOH         | Doha   | Qatar     | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF1655    | DOH         | Doha   | Qatar     | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF5456    | DOH         | Doha   | Qatar     | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF6590    | DOH         | Doha   | Qatar     | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF6773    | DOH         | Doha   | Qatar     | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF11411   | DOH         | Doha   | Qatar     | InTransit    | Ready    | 19-Apr-2023  |
 | 2023AF12982   | DOH         | Doha   | Qatar     | Ready        | AP       | 19-Apr-2023  |
+| 2023AF14069   | DOH         | Doha   | Qatar     | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF15128   | DOH         | Doha   | Qatar     | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF16857   | DOH         | Doha   | Qatar     | InTransit    | Ready    | 19-Apr-2023  |
 | 2023AF17199   | DOH         | Doha   | Qatar     | Ready        | AP       | 19-Apr-2023  |
+| 2023AF23489   | DOH         | Doha   | Qatar     | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF24042   | DOH         | Doha   | Qatar     | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF24295   | DOH         | Doha   | Qatar     | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF27956   | DOH         | Doha   | Qatar     | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF28311   | DOH         | Doha   | Qatar     | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF28358   | DOH         | Doha   | Qatar     | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF29381   | DOH         | Doha   | Qatar     | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF30114   | DOH         | Doha   | Qatar     | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF30277   | DOH         | Doha   | Qatar     | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF30539   | DOH         | Doha   | Qatar     | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF30821   | DOH         | Doha   | Qatar     | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF32319   | DOH         | Doha   | Qatar     | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF33066   | DOH         | Doha   | Qatar     | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF34073   | DOH         | Doha   | Qatar     | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF34257   | DOH         | Doha   | Qatar     | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF35329   | DOH         | Doha   | Qatar     | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF35392   | DOH         | Doha   | Qatar     | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF36294   | DOH         | Doha   | Qatar     | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF36541   | DOH         | Doha   | Qatar     | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF38246   | DOH         | Doha   | Qatar     | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF39091   | DOH         | Doha   | Qatar     | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF39692   | DOH         | Doha   | Qatar     | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF42808   | DOH         | Doha   | Qatar     | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF43268   | DOH         | Doha   | Qatar     | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF43384   | DOH         | Doha   | Qatar     | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF43989   | DOH         | Doha   | Qatar     | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AS1193    | DOH         | Doha   | Qatar     | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AS3533    | DOH         | Doha   | Qatar     | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AS5482    | DOH         | Doha   | Qatar     | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AS6178    | DOH         | Doha   | Qatar     | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AS6254    | DOH         | Doha   | Qatar     | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AS6938    | DOH         | Doha   | Qatar     | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AS9355    | DOH         | Doha   | Qatar     | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AS9443    | DOH         | Doha   | Qatar     | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AS9979    | DOH         | Doha   | Qatar     | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AS10482   | DOH         | Doha   | Qatar     | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AS10786   | DOH         | Doha   | Qatar     | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AS11281   | DOH         | Doha   | Qatar     | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AS11412   | DOH         | Doha   | Qatar     | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AS11992   | DOH         | Doha   | Qatar     | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AS13239   | DOH         | Doha   | Qatar     | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AS13957   | DOH         | Doha   | Qatar     | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AS15020   | DOH         | Doha   | Qatar     | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AS16065   | DOH         | Doha   | Qatar     | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AS16621   | DOH         | Doha   | Qatar     | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AS17639   | DOH         | Doha   | Qatar     | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AS18327   | DOH         | Doha   | Qatar     | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AS18485   | DOH         | Doha   | Qatar     | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU4595    | DOH         | Doha   | Qatar     | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU16776   | DOH         | Doha   | Qatar     | InTransit    | Ready    | 19-Apr-2023  |
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: FRN
 +---------------+-------------+-----------+-----------+--------------+-------------+--------------+
@@ -402,23 +1012,106 @@ Consulate: KLL
 | Case Number   | Consulate   | City         | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+--------------+-----------+--------------+----------+--------------|
 | 2023AF31441   | KLL         | Kuala Lumpur | Malaysia  | AP           | Issued   | 19-Apr-2023  |
+| 2023AF60578   | KLL         | Kuala Lumpur | Malaysia  | InTransit    | Ready    | 20-Apr-2023  |
+| 2023AF61517   | KLL         | Kuala Lumpur | Malaysia  | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF63477   | KLL         | Kuala Lumpur | Malaysia  | InTransit    | Ready    | 20-Apr-2023  |
+| 2023AS2743    | KLL         | Kuala Lumpur | Malaysia  | InTransit    | Ready    | 20-Apr-2023  |
 | 2023AS3341    | KLL         | Kuala Lumpur | Malaysia  | AP           | Issued   | 19-Apr-2023  |
 | 2023AS4275    | KLL         | Kuala Lumpur | Malaysia  | Refused221g  | AP       | 19-Apr-2023  |
 +---------------+-------------+--------------+-----------+--------------+----------+--------------+
+Consulate: LMA
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023SA703     | LMA         | Lima   | Peru      | InTransit    | Ready    | 19-Apr-2023  |
+| 2023SA1525    | LMA         | Lima   | Peru      | InTransit    | Ready    | 19-Apr-2023  |
+| 2023SA1796    | LMA         | Lima   | Peru      | InTransit    | Ready    | 19-Apr-2023  |
+| 2023SA1897    | LMA         | Lima   | Peru      | InTransit    | Ready    | 19-Apr-2023  |
+| 2023SA2414    | LMA         | Lima   | Peru      | InTransit    | Ready    | 19-Apr-2023  |
+| 2023SA2421    | LMA         | Lima   | Peru      | InTransit    | Ready    | 19-Apr-2023  |
+| 2023SA2423    | LMA         | Lima   | Peru      | InTransit    | Ready    | 19-Apr-2023  |
+| 2023SA2436    | LMA         | Lima   | Peru      | InTransit    | Ready    | 19-Apr-2023  |
+| 2023SA2479    | LMA         | Lima   | Peru      | InTransit    | Ready    | 19-Apr-2023  |
+| 2023SA2503    | LMA         | Lima   | Peru      | InTransit    | Ready    | 19-Apr-2023  |
+| 2023SA2525    | LMA         | Lima   | Peru      | InTransit    | Ready    | 19-Apr-2023  |
+| 2023SA2535    | LMA         | Lima   | Peru      | InTransit    | Ready    | 19-Apr-2023  |
+| 2023SA2540    | LMA         | Lima   | Peru      | InTransit    | Ready    | 19-Apr-2023  |
+| 2023SA2544    | LMA         | Lima   | Peru      | InTransit    | Ready    | 19-Apr-2023  |
+| 2023SA2546    | LMA         | Lima   | Peru      | InTransit    | Ready    | 19-Apr-2023  |
+| 2023SA2551    | LMA         | Lima   | Peru      | InTransit    | Ready    | 19-Apr-2023  |
+| 2023SA2557    | LMA         | Lima   | Peru      | InTransit    | Ready    | 19-Apr-2023  |
+| 2023SA2565    | LMA         | Lima   | Peru      | InTransit    | Ready    | 19-Apr-2023  |
+| 2023SA2573    | LMA         | Lima   | Peru      | InTransit    | Ready    | 19-Apr-2023  |
+| 2023SA2578    | LMA         | Lima   | Peru      | InTransit    | Ready    | 19-Apr-2023  |
+| 2023SA2582    | LMA         | Lima   | Peru      | InTransit    | Ready    | 19-Apr-2023  |
+| 2023SA2608    | LMA         | Lima   | Peru      | InTransit    | Ready    | 19-Apr-2023  |
+| 2023SA2610    | LMA         | Lima   | Peru      | InTransit    | Ready    | 19-Apr-2023  |
+| 2023SA2623    | LMA         | Lima   | Peru      | InTransit    | Ready    | 19-Apr-2023  |
+| 2023SA2655    | LMA         | Lima   | Peru      | InTransit    | Ready    | 19-Apr-2023  |
+| 2023SA2671    | LMA         | Lima   | Peru      | InTransit    | Ready    | 19-Apr-2023  |
+| 2023SA2680    | LMA         | Lima   | Peru      | InTransit    | Ready    | 19-Apr-2023  |
+| 2023SA2683    | LMA         | Lima   | Peru      | InTransit    | Ready    | 19-Apr-2023  |
+| 2023SA2708    | LMA         | Lima   | Peru      | InTransit    | Ready    | 19-Apr-2023  |
+| 2023SA2727    | LMA         | Lima   | Peru      | InTransit    | Ready    | 19-Apr-2023  |
+| 2023SA2730    | LMA         | Lima   | Peru      | InTransit    | Ready    | 19-Apr-2023  |
+| 2023SA2734    | LMA         | Lima   | Peru      | InTransit    | Ready    | 19-Apr-2023  |
++---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: LOM
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status      | statusDate   |
 |---------------+-------------+--------+-----------+--------------+-------------+--------------|
+| 2023AF248     | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF567     | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF755     | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF1926    | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF2883    | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF3875    | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF3987    | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF4565    | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF5478    | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF5632    | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF6085    | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF7194    | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF7976    | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF8106    | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF8538    | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF8678    | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF8853    | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF9293    | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
 | 2023AF9532    | LOM         | Lome   | Togo      | AP           | Issued      | 19-Apr-2023  |
+| 2023AF9564    | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF9873    | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF9886    | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
 | 2023AF10060   | LOM         | Lome   | Togo      | AP           | Issued      | 19-Apr-2023  |
+| 2023AF10781   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF11836   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF11865   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF12852   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF13244   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF13350   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF13591   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF13617   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF13767   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF13923   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF14184   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF14774   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF15552   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF15733   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF15877   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF17614   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF20521   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF23007   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
 | 2023AF23976   | LOM         | Lome   | Togo      | AP           | Issued      | 19-Apr-2023  |
 | 2023AF24372   | LOM         | Lome   | Togo      | AP           | Issued      | 19-Apr-2023  |
 | 2023AF24430   | LOM         | Lome   | Togo      | AP           | Issued      | 19-Apr-2023  |
 | 2023AF24745   | LOM         | Lome   | Togo      | AP           | Issued      | 19-Apr-2023  |
 | 2023AF24846   | LOM         | Lome   | Togo      | Ready        | Refused221g | 19-Apr-2023  |
 | 2023AF25159   | LOM         | Lome   | Togo      | Ready        | AP          | 19-Apr-2023  |
+| 2023AF25281   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
 | 2023AF25348   | LOM         | Lome   | Togo      | Ready        | Issued      | 19-Apr-2023  |
+| 2023AF25464   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
 | 2023AF25904   | LOM         | Lome   | Togo      | Ready        | Refused221g | 19-Apr-2023  |
+| 2023AF27088   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
 | 2023AF29085   | LOM         | Lome   | Togo      | AP           | Issued      | 19-Apr-2023  |
 | 2023AF29537   | LOM         | Lome   | Togo      | AP           | Issued      | 19-Apr-2023  |
 | 2023AF29687   | LOM         | Lome   | Togo      | AP           | Issued      | 19-Apr-2023  |
@@ -431,6 +1124,79 @@ Consulate: LOM
 | 2023AF33029   | LOM         | Lome   | Togo      | AP           | Issued      | 19-Apr-2023  |
 | 2023AF33542   | LOM         | Lome   | Togo      | AP           | Issued      | 19-Apr-2023  |
 | 2023AF33931   | LOM         | Lome   | Togo      | AP           | Issued      | 19-Apr-2023  |
+| 2023AF34800   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF38921   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF39027   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF39740   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF40065   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF40157   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF40531   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF40646   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF40748   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF41176   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF41535   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF41584   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF41628   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF41819   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF41849   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF41851   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF42221   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF42245   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF42309   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF42332   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF42380   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF42626   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF42744   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF42752   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF42771   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF42782   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF43556   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF43580   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF43757   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF43823   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF43893   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF43972   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF44083   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF44182   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF44190   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF44409   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF44445   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF44464   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF44599   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF44673   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF44888   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF44992   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF45019   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF45044   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF45122   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF45411   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF45716   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF45721   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF45782   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF46035   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF46261   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF46395   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF46528   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF46553   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF46635   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF46770   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF47152   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF47222   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF47322   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF47442   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF47506   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF47853   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF48037   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF48172   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF48221   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF48260   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF48377   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF48479   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF48909   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF49304   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF49697   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF49801   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF49998   | LOM         | Lome   | Togo      | InTransit    | Ready       | 19-Apr-2023  |
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
 Consulate: LUA
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
@@ -442,12 +1208,27 @@ Consulate: LUA
 | 2023AF4672    | LUA         | Luanda | Angola    | Ready        | Refused221g | 19-Apr-2023  |
 | 2023AF43066   | LUA         | Luanda | Angola    | Refused221g  | Issued      | 19-Apr-2023  |
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
+Consulate: LUS
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023AF5865    | LUS         | Lusaka | Zambia    | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF26983   | LUS         | Lusaka | Zambia    | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF28745   | LUS         | Lusaka | Zambia    | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF49527   | LUS         | Lusaka | Zambia    | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF58945   | LUS         | Lusaka | Zambia    | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF62158   | LUS         | Lusaka | Zambia    | InTransit    | Ready    | 19-Apr-2023  |
+| 2023OC1409    | LUS         | Lusaka | Zambia    | InTransit    | Ready    | 19-Apr-2023  |
++---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: MDD
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023AF26529   | MDD         | Madrid | Spain     | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AS6967    | MDD         | Madrid | Spain     | InTransit    | Ready    | 19-Apr-2023  |
 | 2023EU26172   | MDD         | Madrid | Spain     | AP           | Issued   | 19-Apr-2023  |
 | 2023EU28686   | MDD         | Madrid | Spain     | AP           | Issued   | 19-Apr-2023  |
+| 2023SA2086    | MDD         | Madrid | Spain     | InTransit    | Ready    | 19-Apr-2023  |
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: MNG
 +---------------+-------------+---------+-----------+--------------+-------------+--------------+
@@ -456,6 +1237,75 @@ Consulate: MNG
 | 2023SA770     | MNG         | Managua | Nicaragua | Ready        | Refused221g | 19-Apr-2023  |
 | 2023SA2188    | MNG         | Managua | Nicaragua | Ready        | Refused221g | 19-Apr-2023  |
 +---------------+-------------+---------+-----------+--------------+-------------+--------------+
+Consulate: MNL
++---------------+-------------+--------+-------------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country     | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-------------+--------------+----------+--------------|
+| 2023AF62309   | MNL         | Manila | Philippines | InTransit    | Ready    | 19-Apr-2023  |
++---------------+-------------+--------+-------------+--------------+----------+--------------+
+Consulate: MRV
++---------------+-------------+----------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City     | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+----------+-----------+--------------+----------+--------------|
+| 2023AF10995   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF11577   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF11803   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF11933   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF12336   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF13305   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF13655   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF13818   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF13865   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF13983   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF14200   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF14440   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF15277   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF15695   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF15942   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF15991   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF17581   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF17666   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF24572   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF25665   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF26361   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF27484   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF28182   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF35733   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF38389   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF40108   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF41035   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF42469   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF45168   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF45261   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF45478   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF45542   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF45762   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF46599   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF46812   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF46814   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF47002   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF47373   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF48218   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF48228   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF48244   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF48254   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF48577   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF48700   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF48715   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF48982   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF49189   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF49210   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 19-Apr-2023  |
++---------------+-------------+----------+-----------+--------------+----------+--------------+
+Consulate: NPL
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023AF26699   | NPL         | Naples | Italy     | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF46773   | NPL         | Naples | Italy     | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF49985   | NPL         | Naples | Italy     | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AF62480   | NPL         | Naples | Italy     | InTransit    | Ready    | 19-Apr-2023  |
+| 2023AS6268    | NPL         | Naples | Italy     | InTransit    | Ready    | 19-Apr-2023  |
++---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: NRB
 +---------------+-------------+---------+-----------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City    | Country   | PrevStatus   | Status      | statusDate   |
@@ -728,13 +1578,29 @@ Consulate: None
 | 2023OC1531    | None        |        |           | NVC          | InTransit | None         |
 | 2023OC1534    | None        |        |           | NVC          | InTransit | None         |
 +---------------+-------------+--------+-----------+--------------+-----------+--------------+
+Consulate: PRG
++---------------+-------------+--------+----------------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country        | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+----------------+--------------+----------+--------------|
+| 2023EU17218   | PRG         | Prague | Czech Republic | InTransit    | Ready    | 19-Apr-2023  |
+| 2023EU29455   | PRG         | Prague | Czech Republic | InTransit    | Ready    | 19-Apr-2023  |
++---------------+-------------+--------+----------------+--------------+----------+--------------+
 Consulate: PRS
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status      | statusDate   |
 |---------------+-------------+--------+-----------+--------------+-------------+--------------|
 | 2023AF4680    | PRS         | Paris  | France    | Refused221g  | Ready       | 19-Apr-2023  |
+| 2023AF14169   | PRS         | Paris  | France    | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF32000   | PRS         | Paris  | France    | InTransit    | Ready       | 19-Apr-2023  |
 | 2023AF43682   | PRS         | Paris  | France    | Ready        | Refused221g | 19-Apr-2023  |
+| 2023AF45671   | PRS         | Paris  | France    | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF46272   | PRS         | Paris  | France    | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF47799   | PRS         | Paris  | France    | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF60769   | PRS         | Paris  | France    | InTransit    | Ready       | 19-Apr-2023  |
+| 2023AF62736   | PRS         | Paris  | France    | InTransit    | Ready       | 19-Apr-2023  |
+| 2023EU3312    | PRS         | Paris  | France    | InTransit    | Ready       | 19-Apr-2023  |
 | 2023EU5143    | PRS         | Paris  | France    | Ready        | Refused221g | 19-Apr-2023  |
+| 2023EU8003    | PRS         | Paris  | France    | InTransit    | Ready       | 19-Apr-2023  |
 | 2023EU10222   | PRS         | Paris  | France    | Refused221g  | AP          | 19-Apr-2023  |
 | 2023EU15199   | PRS         | Paris  | France    | Ready        | AP          | 19-Apr-2023  |
 | 2023EU16272   | PRS         | Paris  | France    | Ready        | AP          | 19-Apr-2023  |
@@ -743,6 +1609,14 @@ Consulate: PRS
 | 2023EU19267   | PRS         | Paris  | France    | Refused221g  | AP          | 19-Apr-2023  |
 | 2023EU19994   | PRS         | Paris  | France    | Ready        | AP          | 19-Apr-2023  |
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
+Consulate: PTS
++---------------+-------------+---------------+---------------------+--------------+----------+--------------+
+| Case Number   | Consulate   | City          | Country             | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+---------------+---------------------+--------------+----------+--------------|
+| 2023SA2412    | PTS         | Port Of Spain | Trinidad and Tobago | InTransit    | Ready    | 19-Apr-2023  |
+| 2023SA2669    | PTS         | Port Of Spain | Trinidad and Tobago | InTransit    | Ready    | 19-Apr-2023  |
+| 2023SA2679    | PTS         | Port Of Spain | Trinidad and Tobago | InTransit    | Ready    | 19-Apr-2023  |
++---------------+-------------+---------------+---------------------+--------------+----------+--------------+
 Consulate: RGA
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |

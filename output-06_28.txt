@@ -16,8 +16,19 @@ Consulate: BMB
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023AF24226   | BMB         | Mumbai | India     | InTransit    | Ready    | 28-Jun-2023  |
+| 2023AF25175   | BMB         | Mumbai | India     | InTransit    | Ready    | 28-Jun-2023  |
+| 2023AF27284   | BMB         | Mumbai | India     | InTransit    | Ready    | 28-Jun-2023  |
+| 2023AF27448   | BMB         | Mumbai | India     | InTransit    | Ready    | 28-Jun-2023  |
+| 2023AF31589   | BMB         | Mumbai | India     | InTransit    | Ready    | 28-Jun-2023  |
+| 2023AF39573   | BMB         | Mumbai | India     | InTransit    | Ready    | 28-Jun-2023  |
+| 2023AF40130   | BMB         | Mumbai | India     | InTransit    | Ready    | 28-Jun-2023  |
+| 2023AF46499   | BMB         | Mumbai | India     | InTransit    | Ready    | 28-Jun-2023  |
+| 2023AF53572   | BMB         | Mumbai | India     | InTransit    | Ready    | 28-Jun-2023  |
 | 2023AF58127   | BMB         | Mumbai | India     | Refused221g  | AP       | 28-Jun-2023  |
+| 2023AF60080   | BMB         | Mumbai | India     | InTransit    | Ready    | 28-Jun-2023  |
 | 2023AS9945    | BMB         | Mumbai | India     | Ready        | Issued   | 28-Jun-2023  |
+| 2023AS15841   | BMB         | Mumbai | India     | InTransit    | Ready    | 28-Jun-2023  |
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: BNK
 +---------------+-------------+---------+-----------+--------------+----------+--------------+
@@ -152,14 +163,101 @@ Consulate: LUA
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023AF1743    | LUA         | Luanda | Angola    | InTransit    | Ready    | 28-Jun-2023  |
+| 2023AF2058    | LUA         | Luanda | Angola    | InTransit    | Ready    | 28-Jun-2023  |
+| 2023AF2703    | LUA         | Luanda | Angola    | InTransit    | Ready    | 28-Jun-2023  |
 | 2023AF3257    | LUA         | Luanda | Angola    | Refused221g  | Ready    | 28-Jun-2023  |
+| 2023AF3592    | LUA         | Luanda | Angola    | InTransit    | Ready    | 28-Jun-2023  |
+| 2023AF5774    | LUA         | Luanda | Angola    | InTransit    | Ready    | 28-Jun-2023  |
+| 2023AF12134   | LUA         | Luanda | Angola    | InTransit    | Ready    | 28-Jun-2023  |
+| 2023AF14533   | LUA         | Luanda | Angola    | InTransit    | Ready    | 28-Jun-2023  |
+| 2023AF14543   | LUA         | Luanda | Angola    | InTransit    | Ready    | 28-Jun-2023  |
+| 2023AF17985   | LUA         | Luanda | Angola    | InTransit    | Ready    | 28-Jun-2023  |
+| 2023AF18062   | LUA         | Luanda | Angola    | InTransit    | Ready    | 28-Jun-2023  |
+| 2023AF18634   | LUA         | Luanda | Angola    | InTransit    | Ready    | 28-Jun-2023  |
+| 2023AF20344   | LUA         | Luanda | Angola    | InTransit    | Ready    | 28-Jun-2023  |
+| 2023AF21859   | LUA         | Luanda | Angola    | InTransit    | Ready    | 28-Jun-2023  |
 | 2023AF24171   | LUA         | Luanda | Angola    | Ready        | AP       | 28-Jun-2023  |
+| 2023AF25383   | LUA         | Luanda | Angola    | InTransit    | Ready    | 28-Jun-2023  |
+| 2023AF25528   | LUA         | Luanda | Angola    | InTransit    | Ready    | 28-Jun-2023  |
+| 2023AF26716   | LUA         | Luanda | Angola    | InTransit    | Ready    | 28-Jun-2023  |
+| 2023AF27859   | LUA         | Luanda | Angola    | InTransit    | Ready    | 28-Jun-2023  |
+| 2023AF27978   | LUA         | Luanda | Angola    | InTransit    | Ready    | 28-Jun-2023  |
+| 2023AF28522   | LUA         | Luanda | Angola    | InTransit    | Ready    | 28-Jun-2023  |
+| 2023AF28595   | LUA         | Luanda | Angola    | InTransit    | Ready    | 28-Jun-2023  |
+| 2023AF28902   | LUA         | Luanda | Angola    | InTransit    | Ready    | 28-Jun-2023  |
+| 2023AF29790   | LUA         | Luanda | Angola    | InTransit    | Ready    | 28-Jun-2023  |
+| 2023AF30026   | LUA         | Luanda | Angola    | InTransit    | Ready    | 28-Jun-2023  |
+| 2023AF30477   | LUA         | Luanda | Angola    | InTransit    | Ready    | 28-Jun-2023  |
+| 2023AF30691   | LUA         | Luanda | Angola    | InTransit    | Ready    | 28-Jun-2023  |
+| 2023AF31734   | LUA         | Luanda | Angola    | InTransit    | Ready    | 28-Jun-2023  |
+| 2023AF32369   | LUA         | Luanda | Angola    | InTransit    | Ready    | 28-Jun-2023  |
+| 2023AF33410   | LUA         | Luanda | Angola    | InTransit    | Ready    | 28-Jun-2023  |
+| 2023AF33962   | LUA         | Luanda | Angola    | InTransit    | Ready    | 28-Jun-2023  |
+| 2023AF34063   | LUA         | Luanda | Angola    | InTransit    | Ready    | 28-Jun-2023  |
+| 2023AF34120   | LUA         | Luanda | Angola    | InTransit    | Ready    | 28-Jun-2023  |
+| 2023AF34931   | LUA         | Luanda | Angola    | InTransit    | Ready    | 28-Jun-2023  |
 | 2023AF35285   | LUA         | Luanda | Angola    | Refused221g  | AP       | 28-Jun-2023  |
+| 2023AF35812   | LUA         | Luanda | Angola    | InTransit    | Ready    | 28-Jun-2023  |
+| 2023AF36210   | LUA         | Luanda | Angola    | InTransit    | Ready    | 28-Jun-2023  |
+| 2023AF36699   | LUA         | Luanda | Angola    | InTransit    | Ready    | 28-Jun-2023  |
+| 2023AF37428   | LUA         | Luanda | Angola    | InTransit    | Ready    | 28-Jun-2023  |
+| 2023AF38349   | LUA         | Luanda | Angola    | InTransit    | Ready    | 28-Jun-2023  |
+| 2023AF38775   | LUA         | Luanda | Angola    | InTransit    | Ready    | 28-Jun-2023  |
+| 2023AF39060   | LUA         | Luanda | Angola    | InTransit    | Ready    | 28-Jun-2023  |
+| 2023AF39712   | LUA         | Luanda | Angola    | InTransit    | Ready    | 28-Jun-2023  |
+| 2023AF41504   | LUA         | Luanda | Angola    | InTransit    | Ready    | 28-Jun-2023  |
+| 2023AF41892   | LUA         | Luanda | Angola    | InTransit    | Ready    | 28-Jun-2023  |
+| 2023AF42141   | LUA         | Luanda | Angola    | InTransit    | Ready    | 28-Jun-2023  |
+| 2023AF43309   | LUA         | Luanda | Angola    | InTransit    | Ready    | 28-Jun-2023  |
+| 2023AF43817   | LUA         | Luanda | Angola    | InTransit    | Ready    | 28-Jun-2023  |
+| 2023AF43997   | LUA         | Luanda | Angola    | InTransit    | Ready    | 28-Jun-2023  |
+| 2023AF44133   | LUA         | Luanda | Angola    | InTransit    | Ready    | 28-Jun-2023  |
+| 2023AF44239   | LUA         | Luanda | Angola    | InTransit    | Ready    | 28-Jun-2023  |
+| 2023AF45863   | LUA         | Luanda | Angola    | InTransit    | Ready    | 28-Jun-2023  |
+| 2023AF46523   | LUA         | Luanda | Angola    | InTransit    | Ready    | 28-Jun-2023  |
+| 2023AF46592   | LUA         | Luanda | Angola    | InTransit    | Ready    | 28-Jun-2023  |
+| 2023AF46982   | LUA         | Luanda | Angola    | InTransit    | Ready    | 28-Jun-2023  |
+| 2023AF48552   | LUA         | Luanda | Angola    | InTransit    | Ready    | 28-Jun-2023  |
+| 2023AF49295   | LUA         | Luanda | Angola    | InTransit    | Ready    | 28-Jun-2023  |
+| 2023AF49605   | LUA         | Luanda | Angola    | InTransit    | Ready    | 28-Jun-2023  |
+| 2023AF49865   | LUA         | Luanda | Angola    | InTransit    | Ready    | 28-Jun-2023  |
+| 2023AF50048   | LUA         | Luanda | Angola    | InTransit    | Ready    | 28-Jun-2023  |
+| 2023AF50141   | LUA         | Luanda | Angola    | InTransit    | Ready    | 28-Jun-2023  |
+| 2023AF50500   | LUA         | Luanda | Angola    | InTransit    | Ready    | 28-Jun-2023  |
+| 2023AF50665   | LUA         | Luanda | Angola    | InTransit    | Ready    | 28-Jun-2023  |
+| 2023AF51123   | LUA         | Luanda | Angola    | InTransit    | Ready    | 28-Jun-2023  |
+| 2023AF51205   | LUA         | Luanda | Angola    | InTransit    | Ready    | 28-Jun-2023  |
+| 2023AF51624   | LUA         | Luanda | Angola    | InTransit    | Ready    | 28-Jun-2023  |
+| 2023AF52715   | LUA         | Luanda | Angola    | InTransit    | Ready    | 28-Jun-2023  |
+| 2023AF53339   | LUA         | Luanda | Angola    | InTransit    | Ready    | 28-Jun-2023  |
+| 2023AF53487   | LUA         | Luanda | Angola    | InTransit    | Ready    | 28-Jun-2023  |
+| 2023AF54601   | LUA         | Luanda | Angola    | InTransit    | Ready    | 28-Jun-2023  |
+| 2023AF55305   | LUA         | Luanda | Angola    | InTransit    | Ready    | 28-Jun-2023  |
+| 2023AF56347   | LUA         | Luanda | Angola    | InTransit    | Ready    | 28-Jun-2023  |
+| 2023AF57051   | LUA         | Luanda | Angola    | InTransit    | Ready    | 28-Jun-2023  |
+| 2023AF57983   | LUA         | Luanda | Angola    | InTransit    | Ready    | 28-Jun-2023  |
+| 2023AF57984   | LUA         | Luanda | Angola    | InTransit    | Ready    | 28-Jun-2023  |
+| 2023AF58791   | LUA         | Luanda | Angola    | InTransit    | Ready    | 28-Jun-2023  |
+| 2023AF59159   | LUA         | Luanda | Angola    | InTransit    | Ready    | 28-Jun-2023  |
+| 2023AF59566   | LUA         | Luanda | Angola    | InTransit    | Ready    | 28-Jun-2023  |
+| 2023AF61248   | LUA         | Luanda | Angola    | InTransit    | Ready    | 28-Jun-2023  |
+| 2023AF61648   | LUA         | Luanda | Angola    | InTransit    | Ready    | 28-Jun-2023  |
+| 2023AF62363   | LUA         | Luanda | Angola    | InTransit    | Ready    | 28-Jun-2023  |
+| 2023AF62533   | LUA         | Luanda | Angola    | InTransit    | Ready    | 28-Jun-2023  |
+| 2023AF62920   | LUA         | Luanda | Angola    | InTransit    | Ready    | 28-Jun-2023  |
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: LUS
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status      | statusDate   |
 |---------------+-------------+--------+-----------+--------------+-------------+--------------|
+| 2023AF23603   | LUS         | Lusaka | Zambia    | InTransit    | Ready       | 28-Jun-2023  |
+| 2023AF24028   | LUS         | Lusaka | Zambia    | InTransit    | Ready       | 28-Jun-2023  |
+| 2023AF32837   | LUS         | Lusaka | Zambia    | InTransit    | Ready       | 28-Jun-2023  |
+| 2023AF44456   | LUS         | Lusaka | Zambia    | InTransit    | Ready       | 28-Jun-2023  |
+| 2023AF45914   | LUS         | Lusaka | Zambia    | InTransit    | Ready       | 28-Jun-2023  |
+| 2023AF46118   | LUS         | Lusaka | Zambia    | InTransit    | Ready       | 28-Jun-2023  |
+| 2023AF47236   | LUS         | Lusaka | Zambia    | InTransit    | Ready       | 28-Jun-2023  |
 | 2023AF58945   | LUS         | Lusaka | Zambia    | Ready        | Refused221g | 28-Jun-2023  |
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
 Consulate: MDD

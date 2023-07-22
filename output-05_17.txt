@@ -108,6 +108,13 @@ Consulate: AMM
 | 2023AS13198   | AMM         | Amman  | Jordan    | Ready        | Refused221g | 17-May-2023  |
 | 2023AS18304   | AMM         | Amman  | Jordan    | Refused221g  | Refused     | 17-May-2023  |
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
+Consulate: AMS
++---------------+-------------+-----------+-------------+--------------+----------+--------------+
+| Case Number   | Consulate   | City      | Country     | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+-----------+-------------+--------------+----------+--------------|
+| 2023AF62183   | AMS         | Amsterdam | Netherlands | InTransit    | Ready    | 17-May-2023  |
+| 2023AS19165   | AMS         | Amsterdam | Netherlands | InTransit    | Ready    | 17-May-2023  |
++---------------+-------------+-----------+-------------+--------------+----------+--------------+
 Consulate: ANK
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
@@ -161,6 +168,12 @@ Consulate: BDP
 |---------------+-------------+----------+-----------+--------------+----------+--------------|
 | 2023EU29762   | BDP         | Budapest | Hungary   | AP           | Issued   | 17-May-2023  |
 +---------------+-------------+----------+-----------+--------------+----------+--------------+
+Consulate: BEN
++---------------+-------------+--------+-------------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country     | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-------------+--------------+----------+--------------|
+| 2023EU30941   | BEN         | Bern   | Switzerland | InTransit    | Ready    | 17-May-2023  |
++---------------+-------------+--------+-------------+--------------+----------+--------------+
 Consulate: BKK
 +---------------+-------------+---------+------------+--------------+----------+--------------+
 | Case Number   | Consulate   | City    | Country    | PrevStatus   | Status   | statusDate   |
@@ -206,15 +219,168 @@ Consulate: CRO
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status      | statusDate   |
 |---------------+-------------+--------+-----------+--------------+-------------+--------------|
+| 2023AF1102    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF2976    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF3876    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
 | 2023AF6359    | CRO         | Cairo  | Egypt     | Refused221g  | AP          | 17-May-2023  |
+| 2023AF6754    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF7801    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF9631    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
 | 2023AF11530   | CRO         | Cairo  | Egypt     | Ready        | AP          | 17-May-2023  |
 | 2023AF11570   | CRO         | Cairo  | Egypt     | Ready        | AP          | 17-May-2023  |
+| 2023AF12662   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
 | 2023AF13141   | CRO         | Cairo  | Egypt     | Ready        | AP          | 17-May-2023  |
 | 2023AF13227   | CRO         | Cairo  | Egypt     | AP           | Issued      | 17-May-2023  |
 | 2023AF13434   | CRO         | Cairo  | Egypt     | Ready        | AP          | 17-May-2023  |
 | 2023AF13561   | CRO         | Cairo  | Egypt     | Ready        | Issued      | 17-May-2023  |
 | 2023AF13609   | CRO         | Cairo  | Egypt     | AP           | Issued      | 17-May-2023  |
+| 2023AF13900   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
 | 2023AF14581   | CRO         | Cairo  | Egypt     | Ready        | Refused221g | 17-May-2023  |
+| 2023AF14632   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF16152   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF16209   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF16288   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF16293   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF16308   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF16333   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF16457   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF16463   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF16466   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF16469   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF16472   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF16516   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF16518   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF16520   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF16541   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF16556   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF16558   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF16576   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF16607   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF16612   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF16628   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF16629   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF16653   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF16658   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF16667   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF16688   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF16722   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF16739   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF16768   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF16774   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF16801   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF16823   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF16841   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF16868   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF16876   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF16916   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF16917   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF16922   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF16955   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF16970   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF16995   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF17022   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF17027   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF17052   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF17094   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF17120   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF17123   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF17139   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF17177   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF17201   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF17214   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF17233   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF17276   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF17340   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF17360   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF17369   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF17404   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF17522   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF17537   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF17542   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF17593   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF17636   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF17687   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF17692   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF17698   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF17724   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF17739   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF17814   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF17819   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF17855   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF17872   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF17899   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF17910   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF17944   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF17945   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF17980   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF18071   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF18092   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF18106   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF18110   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF18218   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF18275   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF18289   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF18297   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF18319   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF18328   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF18330   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF18351   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF18353   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF18371   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF18404   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF18441   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF18463   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF18480   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF18546   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF18554   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF18561   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF18576   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF18601   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF18650   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF18668   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF18695   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF18730   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF18765   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF18877   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF18901   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF18904   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF19072   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF19075   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF19181   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF20625   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF21302   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF21515   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF23329   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF23420   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF24298   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF24456   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF24659   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF25670   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF28860   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF36547   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF36759   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF37570   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF43044   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF43758   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF44096   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF44817   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF48354   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF50371   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF50478   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF50748   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF51798   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF52453   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF52609   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF54334   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF54732   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF56765   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF56828   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF59230   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AF59555   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AS20      | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AS6909    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AS10857   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
+| 2023AS15415   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-May-2023  |
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
 Consulate: CSB
 +---------------+-------------+------------+-----------+--------------+----------+--------------+
@@ -227,6 +393,15 @@ Consulate: CSB
 | 2023AF30232   | CSB         | Casablanca | Morocco   | AP           | Issued   | 17-May-2023  |
 | 2023AF31095   | CSB         | Casablanca | Morocco   | Ready        | Issued   | 17-May-2023  |
 +---------------+-------------+------------+-----------+--------------+----------+--------------+
+Consulate: DBL
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023EU17114   | DBL         | Dublin | Ireland   | InTransit    | Ready    | 17-May-2023  |
+| 2023EU27581   | DBL         | Dublin | Ireland   | InTransit    | Ready    | 17-May-2023  |
+| 2023EU30170   | DBL         | Dublin | Ireland   | InTransit    | Ready    | 17-May-2023  |
+| 2023EU31342   | DBL         | Dublin | Ireland   | InTransit    | Ready    | 17-May-2023  |
++---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: DHB
 +---------------+-------------+----------+------------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City     | Country    | PrevStatus   | Status      | statusDate   |
@@ -288,6 +463,21 @@ Consulate: DKR
 | 2023AF56847   | DKR         | Dakar  | Senegal   | Ready        | Issued      | 17-May-2023  |
 | 2023AF57502   | DKR         | Dakar  | Senegal   | Ready        | Refused221g | 17-May-2023  |
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
+Consulate: DOH
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023AF20148   | DOH         | Doha   | Qatar     | InTransit    | Ready    | 17-May-2023  |
+| 2023AF20764   | DOH         | Doha   | Qatar     | InTransit    | Ready    | 17-May-2023  |
+| 2023AF21466   | DOH         | Doha   | Qatar     | InTransit    | Ready    | 17-May-2023  |
+| 2023AF22248   | DOH         | Doha   | Qatar     | InTransit    | Ready    | 17-May-2023  |
+| 2023AF23289   | DOH         | Doha   | Qatar     | InTransit    | Ready    | 17-May-2023  |
+| 2023AF24488   | DOH         | Doha   | Qatar     | InTransit    | Ready    | 17-May-2023  |
+| 2023AF28815   | DOH         | Doha   | Qatar     | InTransit    | Ready    | 17-May-2023  |
+| 2023AF29493   | DOH         | Doha   | Qatar     | InTransit    | Ready    | 17-May-2023  |
+| 2023AS12039   | DOH         | Doha   | Qatar     | InTransit    | Ready    | 17-May-2023  |
+| 2023AS16448   | DOH         | Doha   | Qatar     | InTransit    | Ready    | 17-May-2023  |
++---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: FRN
 +---------------+-------------+-----------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City      | Country   | PrevStatus   | Status   | statusDate   |
@@ -323,6 +513,8 @@ Consulate: GTM
 | Case Number   | Consulate   | City           | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+----------------+-----------+--------------+----------+--------------|
 | 2023SA288     | GTM         | Guatemala City | Guatemala | AP           | Issued   | 17-May-2023  |
+| 2023SA2752    | GTM         | Guatemala City | Guatemala | InTransit    | Ready    | 17-May-2023  |
+| 2023SA2781    | GTM         | Guatemala City | Guatemala | InTransit    | Ready    | 17-May-2023  |
 +---------------+-------------+----------------+-----------+--------------+----------+--------------+
 Consulate: GUZ
 +---------------+-------------+-----------+-----------+--------------+----------+--------------+
@@ -330,6 +522,21 @@ Consulate: GUZ
 |---------------+-------------+-----------+-----------+--------------+----------+--------------|
 | 2023AF3028    | GUZ         | Guangzhou | China     | Ready        | Issued   | 17-May-2023  |
 | 2023AF20568   | GUZ         | Guangzhou | China     | Refused221g  | AP       | 17-May-2023  |
+| 2023AF39598   | GUZ         | Guangzhou | China     | InTransit    | Ready    | 17-May-2023  |
+| 2023AS20719   | GUZ         | Guangzhou | China     | InTransit    | Ready    | 17-May-2023  |
++---------------+-------------+-----------+-----------+--------------+----------+--------------+
+Consulate: GYQ
++---------------+-------------+-----------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City      | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+-----------+-----------+--------------+----------+--------------|
+| 2023SA716     | GYQ         | Guayaquil | Ecuador   | InTransit    | Ready    | 17-May-2023  |
+| 2023SA1788    | GYQ         | Guayaquil | Ecuador   | InTransit    | Ready    | 17-May-2023  |
+| 2023SA2741    | GYQ         | Guayaquil | Ecuador   | InTransit    | Ready    | 17-May-2023  |
+| 2023SA2792    | GYQ         | Guayaquil | Ecuador   | InTransit    | Ready    | 17-May-2023  |
+| 2023SA2798    | GYQ         | Guayaquil | Ecuador   | InTransit    | Ready    | 17-May-2023  |
+| 2023SA2842    | GYQ         | Guayaquil | Ecuador   | InTransit    | Ready    | 17-May-2023  |
+| 2023SA2884    | GYQ         | Guayaquil | Ecuador   | InTransit    | Ready    | 17-May-2023  |
+| 2023SA2890    | GYQ         | Guayaquil | Ecuador   | InTransit    | Ready    | 17-May-2023  |
 +---------------+-------------+-----------+-----------+--------------+----------+--------------+
 Consulate: HAV
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
@@ -352,6 +559,23 @@ Consulate: HRE
 | 2023AF29979   | HRE         | Harare | Zimbabwe  | Refused221g  | Issued   | 17-May-2023  |
 | 2023AF31602   | HRE         | Harare | Zimbabwe  | Refused221g  | Issued   | 17-May-2023  |
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
+Consulate: ISL
++---------------+-------------+-----------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City      | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+-----------+-----------+--------------+----------+--------------|
+| 2023AS770     | ISL         | Islamabad | Pakistan  | InTransit    | Ready    | 17-May-2023  |
+| 2023AS9728    | ISL         | Islamabad | Pakistan  | InTransit    | Ready    | 17-May-2023  |
+| 2023AS14298   | ISL         | Islamabad | Pakistan  | InTransit    | Ready    | 17-May-2023  |
+| 2023AS14917   | ISL         | Islamabad | Pakistan  | InTransit    | Ready    | 17-May-2023  |
+| 2023AS14958   | ISL         | Islamabad | Pakistan  | InTransit    | Ready    | 17-May-2023  |
+| 2023AS14989   | ISL         | Islamabad | Pakistan  | InTransit    | Ready    | 17-May-2023  |
+| 2023AS15044   | ISL         | Islamabad | Pakistan  | InTransit    | Ready    | 17-May-2023  |
+| 2023AS15081   | ISL         | Islamabad | Pakistan  | InTransit    | Ready    | 17-May-2023  |
+| 2023AS15106   | ISL         | Islamabad | Pakistan  | InTransit    | Ready    | 17-May-2023  |
+| 2023AS15150   | ISL         | Islamabad | Pakistan  | InTransit    | Ready    | 17-May-2023  |
+| 2023AS15317   | ISL         | Islamabad | Pakistan  | InTransit    | Ready    | 17-May-2023  |
+| 2023AS15444   | ISL         | Islamabad | Pakistan  | InTransit    | Ready    | 17-May-2023  |
++---------------+-------------+-----------+-----------+--------------+----------+--------------+
 Consulate: JHN
 +---------------+-------------+--------------+--------------+--------------+----------+--------------+
 | Case Number   | Consulate   | City         | Country      | PrevStatus   | Status   | statusDate   |
@@ -359,15 +583,26 @@ Consulate: JHN
 | 2023AF6940    | JHN         | Johannesburg | South Africa | Ready        | AP       | 17-May-2023  |
 | 2023AF13615   | JHN         | Johannesburg | South Africa | Refused221g  | Ready    | 17-May-2023  |
 | 2023AF16210   | JHN         | Johannesburg | South Africa | AP           | Issued   | 17-May-2023  |
+| 2023AF19706   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 17-May-2023  |
 | 2023AF21996   | JHN         | Johannesburg | South Africa | Refused221g  | AP       | 17-May-2023  |
+| 2023AF32090   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 17-May-2023  |
 | 2023AF35970   | JHN         | Johannesburg | South Africa | AP           | Issued   | 17-May-2023  |
+| 2023AF38435   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 17-May-2023  |
 | 2023AF42722   | JHN         | Johannesburg | South Africa | Refused221g  | Ready    | 17-May-2023  |
+| 2023AF46141   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 17-May-2023  |
+| 2023AF47068   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 17-May-2023  |
 +---------------+-------------+--------------+--------------+--------------+----------+--------------+
 Consulate: JRS
 +---------------+-------------+-----------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City      | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+-----------+-----------+--------------+----------+--------------|
+| 2023AF32192   | JRS         | Jerusalem | Israel    | InTransit    | Ready    | 17-May-2023  |
+| 2023AF37375   | JRS         | Jerusalem | Israel    | InTransit    | Ready    | 17-May-2023  |
+| 2023AF37725   | JRS         | Jerusalem | Israel    | InTransit    | Ready    | 17-May-2023  |
 | 2023AS18100   | JRS         | Jerusalem | Israel    | AP           | Issued   | 17-May-2023  |
+| 2023AS19522   | JRS         | Jerusalem | Israel    | InTransit    | Ready    | 17-May-2023  |
+| 2023AS19760   | JRS         | Jerusalem | Israel    | InTransit    | Ready    | 17-May-2023  |
+| 2023AS20886   | JRS         | Jerusalem | Israel    | InTransit    | Ready    | 17-May-2023  |
 +---------------+-------------+-----------+-----------+--------------+----------+--------------+
 Consulate: KDU
 +---------------+-------------+-----------+-----------+--------------+-------------+--------------+
@@ -481,6 +716,7 @@ Consulate: LMA
 |---------------+-------------+--------+-----------+--------------+----------+--------------|
 | 2023SA42      | LMA         | Lima   | Peru      | Refused221g  | AP       | 17-May-2023  |
 | 2023SA304     | LMA         | Lima   | Peru      | AP           | Issued   | 17-May-2023  |
+| 2023SA1110    | LMA         | Lima   | Peru      | InTransit    | Ready    | 17-May-2023  |
 | 2023SA1232    | LMA         | Lima   | Peru      | AP           | Issued   | 17-May-2023  |
 | 2023SA1402    | LMA         | Lima   | Peru      | AP           | Issued   | 17-May-2023  |
 | 2023SA1924    | LMA         | Lima   | Peru      | AP           | Issued   | 17-May-2023  |
@@ -488,6 +724,26 @@ Consulate: LMA
 | 2023SA2325    | LMA         | Lima   | Peru      | AP           | Issued   | 17-May-2023  |
 | 2023SA2356    | LMA         | Lima   | Peru      | AP           | Issued   | 17-May-2023  |
 | 2023SA2358    | LMA         | Lima   | Peru      | AP           | Issued   | 17-May-2023  |
+| 2023SA2744    | LMA         | Lima   | Peru      | InTransit    | Ready    | 17-May-2023  |
+| 2023SA2747    | LMA         | Lima   | Peru      | InTransit    | Ready    | 17-May-2023  |
+| 2023SA2749    | LMA         | Lima   | Peru      | InTransit    | Ready    | 17-May-2023  |
+| 2023SA2761    | LMA         | Lima   | Peru      | InTransit    | Ready    | 17-May-2023  |
+| 2023SA2772    | LMA         | Lima   | Peru      | InTransit    | Ready    | 17-May-2023  |
+| 2023SA2778    | LMA         | Lima   | Peru      | InTransit    | Ready    | 17-May-2023  |
+| 2023SA2784    | LMA         | Lima   | Peru      | InTransit    | Ready    | 17-May-2023  |
+| 2023SA2805    | LMA         | Lima   | Peru      | InTransit    | Ready    | 17-May-2023  |
+| 2023SA2821    | LMA         | Lima   | Peru      | InTransit    | Ready    | 17-May-2023  |
+| 2023SA2832    | LMA         | Lima   | Peru      | InTransit    | Ready    | 17-May-2023  |
+| 2023SA2836    | LMA         | Lima   | Peru      | InTransit    | Ready    | 17-May-2023  |
+| 2023SA2843    | LMA         | Lima   | Peru      | InTransit    | Ready    | 17-May-2023  |
+| 2023SA2852    | LMA         | Lima   | Peru      | InTransit    | Ready    | 17-May-2023  |
+| 2023SA2853    | LMA         | Lima   | Peru      | InTransit    | Ready    | 17-May-2023  |
+| 2023SA2855    | LMA         | Lima   | Peru      | InTransit    | Ready    | 17-May-2023  |
+| 2023SA2859    | LMA         | Lima   | Peru      | InTransit    | Ready    | 17-May-2023  |
+| 2023SA2879    | LMA         | Lima   | Peru      | InTransit    | Ready    | 17-May-2023  |
+| 2023SA2887    | LMA         | Lima   | Peru      | InTransit    | Ready    | 17-May-2023  |
+| 2023SA2891    | LMA         | Lima   | Peru      | InTransit    | Ready    | 17-May-2023  |
+| 2023SA2892    | LMA         | Lima   | Peru      | InTransit    | Ready    | 17-May-2023  |
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: LND
 +---------------+-------------+--------+----------------+--------------+----------+--------------+
@@ -519,6 +775,13 @@ Consulate: LUA
 | 2023AF47635   | LUA         | Luanda | Angola    | Ready        | Refused     | 17-May-2023  |
 | 2023AF49424   | LUA         | Luanda | Angola    | Ready        | Issued      | 17-May-2023  |
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
+Consulate: LUS
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023AF1783    | LUS         | Lusaka | Zambia    | InTransit    | Ready    | 17-May-2023  |
+| 2023EU12544   | LUS         | Lusaka | Zambia    | InTransit    | Ready    | 17-May-2023  |
++---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: MDD
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |

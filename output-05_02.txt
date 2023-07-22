@@ -391,9 +391,22 @@ Consulate: JHN
 +---------------+-------------+--------------+--------------+--------------+----------+--------------+
 | Case Number   | Consulate   | City         | Country      | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+--------------+--------------+--------------+----------+--------------|
+| 2023AF2299    | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 02-May-2023  |
 | 2023AF6814    | JHN         | Johannesburg | South Africa | Ready        | AP       | 02-May-2023  |
+| 2023AF13165   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 02-May-2023  |
 | 2023AF17405   | JHN         | Johannesburg | South Africa | AP           | Issued   | 02-May-2023  |
+| 2023AF17740   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 02-May-2023  |
+| 2023AF35712   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 02-May-2023  |
 | 2023AF44662   | JHN         | Johannesburg | South Africa | AP           | Ready    | 02-May-2023  |
+| 2023AF58813   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 02-May-2023  |
+| 2023AF60179   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 02-May-2023  |
+| 2023AF60219   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 02-May-2023  |
+| 2023AF60261   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 02-May-2023  |
+| 2023AF60896   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 02-May-2023  |
+| 2023AF60929   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 02-May-2023  |
+| 2023AF61428   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 02-May-2023  |
+| 2023AF62307   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 02-May-2023  |
+| 2023AF62778   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 02-May-2023  |
 +---------------+-------------+--------------+--------------+--------------+----------+--------------+
 Consulate: KDU
 +---------------+-------------+-----------+-----------+--------------+----------+--------------+

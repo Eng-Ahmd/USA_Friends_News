@@ -9,7 +9,15 @@ Consulate: AMM
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023AF19119   | AMM         | Amman  | Jordan    | InTransit    | Ready    | 19-Jun-2023  |
 | 2023AF21238   | AMM         | Amman  | Jordan    | AP           | Issued   | 19-Jun-2023  |
+| 2023AF28065   | AMM         | Amman  | Jordan    | InTransit    | Ready    | 19-Jun-2023  |
+| 2023AF29896   | AMM         | Amman  | Jordan    | InTransit    | Ready    | 19-Jun-2023  |
+| 2023AS1808    | AMM         | Amman  | Jordan    | InTransit    | Ready    | 19-Jun-2023  |
+| 2023AS5510    | AMM         | Amman  | Jordan    | InTransit    | Ready    | 19-Jun-2023  |
+| 2023AS14831   | AMM         | Amman  | Jordan    | InTransit    | Ready    | 19-Jun-2023  |
+| 2023AS15388   | AMM         | Amman  | Jordan    | InTransit    | Ready    | 19-Jun-2023  |
+| 2023AS15693   | AMM         | Amman  | Jordan    | InTransit    | Ready    | 19-Jun-2023  |
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: CRO
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
@@ -74,6 +82,7 @@ Consulate: KWT
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023AF14527   | KWT         | Kuwait | Kuwait    | InTransit    | Ready    | 19-Jun-2023  |
 | 2023AF38813   | KWT         | Kuwait | Kuwait    | Ready        | Transfer | 19-Jun-2023  |
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: MRV
@@ -93,6 +102,12 @@ Consulate: RID
 | 2023AS7469    | RID         | Riyadh | Saudi Arabia | Ready        | AP          | 18-Jun-2023  |
 | 2023AS7605    | RID         | Riyadh | Saudi Arabia | Ready        | AP          | 18-Jun-2023  |
 +---------------+-------------+--------+--------------+--------------+-------------+--------------+
+Consulate: SUV
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023OC766     | SUV         | Suva   | Fiji      | InTransit    | Ready    | 20-Jun-2023  |
++---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: YDE
 +---------------+-------------+---------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City    | Country   | PrevStatus   | Status   | statusDate   |

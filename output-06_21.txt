@@ -262,6 +262,14 @@ Consulate: HCM
 |---------------+-------------+------------------+-----------+--------------+-------------+--------------|
 | 2023AF38199   | HCM         | Ho Chi Minh City | Vietnam   | Ready        | Refused221g | 21-Jun-2023  |
 +---------------+-------------+------------------+-----------+--------------+-------------+--------------+
+Consulate: HLS
++---------------+-------------+----------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City     | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+----------+-----------+--------------+----------+--------------|
+| 2023EU13088   | HLS         | Helsinki | Finland   | InTransit    | Ready    | 21-Jun-2023  |
+| 2023EU30814   | HLS         | Helsinki | Finland   | InTransit    | Ready    | 21-Jun-2023  |
+| 2023EU31451   | HLS         | Helsinki | Finland   | InTransit    | Ready    | 21-Jun-2023  |
++---------------+-------------+----------+-----------+--------------+----------+--------------+
 Consulate: ISL
 +---------------+-------------+-----------+-----------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City      | Country   | PrevStatus   | Status      | statusDate   |
@@ -967,6 +975,7 @@ Consulate: SKO
 |---------------+-------------+--------+-----------+--------------+----------+--------------|
 | 2023EU350     | SKO         | Skopje | Macedonia | Refused221g  | AP       | 21-Jun-2023  |
 | 2023EU478     | SKO         | Skopje | Macedonia | Ready        | AP       | 21-Jun-2023  |
+| 2023EU18545   | SKO         | Skopje | Macedonia | InTransit    | Ready    | 21-Jun-2023  |
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: SOF
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
@@ -1023,9 +1032,22 @@ Consulate: TNS
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023AF25091   | TNS         | Tunis  | Tunisia   | InTransit    | Ready    | 21-Jun-2023  |
+| 2023AF31064   | TNS         | Tunis  | Tunisia   | InTransit    | Ready    | 21-Jun-2023  |
+| 2023AF33862   | TNS         | Tunis  | Tunisia   | InTransit    | Ready    | 21-Jun-2023  |
+| 2023AF35937   | TNS         | Tunis  | Tunisia   | InTransit    | Ready    | 21-Jun-2023  |
+| 2023AF36267   | TNS         | Tunis  | Tunisia   | InTransit    | Ready    | 21-Jun-2023  |
+| 2023AF37499   | TNS         | Tunis  | Tunisia   | InTransit    | Ready    | 21-Jun-2023  |
+| 2023AF37636   | TNS         | Tunis  | Tunisia   | InTransit    | Ready    | 21-Jun-2023  |
+| 2023AF41163   | TNS         | Tunis  | Tunisia   | InTransit    | Ready    | 21-Jun-2023  |
+| 2023AF41668   | TNS         | Tunis  | Tunisia   | InTransit    | Ready    | 21-Jun-2023  |
+| 2023AF45379   | TNS         | Tunis  | Tunisia   | InTransit    | Ready    | 21-Jun-2023  |
+| 2023AF46664   | TNS         | Tunis  | Tunisia   | InTransit    | Ready    | 21-Jun-2023  |
+| 2023AF60847   | TNS         | Tunis  | Tunisia   | InTransit    | Ready    | 21-Jun-2023  |
 | 2023AF61099   | TNS         | Tunis  | Tunisia   | AP           | Issued   | 21-Jun-2023  |
 | 2023AF61451   | TNS         | Tunis  | Tunisia   | Refused221g  | Issued   | 21-Jun-2023  |
 | 2023AF62234   | TNS         | Tunis  | Tunisia   | AP           | Issued   | 21-Jun-2023  |
+| 2023AF63269   | TNS         | Tunis  | Tunisia   | InTransit    | Ready    | 21-Jun-2023  |
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: VNN
 +---------------+-------------+--------+-----------+--------------+----------+--------------+

@@ -336,6 +336,18 @@ Consulate: HAV
 | 2023SA1288    | HAV         | Havana | Cuba      | Refused221g  | AP       | 26-Apr-2023  |
 | 2023SA1754    | HAV         | Havana | Cuba      | Refused221g  | Issued   | 26-Apr-2023  |
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
+Consulate: HLS
++---------------+-------------+----------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City     | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+----------+-----------+--------------+----------+--------------|
+| 2023AF11887   | HLS         | Helsinki | Finland   | InTransit    | Ready    | 26-Apr-2023  |
+| 2023AF12264   | HLS         | Helsinki | Finland   | InTransit    | Ready    | 26-Apr-2023  |
+| 2023AF14279   | HLS         | Helsinki | Finland   | InTransit    | Ready    | 26-Apr-2023  |
+| 2023AS7847    | HLS         | Helsinki | Finland   | InTransit    | Ready    | 26-Apr-2023  |
+| 2023AS14303   | HLS         | Helsinki | Finland   | InTransit    | Ready    | 26-Apr-2023  |
+| 2023EU3555    | HLS         | Helsinki | Finland   | InTransit    | Ready    | 26-Apr-2023  |
+| 2023EU25655   | HLS         | Helsinki | Finland   | InTransit    | Ready    | 26-Apr-2023  |
++---------------+-------------+----------+-----------+--------------+----------+--------------+
 Consulate: HNK
 +---------------+-------------+-----------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City      | Country   | PrevStatus   | Status   | statusDate   |
@@ -441,6 +453,12 @@ Consulate: LOM
 | 2023AF33149   | LOM         | Lome   | Togo      | Ready        | AP          | 26-Apr-2023  |
 | 2023AF34681   | LOM         | Lome   | Togo      | AP           | Issued      | 26-Apr-2023  |
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
+Consulate: LPZ
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023SA2452    | LPZ         | La Paz | Bolivia   | InTransit    | Ready    | 26-Apr-2023  |
++---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: LUA
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status      | statusDate   |
@@ -537,6 +555,14 @@ Consulate: PRS
 |---------------+-------------+--------+-----------+--------------+----------+--------------|
 | 2023EU9507    | PRS         | Paris  | France    | Issued       | AP       | 26-Apr-2023  |
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
+Consulate: RDJ
++---------------+-------------+----------------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City           | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+----------------+-----------+--------------+----------+--------------|
+| 2023AF23110   | RDJ         | Rio De Janeiro | Brazil    | InTransit    | Ready    | 26-Apr-2023  |
+| 2023SA2404    | RDJ         | Rio De Janeiro | Brazil    | InTransit    | Ready    | 26-Apr-2023  |
+| 2023SA2691    | RDJ         | Rio De Janeiro | Brazil    | InTransit    | Ready    | 26-Apr-2023  |
++---------------+-------------+----------------+-----------+--------------+----------+--------------+
 Consulate: RID
 +---------------+-------------+--------+--------------+--------------+----------+--------------+
 | Case Number   | Consulate   | City   | Country      | PrevStatus   | Status   | statusDate   |

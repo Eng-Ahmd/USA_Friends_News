@@ -1,3 +1,16 @@
+Consulate: ADD
++---------------+-------------+-------------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City        | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+-------------+-----------+--------------+----------+--------------|
+| 2023AF7858    | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready    | 17-Jul-2023  |
+| 2023AF17209   | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready    | 17-Jul-2023  |
+| 2023AF17533   | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready    | 17-Jul-2023  |
+| 2023AF17723   | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready    | 17-Jul-2023  |
+| 2023AF18144   | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready    | 17-Jul-2023  |
+| 2023AF18428   | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready    | 17-Jul-2023  |
+| 2023AF18633   | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready    | 17-Jul-2023  |
+| 2023AF19818   | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready    | 17-Jul-2023  |
++---------------+-------------+-------------+-----------+--------------+----------+--------------+
 Consulate: ALG
 +---------------+-------------+---------+-----------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City    | Country   | PrevStatus   | Status      | statusDate   |
@@ -31,23 +44,229 @@ Consulate: CRO
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status      | statusDate   |
 |---------------+-------------+--------+-----------+--------------+-------------+--------------|
+| 2023AF722     | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF819     | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF1287    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF1813    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF2090    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF2913    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF3045    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF3383    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF3534    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF3698    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF3817    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF3977    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF4771    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF5161    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF5430    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF5458    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF5536    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF5755    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF5807    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF5859    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF6001    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF6057    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF6197    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF6550    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF6746    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF6895    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF7211    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF8078    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF8135    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF9321    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF9429    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF9433    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF9593    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF9599    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF9615    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF9669    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF9675    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF9765    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF10210   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF10219   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF10245   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF10291   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF10838   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
 | 2023AF10975   | CRO         | Cairo  | Egypt     | AP           | Issued      | 16-Jul-2023  |
+| 2023AF11134   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF11370   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF11544   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF11562   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF11632   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF11823   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF11959   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF12156   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF12444   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF12451   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF12620   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF12650   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF12753   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF12918   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF12972   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF12981   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF13497   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF13554   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF14046   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF14938   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF15398   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF15884   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF15941   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
 | 2023AF16152   | CRO         | Cairo  | Egypt     | Ready        | Refused221g | 16-Jul-2023  |
+| 2023AF16263   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
 | 2023AF16293   | CRO         | Cairo  | Egypt     | AP           | Issued      | 16-Jul-2023  |
+| 2023AF16319   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
 | 2023AF16520   | CRO         | Cairo  | Egypt     | Ready        | Refused221g | 16-Jul-2023  |
 | 2023AF16541   | CRO         | Cairo  | Egypt     | Ready        | AP          | 16-Jul-2023  |
+| 2023AF16617   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF17134   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
 | 2023AF17214   | CRO         | Cairo  | Egypt     | Ready        | Refused221g | 16-Jul-2023  |
 | 2023AF17404   | CRO         | Cairo  | Egypt     | Ready        | Refused221g | 16-Jul-2023  |
 | 2023AF17522   | CRO         | Cairo  | Egypt     | AP           | Issued      | 16-Jul-2023  |
 | 2023AF17537   | CRO         | Cairo  | Egypt     | Ready        | AP          | 16-Jul-2023  |
 | 2023AF17542   | CRO         | Cairo  | Egypt     | Ready        | AP          | 16-Jul-2023  |
+| 2023AF17859   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF17869   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
 | 2023AF18275   | CRO         | Cairo  | Egypt     | Ready        | AP          | 16-Jul-2023  |
+| 2023AF18329   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
 | 2023AF18576   | CRO         | Cairo  | Egypt     | AP           | Issued      | 16-Jul-2023  |
 | 2023AF18601   | CRO         | Cairo  | Egypt     | AP           | Issued      | 16-Jul-2023  |
 | 2023AF18730   | CRO         | Cairo  | Egypt     | AP           | Issued      | 16-Jul-2023  |
 | 2023AF19072   | CRO         | Cairo  | Egypt     | AP           | Issued      | 16-Jul-2023  |
+| 2023AF19116   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF19224   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF19426   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF19575   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF21407   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF23145   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF23754   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF23993   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF24354   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF26932   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF27120   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF27485   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF27766   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF29151   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF29200   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF30005   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF30611   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF31213   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF31303   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF32272   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF32324   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF32661   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF32820   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF33041   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF33211   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF33260   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF33356   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF33415   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF33875   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF33935   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF34087   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF34268   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF34532   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF35149   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF35158   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF35209   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF35260   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF35643   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF35685   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF35874   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF35919   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF36134   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF36241   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF36266   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF36293   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF36371   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF36592   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF36689   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF37177   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF37216   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF37239   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF37572   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF37591   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF37736   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF37745   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF37797   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF37893   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF37899   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF38629   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF38637   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF38801   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF39261   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF39511   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF39526   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF39537   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF39603   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF39671   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF39723   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF39792   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF39914   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF39932   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF39949   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF39953   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF40170   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF40177   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF40274   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF40407   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF40540   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF40558   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF40859   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF41065   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF41206   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF41232   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF41276   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF41282   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF41384   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF41452   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF41804   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF41829   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF41886   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF41939   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF41985   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF42082   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF42133   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF42280   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF42490   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF42692   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF42885   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF43087   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF43632   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF43638   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF44007   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF44068   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF44187   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF44294   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF44503   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF44546   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF44751   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF44757   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF44793   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF45267   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF45445   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF45470   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF45635   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF45787   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF45970   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF45976   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF46123   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF46209   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF46210   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF46284   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF46566   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF46591   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF46783   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF46917   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF46920   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF46994   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF47053   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF47087   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AF47284   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
 | 2023AF48354   | CRO         | Cairo  | Egypt     | AP           | Issued      | 16-Jul-2023  |
+| 2023AS8357    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
+| 2023AS10376   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
 | 2023AS15802   | CRO         | Cairo  | Egypt     | Refused221g  | AP          | 16-Jul-2023  |
+| 2023AS17691   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 17-Jul-2023  |
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
 Consulate: DJI
 +---------------+-------------+----------+-----------+--------------+-------------+--------------+
@@ -96,8 +315,104 @@ Consulate: RID
 +---------------+-------------+--------+--------------+--------------+----------+--------------+
 | Case Number   | Consulate   | City   | Country      | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+--------+--------------+--------------+----------+--------------|
+| 2023AF339     | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF794     | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF875     | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF882     | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF1874    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF1965    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF2111    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF3873    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF4562    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF5146    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF5251    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF5265    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF5470    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF5655    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF5908    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF6553    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF9094    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF9881    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF10108   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF10175   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF10570   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF11587   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF11612   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF12360   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF12528   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF12577   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF12598   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF12658   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF12921   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF13002   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF13055   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF13433   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF14236   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF14268   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF14292   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF14452   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF14882   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF15158   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF15317   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF15440   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF15549   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF16821   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF16879   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF17066   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF17069   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF17164   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF17185   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF17587   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF18112   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF18344   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF18954   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF19031   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF19079   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF19237   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF19322   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF19421   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF19593   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF19615   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF19708   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF19930   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF20639   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF20768   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF21122   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF21142   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF21384   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF21753   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF21818   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF22094   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF22538   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF22599   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF22706   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF22910   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF23405   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF23539   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF23738   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF23745   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF24177   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF24682   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF24817   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF25205   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF25989   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF26016   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF26297   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF26416   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF26703   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF26744   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF26937   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF27022   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF27112   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
+| 2023AF27282   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Jul-2023  |
 | 2023AS874     | RID         | Riyadh | Saudi Arabia | Ready        | AP       | 16-Jul-2023  |
 | 2023AS1444    | RID         | Riyadh | Saudi Arabia | Ready        | AP       | 16-Jul-2023  |
 | 2023AS2342    | RID         | Riyadh | Saudi Arabia | Ready        | AP       | 16-Jul-2023  |
 | 2023AS8285    | RID         | Riyadh | Saudi Arabia | Ready        | AP       | 16-Jul-2023  |
 +---------------+-------------+--------+--------------+--------------+----------+--------------+
+Consulate: VNN
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023AF12712   | VNN         | Vienna | Austria   | InTransit    | Ready    | 17-Jul-2023  |
++---------------+-------------+--------+-----------+--------------+----------+--------------+

@@ -1065,7 +1065,11 @@ Consulate: MTL
 +---------------+-------------+----------+-----------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City     | Country   | PrevStatus   | Status      | statusDate   |
 |---------------+-------------+----------+-----------+--------------+-------------+--------------|
+| 2023AF20641   | MTL         | Montreal | Canada    | InTransit    | Ready       | 06-Jun-2023  |
+| 2023AF32450   | MTL         | Montreal | Canada    | InTransit    | Ready       | 06-Jun-2023  |
+| 2023AF38475   | MTL         | Montreal | Canada    | InTransit    | Ready       | 06-Jun-2023  |
 | 2023AF54547   | MTL         | Montreal | Canada    | Ready        | Refused221g | 09-Jun-2023  |
+| 2023AF59739   | MTL         | Montreal | Canada    | InTransit    | Ready       | 06-Jun-2023  |
 | 2023AS6660    | MTL         | Montreal | Canada    | Ready        | Refused221g | 09-Jun-2023  |
 | 2023AS6986    | MTL         | Montreal | Canada    | Ready        | Refused221g | 09-Jun-2023  |
 | 2023AS7140    | MTL         | Montreal | Canada    | Ready        | Refused221g | 06-Jun-2023  |
@@ -1074,10 +1078,27 @@ Consulate: MTL
 | 2023AS7947    | MTL         | Montreal | Canada    | Ready        | Refused221g | 09-Jun-2023  |
 | 2023AS8500    | MTL         | Montreal | Canada    | Ready        | Refused221g | 09-Jun-2023  |
 | 2023AS9894    | MTL         | Montreal | Canada    | Ready        | Issued      | 09-Jun-2023  |
+| 2023AS10703   | MTL         | Montreal | Canada    | InTransit    | Ready       | 06-Jun-2023  |
 | 2023AS10772   | MTL         | Montreal | Canada    | Refused221g  | Issued      | 08-Jun-2023  |
+| 2023AS10819   | MTL         | Montreal | Canada    | InTransit    | Ready       | 06-Jun-2023  |
+| 2023AS11262   | MTL         | Montreal | Canada    | InTransit    | Ready       | 06-Jun-2023  |
+| 2023AS11707   | MTL         | Montreal | Canada    | InTransit    | Ready       | 06-Jun-2023  |
+| 2023AS11918   | MTL         | Montreal | Canada    | InTransit    | Ready       | 06-Jun-2023  |
+| 2023AS12381   | MTL         | Montreal | Canada    | InTransit    | Ready       | 06-Jun-2023  |
 | 2023AS16513   | MTL         | Montreal | Canada    | Ready        | Issued      | 09-Jun-2023  |
+| 2023AS18814   | MTL         | Montreal | Canada    | InTransit    | Ready       | 06-Jun-2023  |
+| 2023AS19470   | MTL         | Montreal | Canada    | InTransit    | Ready       | 06-Jun-2023  |
+| 2023AS19876   | MTL         | Montreal | Canada    | InTransit    | Ready       | 06-Jun-2023  |
+| 2023AS20514   | MTL         | Montreal | Canada    | InTransit    | Ready       | 06-Jun-2023  |
+| 2023AS20693   | MTL         | Montreal | Canada    | InTransit    | Ready       | 06-Jun-2023  |
 | 2023EU13535   | MTL         | Montreal | Canada    | Ready        | Refused221g | 09-Jun-2023  |
 | 2023EU15859   | MTL         | Montreal | Canada    | Refused221g  | Issued      | 08-Jun-2023  |
+| 2023EU30403   | MTL         | Montreal | Canada    | InTransit    | Ready       | 06-Jun-2023  |
+| 2023EU30410   | MTL         | Montreal | Canada    | InTransit    | Ready       | 06-Jun-2023  |
+| 2023EU31125   | MTL         | Montreal | Canada    | InTransit    | Ready       | 06-Jun-2023  |
+| 2023EU31689   | MTL         | Montreal | Canada    | InTransit    | Ready       | 06-Jun-2023  |
+| 2023EU31768   | MTL         | Montreal | Canada    | InTransit    | Ready       | 08-Jun-2023  |
+| 2023OC1647    | MTL         | Montreal | Canada    | InTransit    | Ready       | 06-Jun-2023  |
 +---------------+-------------+----------+-----------+--------------+-------------+--------------+
 Consulate: NCS
 +---------------+-------------+---------+-----------+--------------+-------------+--------------+

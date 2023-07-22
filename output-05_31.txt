@@ -178,7 +178,35 @@ Consulate: BMB
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023AF24107   | BMB         | Mumbai | India     | InTransit    | Ready    | 31-May-2023  |
 | 2023AS3660    | BMB         | Mumbai | India     | Refused221g  | AP       | 31-May-2023  |
+| 2023AS10415   | BMB         | Mumbai | India     | InTransit    | Ready    | 31-May-2023  |
+| 2023AS12071   | BMB         | Mumbai | India     | InTransit    | Ready    | 31-May-2023  |
+| 2023AS18768   | BMB         | Mumbai | India     | InTransit    | Ready    | 31-May-2023  |
+| 2023AS19108   | BMB         | Mumbai | India     | InTransit    | Ready    | 31-May-2023  |
+| 2023AS19343   | BMB         | Mumbai | India     | InTransit    | Ready    | 31-May-2023  |
+| 2023AS19371   | BMB         | Mumbai | India     | InTransit    | Ready    | 31-May-2023  |
+| 2023AS19414   | BMB         | Mumbai | India     | InTransit    | Ready    | 31-May-2023  |
+| 2023AS19446   | BMB         | Mumbai | India     | InTransit    | Ready    | 31-May-2023  |
+| 2023AS19453   | BMB         | Mumbai | India     | InTransit    | Ready    | 31-May-2023  |
+| 2023AS19731   | BMB         | Mumbai | India     | InTransit    | Ready    | 31-May-2023  |
+| 2023AS19793   | BMB         | Mumbai | India     | InTransit    | Ready    | 31-May-2023  |
+| 2023AS19830   | BMB         | Mumbai | India     | InTransit    | Ready    | 31-May-2023  |
+| 2023AS19831   | BMB         | Mumbai | India     | InTransit    | Ready    | 31-May-2023  |
+| 2023AS19893   | BMB         | Mumbai | India     | InTransit    | Ready    | 31-May-2023  |
+| 2023AS19975   | BMB         | Mumbai | India     | InTransit    | Ready    | 31-May-2023  |
+| 2023AS19982   | BMB         | Mumbai | India     | InTransit    | Ready    | 31-May-2023  |
+| 2023AS20092   | BMB         | Mumbai | India     | InTransit    | Ready    | 31-May-2023  |
+| 2023AS20304   | BMB         | Mumbai | India     | InTransit    | Ready    | 31-May-2023  |
+| 2023AS20342   | BMB         | Mumbai | India     | InTransit    | Ready    | 31-May-2023  |
+| 2023AS20436   | BMB         | Mumbai | India     | InTransit    | Ready    | 31-May-2023  |
+| 2023AS20599   | BMB         | Mumbai | India     | InTransit    | Ready    | 31-May-2023  |
+| 2023AS20631   | BMB         | Mumbai | India     | InTransit    | Ready    | 31-May-2023  |
+| 2023AS20652   | BMB         | Mumbai | India     | InTransit    | Ready    | 31-May-2023  |
+| 2023AS20711   | BMB         | Mumbai | India     | InTransit    | Ready    | 31-May-2023  |
+| 2023AS20762   | BMB         | Mumbai | India     | InTransit    | Ready    | 31-May-2023  |
+| 2023AS20764   | BMB         | Mumbai | India     | InTransit    | Ready    | 31-May-2023  |
+| 2023AS20991   | BMB         | Mumbai | India     | InTransit    | Ready    | 31-May-2023  |
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: BNK
 +---------------+-------------+---------+-----------+--------------+----------+--------------+
@@ -308,27 +336,41 @@ Consulate: FTN
 | Case Number   | Consulate   | City     | Country      | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+----------+--------------+--------------+----------+--------------|
 | 2023AF6308    | FTN         | Freetown | Sierra Leone | AP           | Issued   | 31-May-2023  |
+| 2023AF8744    | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 31-May-2023  |
 | 2023AF9283    | FTN         | Freetown | Sierra Leone | Issued       | Ready    | 31-May-2023  |
 | 2023AF10921   | FTN         | Freetown | Sierra Leone | AP           | Issued   | 31-May-2023  |
 | 2023AF16847   | FTN         | Freetown | Sierra Leone | AP           | Issued   | 31-May-2023  |
+| 2023AF17212   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 31-May-2023  |
+| 2023AF18553   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 31-May-2023  |
 | 2023AF19855   | FTN         | Freetown | Sierra Leone | AP           | Issued   | 31-May-2023  |
 | 2023AF21412   | FTN         | Freetown | Sierra Leone | AP           | Issued   | 31-May-2023  |
 | 2023AF21433   | FTN         | Freetown | Sierra Leone | AP           | Issued   | 31-May-2023  |
+| 2023AF26523   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 31-May-2023  |
 | 2023AF28305   | FTN         | Freetown | Sierra Leone | AP           | Issued   | 31-May-2023  |
+| 2023AF33026   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 31-May-2023  |
 | 2023AF37093   | FTN         | Freetown | Sierra Leone | AP           | Issued   | 31-May-2023  |
 | 2023AF38394   | FTN         | Freetown | Sierra Leone | AP           | Issued   | 31-May-2023  |
 | 2023AF44028   | FTN         | Freetown | Sierra Leone | AP           | Ready    | 31-May-2023  |
+| 2023AF44422   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 31-May-2023  |
 | 2023AF45117   | FTN         | Freetown | Sierra Leone | AP           | Issued   | 31-May-2023  |
+| 2023AF47679   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 31-May-2023  |
+| 2023AF48456   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 31-May-2023  |
 | 2023AF50097   | FTN         | Freetown | Sierra Leone | AP           | Issued   | 31-May-2023  |
+| 2023AF50261   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 31-May-2023  |
 | 2023AF52295   | FTN         | Freetown | Sierra Leone | AP           | Issued   | 31-May-2023  |
 | 2023AF56010   | FTN         | Freetown | Sierra Leone | AP           | Ready    | 31-May-2023  |
+| 2023AF56384   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 31-May-2023  |
 | 2023AF56409   | FTN         | Freetown | Sierra Leone | AP           | Issued   | 31-May-2023  |
+| 2023AF56621   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 31-May-2023  |
+| 2023AF56682   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 31-May-2023  |
 | 2023AF56946   | FTN         | Freetown | Sierra Leone | AP           | Issued   | 31-May-2023  |
 | 2023AF56961   | FTN         | Freetown | Sierra Leone | AP           | Issued   | 31-May-2023  |
 | 2023AF56969   | FTN         | Freetown | Sierra Leone | AP           | Issued   | 31-May-2023  |
 | 2023AF58968   | FTN         | Freetown | Sierra Leone | AP           | Issued   | 31-May-2023  |
 | 2023AF59087   | FTN         | Freetown | Sierra Leone | AP           | Issued   | 31-May-2023  |
 | 2023AF59898   | FTN         | Freetown | Sierra Leone | AP           | Issued   | 31-May-2023  |
+| 2023AF61466   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 31-May-2023  |
+| 2023AF61557   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 31-May-2023  |
 +---------------+-------------+----------+--------------+--------------+----------+--------------+
 Consulate: HAV
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
@@ -355,6 +397,36 @@ Consulate: HRE
 | 2023AF33773   | HRE         | Harare | Zimbabwe  | Ready        | Issued   | 31-May-2023  |
 | 2023AF34228   | HRE         | Harare | Zimbabwe  | AP           | Issued   | 31-May-2023  |
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
+Consulate: ISL
++---------------+-------------+-----------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City      | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+-----------+-----------+--------------+----------+--------------|
+| 2023AF40556   | ISL         | Islamabad | Pakistan  | InTransit    | Ready    | 31-May-2023  |
+| 2023AF41049   | ISL         | Islamabad | Pakistan  | InTransit    | Ready    | 31-May-2023  |
+| 2023AF42714   | ISL         | Islamabad | Pakistan  | InTransit    | Ready    | 31-May-2023  |
+| 2023AS3401    | ISL         | Islamabad | Pakistan  | InTransit    | Ready    | 31-May-2023  |
+| 2023AS4416    | ISL         | Islamabad | Pakistan  | InTransit    | Ready    | 31-May-2023  |
+| 2023AS4462    | ISL         | Islamabad | Pakistan  | InTransit    | Ready    | 31-May-2023  |
+| 2023AS4728    | ISL         | Islamabad | Pakistan  | InTransit    | Ready    | 31-May-2023  |
+| 2023AS4923    | ISL         | Islamabad | Pakistan  | InTransit    | Ready    | 31-May-2023  |
+| 2023AS5097    | ISL         | Islamabad | Pakistan  | InTransit    | Ready    | 31-May-2023  |
+| 2023AS5226    | ISL         | Islamabad | Pakistan  | InTransit    | Ready    | 31-May-2023  |
+| 2023AS5442    | ISL         | Islamabad | Pakistan  | InTransit    | Ready    | 31-May-2023  |
+| 2023AS5953    | ISL         | Islamabad | Pakistan  | InTransit    | Ready    | 31-May-2023  |
+| 2023AS6402    | ISL         | Islamabad | Pakistan  | InTransit    | Ready    | 31-May-2023  |
+| 2023AS6822    | ISL         | Islamabad | Pakistan  | InTransit    | Ready    | 31-May-2023  |
+| 2023AS7042    | ISL         | Islamabad | Pakistan  | InTransit    | Ready    | 31-May-2023  |
+| 2023AS7087    | ISL         | Islamabad | Pakistan  | InTransit    | Ready    | 31-May-2023  |
+| 2023AS7486    | ISL         | Islamabad | Pakistan  | InTransit    | Ready    | 31-May-2023  |
+| 2023AS7704    | ISL         | Islamabad | Pakistan  | InTransit    | Ready    | 31-May-2023  |
+| 2023AS7899    | ISL         | Islamabad | Pakistan  | InTransit    | Ready    | 31-May-2023  |
+| 2023AS9256    | ISL         | Islamabad | Pakistan  | InTransit    | Ready    | 31-May-2023  |
+| 2023AS11784   | ISL         | Islamabad | Pakistan  | InTransit    | Ready    | 31-May-2023  |
+| 2023AS12858   | ISL         | Islamabad | Pakistan  | InTransit    | Ready    | 31-May-2023  |
+| 2023AS14739   | ISL         | Islamabad | Pakistan  | InTransit    | Ready    | 31-May-2023  |
+| 2023AS15497   | ISL         | Islamabad | Pakistan  | InTransit    | Ready    | 31-May-2023  |
+| 2023AS15549   | ISL         | Islamabad | Pakistan  | InTransit    | Ready    | 31-May-2023  |
++---------------+-------------+-----------+-----------+--------------+----------+--------------+
 Consulate: JAK
 +---------------+-------------+---------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City    | Country   | PrevStatus   | Status   | statusDate   |

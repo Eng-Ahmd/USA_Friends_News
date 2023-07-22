@@ -103,6 +103,7 @@ Consulate: BGH
 | 2023AS12392   | BGH         | Baghdad | Iraq      | Ready        | Refused221g | 10-Apr-2023  |
 | 2023AS14480   | BGH         | Baghdad | Iraq      | Ready        | Refused221g | 10-Apr-2023  |
 | 2023AS15835   | BGH         | Baghdad | Iraq      | Ready        | Refused221g | 10-Apr-2023  |
+| 2023AS18040   | BGH         | Baghdad | Iraq      | InTransit    | Ready       | 10-Apr-2023  |
 +---------------+-------------+---------+-----------+--------------+-------------+--------------+
 Consulate: BKK
 +---------------+-------------+---------+------------+--------------+-------------+--------------+
@@ -273,6 +274,7 @@ Consulate: JAK
 +---------------+-------------+---------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City    | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+---------+-----------+--------------+----------+--------------|
+| 2023AS12830   | JAK         | Jakarta | Indonesia | InTransit    | Ready    | 10-Apr-2023  |
 | 2023EU15382   | JAK         | Jakarta | Indonesia | Ready        | Issued   | 10-Apr-2023  |
 +---------------+-------------+---------+-----------+--------------+----------+--------------+
 Consulate: KDU
@@ -359,7 +361,57 @@ Consulate: KIN
 +---------------+-------------+----------+----------------------------------+--------------+----------+--------------+
 | Case Number   | Consulate   | City     | Country                          | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+----------+----------------------------------+--------------+----------+--------------|
+| 2023AF897     | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 10-Apr-2023  |
+| 2023AF3756    | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 10-Apr-2023  |
 | 2023AF4698    | KIN         | Kinshasa | Democratic Republic of the Congo | AP           | Issued   | 10-Apr-2023  |
+| 2023AF5068    | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 10-Apr-2023  |
+| 2023AF5098    | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 10-Apr-2023  |
+| 2023AF6845    | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 10-Apr-2023  |
+| 2023AF7202    | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 10-Apr-2023  |
+| 2023AF7662    | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 10-Apr-2023  |
+| 2023AF7817    | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 10-Apr-2023  |
+| 2023AF7837    | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 10-Apr-2023  |
+| 2023AF8000    | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 10-Apr-2023  |
+| 2023AF8291    | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 10-Apr-2023  |
+| 2023AF8303    | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 10-Apr-2023  |
+| 2023AF8316    | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 10-Apr-2023  |
+| 2023AF8373    | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 10-Apr-2023  |
+| 2023AF8676    | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 10-Apr-2023  |
+| 2023AF8748    | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 10-Apr-2023  |
+| 2023AF8892    | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 10-Apr-2023  |
+| 2023AF8894    | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 10-Apr-2023  |
+| 2023AF9043    | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 10-Apr-2023  |
+| 2023AF9407    | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 10-Apr-2023  |
+| 2023AF9626    | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 10-Apr-2023  |
+| 2023AF9821    | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 10-Apr-2023  |
+| 2023AF9863    | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 10-Apr-2023  |
+| 2023AF9865    | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 10-Apr-2023  |
+| 2023AF10262   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 10-Apr-2023  |
+| 2023AF10681   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 10-Apr-2023  |
+| 2023AF10809   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 10-Apr-2023  |
+| 2023AF10865   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 10-Apr-2023  |
+| 2023AF11453   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 10-Apr-2023  |
+| 2023AF11689   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 10-Apr-2023  |
+| 2023AF11910   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 10-Apr-2023  |
+| 2023AF12303   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 10-Apr-2023  |
+| 2023AF12506   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 10-Apr-2023  |
+| 2023AF12546   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 10-Apr-2023  |
+| 2023AF12603   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 10-Apr-2023  |
+| 2023AF12875   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 10-Apr-2023  |
+| 2023AF13122   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 10-Apr-2023  |
+| 2023AF13166   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 10-Apr-2023  |
+| 2023AF13948   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 10-Apr-2023  |
+| 2023AF13988   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 10-Apr-2023  |
+| 2023AF14828   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 10-Apr-2023  |
+| 2023AF14834   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 10-Apr-2023  |
+| 2023AF14943   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 10-Apr-2023  |
+| 2023AF15357   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 10-Apr-2023  |
+| 2023AF15610   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 10-Apr-2023  |
+| 2023AF15645   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 10-Apr-2023  |
+| 2023AF15808   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 10-Apr-2023  |
+| 2023AF15986   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 10-Apr-2023  |
+| 2023AF16033   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 10-Apr-2023  |
+| 2023AF16066   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 10-Apr-2023  |
 | 2023AF17450   | KIN         | Kinshasa | Democratic Republic of the Congo | AP           | Issued   | 10-Apr-2023  |
 | 2023AF33321   | KIN         | Kinshasa | Democratic Republic of the Congo | Ready        | Issued   | 10-Apr-2023  |
 +---------------+-------------+----------+----------------------------------+--------------+----------+--------------+
@@ -376,6 +428,17 @@ Consulate: KWT
 | 2023AS6708    | KWT         | Kuwait | Kuwait    | Ready        | Refused221g | 10-Apr-2023  |
 | 2023AS17797   | KWT         | Kuwait | Kuwait    | Refused221g  | AP          | 10-Apr-2023  |
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
+Consulate: MNA
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023AF35205   | MNA         | Manama | Bahrain   | InTransit    | Ready    | 09-Apr-2023  |
+| 2023AF50993   | MNA         | Manama | Bahrain   | InTransit    | Ready    | 09-Apr-2023  |
+| 2023AF54492   | MNA         | Manama | Bahrain   | InTransit    | Ready    | 09-Apr-2023  |
+| 2023AF55639   | MNA         | Manama | Bahrain   | InTransit    | Ready    | 09-Apr-2023  |
+| 2023AF57658   | MNA         | Manama | Bahrain   | InTransit    | Ready    | 09-Apr-2023  |
+| 2023AF57776   | MNA         | Manama | Bahrain   | InTransit    | Ready    | 09-Apr-2023  |
++---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: MRV
 +---------------+-------------+----------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City     | Country   | PrevStatus   | Status   | statusDate   |
@@ -428,6 +491,8 @@ Consulate: TAL
 |---------------+-------------+---------+-----------+--------------+----------+--------------|
 | 2023EU6429    | TAL         | Tallinn | Estonia   | AP           | Issued   | 10-Apr-2023  |
 | 2023EU9755    | TAL         | Tallinn | Estonia   | Ready        | Issued   | 10-Apr-2023  |
+| 2023EU19159   | TAL         | Tallinn | Estonia   | InTransit    | Ready    | 10-Apr-2023  |
+| 2023EU22475   | TAL         | Tallinn | Estonia   | InTransit    | Ready    | 10-Apr-2023  |
 | 2023EU26449   | TAL         | Tallinn | Estonia   | Ready        | Issued   | 10-Apr-2023  |
 | 2023EU26857   | TAL         | Tallinn | Estonia   | Ready        | Issued   | 10-Apr-2023  |
 | 2023EU28121   | TAL         | Tallinn | Estonia   | Refused221g  | Issued   | 10-Apr-2023  |

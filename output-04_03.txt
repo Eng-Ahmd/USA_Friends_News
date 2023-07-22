@@ -259,6 +259,18 @@ Consulate: DHB
 | 2023EU17044   | DHB         | Dushanbe | Tajikistan | Ready        | AP          | 03-Apr-2023  |
 | 2023EU17112   | DHB         | Dushanbe | Tajikistan | Ready        | AP          | 04-Apr-2023  |
 +---------------+-------------+----------+------------+--------------+-------------+--------------+
+Consulate: DHK
++---------------+-------------+--------+------------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country    | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+------------+--------------+----------+--------------|
+| 2023AF33190   | DHK         | Dhaka  | Bangladesh | InTransit    | Ready    | 03-Apr-2023  |
+| 2023AF46360   | DHK         | Dhaka  | Bangladesh | InTransit    | Ready    | 03-Apr-2023  |
+| 2023AF46508   | DHK         | Dhaka  | Bangladesh | InTransit    | Ready    | 03-Apr-2023  |
+| 2023AF48347   | DHK         | Dhaka  | Bangladesh | InTransit    | Ready    | 03-Apr-2023  |
+| 2023AF55965   | DHK         | Dhaka  | Bangladesh | InTransit    | Ready    | 03-Apr-2023  |
+| 2023AF57171   | DHK         | Dhaka  | Bangladesh | InTransit    | Ready    | 03-Apr-2023  |
+| 2023AF58756   | DHK         | Dhaka  | Bangladesh | InTransit    | Ready    | 03-Apr-2023  |
++---------------+-------------+--------+------------+--------------+----------+--------------+
 Consulate: DJI
 +---------------+-------------+----------+-----------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City     | Country   | PrevStatus   | Status      | statusDate   |
@@ -511,6 +523,19 @@ Consulate: KWT
 | 2023AF1819    | KWT         | Kuwait | Kuwait    | Ready        | Refused221g | 03-Apr-2023  |
 | 2023AF19149   | KWT         | Kuwait | Kuwait    | Refused221g  | Refused     | 03-Apr-2023  |
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
+Consulate: LIL
++---------------+-------------+----------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City     | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+----------+-----------+--------------+----------+--------------|
+| 2023AF13033   | LIL         | Lilongwe | Malawi    | InTransit    | Ready    | 03-Apr-2023  |
+| 2023AF24859   | LIL         | Lilongwe | Malawi    | InTransit    | Ready    | 03-Apr-2023  |
+| 2023AF32982   | LIL         | Lilongwe | Malawi    | InTransit    | Ready    | 03-Apr-2023  |
+| 2023AF38640   | LIL         | Lilongwe | Malawi    | InTransit    | Ready    | 03-Apr-2023  |
+| 2023AF42052   | LIL         | Lilongwe | Malawi    | InTransit    | Ready    | 03-Apr-2023  |
+| 2023AF44308   | LIL         | Lilongwe | Malawi    | InTransit    | Ready    | 03-Apr-2023  |
+| 2023AF49187   | LIL         | Lilongwe | Malawi    | InTransit    | Ready    | 03-Apr-2023  |
+| 2023AF54943   | LIL         | Lilongwe | Malawi    | InTransit    | Ready    | 03-Apr-2023  |
++---------------+-------------+----------+-----------+--------------+----------+--------------+
 Consulate: LMA
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
@@ -521,8 +546,41 @@ Consulate: LND
 +---------------+-------------+--------+----------------+--------------+----------+--------------+
 | Case Number   | Consulate   | City   | Country        | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+--------+----------------+--------------+----------+--------------|
+| 2023AF18931   | LND         | London | United Kingdom | InTransit    | Ready    | 03-Apr-2023  |
+| 2023AF20161   | LND         | London | United Kingdom | InTransit    | Ready    | 03-Apr-2023  |
+| 2023AF35755   | LND         | London | United Kingdom | InTransit    | Ready    | 03-Apr-2023  |
+| 2023AF46796   | LND         | London | United Kingdom | InTransit    | Ready    | 03-Apr-2023  |
+| 2023AF50548   | LND         | London | United Kingdom | InTransit    | Ready    | 03-Apr-2023  |
+| 2023AF56627   | LND         | London | United Kingdom | InTransit    | Ready    | 03-Apr-2023  |
+| 2023AS12602   | LND         | London | United Kingdom | InTransit    | Ready    | 03-Apr-2023  |
+| 2023AS13954   | LND         | London | United Kingdom | InTransit    | Ready    | 03-Apr-2023  |
+| 2023AS16745   | LND         | London | United Kingdom | InTransit    | Ready    | 03-Apr-2023  |
+| 2023EU6139    | LND         | London | United Kingdom | InTransit    | Ready    | 03-Apr-2023  |
+| 2023EU12000   | LND         | London | United Kingdom | InTransit    | Ready    | 03-Apr-2023  |
+| 2023EU18671   | LND         | London | United Kingdom | InTransit    | Ready    | 03-Apr-2023  |
+| 2023EU19980   | LND         | London | United Kingdom | InTransit    | Ready    | 03-Apr-2023  |
 | 2023EU20588   | LND         | London | United Kingdom | Refused221g  | Issued   | 03-Apr-2023  |
+| 2023EU22585   | LND         | London | United Kingdom | InTransit    | Ready    | 03-Apr-2023  |
+| 2023EU24976   | LND         | London | United Kingdom | InTransit    | Ready    | 03-Apr-2023  |
+| 2023EU25020   | LND         | London | United Kingdom | InTransit    | Ready    | 03-Apr-2023  |
+| 2023EU29174   | LND         | London | United Kingdom | InTransit    | Ready    | 03-Apr-2023  |
+| 2023EU29857   | LND         | London | United Kingdom | InTransit    | Ready    | 03-Apr-2023  |
 +---------------+-------------+--------+----------------+--------------+----------+--------------+
+Consulate: LUS
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023AF20031   | LUS         | Lusaka | Zambia    | InTransit    | Ready    | 03-Apr-2023  |
+| 2023AF21416   | LUS         | Lusaka | Zambia    | InTransit    | Ready    | 03-Apr-2023  |
+| 2023AF23304   | LUS         | Lusaka | Zambia    | InTransit    | Ready    | 03-Apr-2023  |
+| 2023AF27574   | LUS         | Lusaka | Zambia    | InTransit    | Ready    | 03-Apr-2023  |
+| 2023AF32157   | LUS         | Lusaka | Zambia    | InTransit    | Ready    | 03-Apr-2023  |
+| 2023AF38649   | LUS         | Lusaka | Zambia    | InTransit    | Ready    | 03-Apr-2023  |
+| 2023AF51035   | LUS         | Lusaka | Zambia    | InTransit    | Ready    | 03-Apr-2023  |
+| 2023AF55906   | LUS         | Lusaka | Zambia    | InTransit    | Ready    | 03-Apr-2023  |
+| 2023AF56639   | LUS         | Lusaka | Zambia    | InTransit    | Ready    | 03-Apr-2023  |
+| 2023AF57356   | LUS         | Lusaka | Zambia    | InTransit    | Ready    | 03-Apr-2023  |
++---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: MDD
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |

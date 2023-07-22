@@ -99,6 +99,7 @@ Consulate: BCH
 |---------------+-------------+-----------+-----------+--------------+----------+--------------|
 | 2023EU2825    | BCH         | Bucharest | Romania   | Refused221g  | Issued   | 21-Jul-2023  |
 | 2023EU8029    | BCH         | Bucharest | Romania   | Refused221g  | Issued   | 21-Jul-2023  |
+| 2023EU17741   | BCH         | Bucharest | Romania   | InTransit    | Ready    | 21-Jul-2023  |
 +---------------+-------------+-----------+-----------+--------------+----------+--------------+
 Consulate: BGN
 +---------------+-------------+------------+-----------+--------------+----------+--------------+
@@ -393,6 +394,16 @@ Consulate: MRV
 | Case Number   | Consulate   | City     | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+----------+-----------+--------------+----------+--------------|
 | 2023AF15020   | MRV         | Monrovia | Liberia   | Ready        | AP       | 21-Jul-2023  |
++---------------+-------------+----------+-----------+--------------+----------+--------------+
+Consulate: MTL
++---------------+-------------+----------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City     | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+----------+-----------+--------------+----------+--------------|
+| 2023AS14521   | MTL         | Montreal | Canada    | InTransit    | Ready    | 21-Jul-2023  |
+| 2023AS14644   | MTL         | Montreal | Canada    | InTransit    | Ready    | 21-Jul-2023  |
+| 2023AS14817   | MTL         | Montreal | Canada    | InTransit    | Ready    | 21-Jul-2023  |
+| 2023AS15923   | MTL         | Montreal | Canada    | InTransit    | Ready    | 21-Jul-2023  |
+| 2023EU15325   | MTL         | Montreal | Canada    | InTransit    | Ready    | 21-Jul-2023  |
 +---------------+-------------+----------+-----------+--------------+----------+--------------+
 Consulate: NPL
 +---------------+-------------+--------+-----------+--------------+----------+--------------+

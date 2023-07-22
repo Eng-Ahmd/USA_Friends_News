@@ -82,6 +82,8 @@ Consulate: AMM
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status      | statusDate   |
 |---------------+-------------+--------+-----------+--------------+-------------+--------------|
+| 2023AF7902    | AMM         | Amman  | Jordan    | InTransit    | Ready       | 18-Jul-2023  |
+| 2023AF22369   | AMM         | Amman  | Jordan    | InTransit    | Ready       | 18-Jul-2023  |
 | 2023AF36800   | AMM         | Amman  | Jordan    | Ready        | Refused221g | 18-Jul-2023  |
 | 2023AF36826   | AMM         | Amman  | Jordan    | AP           | Issued      | 18-Jul-2023  |
 | 2023AS2006    | AMM         | Amman  | Jordan    | Refused221g  | Issued      | 18-Jul-2023  |
@@ -96,6 +98,49 @@ Consulate: ANK
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023AF5096    | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF6869    | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF9632    | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF18718   | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AS30      | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AS173     | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AS205     | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AS343     | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AS359     | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AS427     | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AS554     | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AS561     | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AS669     | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AS678     | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AS696     | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AS969     | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AS1072    | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AS1103    | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AS1163    | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AS1187    | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AS1242    | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AS1248    | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AS1262    | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AS1431    | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AS1475    | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AS1476    | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AS1506    | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AS1543    | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AS1588    | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AS1599    | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AS1751    | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AS1758    | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AS1777    | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AS1827    | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AS1847    | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AS1973    | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AS2198    | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AS2208    | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AS2264    | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AS2268    | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AS2296    | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AS2460    | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AS2553    | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
 | 2023EU391     | ANK         | Ankara | Turkey    | Ready        | Transfer | 18-Jul-2023  |
 | 2023EU7004    | ANK         | Ankara | Turkey    | AP           | Issued   | 18-Jul-2023  |
 | 2023EU7368    | ANK         | Ankara | Turkey    | AP           | Issued   | 18-Jul-2023  |
@@ -108,6 +153,83 @@ Consulate: ANK
 | 2023EU8668    | ANK         | Ankara | Turkey    | AP           | Issued   | 18-Jul-2023  |
 | 2023EU8849    | ANK         | Ankara | Turkey    | AP           | Issued   | 18-Jul-2023  |
 | 2023EU9884    | ANK         | Ankara | Turkey    | AP           | Issued   | 18-Jul-2023  |
+| 2023EU12554   | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023EU12563   | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023EU12583   | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023EU12603   | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023EU12690   | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023EU12720   | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023EU12727   | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023EU12767   | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023EU12783   | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023EU12866   | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023EU12872   | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023EU12884   | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023EU12923   | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023EU12960   | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023EU13003   | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023EU13011   | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023EU13090   | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023EU13112   | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023EU13122   | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023EU13149   | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023EU13198   | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023EU13229   | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023EU13235   | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023EU13328   | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023EU13380   | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023EU13437   | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023EU13474   | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023EU13531   | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023EU13545   | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023EU13546   | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023EU13577   | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023EU13589   | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023EU13634   | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023EU13719   | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023EU13755   | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023EU13756   | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023EU13833   | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023EU13839   | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023EU13936   | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023EU13988   | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023EU14022   | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023EU14030   | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023EU14103   | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023EU14113   | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023EU14149   | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023EU14151   | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023EU14174   | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023EU14245   | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023EU14272   | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023EU14317   | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023EU14319   | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023EU14322   | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023EU14335   | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023EU14343   | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023EU14356   | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023EU14369   | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023EU14391   | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023EU14429   | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023EU14454   | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023EU14485   | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023EU14494   | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023EU14587   | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023EU14594   | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023EU14699   | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023EU14730   | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023EU14735   | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023EU14780   | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023EU14781   | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023EU14806   | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023EU14814   | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023EU14819   | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023EU14830   | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023EU14859   | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023EU14955   | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023EU14956   | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023EU14973   | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023EU14980   | ANK         | Ankara | Turkey    | InTransit    | Ready    | 18-Jul-2023  |
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: ATA
 +---------------+-------------+--------+------------+--------------+----------+--------------+
@@ -124,6 +246,24 @@ Consulate: BCH
 | 2023EU28641   | BCH         | Bucharest | Romania   | Ready        | Refused221g | 18-Jul-2023  |
 | 2023EU31642   | BCH         | Bucharest | Romania   | Ready        | Refused221g | 18-Jul-2023  |
 +---------------+-------------+-----------+-----------+--------------+-------------+--------------+
+Consulate: BDP
++---------------+-------------+----------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City     | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+----------+-----------+--------------+----------+--------------|
+| 2023AS15009   | BDP         | Budapest | Hungary   | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AS15587   | BDP         | Budapest | Hungary   | InTransit    | Ready    | 18-Jul-2023  |
++---------------+-------------+----------+-----------+--------------+----------+--------------+
+Consulate: BGH
++---------------+-------------+---------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City    | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+---------+-----------+--------------+----------+--------------|
+| 2023AS3221    | BGH         | Baghdad | Iraq      | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AS6738    | BGH         | Baghdad | Iraq      | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AS7752    | BGH         | Baghdad | Iraq      | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AS10243   | BGH         | Baghdad | Iraq      | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AS10472   | BGH         | Baghdad | Iraq      | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AS13593   | BGH         | Baghdad | Iraq      | InTransit    | Ready    | 18-Jul-2023  |
++---------------+-------------+---------+-----------+--------------+----------+--------------+
 Consulate: BKK
 +---------------+-------------+---------+------------+--------------+----------+--------------+
 | Case Number   | Consulate   | City    | Country    | PrevStatus   | Status   | statusDate   |
@@ -171,6 +311,7 @@ Consulate: BNK
 +---------------+-------------+---------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City    | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+---------+-----------+--------------+----------+--------------|
+| 2023AS3926    | BNK         | Bangkok | Thailand  | InTransit    | Ready    | 18-Jul-2023  |
 | 2023AS18813   | BNK         | Bangkok | Thailand  | AP           | Issued   | 18-Jul-2023  |
 +---------------+-------------+---------+-----------+--------------+----------+--------------+
 Consulate: BRT
@@ -185,6 +326,7 @@ Consulate: CHS
 +---------------+-------------+----------+-----------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City     | Country   | PrevStatus   | Status      | statusDate   |
 |---------------+-------------+----------+-----------+--------------+-------------+--------------|
+| 2023EU1631    | CHS         | Chisinau | Moldova   | InTransit    | Ready       | 18-Jul-2023  |
 | 2023EU8693    | CHS         | Chisinau | Moldova   | Ready        | Refused221g | 18-Jul-2023  |
 | 2023EU16154   | CHS         | Chisinau | Moldova   | Ready        | AP          | 18-Jul-2023  |
 | 2023EU16775   | CHS         | Chisinau | Moldova   | Ready        | Issued      | 18-Jul-2023  |
@@ -329,14 +471,27 @@ Consulate: FRN
 | Case Number   | Consulate   | City      | Country   | PrevStatus   | Status      | statusDate   |
 |---------------+-------------+-----------+-----------+--------------+-------------+--------------|
 | 2023AF20409   | FRN         | Frankfurt | Germany   | Refused221g  | AP          | 18-Jul-2023  |
+| 2023AS14284   | FRN         | Frankfurt | Germany   | InTransit    | Ready       | 18-Jul-2023  |
+| 2023AS14415   | FRN         | Frankfurt | Germany   | InTransit    | Ready       | 18-Jul-2023  |
+| 2023AS14704   | FRN         | Frankfurt | Germany   | InTransit    | Ready       | 18-Jul-2023  |
+| 2023AS15263   | FRN         | Frankfurt | Germany   | InTransit    | Ready       | 18-Jul-2023  |
+| 2023AS15620   | FRN         | Frankfurt | Germany   | InTransit    | Ready       | 18-Jul-2023  |
+| 2023AS15651   | FRN         | Frankfurt | Germany   | InTransit    | Ready       | 18-Jul-2023  |
 | 2023EU1715    | FRN         | Frankfurt | Germany   | AP           | Issued      | 18-Jul-2023  |
+| 2023EU5810    | FRN         | Frankfurt | Germany   | InTransit    | Ready       | 18-Jul-2023  |
+| 2023EU9575    | FRN         | Frankfurt | Germany   | InTransit    | Ready       | 18-Jul-2023  |
 | 2023EU11578   | FRN         | Frankfurt | Germany   | Transfer     | Ready       | 18-Jul-2023  |
+| 2023EU11782   | FRN         | Frankfurt | Germany   | InTransit    | Ready       | 18-Jul-2023  |
 | 2023EU12492   | FRN         | Frankfurt | Germany   | Refused221g  | Issued      | 18-Jul-2023  |
 | 2023EU16795   | FRN         | Frankfurt | Germany   | Ready        | Refused221g | 18-Jul-2023  |
+| 2023EU18186   | FRN         | Frankfurt | Germany   | InTransit    | Ready       | 18-Jul-2023  |
+| 2023EU22550   | FRN         | Frankfurt | Germany   | InTransit    | Ready       | 18-Jul-2023  |
 | 2023EU22798   | FRN         | Frankfurt | Germany   | Ready        | AP          | 18-Jul-2023  |
 | 2023EU22986   | FRN         | Frankfurt | Germany   | Ready        | AP          | 18-Jul-2023  |
 | 2023EU28930   | FRN         | Frankfurt | Germany   | Refused221g  | AP          | 18-Jul-2023  |
 | 2023EU31382   | FRN         | Frankfurt | Germany   | Ready        | AP          | 18-Jul-2023  |
+| 2023EU31411   | FRN         | Frankfurt | Germany   | InTransit    | Ready       | 18-Jul-2023  |
+| 2023OC1671    | FRN         | Frankfurt | Germany   | InTransit    | Ready       | 18-Jul-2023  |
 +---------------+-------------+-----------+-----------+--------------+-------------+--------------+
 Consulate: FTN
 +---------------+-------------+----------+--------------+--------------+----------+--------------+
@@ -356,6 +511,25 @@ Consulate: FTN
 | 2023AF47063   | FTN         | Freetown | Sierra Leone | Ready        | AP       | 18-Jul-2023  |
 | 2023AF61584   | FTN         | Freetown | Sierra Leone | AP           | Issued   | 18-Jul-2023  |
 +---------------+-------------+----------+--------------+--------------+----------+--------------+
+Consulate: GUZ
++---------------+-------------+-----------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City      | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+-----------+-----------+--------------+----------+--------------|
+| 2023AS16218   | GUZ         | Guangzhou | China     | InTransit    | Ready    | 18-Jul-2023  |
++---------------+-------------+-----------+-----------+--------------+----------+--------------+
+Consulate: GYQ
++---------------+-------------+-----------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City      | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+-----------+-----------+--------------+----------+--------------|
+| 2023SA1879    | GYQ         | Guayaquil | Ecuador   | InTransit    | Ready    | 18-Jul-2023  |
+| 2023SA2908    | GYQ         | Guayaquil | Ecuador   | InTransit    | Ready    | 18-Jul-2023  |
+| 2023SA2910    | GYQ         | Guayaquil | Ecuador   | InTransit    | Ready    | 18-Jul-2023  |
+| 2023SA2912    | GYQ         | Guayaquil | Ecuador   | InTransit    | Ready    | 18-Jul-2023  |
+| 2023SA2924    | GYQ         | Guayaquil | Ecuador   | InTransit    | Ready    | 18-Jul-2023  |
+| 2023SA2964    | GYQ         | Guayaquil | Ecuador   | InTransit    | Ready    | 18-Jul-2023  |
+| 2023SA2965    | GYQ         | Guayaquil | Ecuador   | InTransit    | Ready    | 18-Jul-2023  |
+| 2023SA3002    | GYQ         | Guayaquil | Ecuador   | InTransit    | Ready    | 18-Jul-2023  |
++---------------+-------------+-----------+-----------+--------------+----------+--------------+
 Consulate: HAV
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
@@ -382,12 +556,26 @@ Consulate: HRE
 |---------------+-------------+--------+-----------+--------------+----------+--------------|
 | 2023AF23690   | HRE         | Harare | Zimbabwe  | Refused221g  | AP       | 18-Jul-2023  |
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
+Consulate: JAK
++---------------+-------------+---------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City    | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+---------+-----------+--------------+----------+--------------|
+| 2023AF16748   | JAK         | Jakarta | Indonesia | InTransit    | Ready    | 18-Jul-2023  |
++---------------+-------------+---------+-----------+--------------+----------+--------------+
 Consulate: JHN
 +---------------+-------------+--------------+--------------+--------------+----------+--------------+
 | Case Number   | Consulate   | City         | Country      | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+--------------+--------------+--------------+----------+--------------|
 | 2023AF52034   | JHN         | Johannesburg | South Africa | Ready        | AP       | 18-Jul-2023  |
 +---------------+-------------+--------------+--------------+--------------+----------+--------------+
+Consulate: JRS
++---------------+-------------+-----------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City      | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+-----------+-----------+--------------+----------+--------------|
+| 2023AF22616   | JRS         | Jerusalem | Israel    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023EU18882   | JRS         | Jerusalem | Israel    | InTransit    | Ready    | 18-Jul-2023  |
+| 2023EU31472   | JRS         | Jerusalem | Israel    | InTransit    | Ready    | 18-Jul-2023  |
++---------------+-------------+-----------+-----------+--------------+----------+--------------+
 Consulate: KDU
 +---------------+-------------+-----------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City      | Country   | PrevStatus   | Status   | statusDate   |
@@ -445,20 +633,141 @@ Consulate: KIN
 +---------------+-------------+----------+----------------------------------+--------------+----------+--------------+
 | Case Number   | Consulate   | City     | Country                          | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+----------+----------------------------------+--------------+----------+--------------|
+| 2023AF106     | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF162     | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF186     | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF205     | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF207     | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF236     | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF253     | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF270     | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF275     | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF306     | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF320     | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF322     | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF344     | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF350     | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF665     | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF672     | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF703     | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF736     | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF747     | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF748     | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF756     | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF803     | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF921     | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF961     | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF983     | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF1001    | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF1023    | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF1078    | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF1112    | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF1123    | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF1463    | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF1537    | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF1596    | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF18284   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
 | 2023AF22566   | KIN         | Kinshasa | Democratic Republic of the Congo | AP           | Issued   | 18-Jul-2023  |
+| 2023AF25424   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF33507   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF35055   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF35359   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF36379   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF36760   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF37077   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF37478   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF37770   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
 | 2023AF37837   | KIN         | Kinshasa | Democratic Republic of the Congo | AP           | Issued   | 18-Jul-2023  |
+| 2023AF38212   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF38769   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF38845   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF39049   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF39473   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF39735   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
 | 2023AF39865   | KIN         | Kinshasa | Democratic Republic of the Congo | AP           | Issued   | 18-Jul-2023  |
+| 2023AF40029   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF40330   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF40872   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF41191   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF41260   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF41578   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF41610   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF41684   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF41690   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF41728   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF41848   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF41956   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF41979   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF42035   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF42117   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF42144   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF42212   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF42267   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF42322   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF42373   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF42437   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF42456   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF42764   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF42826   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF42853   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF42942   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF43002   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF43061   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF43110   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF43253   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF43319   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF43539   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF43558   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF43562   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF43661   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF43753   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF43756   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF43779   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF43876   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF44124   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF44129   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF44161   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF44169   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF44233   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF44256   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF44358   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF44441   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF44548   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF44728   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF44759   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF44825   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF44832   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF44858   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF44893   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF44919   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
+| 2023AF44971   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 18-Jul-2023  |
 +---------------+-------------+----------+----------------------------------+--------------+----------+--------------+
 Consulate: KLL
 +---------------+-------------+--------------+-----------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City         | Country   | PrevStatus   | Status      | statusDate   |
 |---------------+-------------+--------------+-----------+--------------+-------------+--------------|
+| 2023AF9261    | KLL         | Kuala Lumpur | Malaysia  | InTransit    | Ready       | 18-Jul-2023  |
 | 2023AF32451   | KLL         | Kuala Lumpur | Malaysia  | Ready        | Refused221g | 18-Jul-2023  |
 | 2023AF39425   | KLL         | Kuala Lumpur | Malaysia  | Ready        | Refused221g | 18-Jul-2023  |
+| 2023AF44686   | KLL         | Kuala Lumpur | Malaysia  | InTransit    | Ready       | 18-Jul-2023  |
+| 2023AF44934   | KLL         | Kuala Lumpur | Malaysia  | InTransit    | Ready       | 18-Jul-2023  |
+| 2023AF48755   | KLL         | Kuala Lumpur | Malaysia  | InTransit    | Ready       | 18-Jul-2023  |
+| 2023AF54986   | KLL         | Kuala Lumpur | Malaysia  | InTransit    | Ready       | 18-Jul-2023  |
+| 2023AF56318   | KLL         | Kuala Lumpur | Malaysia  | InTransit    | Ready       | 18-Jul-2023  |
+| 2023AS5416    | KLL         | Kuala Lumpur | Malaysia  | InTransit    | Ready       | 18-Jul-2023  |
 | 2023AS6079    | KLL         | Kuala Lumpur | Malaysia  | Ready        | Refused221g | 18-Jul-2023  |
 | 2023AS16620   | KLL         | Kuala Lumpur | Malaysia  | Refused221g  | Ready       | 18-Jul-2023  |
 | 2023AS19238   | KLL         | Kuala Lumpur | Malaysia  | Ready        | Refused     | 18-Jul-2023  |
 | 2023AS20766   | KLL         | Kuala Lumpur | Malaysia  | Ready        | Refused     | 18-Jul-2023  |
+| 2023EU11362   | KLL         | Kuala Lumpur | Malaysia  | InTransit    | Ready       | 18-Jul-2023  |
+| 2023EU11570   | KLL         | Kuala Lumpur | Malaysia  | InTransit    | Ready       | 18-Jul-2023  |
+| 2023EU12565   | KLL         | Kuala Lumpur | Malaysia  | InTransit    | Ready       | 18-Jul-2023  |
+| 2023EU13669   | KLL         | Kuala Lumpur | Malaysia  | InTransit    | Ready       | 18-Jul-2023  |
+| 2023EU13738   | KLL         | Kuala Lumpur | Malaysia  | InTransit    | Ready       | 18-Jul-2023  |
+| 2023EU15615   | KLL         | Kuala Lumpur | Malaysia  | InTransit    | Ready       | 18-Jul-2023  |
+| 2023EU15675   | KLL         | Kuala Lumpur | Malaysia  | InTransit    | Ready       | 18-Jul-2023  |
+| 2023EU15677   | KLL         | Kuala Lumpur | Malaysia  | InTransit    | Ready       | 18-Jul-2023  |
+| 2023EU16374   | KLL         | Kuala Lumpur | Malaysia  | InTransit    | Ready       | 18-Jul-2023  |
 +---------------+-------------+--------------+-----------+--------------+-------------+--------------+
 Consulate: KWT
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
@@ -524,6 +833,7 @@ Consulate: MNG
 | Case Number   | Consulate   | City    | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+---------+-----------+--------------+----------+--------------|
 | 2023SA770     | MNG         | Managua | Nicaragua | Refused221g  | AP       | 18-Jul-2023  |
+| 2023SA2991    | MNG         | Managua | Nicaragua | InTransit    | Ready    | 18-Jul-2023  |
 +---------------+-------------+---------+-----------+--------------+----------+--------------+
 Consulate: MRV
 +---------------+-------------+----------+-----------+--------------+----------+--------------+

@@ -219,6 +219,22 @@ Consulate: MRV
 | 2023AF48228   | MRV         | Monrovia | Liberia   | Ready        | AP       | 29-Jun-2023  |
 | 2023AF48700   | MRV         | Monrovia | Liberia   | Ready        | AP       | 29-Jun-2023  |
 +---------------+-------------+----------+-----------+--------------+----------+--------------+
+Consulate: NPL
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023AF31166   | NPL         | Naples | Italy     | InTransit    | Ready    | 29-Jun-2023  |
+| 2023AF39708   | NPL         | Naples | Italy     | InTransit    | Ready    | 29-Jun-2023  |
+| 2023AF41348   | NPL         | Naples | Italy     | InTransit    | Ready    | 29-Jun-2023  |
+| 2023AF56944   | NPL         | Naples | Italy     | InTransit    | Ready    | 29-Jun-2023  |
+| 2023AF61091   | NPL         | Naples | Italy     | InTransit    | Ready    | 29-Jun-2023  |
+| 2023AS12349   | NPL         | Naples | Italy     | InTransit    | Ready    | 29-Jun-2023  |
+| 2023EU30507   | NPL         | Naples | Italy     | InTransit    | Ready    | 29-Jun-2023  |
+| 2023EU31035   | NPL         | Naples | Italy     | InTransit    | Ready    | 29-Jun-2023  |
+| 2023EU31128   | NPL         | Naples | Italy     | InTransit    | Ready    | 29-Jun-2023  |
+| 2023EU31728   | NPL         | Naples | Italy     | InTransit    | Ready    | 29-Jun-2023  |
+| 2023EU31769   | NPL         | Naples | Italy     | InTransit    | Ready    | 29-Jun-2023  |
++---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: None
 +---------------+-------------+--------+-----------+--------------+-----------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status    | statusDate   |

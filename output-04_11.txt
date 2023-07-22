@@ -32,6 +32,14 @@ Consulate: ADD
 | 2023AF16108   | ADD         | Addis Ababa | Ethiopia  | Ready        | AP       | 11-Apr-2023  |
 | 2023AF16125   | ADD         | Addis Ababa | Ethiopia  | Ready        | AP       | 11-Apr-2023  |
 +---------------+-------------+-------------+-----------+--------------+----------+--------------+
+Consulate: AKD
++---------------+-------------+----------+--------------+--------------+----------+--------------+
+| Case Number   | Consulate   | City     | Country      | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+----------+--------------+--------------+----------+--------------|
+| 2023EU13627   | AKD         | Ashgabat | Turkmenistan | InTransit    | Ready    | 11-Apr-2023  |
+| 2023EU21104   | AKD         | Ashgabat | Turkmenistan | InTransit    | Ready    | 11-Apr-2023  |
+| 2023EU28477   | AKD         | Ashgabat | Turkmenistan | InTransit    | Ready    | 11-Apr-2023  |
++---------------+-------------+----------+--------------+--------------+----------+--------------+
 Consulate: ALG
 +---------------+-------------+---------+-----------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City    | Country   | PrevStatus   | Status      | statusDate   |
@@ -355,6 +363,57 @@ Consulate: JAK
 | 2023AF45841   | JAK         | Jakarta | Indonesia | Ready        | Refused221g | 11-Apr-2023  |
 | 2023EU20684   | JAK         | Jakarta | Indonesia | Ready        | Refused221g | 11-Apr-2023  |
 +---------------+-------------+---------+-----------+--------------+-------------+--------------+
+Consulate: JHN
++---------------+-------------+--------------+--------------+--------------+----------+--------------+
+| Case Number   | Consulate   | City         | Country      | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------------+--------------+--------------+----------+--------------|
+| 2023AF9471    | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 11-Apr-2023  |
+| 2023AF16993   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 11-Apr-2023  |
+| 2023AF17158   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 11-Apr-2023  |
+| 2023AF18656   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 11-Apr-2023  |
+| 2023AF18682   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 11-Apr-2023  |
+| 2023AF19319   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 11-Apr-2023  |
+| 2023AF20091   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 11-Apr-2023  |
+| 2023AF20614   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 11-Apr-2023  |
+| 2023AF22055   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 11-Apr-2023  |
+| 2023AF22584   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 11-Apr-2023  |
+| 2023AF24661   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 11-Apr-2023  |
+| 2023AF24890   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 11-Apr-2023  |
+| 2023AF25169   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 11-Apr-2023  |
+| 2023AF25739   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 11-Apr-2023  |
+| 2023AF26632   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 11-Apr-2023  |
+| 2023AF27238   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 11-Apr-2023  |
+| 2023AF27306   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 11-Apr-2023  |
+| 2023AF27317   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 11-Apr-2023  |
+| 2023AF28663   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 11-Apr-2023  |
+| 2023AF29611   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 11-Apr-2023  |
+| 2023AF31568   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 11-Apr-2023  |
+| 2023AF32514   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 11-Apr-2023  |
+| 2023AF36864   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 11-Apr-2023  |
+| 2023AF39594   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 11-Apr-2023  |
+| 2023AF39999   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 11-Apr-2023  |
+| 2023AF41234   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 11-Apr-2023  |
+| 2023AF42342   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 11-Apr-2023  |
+| 2023AF42732   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 11-Apr-2023  |
+| 2023AF43482   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 11-Apr-2023  |
+| 2023AF43521   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 11-Apr-2023  |
+| 2023AF44319   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 11-Apr-2023  |
+| 2023AF45911   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 11-Apr-2023  |
+| 2023AF46318   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 11-Apr-2023  |
+| 2023AF47613   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 11-Apr-2023  |
+| 2023AF48529   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 11-Apr-2023  |
+| 2023AF48594   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 11-Apr-2023  |
+| 2023AF52034   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 11-Apr-2023  |
+| 2023AF52330   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 11-Apr-2023  |
+| 2023AF52361   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 11-Apr-2023  |
+| 2023AF53712   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 11-Apr-2023  |
+| 2023AF55176   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 11-Apr-2023  |
+| 2023AF55917   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 11-Apr-2023  |
+| 2023AF56171   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 11-Apr-2023  |
+| 2023AF57091   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 11-Apr-2023  |
+| 2023AF58391   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 11-Apr-2023  |
+| 2023AF58640   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 11-Apr-2023  |
++---------------+-------------+--------------+--------------+--------------+----------+--------------+
 Consulate: KDU
 +---------------+-------------+-----------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City      | Country   | PrevStatus   | Status   | statusDate   |
@@ -394,6 +453,12 @@ Consulate: KLL
 |---------------+-------------+--------------+-----------+--------------+----------+--------------|
 | 2023AS16583   | KLL         | Kuala Lumpur | Malaysia  | AP           | Issued   | 11-Apr-2023  |
 +---------------+-------------+--------------+-----------+--------------+----------+--------------+
+Consulate: LND
++---------------+-------------+--------+----------------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country        | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+----------------+--------------+----------+--------------|
+| 2023EU29744   | LND         | London | United Kingdom | InTransit    | Ready    | 11-Apr-2023  |
++---------------+-------------+--------+----------------+--------------+----------+--------------+
 Consulate: MDD
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
@@ -473,6 +538,12 @@ Consulate: RDJ
 |---------------+-------------+----------------+-----------+--------------+----------+--------------|
 | 2023AF36345   | RDJ         | Rio De Janeiro | Brazil    | Refused221g  | Ready    | 11-Apr-2023  |
 +---------------+-------------+----------------+-----------+--------------+----------+--------------+
+Consulate: RGA
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023EU28189   | RGA         | Riga   | Latvia    | InTransit    | Ready    | 11-Apr-2023  |
++---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: RID
 +---------------+-------------+--------+--------------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City   | Country      | PrevStatus   | Status      | statusDate   |

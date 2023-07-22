@@ -290,6 +290,12 @@ Consulate: JHN
 |---------------+-------------+--------------+--------------+--------------+----------+--------------|
 | 2023AF41256   | JHN         | Johannesburg | South Africa | AP           | Issued   | 19-May-2023  |
 +---------------+-------------+--------------+--------------+--------------+----------+--------------+
+Consulate: JRS
++---------------+-------------+-----------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City      | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+-----------+-----------+--------------+----------+--------------|
+| 2023AF40733   | JRS         | Jerusalem | Israel    | InTransit    | Ready    | 19-May-2023  |
++---------------+-------------+-----------+-----------+--------------+----------+--------------+
 Consulate: KDU
 +---------------+-------------+-----------+-----------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City      | Country   | PrevStatus   | Status      | statusDate   |
@@ -392,6 +398,91 @@ Consulate: KGL
 | 2023AF56032   | KGL         | Kigali | Rwanda    | Ready        | AP       | 19-May-2023  |
 | 2023AF56628   | KGL         | Kigali | Rwanda    | Ready        | Issued   | 19-May-2023  |
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
+Consulate: KIN
++---------------+-------------+----------+----------------------------------+--------------+----------+--------------+
+| Case Number   | Consulate   | City     | Country                          | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+----------+----------------------------------+--------------+----------+--------------|
+| 2023AF9500    | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 19-May-2023  |
+| 2023AF16336   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 19-May-2023  |
+| 2023AF17142   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 19-May-2023  |
+| 2023AF18151   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 19-May-2023  |
+| 2023AF21358   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 19-May-2023  |
+| 2023AF23093   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 19-May-2023  |
+| 2023AF24359   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 19-May-2023  |
+| 2023AF25932   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 19-May-2023  |
+| 2023AF27461   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 19-May-2023  |
+| 2023AF28854   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 19-May-2023  |
+| 2023AF30111   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 19-May-2023  |
+| 2023AF32735   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 19-May-2023  |
+| 2023AF33509   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 19-May-2023  |
+| 2023AF33551   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 19-May-2023  |
+| 2023AF33610   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 19-May-2023  |
+| 2023AF35017   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 19-May-2023  |
+| 2023AF35345   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 19-May-2023  |
+| 2023AF35497   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 19-May-2023  |
+| 2023AF35612   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 19-May-2023  |
+| 2023AF35805   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 19-May-2023  |
+| 2023AF35819   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 19-May-2023  |
+| 2023AF35847   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 19-May-2023  |
+| 2023AF36209   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 19-May-2023  |
+| 2023AF36280   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 19-May-2023  |
+| 2023AF36496   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 19-May-2023  |
+| 2023AF36521   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 19-May-2023  |
+| 2023AF36656   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 19-May-2023  |
+| 2023AF36687   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 19-May-2023  |
+| 2023AF36810   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 19-May-2023  |
+| 2023AF36844   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 19-May-2023  |
+| 2023AF36855   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 19-May-2023  |
+| 2023AF37023   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 19-May-2023  |
+| 2023AF37178   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 19-May-2023  |
+| 2023AF37376   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 19-May-2023  |
+| 2023AF37545   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 19-May-2023  |
+| 2023AF37552   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 19-May-2023  |
+| 2023AF37580   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 19-May-2023  |
+| 2023AF37645   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 19-May-2023  |
+| 2023AF37703   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 19-May-2023  |
+| 2023AF37714   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 19-May-2023  |
+| 2023AF37825   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 19-May-2023  |
+| 2023AF37837   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 19-May-2023  |
+| 2023AF38123   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 19-May-2023  |
+| 2023AF38150   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 19-May-2023  |
+| 2023AF38238   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 19-May-2023  |
+| 2023AF38288   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 19-May-2023  |
+| 2023AF38347   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 19-May-2023  |
+| 2023AF38736   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 19-May-2023  |
+| 2023AF38777   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 19-May-2023  |
+| 2023AF38782   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 19-May-2023  |
+| 2023AF38869   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 19-May-2023  |
+| 2023AF38918   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 19-May-2023  |
+| 2023AF39086   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 19-May-2023  |
+| 2023AF39117   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 19-May-2023  |
+| 2023AF39136   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 19-May-2023  |
+| 2023AF39146   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 19-May-2023  |
+| 2023AF39324   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 19-May-2023  |
+| 2023AF39438   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 19-May-2023  |
+| 2023AF39518   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 19-May-2023  |
+| 2023AF39554   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 19-May-2023  |
+| 2023AF39604   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 19-May-2023  |
+| 2023AF39654   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 19-May-2023  |
+| 2023AF39673   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 19-May-2023  |
+| 2023AF39717   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 19-May-2023  |
+| 2023AF39861   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 19-May-2023  |
+| 2023AF39865   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 19-May-2023  |
+| 2023AF39877   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 19-May-2023  |
+| 2023AF40020   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 19-May-2023  |
+| 2023AF40054   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 19-May-2023  |
+| 2023AF40100   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 19-May-2023  |
+| 2023AF40242   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 19-May-2023  |
+| 2023AF40275   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 19-May-2023  |
+| 2023AF40343   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 19-May-2023  |
+| 2023AF40450   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 19-May-2023  |
+| 2023AF40593   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 19-May-2023  |
+| 2023AF40732   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 19-May-2023  |
+| 2023AF40746   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 19-May-2023  |
+| 2023AF40877   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 19-May-2023  |
+| 2023AF41076   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 19-May-2023  |
+| 2023AF41313   | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready    | 19-May-2023  |
++---------------+-------------+----------+----------------------------------+--------------+----------+--------------+
 Consulate: KLL
 +---------------+-------------+--------------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City         | Country   | PrevStatus   | Status   | statusDate   |
@@ -444,6 +535,19 @@ Consulate: MNA
 | 2023AF50993   | MNA         | Manama | Bahrain   | Ready        | Refused221g | 19-May-2023  |
 | 2023AF54492   | MNA         | Manama | Bahrain   | Ready        | AP          | 19-May-2023  |
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
+Consulate: MNG
++---------------+-------------+---------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City    | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+---------+-----------+--------------+----------+--------------|
+| 2023SA2705    | MNG         | Managua | Nicaragua | InTransit    | Ready    | 19-May-2023  |
+| 2023SA2850    | MNG         | Managua | Nicaragua | InTransit    | Ready    | 19-May-2023  |
++---------------+-------------+---------+-----------+--------------+----------+--------------+
+Consulate: MNL
++---------------+-------------+--------+-------------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country     | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-------------+--------------+----------+--------------|
+| 2023AS18773   | MNL         | Manila | Philippines | InTransit    | Ready    | 19-May-2023  |
++---------------+-------------+--------+-------------+--------------+----------+--------------+
 Consulate: MTL
 +---------------+-------------+----------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City     | Country   | PrevStatus   | Status   | statusDate   |
@@ -469,6 +573,18 @@ Consulate: None
 | 2023AS20764   | None        |        |           | NVC          | InTransit | None         |
 | 2023AS20991   | None        |        |           | NVC          | InTransit | None         |
 +---------------+-------------+--------+-----------+--------------+-----------+--------------+
+Consulate: PRI
++---------------+-------------+----------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City     | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+----------+-----------+--------------+----------+--------------|
+| 2023EU10764   | PRI         | Pristina | Kosovo    | InTransit    | Ready    | 19-May-2023  |
+| 2023EU30319   | PRI         | Pristina | Kosovo    | InTransit    | Ready    | 19-May-2023  |
+| 2023EU30872   | PRI         | Pristina | Kosovo    | InTransit    | Ready    | 19-May-2023  |
+| 2023EU30984   | PRI         | Pristina | Kosovo    | InTransit    | Ready    | 19-May-2023  |
+| 2023EU31283   | PRI         | Pristina | Kosovo    | InTransit    | Ready    | 19-May-2023  |
+| 2023EU31536   | PRI         | Pristina | Kosovo    | InTransit    | Ready    | 19-May-2023  |
+| 2023EU31806   | PRI         | Pristina | Kosovo    | InTransit    | Ready    | 19-May-2023  |
++---------------+-------------+----------+-----------+--------------+----------+--------------+
 Consulate: PRS
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
@@ -487,7 +603,44 @@ Consulate: RNG
 | Case Number   | Consulate   | City    | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+---------+-----------+--------------+----------+--------------|
 | 2023AS4913    | RNG         | Rangoon | Burma     | Refused221g  | Ready    | 19-May-2023  |
+| 2023AS18875   | RNG         | Rangoon | Burma     | InTransit    | Ready    | 19-May-2023  |
+| 2023AS18939   | RNG         | Rangoon | Burma     | InTransit    | Ready    | 19-May-2023  |
+| 2023AS19091   | RNG         | Rangoon | Burma     | InTransit    | Ready    | 19-May-2023  |
+| 2023AS19119   | RNG         | Rangoon | Burma     | InTransit    | Ready    | 19-May-2023  |
+| 2023AS19185   | RNG         | Rangoon | Burma     | InTransit    | Ready    | 19-May-2023  |
+| 2023AS19220   | RNG         | Rangoon | Burma     | InTransit    | Ready    | 19-May-2023  |
+| 2023AS19226   | RNG         | Rangoon | Burma     | InTransit    | Ready    | 19-May-2023  |
+| 2023AS19268   | RNG         | Rangoon | Burma     | InTransit    | Ready    | 19-May-2023  |
+| 2023AS19416   | RNG         | Rangoon | Burma     | InTransit    | Ready    | 19-May-2023  |
+| 2023AS19551   | RNG         | Rangoon | Burma     | InTransit    | Ready    | 19-May-2023  |
+| 2023AS19606   | RNG         | Rangoon | Burma     | InTransit    | Ready    | 19-May-2023  |
+| 2023AS19679   | RNG         | Rangoon | Burma     | InTransit    | Ready    | 19-May-2023  |
+| 2023AS19795   | RNG         | Rangoon | Burma     | InTransit    | Ready    | 19-May-2023  |
+| 2023AS19800   | RNG         | Rangoon | Burma     | InTransit    | Ready    | 19-May-2023  |
+| 2023AS19836   | RNG         | Rangoon | Burma     | InTransit    | Ready    | 19-May-2023  |
+| 2023AS19924   | RNG         | Rangoon | Burma     | InTransit    | Ready    | 19-May-2023  |
+| 2023AS19992   | RNG         | Rangoon | Burma     | InTransit    | Ready    | 19-May-2023  |
+| 2023AS20011   | RNG         | Rangoon | Burma     | InTransit    | Ready    | 19-May-2023  |
+| 2023AS20083   | RNG         | Rangoon | Burma     | InTransit    | Ready    | 19-May-2023  |
+| 2023AS20320   | RNG         | Rangoon | Burma     | InTransit    | Ready    | 19-May-2023  |
+| 2023AS20324   | RNG         | Rangoon | Burma     | InTransit    | Ready    | 19-May-2023  |
+| 2023AS20353   | RNG         | Rangoon | Burma     | InTransit    | Ready    | 19-May-2023  |
+| 2023AS20468   | RNG         | Rangoon | Burma     | InTransit    | Ready    | 19-May-2023  |
+| 2023AS20488   | RNG         | Rangoon | Burma     | InTransit    | Ready    | 19-May-2023  |
+| 2023AS20524   | RNG         | Rangoon | Burma     | InTransit    | Ready    | 19-May-2023  |
+| 2023AS20708   | RNG         | Rangoon | Burma     | InTransit    | Ready    | 19-May-2023  |
+| 2023AS20722   | RNG         | Rangoon | Burma     | InTransit    | Ready    | 19-May-2023  |
+| 2023AS20727   | RNG         | Rangoon | Burma     | InTransit    | Ready    | 19-May-2023  |
+| 2023AS20787   | RNG         | Rangoon | Burma     | InTransit    | Ready    | 19-May-2023  |
+| 2023AS20877   | RNG         | Rangoon | Burma     | InTransit    | Ready    | 19-May-2023  |
+| 2023AS20915   | RNG         | Rangoon | Burma     | InTransit    | Ready    | 19-May-2023  |
 +---------------+-------------+---------+-----------+--------------+----------+--------------+
+Consulate: SAR
++---------------+-------------+----------+------------------------+--------------+----------+--------------+
+| Case Number   | Consulate   | City     | Country                | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+----------+------------------------+--------------+----------+--------------|
+| 2023EU30489   | SAR         | Sarajevo | Bosnia and Herzegovina | InTransit    | Ready    | 19-May-2023  |
++---------------+-------------+----------+------------------------+--------------+----------+--------------+
 Consulate: SEO
 +---------------+-------------+--------+-------------+--------------+----------+--------------+
 | Case Number   | Consulate   | City   | Country     | PrevStatus   | Status   | statusDate   |
@@ -501,12 +654,39 @@ Consulate: SGP
 |---------------+-------------+-----------+-----------+--------------+----------+--------------|
 | 2023AS3887    | SGP         | Singapore | Singapore | AP           | Issued   | 19-May-2023  |
 +---------------+-------------+-----------+-----------+--------------+----------+--------------+
+Consulate: SNJ
++---------------+-------------+-----------+------------+--------------+----------+--------------+
+| Case Number   | Consulate   | City      | Country    | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+-----------+------------+--------------+----------+--------------|
+| 2023SA2826    | SNJ         | San José | Costa Rica | InTransit    | Ready    | 19-May-2023  |
++---------------+-------------+-----------+------------+--------------+----------+--------------+
+Consulate: SOF
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023EU30000   | SOF         | Sofia  | Bulgaria  | InTransit    | Ready    | 19-May-2023  |
+| 2023EU30644   | SOF         | Sofia  | Bulgaria  | InTransit    | Ready    | 19-May-2023  |
+| 2023EU31622   | SOF         | Sofia  | Bulgaria  | InTransit    | Ready    | 19-May-2023  |
++---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: STK
 +---------------+-------------+-----------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City      | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+-----------+-----------+--------------+----------+--------------|
 | 2023AS4722    | STK         | Stockholm | Sweden    | Refused221g  | AP       | 19-May-2023  |
 +---------------+-------------+-----------+-----------+--------------+----------+--------------+
+Consulate: SUV
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023OC441     | SUV         | Suva   | Fiji      | InTransit    | Ready    | 19-May-2023  |
+| 2023OC1550    | SUV         | Suva   | Fiji      | InTransit    | Ready    | 19-May-2023  |
+| 2023OC1567    | SUV         | Suva   | Fiji      | InTransit    | Ready    | 19-May-2023  |
+| 2023OC1580    | SUV         | Suva   | Fiji      | InTransit    | Ready    | 19-May-2023  |
+| 2023OC1600    | SUV         | Suva   | Fiji      | InTransit    | Ready    | 19-May-2023  |
+| 2023OC1623    | SUV         | Suva   | Fiji      | InTransit    | Ready    | 19-May-2023  |
+| 2023OC1626    | SUV         | Suva   | Fiji      | InTransit    | Ready    | 19-May-2023  |
+| 2023OC1641    | SUV         | Suva   | Fiji      | InTransit    | Ready    | 19-May-2023  |
++---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: SYD
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
@@ -519,6 +699,10 @@ Consulate: TAI
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+--------+-----------+--------------+----------+--------------|
 | 2023AS12333   | TAI         | Taipei | Taiwan    | AP           | Issued   | 19-May-2023  |
+| 2023AS18221   | TAI         | Taipei | Taiwan    | InTransit    | Ready    | 19-May-2023  |
+| 2023AS19544   | TAI         | Taipei | Taiwan    | InTransit    | Ready    | 19-May-2023  |
+| 2023AS19633   | TAI         | Taipei | Taiwan    | InTransit    | Ready    | 19-May-2023  |
+| 2023AS20940   | TAI         | Taipei | Taiwan    | InTransit    | Ready    | 19-May-2023  |
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: TBL
 +---------------+-------------+---------+-----------+--------------+-------------+--------------+
@@ -527,10 +711,48 @@ Consulate: TBL
 | 2023EU622     | TBL         | Tbilisi | Georgia   | Refused221g  | AP          | 19-May-2023  |
 | 2023EU1635    | TBL         | Tbilisi | Georgia   | Ready        | Refused     | 19-May-2023  |
 | 2023EU3568    | TBL         | Tbilisi | Georgia   | Ready        | Refused221g | 19-May-2023  |
+| 2023EU5467    | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 19-May-2023  |
 | 2023EU6831    | TBL         | Tbilisi | Georgia   | Ready        | AP          | 19-May-2023  |
+| 2023EU8311    | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 19-May-2023  |
+| 2023EU8876    | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 19-May-2023  |
+| 2023EU10021   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 19-May-2023  |
+| 2023EU10037   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 19-May-2023  |
+| 2023EU10580   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 19-May-2023  |
+| 2023EU10750   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 19-May-2023  |
+| 2023EU11373   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 19-May-2023  |
+| 2023EU11460   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 19-May-2023  |
+| 2023EU11724   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 19-May-2023  |
+| 2023EU12217   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 19-May-2023  |
+| 2023EU12244   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 19-May-2023  |
+| 2023EU12310   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 19-May-2023  |
+| 2023EU12617   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 19-May-2023  |
+| 2023EU13096   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 19-May-2023  |
+| 2023EU13826   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 19-May-2023  |
+| 2023EU14047   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 19-May-2023  |
 | 2023EU14353   | TBL         | Tbilisi | Georgia   | Ready        | AP          | 19-May-2023  |
 | 2023EU14399   | TBL         | Tbilisi | Georgia   | Ready        | AP          | 19-May-2023  |
+| 2023EU14707   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 19-May-2023  |
 | 2023EU14986   | TBL         | Tbilisi | Georgia   | Ready        | AP          | 19-May-2023  |
+| 2023EU15019   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 19-May-2023  |
+| 2023EU15087   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 19-May-2023  |
+| 2023EU15096   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 19-May-2023  |
+| 2023EU15162   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 19-May-2023  |
+| 2023EU15196   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 19-May-2023  |
+| 2023EU15251   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 19-May-2023  |
+| 2023EU15264   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 19-May-2023  |
+| 2023EU15391   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 19-May-2023  |
+| 2023EU15520   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 19-May-2023  |
+| 2023EU15575   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 19-May-2023  |
+| 2023EU15592   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 19-May-2023  |
+| 2023EU15660   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 19-May-2023  |
+| 2023EU15731   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 19-May-2023  |
+| 2023EU15740   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 19-May-2023  |
+| 2023EU15764   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 19-May-2023  |
+| 2023EU15768   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 19-May-2023  |
+| 2023EU15784   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 19-May-2023  |
+| 2023EU15786   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 19-May-2023  |
+| 2023EU15818   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 19-May-2023  |
+| 2023EU15831   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 19-May-2023  |
 +---------------+-------------+---------+-----------+--------------+-------------+--------------+
 Consulate: THT
 +---------------+-------------+----------+------------+--------------+----------+--------------+
@@ -575,6 +797,22 @@ Consulate: TIA
 | 2023EU19107   | TIA         | Tirana | Albania   | AP           | Issued   | 19-May-2023  |
 | 2023EU19283   | TIA         | Tirana | Albania   | AP           | Issued   | 19-May-2023  |
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
+Consulate: TKY
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023AS18535   | TKY         | Tokyo  | Japan     | InTransit    | Ready    | 19-May-2023  |
+| 2023AS19086   | TKY         | Tokyo  | Japan     | InTransit    | Ready    | 19-May-2023  |
+| 2023AS19100   | TKY         | Tokyo  | Japan     | InTransit    | Ready    | 19-May-2023  |
+| 2023AS19171   | TKY         | Tokyo  | Japan     | InTransit    | Ready    | 19-May-2023  |
+| 2023AS19202   | TKY         | Tokyo  | Japan     | InTransit    | Ready    | 19-May-2023  |
+| 2023AS19373   | TKY         | Tokyo  | Japan     | InTransit    | Ready    | 19-May-2023  |
+| 2023AS19385   | TKY         | Tokyo  | Japan     | InTransit    | Ready    | 19-May-2023  |
+| 2023AS19477   | TKY         | Tokyo  | Japan     | InTransit    | Ready    | 19-May-2023  |
+| 2023AS19623   | TKY         | Tokyo  | Japan     | InTransit    | Ready    | 19-May-2023  |
+| 2023AS19690   | TKY         | Tokyo  | Japan     | InTransit    | Ready    | 19-May-2023  |
+| 2023AS20418   | TKY         | Tokyo  | Japan     | InTransit    | Ready    | 19-May-2023  |
++---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: ULN
 +---------------+-------------+-------------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City        | Country   | PrevStatus   | Status   | statusDate   |
@@ -587,14 +825,400 @@ Consulate: WRW
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status      | statusDate   |
 |---------------+-------------+--------+-----------+--------------+-------------+--------------|
+| 2023AF39103   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023AF57035   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023AF62923   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023AS11141   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU367     | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU1368    | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU1779    | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU2398    | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU3213    | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
 | 2023EU4143    | WRW         | Warsaw | Poland    | Refused221g  | Issued      | 19-May-2023  |
+| 2023EU5385    | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU7476    | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
 | 2023EU8305    | WRW         | Warsaw | Poland    | Ready        | AP          | 19-May-2023  |
 | 2023EU8307    | WRW         | Warsaw | Poland    | AP           | Issued      | 19-May-2023  |
+| 2023EU8501    | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU9034    | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU10014   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU10270   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU10310   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU11002   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU11771   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU11914   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU12100   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU12220   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU12277   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU12645   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU12687   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU12798   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU13512   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU13845   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU13971   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU13998   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
 | 2023EU15872   | WRW         | Warsaw | Poland    | Refused221g  | Issued      | 19-May-2023  |
+| 2023EU15900   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU16721   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU16895   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU17083   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU17657   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
 | 2023EU17923   | WRW         | Warsaw | Poland    | Ready        | Refused221g | 19-May-2023  |
+| 2023EU18218   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
 | 2023EU18453   | WRW         | Warsaw | Poland    | AP           | Issued      | 19-May-2023  |
+| 2023EU18829   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU18919   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU19031   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU19069   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
 | 2023EU19479   | WRW         | Warsaw | Poland    | AP           | Issued      | 19-May-2023  |
+| 2023EU19594   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU19696   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU19698   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU20641   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU20774   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU20945   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU20967   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU21070   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU21115   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU21255   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU21278   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU21299   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU21300   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU21308   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
 | 2023EU21359   | WRW         | Warsaw | Poland    | Refused221g  | Issued      | 19-May-2023  |
+| 2023EU21389   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU21416   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU21496   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU21506   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU21535   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU21626   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU21690   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU21847   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU21887   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU21935   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU22047   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU22281   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU22328   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU22378   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU22474   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU22480   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU22518   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU22529   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU22732   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU22883   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU22904   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU22964   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU22969   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU22973   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU22999   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU23004   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU23047   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU23064   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU23080   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU23121   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU23124   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU23177   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU23179   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU23229   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU23271   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU23320   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU23398   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU23401   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU23495   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU23607   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU23618   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU23677   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU23696   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU23718   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU23812   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU23866   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU23931   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU24037   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU24062   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU24124   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU24129   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU24210   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU24244   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU24341   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU24364   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU24377   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU24692   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU24694   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU24766   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU24767   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU24813   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU24942   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU24958   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU25322   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU25328   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU25398   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU25476   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU25650   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU25657   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU25709   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU25775   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU25795   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU25831   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU25852   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU25863   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU25867   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU25899   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU25915   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU25951   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU25968   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU25977   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU25997   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU26012   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU26018   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU26065   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU26077   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU26130   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU26161   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU26185   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU26214   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU26216   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU26232   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU26239   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU26270   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU26318   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU26350   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU26359   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU26369   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU26407   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU26457   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU26464   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU26466   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU26475   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU26479   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU26488   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU26510   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU26540   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU26549   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU26555   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU26619   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU26621   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU26645   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU26660   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU26670   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU26695   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU26711   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU26762   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU26793   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU26794   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU26833   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU26911   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU26913   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU26914   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU26920   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU26922   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU26923   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU26928   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU26931   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU26943   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU26996   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU27018   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU27031   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU27042   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU27126   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU27129   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU27202   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU27224   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU27257   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU27311   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU27338   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU27350   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU27352   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU27369   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU27389   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU27390   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU27407   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU27462   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU27477   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU27494   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU27518   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU27589   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU27616   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU27640   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU27651   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU27659   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU27664   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU27666   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU27677   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU27679   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU27680   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU27681   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU27704   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU27711   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU27726   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU27736   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU27738   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU27743   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU27848   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU27857   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU27895   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU27908   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU28013   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU28051   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU28072   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU28103   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU28106   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU28117   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU28150   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU28151   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU28161   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU28162   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU28219   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU28247   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU28277   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU28332   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU28346   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU28357   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU28376   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU28439   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU28475   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU28493   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU28506   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU28516   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU28548   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU28554   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU28562   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU28582   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU28592   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU28596   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU28606   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU28620   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU28665   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU28691   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU28693   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU28702   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU28705   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU28718   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU28735   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU28736   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU28737   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU28782   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU28794   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU28795   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU28798   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU28839   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU28881   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU28929   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU28938   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU28964   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU28977   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU28989   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU28996   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU29011   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU29022   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU29026   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU29053   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU29065   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU29094   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU29136   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU29165   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU29200   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU29224   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU29236   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU29307   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU29319   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU29337   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU29345   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU29366   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU29384   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU29411   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU29427   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU29432   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU29465   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU29485   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU29578   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU29579   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU29588   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU29591   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU29627   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU29638   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU29646   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU29661   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU29701   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU29738   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU29798   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU29806   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU29842   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU29848   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU29861   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU29887   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU29929   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU29968   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU29998   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU30046   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU30071   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU30090   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU30094   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU30103   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU30108   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU30109   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU30156   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU30198   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU30229   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU30241   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU30243   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU30244   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU30247   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU30311   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU30342   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU30370   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU30387   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU30388   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU30425   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU30429   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU30431   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU30475   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU30497   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU30502   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU30511   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU30522   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU30557   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU30571   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU30573   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU30580   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU30629   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU30646   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU30655   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU30660   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU30677   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU30679   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU30683   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU30699   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU30712   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU30716   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU30720   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU30723   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU30724   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU30742   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU30775   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU30795   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU30816   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU30830   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU30839   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU30883   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU30925   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU30936   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU30940   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU30945   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU30953   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU30974   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU31002   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU31006   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU31047   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU31059   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU31064   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU31083   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU31085   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU31092   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU31138   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU31163   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023EU31164   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023OC1186    | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
+| 2023SA2193    | WRW         | Warsaw | Poland    | InTransit    | Ready       | 19-May-2023  |
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
 Consulate: YDE
 +---------------+-------------+---------+-----------+--------------+----------+--------------+
@@ -611,11 +1235,129 @@ Consulate: YRV
 +---------------+-------------+---------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City    | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+---------+-----------+--------------+----------+--------------|
+| 2023AF42426   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023AS7101    | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023AS10012   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023AS10026   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023AS10038   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023AS10039   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023AS10043   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023AS10054   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023AS10068   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023AS10150   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023AS10176   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023AS10189   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023AS10206   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023AS10268   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023AS10296   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023AS10325   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023AS10333   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023AS10383   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023AS10394   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023AS10414   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023AS10420   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023AS10476   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023AS10556   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023AS10566   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023AS10567   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023AS10620   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023AS10649   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023AS10656   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023AS10667   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023AS10668   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023AS10716   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023AS10727   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023AS10747   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023AS10767   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023AS10800   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023AS10831   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023AS10849   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023AS10860   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023AS11016   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023AS11017   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023AS11067   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023AS11149   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023AS11164   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023AS11186   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023AS11197   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023AS11225   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023AS11242   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023AS11246   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023AS11304   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023AS11342   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023AS11429   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023AS11495   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023AS11658   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023AS11676   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023AS11717   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023AS11791   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023AS11795   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023AS11855   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023AS11886   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023AS11945   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023AS12015   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023AS12025   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023AS12055   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023AS12083   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023AS12088   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023AS12121   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023AS12133   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023AS12176   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023AS12191   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023AS12192   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023AS12201   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023AS12208   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023AS12216   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023AS12230   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023AS12266   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023AS12376   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023AS12393   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023AS12400   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023AS12439   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023AS12440   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023AS12443   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023AS12455   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023AS12477   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023AS19009   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU288     | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU571     | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU608     | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU1418    | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU1513    | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU2440    | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU2971    | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU3831    | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU3857    | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU4191    | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU4242    | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU4273    | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU4593    | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
 | 2023EU4905    | YRV         | Yerevan | Armenia   | Refused221g  | AP       | 19-May-2023  |
+| 2023EU5118    | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU5290    | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU5431    | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU5847    | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU6310    | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU6584    | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU6614    | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU6657    | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU7143    | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU7516    | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU7669    | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU7781    | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
 | 2023EU8073    | YRV         | Yerevan | Armenia   | AP           | Issued   | 19-May-2023  |
+| 2023EU8101    | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU8690    | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU8726    | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU8858    | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU8984    | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU9189    | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU9220    | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU9461    | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
 | 2023EU10058   | YRV         | Yerevan | Armenia   | Refused221g  | AP       | 19-May-2023  |
 | 2023EU12045   | YRV         | Yerevan | Armenia   | AP           | Issued   | 19-May-2023  |
 | 2023EU13010   | YRV         | Yerevan | Armenia   | AP           | Issued   | 19-May-2023  |
+| 2023EU15484   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
 | 2023EU15568   | YRV         | Yerevan | Armenia   | Refused221g  | Ready    | 19-May-2023  |
 | 2023EU15812   | YRV         | Yerevan | Armenia   | Refused221g  | Issued   | 19-May-2023  |
 | 2023EU17087   | YRV         | Yerevan | Armenia   | Refused221g  | Issued   | 19-May-2023  |
@@ -623,4 +1365,72 @@ Consulate: YRV
 | 2023EU17659   | YRV         | Yerevan | Armenia   | Refused221g  | Issued   | 19-May-2023  |
 | 2023EU17882   | YRV         | Yerevan | Armenia   | Ready        | AP       | 19-May-2023  |
 | 2023EU18470   | YRV         | Yerevan | Armenia   | Refused221g  | Ready    | 19-May-2023  |
+| 2023EU21495   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU23237   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU23656   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU23701   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU23703   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU23743   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU23799   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU23913   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU23915   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU23941   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU23960   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU23987   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU23992   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU24056   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU24119   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU24137   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU24166   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU24235   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU24323   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU24340   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU24370   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU24452   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU24453   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU24496   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU24628   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU24746   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU24757   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU24859   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU24899   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU24924   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU24941   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU25032   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU25086   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU25163   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU25181   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU25227   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU25265   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU25299   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU25331   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU25341   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU25387   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU25391   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU25412   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU25467   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU25474   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU25511   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU25517   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU25518   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU25524   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU25575   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU25581   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU25583   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU25598   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU25622   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU25635   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU25714   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU25717   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU25746   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU25767   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU25849   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU25881   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU25901   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU25940   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU25974   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU28557   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU31105   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU31863   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
+| 2023EU31961   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 19-May-2023  |
 +---------------+-------------+---------+-----------+--------------+----------+--------------+

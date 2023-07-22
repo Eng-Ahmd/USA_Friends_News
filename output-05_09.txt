@@ -121,6 +121,21 @@ Consulate: BLG
 | 2023EU4054    | BLG         | Belgrade | Serbia    | Ready        | Refused221g | 09-May-2023  |
 | 2023EU27729   | BLG         | Belgrade | Serbia    | Ready        | Issued      | 09-May-2023  |
 +---------------+-------------+----------+-----------+--------------+-------------+--------------+
+Consulate: COT
++---------------+-------------+---------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City    | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+---------+-----------+--------------+----------+--------------|
+| 2023AF471     | COT         | Cotonou | Benin     | InTransit    | Ready    | 09-May-2023  |
+| 2023AF612     | COT         | Cotonou | Benin     | InTransit    | Ready    | 09-May-2023  |
+| 2023AF9844    | COT         | Cotonou | Benin     | InTransit    | Ready    | 09-May-2023  |
+| 2023AF28435   | COT         | Cotonou | Benin     | InTransit    | Ready    | 09-May-2023  |
+| 2023AF39148   | COT         | Cotonou | Benin     | InTransit    | Ready    | 09-May-2023  |
+| 2023AF40694   | COT         | Cotonou | Benin     | InTransit    | Ready    | 09-May-2023  |
+| 2023AF41077   | COT         | Cotonou | Benin     | InTransit    | Ready    | 09-May-2023  |
+| 2023AF41683   | COT         | Cotonou | Benin     | InTransit    | Ready    | 09-May-2023  |
+| 2023AF42651   | COT         | Cotonou | Benin     | InTransit    | Ready    | 09-May-2023  |
+| 2023AF44833   | COT         | Cotonou | Benin     | InTransit    | Ready    | 09-May-2023  |
++---------------+-------------+---------+-----------+--------------+----------+--------------+
 Consulate: CRO
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
@@ -257,7 +272,23 @@ Consulate: HNK
 +---------------+-------------+-----------+-----------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City      | Country   | PrevStatus   | Status      | statusDate   |
 |---------------+-------------+-----------+-----------+--------------+-------------+--------------|
+| 2023EU8441    | HNK         | Hong Kong | China     | InTransit    | Ready       | 09-May-2023  |
+| 2023EU9274    | HNK         | Hong Kong | China     | InTransit    | Ready       | 09-May-2023  |
+| 2023EU9816    | HNK         | Hong Kong | China     | InTransit    | Ready       | 09-May-2023  |
+| 2023EU9823    | HNK         | Hong Kong | China     | InTransit    | Ready       | 09-May-2023  |
+| 2023EU12422   | HNK         | Hong Kong | China     | InTransit    | Ready       | 09-May-2023  |
+| 2023EU13571   | HNK         | Hong Kong | China     | InTransit    | Ready       | 09-May-2023  |
+| 2023EU14947   | HNK         | Hong Kong | China     | InTransit    | Ready       | 09-May-2023  |
+| 2023EU15007   | HNK         | Hong Kong | China     | InTransit    | Ready       | 09-May-2023  |
+| 2023EU17991   | HNK         | Hong Kong | China     | InTransit    | Ready       | 09-May-2023  |
+| 2023EU19136   | HNK         | Hong Kong | China     | InTransit    | Ready       | 09-May-2023  |
+| 2023EU20837   | HNK         | Hong Kong | China     | InTransit    | Ready       | 09-May-2023  |
 | 2023EU21365   | HNK         | Hong Kong | China     | Ready        | Refused221g | 09-May-2023  |
+| 2023EU22773   | HNK         | Hong Kong | China     | InTransit    | Ready       | 09-May-2023  |
+| 2023EU25957   | HNK         | Hong Kong | China     | InTransit    | Ready       | 09-May-2023  |
+| 2023EU26158   | HNK         | Hong Kong | China     | InTransit    | Ready       | 09-May-2023  |
+| 2023EU26574   | HNK         | Hong Kong | China     | InTransit    | Ready       | 09-May-2023  |
+| 2023EU26881   | HNK         | Hong Kong | China     | InTransit    | Ready       | 09-May-2023  |
 +---------------+-------------+-----------+-----------+--------------+-------------+--------------+
 Consulate: JAK
 +---------------+-------------+---------+-----------+--------------+----------+--------------+

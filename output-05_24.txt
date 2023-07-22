@@ -230,14 +230,40 @@ Consulate: COT
 +---------------+-------------+---------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City    | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+---------+-----------+--------------+----------+--------------|
+| 2023AF2309    | COT         | Cotonou | Benin     | InTransit    | Ready    | 24-May-2023  |
+| 2023AF2429    | COT         | Cotonou | Benin     | InTransit    | Ready    | 24-May-2023  |
+| 2023AF4820    | COT         | Cotonou | Benin     | InTransit    | Ready    | 24-May-2023  |
+| 2023AF6211    | COT         | Cotonou | Benin     | InTransit    | Ready    | 24-May-2023  |
+| 2023AF7128    | COT         | Cotonou | Benin     | InTransit    | Ready    | 24-May-2023  |
+| 2023AF11716   | COT         | Cotonou | Benin     | InTransit    | Ready    | 24-May-2023  |
 | 2023AF11944   | COT         | Cotonou | Benin     | Ready        | Issued   | 24-May-2023  |
 | 2023AF13026   | COT         | Cotonou | Benin     | Ready        | Issued   | 24-May-2023  |
+| 2023AF16417   | COT         | Cotonou | Benin     | InTransit    | Ready    | 24-May-2023  |
+| 2023AF16682   | COT         | Cotonou | Benin     | InTransit    | Ready    | 24-May-2023  |
+| 2023AF17251   | COT         | Cotonou | Benin     | InTransit    | Ready    | 24-May-2023  |
+| 2023AF17264   | COT         | Cotonou | Benin     | InTransit    | Ready    | 24-May-2023  |
+| 2023AF18741   | COT         | Cotonou | Benin     | InTransit    | Ready    | 24-May-2023  |
+| 2023AF19712   | COT         | Cotonou | Benin     | InTransit    | Ready    | 24-May-2023  |
+| 2023AF19830   | COT         | Cotonou | Benin     | InTransit    | Ready    | 24-May-2023  |
+| 2023AF21942   | COT         | Cotonou | Benin     | InTransit    | Ready    | 24-May-2023  |
+| 2023AF22074   | COT         | Cotonou | Benin     | InTransit    | Ready    | 24-May-2023  |
+| 2023AF22482   | COT         | Cotonou | Benin     | InTransit    | Ready    | 24-May-2023  |
 | 2023AF22879   | COT         | Cotonou | Benin     | AP           | Issued   | 24-May-2023  |
+| 2023AF24128   | COT         | Cotonou | Benin     | InTransit    | Ready    | 24-May-2023  |
+| 2023AF24401   | COT         | Cotonou | Benin     | InTransit    | Ready    | 24-May-2023  |
+| 2023AF24644   | COT         | Cotonou | Benin     | InTransit    | Ready    | 24-May-2023  |
+| 2023AF26108   | COT         | Cotonou | Benin     | InTransit    | Ready    | 24-May-2023  |
+| 2023AF26559   | COT         | Cotonou | Benin     | InTransit    | Ready    | 24-May-2023  |
+| 2023AF26631   | COT         | Cotonou | Benin     | InTransit    | Ready    | 24-May-2023  |
+| 2023AF30507   | COT         | Cotonou | Benin     | InTransit    | Ready    | 24-May-2023  |
 | 2023AF30621   | COT         | Cotonou | Benin     | AP           | Issued   | 24-May-2023  |
+| 2023AF31747   | COT         | Cotonou | Benin     | InTransit    | Ready    | 24-May-2023  |
 | 2023AF32525   | COT         | Cotonou | Benin     | AP           | Issued   | 24-May-2023  |
 | 2023AF32566   | COT         | Cotonou | Benin     | AP           | Issued   | 24-May-2023  |
+| 2023AF33806   | COT         | Cotonou | Benin     | InTransit    | Ready    | 24-May-2023  |
 | 2023AF34313   | COT         | Cotonou | Benin     | AP           | Issued   | 24-May-2023  |
 | 2023AF34651   | COT         | Cotonou | Benin     | AP           | Issued   | 24-May-2023  |
+| 2023AF35639   | COT         | Cotonou | Benin     | InTransit    | Ready    | 24-May-2023  |
 | 2023AF36741   | COT         | Cotonou | Benin     | AP           | Issued   | 24-May-2023  |
 | 2023AF36787   | COT         | Cotonou | Benin     | AP           | Issued   | 24-May-2023  |
 | 2023AF37113   | COT         | Cotonou | Benin     | AP           | Issued   | 24-May-2023  |
@@ -246,6 +272,25 @@ Consulate: COT
 | 2023AF39842   | COT         | Cotonou | Benin     | AP           | Issued   | 24-May-2023  |
 | 2023AF39895   | COT         | Cotonou | Benin     | AP           | Issued   | 24-May-2023  |
 | 2023AF39942   | COT         | Cotonou | Benin     | AP           | Issued   | 24-May-2023  |
+| 2023AF40807   | COT         | Cotonou | Benin     | InTransit    | Ready    | 24-May-2023  |
+| 2023AF41561   | COT         | Cotonou | Benin     | InTransit    | Ready    | 24-May-2023  |
+| 2023AF41680   | COT         | Cotonou | Benin     | InTransit    | Ready    | 24-May-2023  |
+| 2023AF42886   | COT         | Cotonou | Benin     | InTransit    | Ready    | 24-May-2023  |
+| 2023AF44763   | COT         | Cotonou | Benin     | InTransit    | Ready    | 24-May-2023  |
+| 2023AF45255   | COT         | Cotonou | Benin     | InTransit    | Ready    | 24-May-2023  |
+| 2023AF45294   | COT         | Cotonou | Benin     | InTransit    | Ready    | 24-May-2023  |
+| 2023AF46232   | COT         | Cotonou | Benin     | InTransit    | Ready    | 24-May-2023  |
+| 2023AF46517   | COT         | Cotonou | Benin     | InTransit    | Ready    | 24-May-2023  |
+| 2023AF46589   | COT         | Cotonou | Benin     | InTransit    | Ready    | 24-May-2023  |
+| 2023AF47270   | COT         | Cotonou | Benin     | InTransit    | Ready    | 24-May-2023  |
+| 2023AF47298   | COT         | Cotonou | Benin     | InTransit    | Ready    | 24-May-2023  |
+| 2023AF47426   | COT         | Cotonou | Benin     | InTransit    | Ready    | 24-May-2023  |
+| 2023AF47487   | COT         | Cotonou | Benin     | InTransit    | Ready    | 24-May-2023  |
+| 2023AF47578   | COT         | Cotonou | Benin     | InTransit    | Ready    | 24-May-2023  |
+| 2023AF47939   | COT         | Cotonou | Benin     | InTransit    | Ready    | 24-May-2023  |
+| 2023AF48499   | COT         | Cotonou | Benin     | InTransit    | Ready    | 24-May-2023  |
+| 2023AF48971   | COT         | Cotonou | Benin     | InTransit    | Ready    | 24-May-2023  |
+| 2023AF49282   | COT         | Cotonou | Benin     | InTransit    | Ready    | 24-May-2023  |
 +---------------+-------------+---------+-----------+--------------+----------+--------------+
 Consulate: CRO
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
@@ -455,6 +500,35 @@ Consulate: KWT
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023AF30112   | KWT         | Kuwait | Kuwait    | InTransit    | Ready    | 24-May-2023  |
+| 2023AF30234   | KWT         | Kuwait | Kuwait    | InTransit    | Ready    | 24-May-2023  |
+| 2023AF30450   | KWT         | Kuwait | Kuwait    | InTransit    | Ready    | 24-May-2023  |
+| 2023AF30567   | KWT         | Kuwait | Kuwait    | InTransit    | Ready    | 24-May-2023  |
+| 2023AF30711   | KWT         | Kuwait | Kuwait    | InTransit    | Ready    | 24-May-2023  |
+| 2023AF31571   | KWT         | Kuwait | Kuwait    | InTransit    | Ready    | 24-May-2023  |
+| 2023AF31591   | KWT         | Kuwait | Kuwait    | InTransit    | Ready    | 24-May-2023  |
+| 2023AF31810   | KWT         | Kuwait | Kuwait    | InTransit    | Ready    | 24-May-2023  |
+| 2023AF31921   | KWT         | Kuwait | Kuwait    | InTransit    | Ready    | 24-May-2023  |
+| 2023AF31952   | KWT         | Kuwait | Kuwait    | InTransit    | Ready    | 24-May-2023  |
+| 2023AF32666   | KWT         | Kuwait | Kuwait    | InTransit    | Ready    | 24-May-2023  |
+| 2023AF32959   | KWT         | Kuwait | Kuwait    | InTransit    | Ready    | 24-May-2023  |
+| 2023AF33921   | KWT         | Kuwait | Kuwait    | InTransit    | Ready    | 24-May-2023  |
+| 2023AF34017   | KWT         | Kuwait | Kuwait    | InTransit    | Ready    | 24-May-2023  |
+| 2023AF34550   | KWT         | Kuwait | Kuwait    | InTransit    | Ready    | 24-May-2023  |
+| 2023AF34807   | KWT         | Kuwait | Kuwait    | InTransit    | Ready    | 24-May-2023  |
+| 2023AF34836   | KWT         | Kuwait | Kuwait    | InTransit    | Ready    | 24-May-2023  |
+| 2023AF34924   | KWT         | Kuwait | Kuwait    | InTransit    | Ready    | 24-May-2023  |
+| 2023AF36513   | KWT         | Kuwait | Kuwait    | InTransit    | Ready    | 24-May-2023  |
+| 2023AF36754   | KWT         | Kuwait | Kuwait    | InTransit    | Ready    | 24-May-2023  |
+| 2023AF37660   | KWT         | Kuwait | Kuwait    | InTransit    | Ready    | 24-May-2023  |
+| 2023AF38446   | KWT         | Kuwait | Kuwait    | InTransit    | Ready    | 24-May-2023  |
+| 2023AF38813   | KWT         | Kuwait | Kuwait    | InTransit    | Ready    | 24-May-2023  |
+| 2023AF39579   | KWT         | Kuwait | Kuwait    | InTransit    | Ready    | 24-May-2023  |
+| 2023AF40322   | KWT         | Kuwait | Kuwait    | InTransit    | Ready    | 24-May-2023  |
+| 2023AF40718   | KWT         | Kuwait | Kuwait    | InTransit    | Ready    | 24-May-2023  |
+| 2023AF41555   | KWT         | Kuwait | Kuwait    | InTransit    | Ready    | 24-May-2023  |
+| 2023AF42443   | KWT         | Kuwait | Kuwait    | InTransit    | Ready    | 24-May-2023  |
+| 2023AF43112   | KWT         | Kuwait | Kuwait    | InTransit    | Ready    | 24-May-2023  |
 | 2023AS17325   | KWT         | Kuwait | Kuwait    | Refused221g  | AP       | 24-May-2023  |
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: LMA
@@ -470,12 +544,18 @@ Consulate: LND
 | Case Number   | Consulate   | City   | Country        | PrevStatus   | Status      | statusDate   |
 |---------------+-------------+--------+----------------+--------------+-------------+--------------|
 | 2023AF10354   | LND         | London | United Kingdom | Ready        | Issued      | 24-May-2023  |
+| 2023AF20920   | LND         | London | United Kingdom | InTransit    | Ready       | 24-May-2023  |
+| 2023AF23510   | LND         | London | United Kingdom | InTransit    | Ready       | 24-May-2023  |
 | 2023AF50548   | LND         | London | United Kingdom | Ready        | Refused221g | 24-May-2023  |
 | 2023AF56627   | LND         | London | United Kingdom | Ready        | Refused221g | 24-May-2023  |
+| 2023AF60052   | LND         | London | United Kingdom | InTransit    | Ready       | 24-May-2023  |
+| 2023AS705     | LND         | London | United Kingdom | InTransit    | Ready       | 24-May-2023  |
+| 2023AS7241    | LND         | London | United Kingdom | InTransit    | Ready       | 24-May-2023  |
 | 2023EU3592    | LND         | London | United Kingdom | Ready        | Refused221g | 24-May-2023  |
 | 2023EU6139    | LND         | London | United Kingdom | Ready        | Refused221g | 24-May-2023  |
 | 2023EU6656    | LND         | London | United Kingdom | Ready        | Refused221g | 24-May-2023  |
 | 2023EU19980   | LND         | London | United Kingdom | Ready        | Refused221g | 24-May-2023  |
+| 2023OC1454    | LND         | London | United Kingdom | InTransit    | Ready       | 24-May-2023  |
 +---------------+-------------+--------+----------------+--------------+-------------+--------------+
 Consulate: LOM
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+

@@ -28,6 +28,7 @@ Consulate: AKD
 +---------------+-------------+----------+--------------+--------------+----------+--------------+
 | Case Number   | Consulate   | City     | Country      | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+----------+--------------+--------------+----------+--------------|
+| 2023EU14152   | AKD         | Ashgabat | Turkmenistan | InTransit    | Ready    | 27-Jun-2023  |
 | 2023EU23908   | AKD         | Ashgabat | Turkmenistan | Ready        | Issued   | 27-Jun-2023  |
 +---------------+-------------+----------+--------------+--------------+----------+--------------+
 Consulate: ALG
@@ -109,6 +110,7 @@ Consulate: ATA
 | 2023EU16260   | ATA         | Almaty | Kazakhstan | Refused221g  | Issued   | 27-Jun-2023  |
 | 2023EU16461   | ATA         | Almaty | Kazakhstan | Refused221g  | Issued   | 27-Jun-2023  |
 | 2023EU19477   | ATA         | Almaty | Kazakhstan | Refused221g  | Issued   | 27-Jun-2023  |
+| 2023EU26207   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 26-Jun-2023  |
 | 2023EU29941   | ATA         | Almaty | Kazakhstan | Refused221g  | Issued   | 27-Jun-2023  |
 +---------------+-------------+--------+------------+--------------+----------+--------------+
 Consulate: ATH
@@ -144,6 +146,14 @@ Consulate: BMB
 |---------------+-------------+--------+-----------+--------------+----------+--------------|
 | 2023AS9945    | BMB         | Mumbai | India     | Refused221g  | Ready    | 27-Jun-2023  |
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
+Consulate: BNK
++---------------+-------------+---------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City    | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+---------+-----------+--------------+----------+--------------|
+| 2023AS4919    | BNK         | Bangkok | Thailand  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AS11156   | BNK         | Bangkok | Thailand  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AS15395   | BNK         | Bangkok | Thailand  | InTransit    | Ready    | 26-Jun-2023  |
++---------------+-------------+---------+-----------+--------------+----------+--------------+
 Consulate: BRS
 +---------------+-------------+----------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City     | Country   | PrevStatus   | Status   | statusDate   |
@@ -156,6 +166,14 @@ Consulate: BRT
 |---------------+-------------+--------+-----------+--------------+-------------+--------------|
 | 2023AS11904   | BRT         | Beirut | Lebanon   | Ready        | Refused221g | 27-Jun-2023  |
 | 2023AS14134   | BRT         | Beirut | Lebanon   | Ready        | Issued      | 27-Jun-2023  |
+| 2023AS16644   | BRT         | Beirut | Lebanon   | InTransit    | Ready       | 27-Jun-2023  |
+| 2023AS18339   | BRT         | Beirut | Lebanon   | InTransit    | Ready       | 27-Jun-2023  |
+| 2023AS19405   | BRT         | Beirut | Lebanon   | InTransit    | Ready       | 27-Jun-2023  |
+| 2023AS20519   | BRT         | Beirut | Lebanon   | InTransit    | Ready       | 27-Jun-2023  |
+| 2023AS20576   | BRT         | Beirut | Lebanon   | InTransit    | Ready       | 27-Jun-2023  |
+| 2023AS20749   | BRT         | Beirut | Lebanon   | InTransit    | Ready       | 27-Jun-2023  |
+| 2023AS20840   | BRT         | Beirut | Lebanon   | InTransit    | Ready       | 27-Jun-2023  |
+| 2023EU31937   | BRT         | Beirut | Lebanon   | InTransit    | Ready       | 27-Jun-2023  |
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
 Consulate: CHS
 +---------------+-------------+----------+-----------+--------------+----------+--------------+
@@ -177,43 +195,415 @@ Consulate: COT
 |---------------+-------------+---------+-----------+--------------+-------------+--------------|
 | 2023AF471     | COT         | Cotonou | Benin     | Ready        | Issued      | 27-Jun-2023  |
 | 2023AF612     | COT         | Cotonou | Benin     | Ready        | Refused221g | 27-Jun-2023  |
+| 2023AF2229    | COT         | Cotonou | Benin     | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF7723    | COT         | Cotonou | Benin     | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF8862    | COT         | Cotonou | Benin     | InTransit    | Ready       | 26-Jun-2023  |
 | 2023AF9844    | COT         | Cotonou | Benin     | Ready        | AP          | 27-Jun-2023  |
+| 2023AF9855    | COT         | Cotonou | Benin     | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF16159   | COT         | Cotonou | Benin     | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF19397   | COT         | Cotonou | Benin     | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF27611   | COT         | Cotonou | Benin     | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF27832   | COT         | Cotonou | Benin     | InTransit    | Ready       | 26-Jun-2023  |
 | 2023AF28435   | COT         | Cotonou | Benin     | Ready        | AP          | 27-Jun-2023  |
+| 2023AF33596   | COT         | Cotonou | Benin     | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF37244   | COT         | Cotonou | Benin     | InTransit    | Ready       | 26-Jun-2023  |
 | 2023AF37639   | COT         | Cotonou | Benin     | Ready        | Issued      | 27-Jun-2023  |
 | 2023AF39148   | COT         | Cotonou | Benin     | Ready        | Issued      | 27-Jun-2023  |
+| 2023AF39711   | COT         | Cotonou | Benin     | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF40401   | COT         | Cotonou | Benin     | InTransit    | Ready       | 26-Jun-2023  |
 | 2023AF40694   | COT         | Cotonou | Benin     | Ready        | Issued      | 27-Jun-2023  |
+| 2023AF40838   | COT         | Cotonou | Benin     | InTransit    | Ready       | 26-Jun-2023  |
 | 2023AF41077   | COT         | Cotonou | Benin     | Ready        | Issued      | 27-Jun-2023  |
+| 2023AF41351   | COT         | Cotonou | Benin     | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF41495   | COT         | Cotonou | Benin     | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF41951   | COT         | Cotonou | Benin     | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF41992   | COT         | Cotonou | Benin     | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF42302   | COT         | Cotonou | Benin     | InTransit    | Ready       | 26-Jun-2023  |
 | 2023AF42651   | COT         | Cotonou | Benin     | Ready        | Refused221g | 27-Jun-2023  |
+| 2023AF43852   | COT         | Cotonou | Benin     | InTransit    | Ready       | 26-Jun-2023  |
 | 2023AF44833   | COT         | Cotonou | Benin     | Ready        | Issued      | 27-Jun-2023  |
+| 2023AF45842   | COT         | Cotonou | Benin     | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF46639   | COT         | Cotonou | Benin     | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF47414   | COT         | Cotonou | Benin     | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF47752   | COT         | Cotonou | Benin     | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF48999   | COT         | Cotonou | Benin     | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF49149   | COT         | Cotonou | Benin     | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF50107   | COT         | Cotonou | Benin     | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF50501   | COT         | Cotonou | Benin     | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF50605   | COT         | Cotonou | Benin     | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF50714   | COT         | Cotonou | Benin     | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF50869   | COT         | Cotonou | Benin     | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF50891   | COT         | Cotonou | Benin     | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF51024   | COT         | Cotonou | Benin     | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF51084   | COT         | Cotonou | Benin     | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF51088   | COT         | Cotonou | Benin     | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF51248   | COT         | Cotonou | Benin     | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF51308   | COT         | Cotonou | Benin     | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF51662   | COT         | Cotonou | Benin     | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF51879   | COT         | Cotonou | Benin     | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF53186   | COT         | Cotonou | Benin     | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF53477   | COT         | Cotonou | Benin     | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF53495   | COT         | Cotonou | Benin     | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF53701   | COT         | Cotonou | Benin     | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF55033   | COT         | Cotonou | Benin     | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF55423   | COT         | Cotonou | Benin     | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF55447   | COT         | Cotonou | Benin     | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF55558   | COT         | Cotonou | Benin     | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF55894   | COT         | Cotonou | Benin     | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF56151   | COT         | Cotonou | Benin     | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF56426   | COT         | Cotonou | Benin     | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF57189   | COT         | Cotonou | Benin     | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF57352   | COT         | Cotonou | Benin     | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF57738   | COT         | Cotonou | Benin     | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF57785   | COT         | Cotonou | Benin     | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF57921   | COT         | Cotonou | Benin     | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF58657   | COT         | Cotonou | Benin     | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF59287   | COT         | Cotonou | Benin     | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF59439   | COT         | Cotonou | Benin     | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF59792   | COT         | Cotonou | Benin     | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF59870   | COT         | Cotonou | Benin     | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF59961   | COT         | Cotonou | Benin     | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF59991   | COT         | Cotonou | Benin     | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF60448   | COT         | Cotonou | Benin     | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF61010   | COT         | Cotonou | Benin     | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF61287   | COT         | Cotonou | Benin     | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF61296   | COT         | Cotonou | Benin     | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF61416   | COT         | Cotonou | Benin     | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF61916   | COT         | Cotonou | Benin     | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF62421   | COT         | Cotonou | Benin     | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF62658   | COT         | Cotonou | Benin     | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF62759   | COT         | Cotonou | Benin     | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF63225   | COT         | Cotonou | Benin     | InTransit    | Ready       | 26-Jun-2023  |
 +---------------+-------------+---------+-----------+--------------+-------------+--------------+
 Consulate: CRO
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status      | statusDate   |
 |---------------+-------------+--------+-----------+--------------+-------------+--------------|
 | 2023AF201     | CRO         | Cairo  | Egypt     | Refused221g  | Issued      | 26-Jun-2023  |
+| 2023AF240     | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF821     | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF1279    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF1326    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF1750    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF1756    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF2114    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF2163    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF2165    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF2168    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF2436    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF2450    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
 | 2023AF2917    | CRO         | Cairo  | Egypt     | Transfer     | Issued      | 25-Jun-2023  |
+| 2023AF3345    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF3502    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF3669    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF4021    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF4068    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF4200    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF4296    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF4519    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
 | 2023AF4520    | CRO         | Cairo  | Egypt     | AP           | Issued      | 25-Jun-2023  |
+| 2023AF4602    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF4607    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF4649    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF4847    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF4891    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF4946    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF4971    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF5000    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF5183    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF5491    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF6218    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF6238    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF6311    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF6356    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF6447    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF6491    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF6728    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
 | 2023AF6754    | CRO         | Cairo  | Egypt     | Ready        | Refused221g | 27-Jun-2023  |
+| 2023AF7297    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF7404    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF8018    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF8118    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF8124    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF8459    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF8563    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF8793    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF8815    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF8858    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF8942    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
 | 2023AF9004    | CRO         | Cairo  | Egypt     | Transfer     | Refused221g | 25-Jun-2023  |
 | 2023AF9005    | CRO         | Cairo  | Egypt     | Refused221g  | Issued      | 25-Jun-2023  |
+| 2023AF9022    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF9129    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF9214    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF9248    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
 | 2023AF9473    | CRO         | Cairo  | Egypt     | AP           | Issued      | 25-Jun-2023  |
+| 2023AF9768    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF9897    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF10019   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF10044   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF10271   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF10275   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF10325   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF10334   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
 | 2023AF10436   | CRO         | Cairo  | Egypt     | Refused221g  | Issued      | 26-Jun-2023  |
+| 2023AF10446   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF10621   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF10726   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
 | 2023AF10857   | CRO         | Cairo  | Egypt     | AP           | Issued      | 26-Jun-2023  |
+| 2023AF11004   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF11174   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF11187   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF11235   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF11259   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF11378   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF11549   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
 | 2023AF11720   | CRO         | Cairo  | Egypt     | AP           | Issued      | 25-Jun-2023  |
+| 2023AF11837   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF11891   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF12031   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF12326   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF12356   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF12403   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF12422   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF12922   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF12932   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF13054   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF13168   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
 | 2023AF13192   | CRO         | Cairo  | Egypt     | Refused221g  | Issued      | 25-Jun-2023  |
+| 2023AF13496   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF13504   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF13803   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF14017   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF14057   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF14115   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF14214   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
 | 2023AF14226   | CRO         | Cairo  | Egypt     | AP           | Issued      | 25-Jun-2023  |
+| 2023AF14235   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF14255   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF14372   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF14412   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF14423   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF14471   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF14495   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF14565   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF14580   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
 | 2023AF14632   | CRO         | Cairo  | Egypt     | Ready        | Issued      | 26-Jun-2023  |
+| 2023AF14638   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF14780   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF14810   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF14817   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF14875   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF14960   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF14962   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF14996   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF15473   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF15498   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF15540   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF15571   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF15646   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF15685   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF15755   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF15820   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF15987   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF16035   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF16114   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF16151   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF16204   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF16470   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF16539   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF16560   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF16563   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
 | 2023AF16607   | CRO         | Cairo  | Egypt     | Ready        | Refused221g | 25-Jun-2023  |
 | 2023AF16612   | CRO         | Cairo  | Egypt     | Ready        | Refused221g | 25-Jun-2023  |
+| 2023AF16614   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
 | 2023AF16876   | CRO         | Cairo  | Egypt     | Ready        | Issued      | 26-Jun-2023  |
 | 2023AF16995   | CRO         | Cairo  | Egypt     | Ready        | Issued      | 25-Jun-2023  |
+| 2023AF17029   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF17230   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF17337   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF17379   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF17385   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF17798   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF17975   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
 | 2023AF18071   | CRO         | Cairo  | Egypt     | Ready        | Issued      | 25-Jun-2023  |
+| 2023AF18072   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
 | 2023AF18092   | CRO         | Cairo  | Egypt     | Ready        | Issued      | 26-Jun-2023  |
 | 2023AF18106   | CRO         | Cairo  | Egypt     | Ready        | Refused     | 27-Jun-2023  |
+| 2023AF18141   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF18171   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF18386   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF18394   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF18399   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF18455   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF18548   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF18583   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF18591   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF18748   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF18785   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF18797   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF18805   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF18838   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF18899   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF18962   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF19025   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF19032   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF19035   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF19123   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF19159   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF19345   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF19418   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF19599   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF19603   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF19608   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF19744   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF19802   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF19939   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF19955   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF19979   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF20312   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF20479   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF20539   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF20851   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF21012   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF21092   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF21183   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF21262   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF21296   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF21364   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF21469   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF21710   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF21752   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF21968   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF21969   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF21972   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF22003   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF22212   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF22233   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF22361   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF22550   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF22764   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF22787   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF22830   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF22848   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF22985   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF23038   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF23077   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF23101   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF23244   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF23512   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF23551   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF23597   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF23686   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF23751   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF23855   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF23921   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF23932   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF23965   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF24002   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF24109   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF24244   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF24293   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF24310   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF24333   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF24649   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF24683   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF24790   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF24864   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF24886   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF24981   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF25004   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF25168   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF25268   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF25317   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF25493   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF25654   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF25979   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF26009   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF26058   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF26153   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF26382   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF26518   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF26603   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF26745   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF26842   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF26878   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF26900   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF26923   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF26933   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF26963   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF27004   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF27090   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF27142   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF27205   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF27232   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF27495   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF27568   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF27767   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF27874   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF28023   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF28041   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF28064   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF28143   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF28148   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF28236   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF28341   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF28412   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF28413   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF28417   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF28661   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF28907   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF28956   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF29146   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF29427   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF29606   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF29893   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF30036   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF30068   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF30379   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF30603   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF30658   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF30761   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF31146   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF31230   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF31247   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF31255   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF31409   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF31563   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF32254   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF32255   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF32664   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF32754   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF32795   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF32856   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF32922   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF33391   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF33394   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF33585   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF33605   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF33960   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF34117   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF34266   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF34294   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF34317   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF34376   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF34482   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF34524   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF34560   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
 | 2023AF34745   | CRO         | Cairo  | Egypt     | AP           | Issued      | 25-Jun-2023  |
+| 2023AF34829   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF34962   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
 | 2023AF34963   | CRO         | Cairo  | Egypt     | Transfer     | Ready       | 25-Jun-2023  |
 | 2023AF39452   | CRO         | Cairo  | Egypt     | Refused221g  | Issued      | 26-Jun-2023  |
 | 2023AF44193   | CRO         | Cairo  | Egypt     | Refused221g  | Issued      | 26-Jun-2023  |
+| 2023AF45369   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF53173   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AS3347    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AS4233    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AS5049    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AS7853    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AS10347   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AS18600   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 25-Jun-2023  |
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
 Consulate: CSB
 +---------------+-------------+------------+-----------+--------------+----------+--------------+
@@ -293,6 +683,46 @@ Consulate: CSB
 | 2023AF38771   | CSB         | Casablanca | Morocco   | AP           | Issued   | 26-Jun-2023  |
 | 2023AF38809   | CSB         | Casablanca | Morocco   | AP           | Issued   | 26-Jun-2023  |
 +---------------+-------------+------------+-----------+--------------+----------+--------------+
+Consulate: DHB
++---------------+-------------+----------+------------+--------------+----------+--------------+
+| Case Number   | Consulate   | City     | Country    | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+----------+------------+--------------+----------+--------------|
+| 2023AS19872   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 26-Jun-2023  |
+| 2023EU18191   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 26-Jun-2023  |
+| 2023EU18522   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 26-Jun-2023  |
+| 2023EU20977   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 26-Jun-2023  |
+| 2023EU22318   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 26-Jun-2023  |
+| 2023EU23358   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 26-Jun-2023  |
+| 2023EU25569   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 26-Jun-2023  |
+| 2023EU26023   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 26-Jun-2023  |
+| 2023EU26789   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 26-Jun-2023  |
+| 2023EU26843   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 26-Jun-2023  |
+| 2023EU27186   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 26-Jun-2023  |
+| 2023EU27269   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 26-Jun-2023  |
+| 2023EU27414   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 26-Jun-2023  |
+| 2023EU27907   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 26-Jun-2023  |
+| 2023EU28325   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 26-Jun-2023  |
+| 2023EU28581   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 26-Jun-2023  |
+| 2023EU28637   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 26-Jun-2023  |
+| 2023EU28958   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 26-Jun-2023  |
+| 2023EU29216   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 26-Jun-2023  |
+| 2023EU29338   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 26-Jun-2023  |
+| 2023EU29791   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 26-Jun-2023  |
+| 2023EU29797   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 26-Jun-2023  |
+| 2023EU29911   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 26-Jun-2023  |
+| 2023EU30044   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 26-Jun-2023  |
+| 2023EU30060   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 26-Jun-2023  |
+| 2023EU30242   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 26-Jun-2023  |
+| 2023EU30265   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 26-Jun-2023  |
+| 2023EU30325   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 26-Jun-2023  |
+| 2023EU30374   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 26-Jun-2023  |
+| 2023EU30423   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 26-Jun-2023  |
+| 2023EU30451   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 26-Jun-2023  |
+| 2023EU30456   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 26-Jun-2023  |
+| 2023EU30460   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 26-Jun-2023  |
+| 2023EU30506   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 26-Jun-2023  |
+| 2023EU30550   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 26-Jun-2023  |
++---------------+-------------+----------+------------+--------------+----------+--------------+
 Consulate: DHK
 +---------------+-------------+--------+------------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City   | Country    | PrevStatus   | Status      | statusDate   |
@@ -323,15 +753,71 @@ Consulate: DOH
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status      | statusDate   |
 |---------------+-------------+--------+-----------+--------------+-------------+--------------|
 | 2023AF15128   | DOH         | Doha   | Qatar     | AP           | Issued      | 27-Jun-2023  |
+| 2023AF18317   | DOH         | Doha   | Qatar     | InTransit    | Ready       | 25-Jun-2023  |
 | 2023AF21466   | DOH         | Doha   | Qatar     | Ready        | Refused221g | 27-Jun-2023  |
+| 2023AF27786   | DOH         | Doha   | Qatar     | InTransit    | Ready       | 25-Jun-2023  |
 | 2023AF28358   | DOH         | Doha   | Qatar     | AP           | Issued      | 27-Jun-2023  |
 | 2023AF29493   | DOH         | Doha   | Qatar     | Ready        | Issued      | 27-Jun-2023  |
+| 2023AF31142   | DOH         | Doha   | Qatar     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF32275   | DOH         | Doha   | Qatar     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF33926   | DOH         | Doha   | Qatar     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF34309   | DOH         | Doha   | Qatar     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF34599   | DOH         | Doha   | Qatar     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF35322   | DOH         | Doha   | Qatar     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF35511   | DOH         | Doha   | Qatar     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF36317   | DOH         | Doha   | Qatar     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF36587   | DOH         | Doha   | Qatar     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF36977   | DOH         | Doha   | Qatar     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF37583   | DOH         | Doha   | Qatar     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF39316   | DOH         | Doha   | Qatar     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF41656   | DOH         | Doha   | Qatar     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF41678   | DOH         | Doha   | Qatar     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF42236   | DOH         | Doha   | Qatar     | InTransit    | Ready       | 25-Jun-2023  |
 | 2023AF42808   | DOH         | Doha   | Qatar     | AP           | Issued      | 27-Jun-2023  |
+| 2023AF47044   | DOH         | Doha   | Qatar     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF48350   | DOH         | Doha   | Qatar     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF48383   | DOH         | Doha   | Qatar     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF50635   | DOH         | Doha   | Qatar     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF50967   | DOH         | Doha   | Qatar     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF51341   | DOH         | Doha   | Qatar     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF51559   | DOH         | Doha   | Qatar     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF52290   | DOH         | Doha   | Qatar     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF52291   | DOH         | Doha   | Qatar     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF52302   | DOH         | Doha   | Qatar     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF52379   | DOH         | Doha   | Qatar     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF52397   | DOH         | Doha   | Qatar     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF52689   | DOH         | Doha   | Qatar     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF52878   | DOH         | Doha   | Qatar     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF54072   | DOH         | Doha   | Qatar     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF54621   | DOH         | Doha   | Qatar     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF54714   | DOH         | Doha   | Qatar     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF54966   | DOH         | Doha   | Qatar     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF56165   | DOH         | Doha   | Qatar     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF56467   | DOH         | Doha   | Qatar     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF56575   | DOH         | Doha   | Qatar     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF57426   | DOH         | Doha   | Qatar     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF57871   | DOH         | Doha   | Qatar     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF58682   | DOH         | Doha   | Qatar     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF59044   | DOH         | Doha   | Qatar     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF60111   | DOH         | Doha   | Qatar     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF60755   | DOH         | Doha   | Qatar     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF61041   | DOH         | Doha   | Qatar     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF61586   | DOH         | Doha   | Qatar     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF61830   | DOH         | Doha   | Qatar     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF62125   | DOH         | Doha   | Qatar     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF63031   | DOH         | Doha   | Qatar     | InTransit    | Ready       | 25-Jun-2023  |
 | 2023AS3533    | DOH         | Doha   | Qatar     | Refused221g  | AP          | 27-Jun-2023  |
 | 2023AS11992   | DOH         | Doha   | Qatar     | Refused221g  | Issued      | 27-Jun-2023  |
+| 2023AS13019   | DOH         | Doha   | Qatar     | InTransit    | Ready       | 25-Jun-2023  |
 | 2023AS15020   | DOH         | Doha   | Qatar     | Refused221g  | AP          | 27-Jun-2023  |
 | 2023AS16065   | DOH         | Doha   | Qatar     | Refused221g  | Issued      | 27-Jun-2023  |
 | 2023AS16448   | DOH         | Doha   | Qatar     | Ready        | Refused     | 27-Jun-2023  |
+| 2023AS18765   | DOH         | Doha   | Qatar     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AS18965   | DOH         | Doha   | Qatar     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AS19413   | DOH         | Doha   | Qatar     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AS20434   | DOH         | Doha   | Qatar     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AS20545   | DOH         | Doha   | Qatar     | InTransit    | Ready       | 25-Jun-2023  |
+| 2023SA1684    | DOH         | Doha   | Qatar     | InTransit    | Ready       | 25-Jun-2023  |
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
 Consulate: DRS
 +---------------+-------------+---------------+-----------+--------------+----------+--------------+
@@ -361,13 +847,122 @@ Consulate: FTN
 | Case Number   | Consulate   | City     | Country      | PrevStatus   | Status      | statusDate   |
 |---------------+-------------+----------+--------------+--------------+-------------+--------------|
 | 2023AF2539    | FTN         | Freetown | Sierra Leone | AP           | Issued      | 27-Jun-2023  |
+| 2023AF4997    | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF5129    | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF5598    | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF6957    | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF7207    | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF9348    | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF10335   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF10496   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
 | 2023AF10711   | FTN         | Freetown | Sierra Leone | Refused221g  | Ready       | 27-Jun-2023  |
+| 2023AF11956   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF12739   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF12802   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF13183   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF14813   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF15542   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF15548   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF16130   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF16502   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF17434   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF17805   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF19388   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF19761   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF21140   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF21367   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF23744   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF24011   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF24273   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF24292   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF24357   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF24733   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF25106   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF25817   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF27007   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF28859   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
 | 2023AF28959   | FTN         | Freetown | Sierra Leone | Refused221g  | Issued      | 27-Jun-2023  |
 | 2023AF30167   | FTN         | Freetown | Sierra Leone | Refused221g  | Issued      | 27-Jun-2023  |
+| 2023AF30372   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF30884   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF32385   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF33906   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF33984   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF34976   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF35096   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF35487   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF35858   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF36338   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF36631   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
 | 2023AF38344   | FTN         | Freetown | Sierra Leone | Refused221g  | Issued      | 27-Jun-2023  |
+| 2023AF39150   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF39456   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF39681   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 27-Jun-2023  |
+| 2023AF39695   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF40432   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF40499   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF40563   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF41029   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF41043   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF41174   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF41196   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF41844   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF42532   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF43121   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF44471   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF44580   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF44628   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF45155   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF45177   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF45688   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF45703   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF45724   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF45953   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF46056   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF46418   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF46692   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF47063   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF47170   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF47562   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF47819   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF48272   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF48514   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF49152   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF49446   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF50034   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF50904   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF51146   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF51185   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF51547   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF52016   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF52179   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF52562   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF52907   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF53669   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF54380   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF54612   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF55223   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF55652   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF55867   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
 | 2023AF56307   | FTN         | Freetown | Sierra Leone | Ready        | Refused221g | 26-Jun-2023  |
+| 2023AF56321   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF56623   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF57809   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF57836   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF57876   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF58387   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF58776   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF58949   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF59825   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
 | 2023AF59843   | FTN         | Freetown | Sierra Leone | Ready        | Refused221g | 26-Jun-2023  |
+| 2023AF60558   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
 | 2023AF60834   | FTN         | Freetown | Sierra Leone | Ready        | Refused221g | 26-Jun-2023  |
+| 2023AF61992   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF62724   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF62871   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF63101   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AF63431   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AS18658   | FTN         | Freetown | Sierra Leone | InTransit    | Ready       | 26-Jun-2023  |
 +---------------+-------------+----------+--------------+--------------+-------------+--------------+
 Consulate: GUZ
 +---------------+-------------+-----------+-----------+--------------+----------+--------------+
@@ -489,13 +1084,111 @@ Consulate: LOM
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023AF2254    | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF4844    | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF7174    | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF7615    | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF8665    | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
 | 2023AF8678    | LOM         | Lome   | Togo      | Refused221g  | AP       | 27-Jun-2023  |
 | 2023AF9293    | LOM         | Lome   | Togo      | Ready        | AP       | 27-Jun-2023  |
+| 2023AF9476    | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF13189   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF13895   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
 | 2023AF17614   | LOM         | Lome   | Togo      | Refused221g  | AP       | 27-Jun-2023  |
+| 2023AF22502   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF28620   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF31351   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF31793   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF33019   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF35625   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF35692   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF35784   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF35868   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF36143   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF37186   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF38439   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF41291   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
 | 2023AF41535   | LOM         | Lome   | Togo      | Refused221g  | AP       | 27-Jun-2023  |
 | 2023AF41851   | LOM         | Lome   | Togo      | Refused221g  | AP       | 27-Jun-2023  |
+| 2023AF43207   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF43940   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
 | 2023AF44190   | LOM         | Lome   | Togo      | Ready        | AP       | 27-Jun-2023  |
 | 2023AF45716   | LOM         | Lome   | Togo      | Ready        | AP       | 27-Jun-2023  |
+| 2023AF46476   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF47248   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF47484   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF51756   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF54318   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF54507   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF54543   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF56571   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF57160   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF57181   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF57244   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF57262   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF57266   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF57269   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF57472   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF57630   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF57762   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF57783   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF57897   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF57952   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF58169   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF58311   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF58312   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF58490   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF58493   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF58614   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF58630   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF58789   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF59187   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF59207   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF59262   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF59343   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF59391   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF59395   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF59667   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF59706   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF59725   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF59753   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF59847   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF59949   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF60149   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF60214   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF60298   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF60339   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF60342   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF60622   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF60817   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF60963   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF61155   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF61197   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF61199   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF61238   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF61474   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF61691   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF61899   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF61943   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF62156   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF62177   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF62233   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF62308   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF62315   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF62411   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF62476   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF62509   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF62523   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF62628   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF62643   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF62694   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF62699   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF62743   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF62934   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF62945   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF62977   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF63189   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF63371   | LOM         | Lome   | Togo      | InTransit    | Ready    | 26-Jun-2023  |
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: LUS
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
@@ -514,7 +1207,31 @@ Consulate: MNA
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023AF22128   | MNA         | Manama | Bahrain   | InTransit    | Ready    | 25-Jun-2023  |
+| 2023AF24303   | MNA         | Manama | Bahrain   | InTransit    | Ready    | 25-Jun-2023  |
+| 2023AF24558   | MNA         | Manama | Bahrain   | InTransit    | Ready    | 25-Jun-2023  |
+| 2023AF26329   | MNA         | Manama | Bahrain   | InTransit    | Ready    | 25-Jun-2023  |
+| 2023AF28051   | MNA         | Manama | Bahrain   | InTransit    | Ready    | 25-Jun-2023  |
+| 2023AF28657   | MNA         | Manama | Bahrain   | InTransit    | Ready    | 25-Jun-2023  |
+| 2023AF28662   | MNA         | Manama | Bahrain   | InTransit    | Ready    | 25-Jun-2023  |
+| 2023AF29476   | MNA         | Manama | Bahrain   | InTransit    | Ready    | 25-Jun-2023  |
+| 2023AF29784   | MNA         | Manama | Bahrain   | InTransit    | Ready    | 25-Jun-2023  |
+| 2023AF30029   | MNA         | Manama | Bahrain   | InTransit    | Ready    | 25-Jun-2023  |
+| 2023AF30238   | MNA         | Manama | Bahrain   | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF31102   | MNA         | Manama | Bahrain   | InTransit    | Ready    | 25-Jun-2023  |
+| 2023AF32654   | MNA         | Manama | Bahrain   | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF33422   | MNA         | Manama | Bahrain   | InTransit    | Ready    | 25-Jun-2023  |
+| 2023AF34988   | MNA         | Manama | Bahrain   | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF37076   | MNA         | Manama | Bahrain   | InTransit    | Ready    | 25-Jun-2023  |
 | 2023AF39467   | MNA         | Manama | Bahrain   | Ready        | Issued   | 26-Jun-2023  |
+| 2023AF40200   | MNA         | Manama | Bahrain   | InTransit    | Ready    | 25-Jun-2023  |
+| 2023AF43156   | MNA         | Manama | Bahrain   | InTransit    | Ready    | 25-Jun-2023  |
+| 2023AF44715   | MNA         | Manama | Bahrain   | InTransit    | Ready    | 25-Jun-2023  |
+| 2023AF47212   | MNA         | Manama | Bahrain   | InTransit    | Ready    | 25-Jun-2023  |
+| 2023AF62788   | MNA         | Manama | Bahrain   | InTransit    | Ready    | 25-Jun-2023  |
+| 2023AS18838   | MNA         | Manama | Bahrain   | InTransit    | Ready    | 25-Jun-2023  |
+| 2023AS18961   | MNA         | Manama | Bahrain   | InTransit    | Ready    | 25-Jun-2023  |
+| 2023AS19833   | MNA         | Manama | Bahrain   | InTransit    | Ready    | 25-Jun-2023  |
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: MRV
 +---------------+-------------+----------+-----------+--------------+-------------+--------------+
@@ -547,7 +1264,45 @@ Consulate: MST
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+--------+-----------+--------------+----------+--------------|
 | 2023AF90      | MST         | Muscat | Oman      | AP           | Issued   | 26-Jun-2023  |
+| 2023AF29550   | MST         | Muscat | Oman      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF30847   | MST         | Muscat | Oman      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF36801   | MST         | Muscat | Oman      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF46469   | MST         | Muscat | Oman      | InTransit    | Ready    | 26-Jun-2023  |
 | 2023AF49707   | MST         | Muscat | Oman      | AP           | Issued   | 26-Jun-2023  |
+| 2023AF50372   | MST         | Muscat | Oman      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF51204   | MST         | Muscat | Oman      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AS16837   | MST         | Muscat | Oman      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023EU15120   | MST         | Muscat | Oman      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023EU15496   | MST         | Muscat | Oman      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023EU15761   | MST         | Muscat | Oman      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023EU17608   | MST         | Muscat | Oman      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023EU17723   | MST         | Muscat | Oman      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023EU17750   | MST         | Muscat | Oman      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023EU17906   | MST         | Muscat | Oman      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023EU19282   | MST         | Muscat | Oman      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023EU19503   | MST         | Muscat | Oman      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023EU20274   | MST         | Muscat | Oman      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023EU20521   | MST         | Muscat | Oman      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023EU21713   | MST         | Muscat | Oman      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023EU21821   | MST         | Muscat | Oman      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023EU22524   | MST         | Muscat | Oman      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023EU23683   | MST         | Muscat | Oman      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023EU24274   | MST         | Muscat | Oman      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023EU24769   | MST         | Muscat | Oman      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023EU24785   | MST         | Muscat | Oman      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023EU25057   | MST         | Muscat | Oman      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023EU25184   | MST         | Muscat | Oman      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023EU25742   | MST         | Muscat | Oman      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023EU25780   | MST         | Muscat | Oman      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023EU25850   | MST         | Muscat | Oman      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023EU26874   | MST         | Muscat | Oman      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023EU26916   | MST         | Muscat | Oman      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023EU27028   | MST         | Muscat | Oman      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023EU27833   | MST         | Muscat | Oman      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023EU28183   | MST         | Muscat | Oman      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023EU28232   | MST         | Muscat | Oman      | InTransit    | Ready    | 27-Jun-2023  |
+| 2023EU28931   | MST         | Muscat | Oman      | InTransit    | Ready    | 26-Jun-2023  |
+| 2023EU29125   | MST         | Muscat | Oman      | InTransit    | Ready    | 26-Jun-2023  |
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: MTL
 +---------------+-------------+----------+-----------+--------------+-------------+--------------+
@@ -619,20 +1374,116 @@ Consulate: RID
 +---------------+-------------+--------+--------------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City   | Country      | PrevStatus   | Status      | statusDate   |
 |---------------+-------------+--------+--------------+--------------+-------------+--------------|
+| 2023AF7069    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF7253    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF7289    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF8285    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF8343    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF9606    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF10400   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF11429   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF11854   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF11929   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF12124   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF12332   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF12723   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF12776   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF13584   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF14010   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF14137   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF14338   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF14566   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF15289   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF15430   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
 | 2023AF16596   | RID         | Riyadh | Saudi Arabia | Refused221g  | Issued      | 26-Jun-2023  |
+| 2023AF20435   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF20446   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF20914   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF21631   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF21759   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF21855   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF21934   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF22014   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF22047   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF22099   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF22294   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF22655   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF22809   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF23155   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF23516   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF23726   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF23764   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF23903   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF24172   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF24188   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF24287   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF24370   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF24457   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF25263   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF25663   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF25944   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF26708   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF27239   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF27295   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF27360   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF27490   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF27523   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF27705   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF27830   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF27931   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF27964   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF28047   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF28048   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF28073   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF28463   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF28686   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF28721   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF29141   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF29286   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF29455   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF29562   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF29663   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF29747   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF29853   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF30352   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF30695   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF31018   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF31389   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF31424   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF31480   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF31785   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF31957   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF32208   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF32430   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF33007   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF33216   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF33398   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF33427   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF34023   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF34501   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF34837   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF34853   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AF34855   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
 | 2023AF48206   | RID         | Riyadh | Saudi Arabia | Ready        | Refused221g | 26-Jun-2023  |
 | 2023AS2001    | RID         | Riyadh | Saudi Arabia | Ready        | Issued      | 26-Jun-2023  |
 | 2023AS3176    | RID         | Riyadh | Saudi Arabia | AP           | Issued      | 26-Jun-2023  |
 | 2023AS4962    | RID         | Riyadh | Saudi Arabia | AP           | Issued      | 26-Jun-2023  |
 | 2023AS6405    | RID         | Riyadh | Saudi Arabia | AP           | Issued      | 26-Jun-2023  |
 | 2023AS6632    | RID         | Riyadh | Saudi Arabia | Ready        | AP          | 26-Jun-2023  |
+| 2023AS6720    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
 | 2023AS7469    | RID         | Riyadh | Saudi Arabia | AP           | Issued      | 26-Jun-2023  |
 | 2023AS7605    | RID         | Riyadh | Saudi Arabia | AP           | Issued      | 26-Jun-2023  |
 | 2023AS7821    | RID         | Riyadh | Saudi Arabia | AP           | Issued      | 26-Jun-2023  |
 | 2023AS7978    | RID         | Riyadh | Saudi Arabia | AP           | Issued      | 26-Jun-2023  |
 | 2023AS8023    | RID         | Riyadh | Saudi Arabia | Ready        | Issued      | 26-Jun-2023  |
 | 2023AS8404    | RID         | Riyadh | Saudi Arabia | Ready        | AP          | 26-Jun-2023  |
+| 2023AS8706    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
 | 2023AS8863    | RID         | Riyadh | Saudi Arabia | AP           | Issued      | 26-Jun-2023  |
+| 2023AS8884    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AS9000    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AS9001    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AS9078    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
+| 2023AS9125    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 25-Jun-2023  |
 +---------------+-------------+--------+--------------+--------------+-------------+--------------+
 Consulate: RNG
 +---------------+-------------+---------+-----------+--------------+----------+--------------+
@@ -658,6 +1509,16 @@ Consulate: SKO
 | 2023EU2761    | SKO         | Skopje | Macedonia | AP           | Issued   | 27-Jun-2023  |
 | 2023EU29273   | SKO         | Skopje | Macedonia | AP           | Issued   | 27-Jun-2023  |
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
+Consulate: SNT
++---------------+-------------+-----------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City      | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+-----------+-----------+--------------+----------+--------------|
+| 2023EU29259   | SNT         | Santiagoi | Chile     | InTransit    | Ready    | 27-Jun-2023  |
+| 2023OC1270    | SNT         | Santiagoi | Chile     | InTransit    | Ready    | 27-Jun-2023  |
+| 2023SA791     | SNT         | Santiagoi | Chile     | InTransit    | Ready    | 27-Jun-2023  |
+| 2023SA2391    | SNT         | Santiagoi | Chile     | InTransit    | Ready    | 27-Jun-2023  |
+| 2023SA2555    | SNT         | Santiagoi | Chile     | InTransit    | Ready    | 27-Jun-2023  |
++---------------+-------------+-----------+-----------+--------------+----------+--------------+
 Consulate: STK
 +---------------+-------------+-----------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City      | Country   | PrevStatus   | Status   | statusDate   |
@@ -692,10 +1553,87 @@ Consulate: TBL
 | 2023EU6492    | TBL         | Tbilisi | Georgia   | Refused221g  | Issued      | 26-Jun-2023  |
 | 2023EU9777    | TBL         | Tbilisi | Georgia   | AP           | Issued      | 26-Jun-2023  |
 | 2023EU11023   | TBL         | Tbilisi | Georgia   | AP           | Issued      | 26-Jun-2023  |
+| 2023EU11095   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 26-Jun-2023  |
 | 2023EU13039   | TBL         | Tbilisi | Georgia   | AP           | Issued      | 26-Jun-2023  |
 | 2023EU13793   | TBL         | Tbilisi | Georgia   | AP           | Issued      | 26-Jun-2023  |
 | 2023EU14535   | TBL         | Tbilisi | Georgia   | AP           | Issued      | 26-Jun-2023  |
 | 2023EU14742   | TBL         | Tbilisi | Georgia   | Refused221g  | Issued      | 27-Jun-2023  |
+| 2023EU15010   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU15386   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU15816   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU15901   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU15928   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU15974   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU15999   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU16022   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU16071   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU16116   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU16120   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU16127   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU16131   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU16149   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU16158   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU16181   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU16191   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU16193   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU16197   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU16215   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU16237   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU16264   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU16273   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU16343   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU16403   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU16449   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU16481   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU16485   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU16547   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU16577   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU16641   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU16667   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU16697   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU16708   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU16728   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU16752   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU16791   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU16823   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU16829   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU16851   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU16894   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU17011   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU17043   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU17051   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU17060   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU17105   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU17131   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU17147   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU17177   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU17179   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU17189   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU17279   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU17288   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU17342   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU17375   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU17400   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU17415   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU17486   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU17497   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU17668   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU17673   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU17796   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU17797   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU17863   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU17899   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU17900   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU17942   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU17964   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU18036   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU18082   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU18249   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU18286   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU18308   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU18322   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU18324   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU18330   | TBL         | Tbilisi | Georgia   | InTransit    | Ready       | 26-Jun-2023  |
 +---------------+-------------+---------+-----------+--------------+-------------+--------------+
 Consulate: THT
 +---------------+-------------+----------+------------+--------------+-------------+--------------+
@@ -703,6 +1641,7 @@ Consulate: THT
 |---------------+-------------+----------+------------+--------------+-------------+--------------|
 | 2023EU1164    | THT         | Tashkent | Uzbekistan | Ready        | Issued      | 27-Jun-2023  |
 | 2023EU1704    | THT         | Tashkent | Uzbekistan | Ready        | Issued      | 27-Jun-2023  |
+| 2023EU2542    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
 | 2023EU3758    | THT         | Tashkent | Uzbekistan | Ready        | Issued      | 27-Jun-2023  |
 | 2023EU4084    | THT         | Tashkent | Uzbekistan | Ready        | Refused221g | 27-Jun-2023  |
 | 2023EU5169    | THT         | Tashkent | Uzbekistan | Ready        | Refused     | 27-Jun-2023  |
@@ -724,10 +1663,129 @@ Consulate: THT
 | 2023EU7755    | THT         | Tashkent | Uzbekistan | Ready        | Issued      | 27-Jun-2023  |
 | 2023EU8161    | THT         | Tashkent | Uzbekistan | Ready        | Issued      | 27-Jun-2023  |
 | 2023EU8294    | THT         | Tashkent | Uzbekistan | Ready        | Refused     | 27-Jun-2023  |
+| 2023EU8405    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
 | 2023EU8457    | THT         | Tashkent | Uzbekistan | Ready        | Refused221g | 27-Jun-2023  |
+| 2023EU8800    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9016    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9154    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9192    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9204    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9248    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9249    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9261    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9285    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9286    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9305    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9306    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9312    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9319    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9326    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9340    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9353    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9355    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9361    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9369    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9370    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9388    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9404    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9410    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9417    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9428    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9429    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9432    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9466    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9468    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9470    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9473    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9490    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9511    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9517    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9534    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9535    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9564    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9566    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9570    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9581    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9586    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9589    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9602    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9612    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9614    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9624    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9629    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9636    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9642    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9652    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9653    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9668    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9670    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9674    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9677    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9680    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9698    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9709    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9710    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9719    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9731    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9740    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9749    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9767    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9774    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9775    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9780    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9787    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9790    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9792    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9800    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9804    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9814    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9819    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9841    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9874    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9876    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9878    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9892    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9897    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9911    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9917    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9921    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9923    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9933    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9939    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9941    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9943    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9959    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9973    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9974    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9983    | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU10016   | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU10032   | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU10050   | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU10070   | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU10076   | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU10094   | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU10099   | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU10112   | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU10114   | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU10124   | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU10125   | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU10126   | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU10133   | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU10137   | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU10138   | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU10140   | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU10157   | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU10165   | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU10169   | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU12071   | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
 | 2023EU14874   | THT         | Tashkent | Uzbekistan | Ready        | Issued      | 27-Jun-2023  |
 | 2023EU19944   | THT         | Tashkent | Uzbekistan | Ready        | Refused     | 27-Jun-2023  |
 | 2023EU21281   | THT         | Tashkent | Uzbekistan | Ready        | Issued      | 27-Jun-2023  |
+| 2023EU24224   | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU26171   | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU26468   | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU27002   | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU29301   | THT         | Tashkent | Uzbekistan | InTransit    | Ready       | 26-Jun-2023  |
 +---------------+-------------+----------+------------+--------------+-------------+--------------+
 Consulate: TIA
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
@@ -812,39 +1870,503 @@ Consulate: YDE
 +---------------+-------------+---------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City    | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+---------+-----------+--------------+----------+--------------|
+| 2023AF2483    | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF4740    | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF5500    | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
 | 2023AF6009    | YDE         | Yaounde | Cameroon  | AP           | Issued   | 26-Jun-2023  |
+| 2023AF6036    | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF6096    | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF6353    | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF6829    | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
 | 2023AF7037    | YDE         | Yaounde | Cameroon  | AP           | Issued   | 26-Jun-2023  |
+| 2023AF7241    | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF7308    | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF8341    | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF8746    | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF9271    | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF9915    | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF10020   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF10149   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF10590   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF11017   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF11142   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF11325   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF11573   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF12073   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
 | 2023AF12915   | YDE         | Yaounde | Cameroon  | Refused221g  | Issued   | 27-Jun-2023  |
+| 2023AF13039   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF13354   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF14123   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF15229   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF15541   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF16157   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF16574   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF16633   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF17515   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF18049   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF18155   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF18177   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF18482   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF19109   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF19129   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF19714   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF19875   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF20402   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF20923   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF21284   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF21656   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF21872   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF22794   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF23224   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF23279   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF23900   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF24462   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF25155   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF25400   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF25981   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF26463   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF27024   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF27475   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
 | 2023AF27941   | YDE         | Yaounde | Cameroon  | Refused221g  | Issued   | 27-Jun-2023  |
+| 2023AF28055   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF28180   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF28642   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF28894   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF29055   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF30059   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
 | 2023AF30330   | YDE         | Yaounde | Cameroon  | AP           | Issued   | 26-Jun-2023  |
+| 2023AF30426   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
 | 2023AF30515   | YDE         | Yaounde | Cameroon  | Refused221g  | Issued   | 26-Jun-2023  |
+| 2023AF30740   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF30754   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF30931   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF31658   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF32211   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF32613   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF32694   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF32926   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF33242   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF33295   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF33454   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF33910   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF34092   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF34179   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF34302   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF34557   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF34822   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF35138   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF35203   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF35596   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF35892   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF35966   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF36519   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF37157   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF37892   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF39330   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF39497   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF39629   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF40234   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF40469   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF40836   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF41259   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
 | 2023AF41627   | YDE         | Yaounde | Cameroon  | Refused221g  | AP       | 27-Jun-2023  |
+| 2023AF41724   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF42187   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF42655   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF42903   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF42993   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF44221   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF44609   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF44653   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF44743   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF45150   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF45204   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF45256   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF45282   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF45308   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
 | 2023AF45346   | YDE         | Yaounde | Cameroon  | Refused221g  | Issued   | 26-Jun-2023  |
+| 2023AF45418   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF45427   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF45514   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF45541   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF45847   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF45887   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF45919   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF46124   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF46145   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF46289   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
 | 2023AF46292   | YDE         | Yaounde | Cameroon  | Refused221g  | Issued   | 27-Jun-2023  |
+| 2023AF46406   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF46500   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
 | 2023AF46557   | YDE         | Yaounde | Cameroon  | Refused221g  | Issued   | 26-Jun-2023  |
+| 2023AF46647   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
 | 2023AF46723   | YDE         | Yaounde | Cameroon  | AP           | Issued   | 26-Jun-2023  |
+| 2023AF46780   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF46827   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF46878   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
 | 2023AF46940   | YDE         | Yaounde | Cameroon  | AP           | Issued   | 26-Jun-2023  |
+| 2023AF46967   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
 | 2023AF46972   | YDE         | Yaounde | Cameroon  | Refused221g  | Issued   | 27-Jun-2023  |
+| 2023AF47028   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF47070   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
 | 2023AF47082   | YDE         | Yaounde | Cameroon  | Refused221g  | Issued   | 26-Jun-2023  |
+| 2023AF47086   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF47136   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
 | 2023AF47187   | YDE         | Yaounde | Cameroon  | AP           | Issued   | 26-Jun-2023  |
+| 2023AF47204   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF47291   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
 | 2023AF47433   | YDE         | Yaounde | Cameroon  | Refused221g  | Issued   | 27-Jun-2023  |
+| 2023AF47495   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF47541   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF47615   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
 | 2023AF47631   | YDE         | Yaounde | Cameroon  | Refused221g  | Issued   | 26-Jun-2023  |
+| 2023AF47734   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF47872   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF47943   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF47957   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF48117   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF48160   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF48277   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF48391   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF48429   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF48669   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF48672   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF48803   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF48867   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF48966   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF48983   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF49223   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF49375   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF49569   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF49658   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF49829   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
 | 2023AF49894   | YDE         | Yaounde | Cameroon  | Refused221g  | AP       | 27-Jun-2023  |
+| 2023AF49939   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF50177   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF50224   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF50298   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF50421   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF50485   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF50510   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF50581   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF50656   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF50794   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF50943   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF51048   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF51102   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF51266   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
 | 2023AF51310   | YDE         | Yaounde | Cameroon  | Refused221g  | Issued   | 27-Jun-2023  |
+| 2023AF51360   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF51588   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF51634   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF51744   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF51878   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF51933   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF52058   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF52297   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF52369   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF52446   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF52591   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF52616   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF52648   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF52764   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF52836   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF52944   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF53182   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF53324   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF53375   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF53432   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF53560   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF53611   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF53797   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF53845   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
 | 2023AF54008   | YDE         | Yaounde | Cameroon  | AP           | Issued   | 26-Jun-2023  |
+| 2023AF54016   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF54184   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF54328   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF54363   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF54424   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF54432   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF54635   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
 | 2023AF54669   | YDE         | Yaounde | Cameroon  | Refused221g  | AP       | 27-Jun-2023  |
+| 2023AF54683   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
+| 2023AF54786   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 26-Jun-2023  |
 +---------------+-------------+---------+-----------+--------------+----------+--------------+
 Consulate: YRV
 +---------------+-------------+---------+-----------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City    | Country   | PrevStatus   | Status      | statusDate   |
 |---------------+-------------+---------+-----------+--------------+-------------+--------------|
 | 2023AS71      | YRV         | Yerevan | Armenia   | Refused221g  | Issued      | 26-Jun-2023  |
+| 2023AS1470    | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 27-Jun-2023  |
+| 2023AS6241    | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 27-Jun-2023  |
+| 2023AS6951    | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 27-Jun-2023  |
+| 2023AS7755    | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 27-Jun-2023  |
 | 2023AS8390    | YRV         | Yerevan | Armenia   | Ready        | Refused221g | 27-Jun-2023  |
+| 2023AS8806    | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 27-Jun-2023  |
 | 2023AS9756    | YRV         | Yerevan | Armenia   | Ready        | Issued      | 26-Jun-2023  |
+| 2023AS9922    | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 27-Jun-2023  |
+| 2023AS10403   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 27-Jun-2023  |
+| 2023AS10564   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 27-Jun-2023  |
+| 2023AS10921   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 27-Jun-2023  |
+| 2023AS12504   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 27-Jun-2023  |
+| 2023AS12542   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 27-Jun-2023  |
+| 2023AS12544   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 27-Jun-2023  |
+| 2023AS12564   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 27-Jun-2023  |
+| 2023AS12566   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 27-Jun-2023  |
+| 2023AS12577   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AS12594   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 27-Jun-2023  |
+| 2023AS12659   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 27-Jun-2023  |
+| 2023AS12677   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 27-Jun-2023  |
+| 2023AS12734   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 27-Jun-2023  |
+| 2023AS12739   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 27-Jun-2023  |
+| 2023AS12747   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 27-Jun-2023  |
+| 2023AS12751   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 27-Jun-2023  |
+| 2023AS12812   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 27-Jun-2023  |
+| 2023AS12831   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 27-Jun-2023  |
+| 2023AS12902   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 27-Jun-2023  |
+| 2023AS12907   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 27-Jun-2023  |
+| 2023AS12940   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AS12996   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 27-Jun-2023  |
+| 2023AS13022   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 27-Jun-2023  |
+| 2023AS13057   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 27-Jun-2023  |
+| 2023AS13080   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 27-Jun-2023  |
+| 2023AS13089   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AS13090   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 27-Jun-2023  |
+| 2023AS13101   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AS13113   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 27-Jun-2023  |
+| 2023AS13141   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 27-Jun-2023  |
+| 2023AS13173   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 27-Jun-2023  |
+| 2023AS13185   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 27-Jun-2023  |
+| 2023AS13217   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 27-Jun-2023  |
+| 2023AS13219   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 27-Jun-2023  |
+| 2023AS13224   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 27-Jun-2023  |
+| 2023AS13243   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 27-Jun-2023  |
+| 2023AS13259   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 27-Jun-2023  |
+| 2023AS13397   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AS13398   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 27-Jun-2023  |
+| 2023AS13426   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AS13448   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AS13516   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AS13660   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AS13672   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 27-Jun-2023  |
+| 2023AS13751   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 27-Jun-2023  |
+| 2023AS13757   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AS13771   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AS13784   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 27-Jun-2023  |
+| 2023AS13800   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AS13812   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AS13829   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AS13833   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AS13847   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AS13871   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 27-Jun-2023  |
+| 2023AS13910   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AS13917   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 27-Jun-2023  |
+| 2023AS13963   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023AS13994   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 27-Jun-2023  |
+| 2023EU1316    | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU3767    | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
 | 2023EU7083    | YRV         | Yerevan | Armenia   | Refused221g  | Issued      | 27-Jun-2023  |
+| 2023EU9826    | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU9827    | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU10286   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU10297   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU10718   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU10770   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU11052   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU11228   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU11577   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU12683   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU12791   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU13699   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU13712   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU13807   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU14140   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU14169   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU14188   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU14212   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU14350   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU14585   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU14679   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU14809   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
 | 2023EU14846   | YRV         | Yerevan | Armenia   | Ready        | Issued      | 26-Jun-2023  |
+| 2023EU15085   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU15108   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU15147   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU15820   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU15840   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU15894   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU16222   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU16251   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU16287   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU16474   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU16532   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU16639   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU17299   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU17545   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU17692   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU18060   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU18540   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU19049   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU19268   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU20093   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU20100   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
 | 2023EU20147   | YRV         | Yerevan | Armenia   | Refused221g  | Issued      | 27-Jun-2023  |
+| 2023EU20220   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU20863   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU21091   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU21212   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU21239   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU21259   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU21738   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
 | 2023EU21798   | YRV         | Yerevan | Armenia   | Refused221g  | Issued      | 27-Jun-2023  |
+| 2023EU22094   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU22125   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU22444   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU22733   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
 | 2023EU22788   | YRV         | Yerevan | Armenia   | Ready        | Issued      | 26-Jun-2023  |
+| 2023EU22877   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU22942   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU23017   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU23385   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
 | 2023EU23392   | YRV         | Yerevan | Armenia   | AP           | Issued      | 26-Jun-2023  |
+| 2023EU23400   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU23861   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU24436   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU24497   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU25716   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU26056   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU26091   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU26148   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU26241   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU26299   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU26315   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU26363   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU26382   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU26401   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU26411   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU26412   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU26419   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU26423   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU26448   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU26450   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU26504   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU26548   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU26576   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU26620   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU26638   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU26675   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU26691   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU26703   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU26733   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU26771   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU26779   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU26798   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU26898   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU26945   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU26970   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU26989   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU26994   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU27023   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU27025   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU27052   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU27059   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU27084   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU27132   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU27147   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU27176   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU27250   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU27251   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU27255   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU27324   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU27328   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU27330   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU27351   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU27360   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU27393   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU27397   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU27405   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU27438   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU27459   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU27466   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU27482   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU27534   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU27552   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU27570   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU27578   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU27583   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU27596   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU27861   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU27916   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU27923   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU27950   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU27962   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU28003   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU28047   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU28093   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU28138   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU28154   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU28193   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU28201   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU28217   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU28227   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU28238   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU28241   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU28309   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU28323   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU28342   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU28406   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU28419   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU28421   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU28455   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU28492   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU28518   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU28531   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU28541   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU28595   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU28616   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU28629   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU28648   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU28651   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU28673   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU28676   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU28772   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU28850   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU28862   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU28999   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU29017   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU29041   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU29063   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU29068   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU29073   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU29076   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU29179   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU29188   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU29211   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU29214   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU29227   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU29248   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU29317   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU29357   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU29399   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU29410   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 27-Jun-2023  |
+| 2023EU29462   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU29525   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU29533   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU29586   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU29592   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU29670   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU29677   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU29747   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU29750   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU29773   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU29785   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU29790   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU29872   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU29874   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU29922   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU29988   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU29997   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU30294   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU31327   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 26-Jun-2023  |
+| 2023EU31996   | YRV         | Yerevan | Armenia   | InTransit    | Ready       | 27-Jun-2023  |
 +---------------+-------------+---------+-----------+--------------+-------------+--------------+

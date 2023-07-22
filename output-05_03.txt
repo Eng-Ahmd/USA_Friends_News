@@ -252,7 +252,17 @@ Consulate: BRT
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023AF47720   | BRT         | Beirut | Lebanon   | InTransit    | Ready    | 03-May-2023  |
+| 2023AS433     | BRT         | Beirut | Lebanon   | InTransit    | Ready    | 03-May-2023  |
+| 2023AS1412    | BRT         | Beirut | Lebanon   | InTransit    | Ready    | 03-May-2023  |
+| 2023AS2127    | BRT         | Beirut | Lebanon   | InTransit    | Ready    | 03-May-2023  |
+| 2023AS4422    | BRT         | Beirut | Lebanon   | InTransit    | Ready    | 03-May-2023  |
+| 2023AS6117    | BRT         | Beirut | Lebanon   | InTransit    | Ready    | 03-May-2023  |
 | 2023AS9929    | BRT         | Beirut | Lebanon   | Refused221g  | AP       | 03-May-2023  |
+| 2023AS10316   | BRT         | Beirut | Lebanon   | InTransit    | Ready    | 03-May-2023  |
+| 2023AS11695   | BRT         | Beirut | Lebanon   | InTransit    | Ready    | 03-May-2023  |
+| 2023AS14134   | BRT         | Beirut | Lebanon   | InTransit    | Ready    | 03-May-2023  |
+| 2023AS14217   | BRT         | Beirut | Lebanon   | InTransit    | Ready    | 03-May-2023  |
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: CHS
 +---------------+-------------+----------+-----------+--------------+----------+--------------+
@@ -459,6 +469,7 @@ Consulate: KWT
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+--------+-----------+--------------+----------+--------------|
 | 2023AF17119   | KWT         | Kuwait | Kuwait    | Ready        | AP       | 03-May-2023  |
+| 2023AF60146   | KWT         | Kuwait | Kuwait    | InTransit    | Ready    | 03-May-2023  |
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: LIB
 +---------------+-------------+------------+-----------+--------------+----------+--------------+

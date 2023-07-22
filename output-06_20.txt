@@ -13,6 +13,13 @@ Consulate: ADD
 | 2023AF10112   | ADD         | Addis Ababa | Ethiopia  | Transfer     | Ready       | 20-Jun-2023  |
 | 2023AF19989   | ADD         | Addis Ababa | Ethiopia  | Ready        | Refused221g | 20-Jun-2023  |
 +---------------+-------------+-------------+-----------+--------------+-------------+--------------+
+Consulate: AKD
++---------------+-------------+----------+--------------+--------------+----------+--------------+
+| Case Number   | Consulate   | City     | Country      | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+----------+--------------+--------------+----------+--------------|
+| 2023AS13125   | AKD         | Ashgabat | Turkmenistan | InTransit    | Ready    | 20-Jun-2023  |
+| 2023EU28564   | AKD         | Ashgabat | Turkmenistan | InTransit    | Ready    | 20-Jun-2023  |
++---------------+-------------+----------+--------------+--------------+----------+--------------+
 Consulate: ALG
 +---------------+-------------+---------+-----------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City    | Country   | PrevStatus   | Status      | statusDate   |
@@ -103,8 +110,30 @@ Consulate: BCH
 +---------------+-------------+-----------+-----------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City      | Country   | PrevStatus   | Status      | statusDate   |
 |---------------+-------------+-----------+-----------+--------------+-------------+--------------|
+| 2023EU9055    | BCH         | Bucharest | Romania   | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU14165   | BCH         | Bucharest | Romania   | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU17388   | BCH         | Bucharest | Romania   | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU19161   | BCH         | Bucharest | Romania   | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU19831   | BCH         | Bucharest | Romania   | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU22903   | BCH         | Bucharest | Romania   | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU23289   | BCH         | Bucharest | Romania   | InTransit    | Ready       | 20-Jun-2023  |
 | 2023EU24511   | BCH         | Bucharest | Romania   | Ready        | Refused221g | 20-Jun-2023  |
+| 2023EU26168   | BCH         | Bucharest | Romania   | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU27284   | BCH         | Bucharest | Romania   | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU28641   | BCH         | Bucharest | Romania   | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU29495   | BCH         | Bucharest | Romania   | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU29536   | BCH         | Bucharest | Romania   | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU30009   | BCH         | Bucharest | Romania   | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU31158   | BCH         | Bucharest | Romania   | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU31551   | BCH         | Bucharest | Romania   | InTransit    | Ready       | 20-Jun-2023  |
 +---------------+-------------+-----------+-----------+--------------+-------------+--------------+
+Consulate: BDP
++---------------+-------------+----------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City     | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+----------+-----------+--------------+----------+--------------|
+| 2023AS18578   | BDP         | Budapest | Hungary   | InTransit    | Ready    | 20-Jun-2023  |
+| 2023EU30349   | BDP         | Budapest | Hungary   | InTransit    | Ready    | 20-Jun-2023  |
++---------------+-------------+----------+-----------+--------------+----------+--------------+
 Consulate: BGH
 +---------------+-------------+---------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City    | Country   | PrevStatus   | Status   | statusDate   |
@@ -137,6 +166,31 @@ Consulate: BNK
 | Case Number   | Consulate   | City    | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+---------+-----------+--------------+----------+--------------|
 | 2023AS16229   | BNK         | Bangkok | Thailand  | Refused221g  | Ready    | 21-Jun-2023  |
+| 2023AS18992   | BNK         | Bangkok | Thailand  | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19158   | BNK         | Bangkok | Thailand  | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19161   | BNK         | Bangkok | Thailand  | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19181   | BNK         | Bangkok | Thailand  | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19211   | BNK         | Bangkok | Thailand  | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19242   | BNK         | Bangkok | Thailand  | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19259   | BNK         | Bangkok | Thailand  | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19290   | BNK         | Bangkok | Thailand  | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19296   | BNK         | Bangkok | Thailand  | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19505   | BNK         | Bangkok | Thailand  | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19619   | BNK         | Bangkok | Thailand  | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19677   | BNK         | Bangkok | Thailand  | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19752   | BNK         | Bangkok | Thailand  | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19832   | BNK         | Bangkok | Thailand  | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19867   | BNK         | Bangkok | Thailand  | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS20189   | BNK         | Bangkok | Thailand  | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS20212   | BNK         | Bangkok | Thailand  | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS20249   | BNK         | Bangkok | Thailand  | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS20502   | BNK         | Bangkok | Thailand  | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS20622   | BNK         | Bangkok | Thailand  | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS20704   | BNK         | Bangkok | Thailand  | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS20720   | BNK         | Bangkok | Thailand  | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS20869   | BNK         | Bangkok | Thailand  | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS20990   | BNK         | Bangkok | Thailand  | InTransit    | Ready    | 20-Jun-2023  |
+| 2023EU30027   | BNK         | Bangkok | Thailand  | InTransit    | Ready    | 20-Jun-2023  |
 +---------------+-------------+---------+-----------+--------------+----------+--------------+
 Consulate: CRO
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
@@ -242,8 +296,13 @@ Consulate: DKR
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+--------+-----------+--------------+----------+--------------|
 | 2023AF4882    | DKR         | Dakar  | Senegal   | AP           | Issued   | 20-Jun-2023  |
+| 2023AF9045    | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF27921   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 20-Jun-2023  |
 | 2023AF35347   | DKR         | Dakar  | Senegal   | AP           | Issued   | 20-Jun-2023  |
+| 2023AF42401   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF54870   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 20-Jun-2023  |
 | 2023AF56875   | DKR         | Dakar  | Senegal   | AP           | Issued   | 20-Jun-2023  |
+| 2023AF59693   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 20-Jun-2023  |
 | 2023AF60791   | DKR         | Dakar  | Senegal   | AP           | Issued   | 20-Jun-2023  |
 | 2023AF61570   | DKR         | Dakar  | Senegal   | AP           | Issued   | 20-Jun-2023  |
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
@@ -276,16 +335,74 @@ Consulate: FRN
 +---------------+-------------+-----------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City      | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+-----------+-----------+--------------+----------+--------------|
+| 2023AF32595   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS13248   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS13553   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS13988   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 20-Jun-2023  |
+| 2023EU4       | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 20-Jun-2023  |
+| 2023EU3687    | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 20-Jun-2023  |
 | 2023EU4260    | FRN         | Frankfurt | Germany   | Ready        | Issued   | 20-Jun-2023  |
+| 2023EU4893    | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 20-Jun-2023  |
+| 2023EU6935    | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 20-Jun-2023  |
 | 2023EU7458    | FRN         | Frankfurt | Germany   | Transfer     | Ready    | 20-Jun-2023  |
+| 2023EU13558   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 20-Jun-2023  |
 | 2023EU15667   | FRN         | Frankfurt | Germany   | Ready        | Issued   | 20-Jun-2023  |
 | 2023EU15765   | FRN         | Frankfurt | Germany   | AP           | Issued   | 20-Jun-2023  |
+| 2023EU18836   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 20-Jun-2023  |
+| 2023EU20112   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 20-Jun-2023  |
+| 2023EU20221   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 20-Jun-2023  |
 | 2023EU25690   | FRN         | Frankfurt | Germany   | Transfer     | Ready    | 20-Jun-2023  |
+| 2023EU26081   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 20-Jun-2023  |
 +---------------+-------------+-----------+-----------+--------------+----------+--------------+
 Consulate: FTN
 +---------------+-------------+----------+--------------+--------------+----------+--------------+
 | Case Number   | Consulate   | City     | Country      | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+----------+--------------+--------------+----------+--------------|
+| 2023AF181     | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF2751    | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF6103    | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF6795    | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF9613    | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF9990    | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF12394   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF13512   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF14336   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF14436   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF14561   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF14675   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF14777   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF15044   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF16439   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF16851   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF18123   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF19216   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF19218   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF19662   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF21278   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF21868   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF21918   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF22079   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF22663   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF23176   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF24259   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF28255   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF31277   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF32242   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF32781   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF33081   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF34314   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF34983   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF35072   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF36185   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF37547   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF37756   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF37914   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF37936   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF38037   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF38086   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF38106   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF38666   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF39749   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 20-Jun-2023  |
 | 2023AF50172   | FTN         | Freetown | Sierra Leone | Ready        | AP       | 20-Jun-2023  |
 +---------------+-------------+----------+--------------+--------------+----------+--------------+
 Consulate: GTM
@@ -294,12 +411,23 @@ Consulate: GTM
 |---------------+-------------+----------------+-----------+--------------+----------+--------------|
 | 2023SA2722    | GTM         | Guatemala City | Guatemala | Refused221g  | AP       | 20-Jun-2023  |
 +---------------+-------------+----------------+-----------+--------------+----------+--------------+
+Consulate: GUZ
++---------------+-------------+-----------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City      | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+-----------+-----------+--------------+----------+--------------|
+| 2023AF1896    | GUZ         | Guangzhou | China     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF2971    | GUZ         | Guangzhou | China     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023EU26096   | GUZ         | Guangzhou | China     | InTransit    | Ready    | 20-Jun-2023  |
++---------------+-------------+-----------+-----------+--------------+----------+--------------+
 Consulate: HAV
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+--------+-----------+--------------+----------+--------------|
 | 2023SA718     | HAV         | Havana | Cuba      | AP           | Issued   | 20-Jun-2023  |
+| 2023SA842     | HAV         | Havana | Cuba      | InTransit    | Ready    | 20-Jun-2023  |
 | 2023SA1235    | HAV         | Havana | Cuba      | AP           | Issued   | 20-Jun-2023  |
+| 2023SA1251    | HAV         | Havana | Cuba      | InTransit    | Ready    | 20-Jun-2023  |
+| 2023SA1564    | HAV         | Havana | Cuba      | InTransit    | Ready    | 20-Jun-2023  |
 | 2023SA2596    | HAV         | Havana | Cuba      | AP           | Issued   | 20-Jun-2023  |
 | 2023SA2609    | HAV         | Havana | Cuba      | AP           | Issued   | 20-Jun-2023  |
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
@@ -319,7 +447,28 @@ Consulate: HRE
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023AF16842   | HRE         | Harare | Zimbabwe  | InTransit    | Ready    | 20-Jun-2023  |
 | 2023AF24246   | HRE         | Harare | Zimbabwe  | Refused221g  | AP       | 20-Jun-2023  |
+| 2023AF27563   | HRE         | Harare | Zimbabwe  | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF28965   | HRE         | Harare | Zimbabwe  | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF32839   | HRE         | Harare | Zimbabwe  | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF34750   | HRE         | Harare | Zimbabwe  | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF35724   | HRE         | Harare | Zimbabwe  | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF36271   | HRE         | Harare | Zimbabwe  | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF38113   | HRE         | Harare | Zimbabwe  | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF38339   | HRE         | Harare | Zimbabwe  | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF39847   | HRE         | Harare | Zimbabwe  | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF41416   | HRE         | Harare | Zimbabwe  | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF43062   | HRE         | Harare | Zimbabwe  | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF48901   | HRE         | Harare | Zimbabwe  | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF52043   | HRE         | Harare | Zimbabwe  | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF53235   | HRE         | Harare | Zimbabwe  | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF53571   | HRE         | Harare | Zimbabwe  | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF54393   | HRE         | Harare | Zimbabwe  | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF55915   | HRE         | Harare | Zimbabwe  | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF60365   | HRE         | Harare | Zimbabwe  | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF61065   | HRE         | Harare | Zimbabwe  | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF61268   | HRE         | Harare | Zimbabwe  | InTransit    | Ready    | 20-Jun-2023  |
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: ISL
 +---------------+-------------+-----------+-----------+--------------+-------------+--------------+
@@ -329,6 +478,12 @@ Consulate: ISL
 | 2023AS11008   | ISL         | Islamabad | Pakistan  | Ready        | Refused221g | 20-Jun-2023  |
 | 2023AS14126   | ISL         | Islamabad | Pakistan  | AP           | Issued      | 20-Jun-2023  |
 +---------------+-------------+-----------+-----------+--------------+-------------+--------------+
+Consulate: JAK
++---------------+-------------+---------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City    | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+---------+-----------+--------------+----------+--------------|
+| 2023AF23666   | JAK         | Jakarta | Indonesia | InTransit    | Ready    | 20-Jun-2023  |
++---------------+-------------+---------+-----------+--------------+----------+--------------+
 Consulate: JRS
 +---------------+-------------+-----------+-----------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City      | Country   | PrevStatus   | Status      | statusDate   |
@@ -341,11 +496,32 @@ Consulate: KDU
 +---------------+-------------+-----------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City      | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+-----------+-----------+--------------+----------+--------------|
+| 2023AF5677    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF19604   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF20823   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF22035   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF24698   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF25976   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF33240   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF35185   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF36212   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF36581   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF37009   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF37260   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF42056   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF42679   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF44282   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF50739   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF55990   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF56541   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
 | 2023AS2497    | KDU         | Kathmandu | Nepal     | AP           | Issued   | 20-Jun-2023  |
+| 2023AS2569    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS3597    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
 | 2023AS7911    | KDU         | Kathmandu | Nepal     | AP           | Issued   | 20-Jun-2023  |
 | 2023AS8563    | KDU         | Kathmandu | Nepal     | AP           | Issued   | 20-Jun-2023  |
 | 2023AS8593    | KDU         | Kathmandu | Nepal     | AP           | Issued   | 20-Jun-2023  |
 | 2023AS9796    | KDU         | Kathmandu | Nepal     | AP           | Issued   | 20-Jun-2023  |
+| 2023AS10812   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
 | 2023AS11167   | KDU         | Kathmandu | Nepal     | AP           | Issued   | 20-Jun-2023  |
 | 2023AS11251   | KDU         | Kathmandu | Nepal     | AP           | Issued   | 20-Jun-2023  |
 | 2023AS12503   | KDU         | Kathmandu | Nepal     | AP           | Issued   | 20-Jun-2023  |
@@ -356,13 +532,223 @@ Consulate: KDU
 | 2023AS14568   | KDU         | Kathmandu | Nepal     | AP           | Issued   | 20-Jun-2023  |
 | 2023AS15077   | KDU         | Kathmandu | Nepal     | AP           | Issued   | 20-Jun-2023  |
 | 2023AS15307   | KDU         | Kathmandu | Nepal     | AP           | Issued   | 20-Jun-2023  |
+| 2023AS15366   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
 | 2023AS15436   | KDU         | Kathmandu | Nepal     | AP           | Issued   | 20-Jun-2023  |
 | 2023AS16966   | KDU         | Kathmandu | Nepal     | AP           | Issued   | 20-Jun-2023  |
+| 2023AS17211   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS17582   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
 | 2023AS17660   | KDU         | Kathmandu | Nepal     | AP           | Issued   | 20-Jun-2023  |
 | 2023AS17680   | KDU         | Kathmandu | Nepal     | AP           | Issued   | 20-Jun-2023  |
 | 2023AS17710   | KDU         | Kathmandu | Nepal     | AP           | Issued   | 20-Jun-2023  |
 | 2023AS17720   | KDU         | Kathmandu | Nepal     | AP           | Issued   | 20-Jun-2023  |
 | 2023AS17726   | KDU         | Kathmandu | Nepal     | AP           | Issued   | 20-Jun-2023  |
+| 2023AS17839   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS17919   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS18021   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS18070   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS18145   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS18194   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS18297   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS18318   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS18323   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS18329   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS18331   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS18336   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS18345   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS18354   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS18394   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS18398   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS18399   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS18402   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS18438   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS18440   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS18446   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS18447   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS18448   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS18461   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS18466   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS18478   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS18483   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS18491   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS18492   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS18514   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS18527   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS18549   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS18556   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS18562   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS18582   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS18583   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS18621   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS18623   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS18629   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS18636   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS18638   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS18646   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS18656   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS18663   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS18671   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS18680   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS18694   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS18730   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS18738   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS18742   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS18756   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS18775   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS18789   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS18804   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS18809   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS18894   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS18897   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS18909   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS18926   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS18953   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS18954   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS18993   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19023   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19029   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19037   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19038   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19041   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19058   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19059   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19072   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19085   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19088   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19090   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19104   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19117   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19141   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19147   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19160   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19167   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19169   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19182   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19187   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19189   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19196   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19233   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19237   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19239   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19248   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19249   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19250   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19251   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19260   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19270   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19272   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19284   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19308   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19321   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19324   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19350   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19353   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19361   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19365   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19369   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19390   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19401   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19403   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19411   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19430   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19435   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19438   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19439   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19452   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19456   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19462   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19468   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19471   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19479   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19481   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19488   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19509   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19520   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19536   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19538   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19542   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19559   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19565   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19569   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19571   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19600   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19601   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19626   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19634   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19647   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19670   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19689   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19720   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19722   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19726   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19729   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19751   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19754   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19763   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19766   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19767   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19820   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19822   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19840   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19851   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19858   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19860   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19878   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19882   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19894   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19901   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19909   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19914   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19925   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19945   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19952   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19960   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19963   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19970   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS19980   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS20002   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS20006   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS20007   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS20008   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS20012   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS20014   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS20019   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS20030   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS20036   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS20044   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS20122   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS20129   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS20153   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS20157   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS20162   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS20164   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS20166   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS20176   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS20178   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS20185   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS20211   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS20221   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS20245   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS20271   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS20298   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS20311   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS20347   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS20354   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS20358   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS20370   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS20389   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS20391   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS20397   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS20407   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS20414   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS20426   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS20454   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS20463   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS20472   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS20477   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS20498   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS20530   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS20725   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS20922   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 20-Jun-2023  |
 +---------------+-------------+-----------+-----------+--------------+----------+--------------+
 Consulate: KHT
 +---------------+-------------+----------+-----------+--------------+----------+--------------+
@@ -370,6 +756,21 @@ Consulate: KHT
 |---------------+-------------+----------+-----------+--------------+----------+--------------|
 | 2023AF2917    | KHT         | Khartoum | Sudan     | Issued       | Transfer | 20-Jun-2023  |
 +---------------+-------------+----------+-----------+--------------+----------+--------------+
+Consulate: KLL
++---------------+-------------+--------------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City         | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------------+-----------+--------------+----------+--------------|
+| 2023AF21112   | KLL         | Kuala Lumpur | Malaysia  | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF31664   | KLL         | Kuala Lumpur | Malaysia  | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF35419   | KLL         | Kuala Lumpur | Malaysia  | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF57095   | KLL         | Kuala Lumpur | Malaysia  | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF57542   | KLL         | Kuala Lumpur | Malaysia  | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS13656   | KLL         | Kuala Lumpur | Malaysia  | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS13883   | KLL         | Kuala Lumpur | Malaysia  | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS18299   | KLL         | Kuala Lumpur | Malaysia  | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS20196   | KLL         | Kuala Lumpur | Malaysia  | InTransit    | Ready    | 20-Jun-2023  |
+| 2023EU29506   | KLL         | Kuala Lumpur | Malaysia  | InTransit    | Ready    | 20-Jun-2023  |
++---------------+-------------+--------------+-----------+--------------+----------+--------------+
 Consulate: KWT
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
@@ -383,6 +784,9 @@ Consulate: LND
 +---------------+-------------+--------+----------------+--------------+----------+--------------+
 | Case Number   | Consulate   | City   | Country        | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+--------+----------------+--------------+----------+--------------|
+| 2023AF3112    | LND         | London | United Kingdom | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF14394   | LND         | London | United Kingdom | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS335     | LND         | London | United Kingdom | InTransit    | Ready    | 20-Jun-2023  |
 | 2023AS705     | LND         | London | United Kingdom | Ready        | AP       | 20-Jun-2023  |
 | 2023EU18854   | LND         | London | United Kingdom | Ready        | Transfer | 20-Jun-2023  |
 +---------------+-------------+--------+----------------+--------------+----------+--------------+
@@ -422,6 +826,19 @@ Consulate: LUS
 | 2023AF49527   | LUS         | Lusaka | Zambia    | Ready        | Refused221g | 20-Jun-2023  |
 | 2023AF58945   | LUS         | Lusaka | Zambia    | Ready        | Refused221g | 20-Jun-2023  |
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
+Consulate: MDD
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023EU14682   | MDD         | Madrid | Spain     | InTransit    | Ready    | 20-Jun-2023  |
+| 2023EU30532   | MDD         | Madrid | Spain     | InTransit    | Ready    | 20-Jun-2023  |
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+Consulate: MNL
++---------------+-------------+--------+-------------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country     | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-------------+--------------+----------+--------------|
+| 2023AF7280    | MNL         | Manila | Philippines | InTransit    | Ready    | 20-Jun-2023  |
++---------------+-------------+--------+-------------+--------------+----------+--------------+
 Consulate: MRV
 +---------------+-------------+----------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City     | Country   | PrevStatus   | Status   | statusDate   |
@@ -461,11 +878,34 @@ Consulate: NRB
 | 2023AF11058   | NRB         | Nairobi | Kenya     | Ready        | AP       | 20-Jun-2023  |
 | 2023AF12680   | NRB         | Nairobi | Kenya     | Ready        | AP       | 20-Jun-2023  |
 +---------------+-------------+---------+-----------+--------------+----------+--------------+
+Consulate: PHP
++---------------+-------------+------------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City       | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+------------+-----------+--------------+----------+--------------|
+| 2023AS15162   | PHP         | Phnom Penh | Cambodia  | InTransit    | Ready    | 20-Jun-2023  |
++---------------+-------------+------------+-----------+--------------+----------+--------------+
 Consulate: PRS
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023AF4091    | PRS         | Paris  | France    | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF4331    | PRS         | Paris  | France    | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF32629   | PRS         | Paris  | France    | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF35990   | PRS         | Paris  | France    | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF36533   | PRS         | Paris  | France    | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF37799   | PRS         | Paris  | France    | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF39222   | PRS         | Paris  | France    | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF39257   | PRS         | Paris  | France    | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF40396   | PRS         | Paris  | France    | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF40446   | PRS         | Paris  | France    | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF41442   | PRS         | Paris  | France    | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF41924   | PRS         | Paris  | France    | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF42517   | PRS         | Paris  | France    | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AF57686   | PRS         | Paris  | France    | InTransit    | Ready    | 20-Jun-2023  |
+| 2023AS11265   | PRS         | Paris  | France    | InTransit    | Ready    | 20-Jun-2023  |
 | 2023AS14602   | PRS         | Paris  | France    | Refused221g  | AP       | 20-Jun-2023  |
+| 2023EU30505   | PRS         | Paris  | France    | InTransit    | Ready    | 20-Jun-2023  |
+| 2023EU31191   | PRS         | Paris  | France    | InTransit    | Ready    | 20-Jun-2023  |
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: RID
 +---------------+-------------+--------+--------------+--------------+----------+--------------+
@@ -487,6 +927,13 @@ Consulate: SEO
 |---------------+-------------+--------+-------------+--------------+----------+--------------|
 | 2023AS8078    | SEO         | Seoul  | South Korea | Ready        | AP       | 20-Jun-2023  |
 +---------------+-------------+--------+-------------+--------------+----------+--------------+
+Consulate: SOF
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023EU8663    | SOF         | Sofia  | Bulgaria  | InTransit    | Ready    | 20-Jun-2023  |
+| 2023EU18796   | SOF         | Sofia  | Bulgaria  | InTransit    | Ready    | 20-Jun-2023  |
++---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: STK
 +---------------+-------------+-----------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City      | Country   | PrevStatus   | Status   | statusDate   |
@@ -508,6 +955,12 @@ Consulate: SYD
 | 2023AS17335   | SYD         | Sydney | Australia | Ready        | AP       | 20-Jun-2023  |
 | 2023OC1304    | SYD         | Sydney | Australia | Ready        | AP       | 21-Jun-2023  |
 | 2023OC1422    | SYD         | Sydney | Australia | Ready        | AP       | 21-Jun-2023  |
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+Consulate: TAI
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023AS13445   | TAI         | Taipei | Taiwan    | InTransit    | Ready    | 20-Jun-2023  |
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: TBL
 +---------------+-------------+---------+-----------+--------------+----------+--------------+
@@ -559,6 +1012,7 @@ Consulate: TKY
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023AF51442   | TKY         | Tokyo  | Japan     | InTransit    | Ready    | 20-Jun-2023  |
 | 2023AS15479   | TKY         | Tokyo  | Japan     | Refused221g  | AP       | 20-Jun-2023  |
 | 2023AS15623   | TKY         | Tokyo  | Japan     | AP           | Issued   | 20-Jun-2023  |
 | 2023AS16022   | TKY         | Tokyo  | Japan     | Ready        | AP       | 20-Jun-2023  |
@@ -573,23 +1027,121 @@ Consulate: VIL
 +---------------+-------------+---------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City    | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+---------+-----------+--------------+----------+--------------|
+| 2023EU15631   | VIL         | Vilnius | Lithuania | InTransit    | Ready    | 20-Jun-2023  |
 | 2023EU17114   | VIL         | Vilnius | Lithuania | Ready        | AP       | 20-Jun-2023  |
+| 2023EU17227   | VIL         | Vilnius | Lithuania | InTransit    | Ready    | 20-Jun-2023  |
 | 2023EU22404   | VIL         | Vilnius | Lithuania | Ready        | AP       | 20-Jun-2023  |
+| 2023EU24690   | VIL         | Vilnius | Lithuania | InTransit    | Ready    | 20-Jun-2023  |
 | 2023EU28403   | VIL         | Vilnius | Lithuania | Ready        | AP       | 20-Jun-2023  |
+| 2023EU30397   | VIL         | Vilnius | Lithuania | InTransit    | Ready    | 20-Jun-2023  |
+| 2023EU30819   | VIL         | Vilnius | Lithuania | InTransit    | Ready    | 20-Jun-2023  |
+| 2023EU31066   | VIL         | Vilnius | Lithuania | InTransit    | Ready    | 20-Jun-2023  |
 +---------------+-------------+---------+-----------+--------------+----------+--------------+
 Consulate: WRW
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status      | statusDate   |
 |---------------+-------------+--------+-----------+--------------+-------------+--------------|
+| 2023AF61044   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU626     | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU4549    | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU5658    | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU10817   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU11028   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU14446   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU14962   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU15227   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
 | 2023EU22205   | WRW         | Warsaw | Poland    | Ready        | Refused221g | 20-Jun-2023  |
 | 2023EU22225   | WRW         | Warsaw | Poland    | Ready        | Refused221g | 20-Jun-2023  |
 | 2023EU22249   | WRW         | Warsaw | Poland    | Refused221g  | Issued      | 20-Jun-2023  |
 | 2023EU22411   | WRW         | Warsaw | Poland    | Ready        | Refused221g | 20-Jun-2023  |
+| 2023EU22536   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU24165   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU24882   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
 | 2023EU25008   | WRW         | Warsaw | Poland    | Ready        | Refused221g | 20-Jun-2023  |
 | 2023EU25152   | WRW         | Warsaw | Poland    | Ready        | Refused221g | 20-Jun-2023  |
 | 2023EU25155   | WRW         | Warsaw | Poland    | Ready        | Refused221g | 20-Jun-2023  |
+| 2023EU25317   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
 | 2023EU26728   | WRW         | Warsaw | Poland    | Ready        | Refused221g | 20-Jun-2023  |
+| 2023EU26830   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU27449   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU27997   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU28935   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
 | 2023EU29287   | WRW         | Warsaw | Poland    | Ready        | Refused221g | 20-Jun-2023  |
+| 2023EU29400   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU29409   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU30056   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU30620   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU30856   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU30966   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU31028   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU31029   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU31071   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU31154   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU31181   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU31184   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU31249   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU31268   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU31269   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU31272   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU31294   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU31307   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU31312   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU31329   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU31341   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU31345   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU31348   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU31374   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU31391   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU31397   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU31454   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU31465   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU31478   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU31479   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU31481   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU31488   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU31494   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU31526   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU31538   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU31567   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU31589   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU31596   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU31610   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU31616   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU31626   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU31651   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU31653   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU31655   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU31699   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU31707   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU31718   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU31739   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU31746   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU31751   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU31755   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU31761   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU31771   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU31778   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU31783   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU31801   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU31817   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU31829   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU31833   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU31843   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU31844   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU31858   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU31861   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU31868   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU31899   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU31908   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU31915   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU31940   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU31950   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU31956   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU31959   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU31960   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU31978   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU31979   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
+| 2023EU31985   | WRW         | Warsaw | Poland    | InTransit    | Ready       | 20-Jun-2023  |
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
 Consulate: YDE
 +---------------+-------------+---------+-----------+--------------+-------------+--------------+

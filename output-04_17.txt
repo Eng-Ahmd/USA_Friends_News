@@ -16,6 +16,36 @@ Consulate: ABJ
 |---------------+-------------+---------+---------------+--------------+----------+--------------|
 | 2023AF6948    | ABJ         | Abidjan | Cote d'Ivoire | AP           | Issued   | 17-Apr-2023  |
 +---------------+-------------+---------+---------------+--------------+----------+--------------+
+Consulate: ACC
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023AF1742    | ACC         | Accra  | Ghana     | InTransit    | Ready    | 17-Apr-2023  |
+| 2023AF5153    | ACC         | Accra  | Ghana     | InTransit    | Ready    | 17-Apr-2023  |
+| 2023AF8736    | ACC         | Accra  | Ghana     | InTransit    | Ready    | 17-Apr-2023  |
+| 2023AF10197   | ACC         | Accra  | Ghana     | InTransit    | Ready    | 17-Apr-2023  |
+| 2023AF12558   | ACC         | Accra  | Ghana     | InTransit    | Ready    | 17-Apr-2023  |
+| 2023AF13736   | ACC         | Accra  | Ghana     | InTransit    | Ready    | 17-Apr-2023  |
+| 2023AF14573   | ACC         | Accra  | Ghana     | InTransit    | Ready    | 17-Apr-2023  |
+| 2023AF14920   | ACC         | Accra  | Ghana     | InTransit    | Ready    | 17-Apr-2023  |
+| 2023AF14990   | ACC         | Accra  | Ghana     | InTransit    | Ready    | 17-Apr-2023  |
+| 2023AF15029   | ACC         | Accra  | Ghana     | InTransit    | Ready    | 17-Apr-2023  |
+| 2023AF15659   | ACC         | Accra  | Ghana     | InTransit    | Ready    | 17-Apr-2023  |
+| 2023AF17803   | ACC         | Accra  | Ghana     | InTransit    | Ready    | 17-Apr-2023  |
+| 2023AF18182   | ACC         | Accra  | Ghana     | InTransit    | Ready    | 17-Apr-2023  |
+| 2023AF19286   | ACC         | Accra  | Ghana     | InTransit    | Ready    | 17-Apr-2023  |
+| 2023AF19313   | ACC         | Accra  | Ghana     | InTransit    | Ready    | 17-Apr-2023  |
+| 2023AF19359   | ACC         | Accra  | Ghana     | InTransit    | Ready    | 17-Apr-2023  |
+| 2023AF20082   | ACC         | Accra  | Ghana     | InTransit    | Ready    | 17-Apr-2023  |
+| 2023AF20398   | ACC         | Accra  | Ghana     | InTransit    | Ready    | 17-Apr-2023  |
+| 2023AF20631   | ACC         | Accra  | Ghana     | InTransit    | Ready    | 17-Apr-2023  |
+| 2023AF20934   | ACC         | Accra  | Ghana     | InTransit    | Ready    | 17-Apr-2023  |
+| 2023AF21024   | ACC         | Accra  | Ghana     | InTransit    | Ready    | 17-Apr-2023  |
+| 2023AF21447   | ACC         | Accra  | Ghana     | InTransit    | Ready    | 17-Apr-2023  |
+| 2023AF21501   | ACC         | Accra  | Ghana     | InTransit    | Ready    | 17-Apr-2023  |
+| 2023AF21821   | ACC         | Accra  | Ghana     | InTransit    | Ready    | 17-Apr-2023  |
+| 2023AF21904   | ACC         | Accra  | Ghana     | InTransit    | Ready    | 17-Apr-2023  |
++---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: ADD
 +---------------+-------------+-------------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City        | Country   | PrevStatus   | Status   | statusDate   |
@@ -90,13 +120,148 @@ Consulate: ANK
 | 2023AS3524    | ANK         | Ankara | Turkey    | AP           | Issued   | 17-Apr-2023  |
 | 2023AS3679    | ANK         | Ankara | Turkey    | AP           | Issued   | 17-Apr-2023  |
 | 2023AS3707    | ANK         | Ankara | Turkey    | AP           | Issued   | 17-Apr-2023  |
+| 2023AS3890    | ANK         | Ankara | Turkey    | InTransit    | Ready    | 17-Apr-2023  |
+| 2023AS4105    | ANK         | Ankara | Turkey    | InTransit    | Ready    | 17-Apr-2023  |
+| 2023AS4517    | ANK         | Ankara | Turkey    | InTransit    | Ready    | 17-Apr-2023  |
+| 2023AS4720    | ANK         | Ankara | Turkey    | InTransit    | Ready    | 17-Apr-2023  |
+| 2023AS4883    | ANK         | Ankara | Turkey    | InTransit    | Ready    | 17-Apr-2023  |
+| 2023AS5310    | ANK         | Ankara | Turkey    | InTransit    | Ready    | 17-Apr-2023  |
+| 2023AS5326    | ANK         | Ankara | Turkey    | InTransit    | Ready    | 17-Apr-2023  |
+| 2023AS5337    | ANK         | Ankara | Turkey    | InTransit    | Ready    | 17-Apr-2023  |
+| 2023AS5378    | ANK         | Ankara | Turkey    | InTransit    | Ready    | 17-Apr-2023  |
+| 2023AS5417    | ANK         | Ankara | Turkey    | InTransit    | Ready    | 17-Apr-2023  |
+| 2023AS5425    | ANK         | Ankara | Turkey    | InTransit    | Ready    | 17-Apr-2023  |
+| 2023AS5484    | ANK         | Ankara | Turkey    | InTransit    | Ready    | 17-Apr-2023  |
+| 2023AS6014    | ANK         | Ankara | Turkey    | InTransit    | Ready    | 17-Apr-2023  |
+| 2023AS6242    | ANK         | Ankara | Turkey    | InTransit    | Ready    | 17-Apr-2023  |
+| 2023AS6514    | ANK         | Ankara | Turkey    | InTransit    | Ready    | 17-Apr-2023  |
+| 2023AS6636    | ANK         | Ankara | Turkey    | InTransit    | Ready    | 17-Apr-2023  |
+| 2023AS7219    | ANK         | Ankara | Turkey    | InTransit    | Ready    | 17-Apr-2023  |
+| 2023AS7447    | ANK         | Ankara | Turkey    | InTransit    | Ready    | 17-Apr-2023  |
+| 2023AS7756    | ANK         | Ankara | Turkey    | InTransit    | Ready    | 17-Apr-2023  |
+| 2023AS8661    | ANK         | Ankara | Turkey    | InTransit    | Ready    | 17-Apr-2023  |
+| 2023AS8890    | ANK         | Ankara | Turkey    | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU6108    | ANK         | Ankara | Turkey    | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU6116    | ANK         | Ankara | Turkey    | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU6121    | ANK         | Ankara | Turkey    | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU6131    | ANK         | Ankara | Turkey    | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU6145    | ANK         | Ankara | Turkey    | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU6154    | ANK         | Ankara | Turkey    | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU6163    | ANK         | Ankara | Turkey    | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU6185    | ANK         | Ankara | Turkey    | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU6262    | ANK         | Ankara | Turkey    | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU6299    | ANK         | Ankara | Turkey    | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU6324    | ANK         | Ankara | Turkey    | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU6352    | ANK         | Ankara | Turkey    | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU6356    | ANK         | Ankara | Turkey    | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU6378    | ANK         | Ankara | Turkey    | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU6406    | ANK         | Ankara | Turkey    | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU6438    | ANK         | Ankara | Turkey    | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU6495    | ANK         | Ankara | Turkey    | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU6500    | ANK         | Ankara | Turkey    | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU6574    | ANK         | Ankara | Turkey    | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU6655    | ANK         | Ankara | Turkey    | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU6667    | ANK         | Ankara | Turkey    | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU6678    | ANK         | Ankara | Turkey    | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU6701    | ANK         | Ankara | Turkey    | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU6784    | ANK         | Ankara | Turkey    | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU6802    | ANK         | Ankara | Turkey    | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU6835    | ANK         | Ankara | Turkey    | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU6871    | ANK         | Ankara | Turkey    | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU6875    | ANK         | Ankara | Turkey    | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU6928    | ANK         | Ankara | Turkey    | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU6951    | ANK         | Ankara | Turkey    | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU6961    | ANK         | Ankara | Turkey    | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU7156    | ANK         | Ankara | Turkey    | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU7167    | ANK         | Ankara | Turkey    | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU7214    | ANK         | Ankara | Turkey    | InTransit    | Ready    | 17-Apr-2023  |
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: ATA
 +---------------+-------------+--------+------------+--------------+----------+--------------+
 | Case Number   | Consulate   | City   | Country    | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+--------+------------+--------------+----------+--------------|
+| 2023EU1054    | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU7242    | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU7461    | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU12728   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU16260   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU16461   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU16680   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU16824   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU17426   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU17598   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU18555   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU18677   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU18763   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU18867   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU19098   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU19151   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU19828   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU20123   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU20202   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU21217   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU21271   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU21543   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 17-Apr-2023  |
 | 2023EU22265   | ATA         | Almaty | Kazakhstan | AP           | Issued   | 17-Apr-2023  |
+| 2023EU22583   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU22845   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU24126   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU24324   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU24926   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU25071   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU25095   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 17-Apr-2023  |
 | 2023EU25304   | ATA         | Almaty | Kazakhstan | AP           | Issued   | 17-Apr-2023  |
+| 2023EU25479   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU26063   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU26224   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU26588   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU26935   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU27005   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU27039   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU27443   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU27523   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU27531   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU27642   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU27649   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU27751   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU27809   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU27826   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU27856   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU27860   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU27924   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU27935   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU27949   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU28053   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU28080   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU28186   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU28229   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU28244   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU28351   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU28370   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU28371   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU28678   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU28796   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU28810   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU28834   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU28847   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU28914   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU28988   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU29315   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU29361   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU29387   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU29431   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU29434   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU29488   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU29613   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU29628   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU29640   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU29708   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU29718   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU29770   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU29907   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU29937   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU29941   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU29947   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 17-Apr-2023  |
 +---------------+-------------+--------+------------+--------------+----------+--------------+
 Consulate: BDP
 +---------------+-------------+----------+-----------+--------------+-------------+--------------+
@@ -104,17 +269,97 @@ Consulate: BDP
 |---------------+-------------+----------+-----------+--------------+-------------+--------------|
 | 2023EU22117   | BDP         | Budapest | Hungary   | Ready        | Refused221g | 17-Apr-2023  |
 +---------------+-------------+----------+-----------+--------------+-------------+--------------+
+Consulate: BEN
++---------------+-------------+--------+-------------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country     | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-------------+--------------+----------+--------------|
+| 2023EU26854   | BEN         | Bern   | Switzerland | InTransit    | Ready    | 17-Apr-2023  |
++---------------+-------------+--------+-------------+--------------+----------+--------------+
 Consulate: BGH
 +---------------+-------------+---------+-----------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City    | Country   | PrevStatus   | Status      | statusDate   |
 |---------------+-------------+---------+-----------+--------------+-------------+--------------|
 | 2023AS5869    | BGH         | Baghdad | Iraq      | Ready        | Refused221g | 17-Apr-2023  |
 | 2023AS8156    | BGH         | Baghdad | Iraq      | Ready        | Refused221g | 17-Apr-2023  |
+| 2023AS9242    | BGH         | Baghdad | Iraq      | InTransit    | Ready       | 16-Apr-2023  |
 | 2023AS10965   | BGH         | Baghdad | Iraq      | Ready        | Refused221g | 17-Apr-2023  |
 | 2023AS12619   | BGH         | Baghdad | Iraq      | Ready        | Refused221g | 17-Apr-2023  |
 | 2023AS13110   | BGH         | Baghdad | Iraq      | Ready        | Refused221g | 17-Apr-2023  |
+| 2023AS15142   | BGH         | Baghdad | Iraq      | InTransit    | Ready       | 16-Apr-2023  |
 | 2023AS17377   | BGH         | Baghdad | Iraq      | Ready        | Refused221g | 17-Apr-2023  |
 +---------------+-------------+---------+-----------+--------------+-------------+--------------+
+Consulate: BGT
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023EU23633   | BGT         | Bogota | Colombia  | InTransit    | Ready    | 17-Apr-2023  |
+| 2023SA2439    | BGT         | Bogota | Colombia  | InTransit    | Ready    | 17-Apr-2023  |
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+Consulate: BKK
++---------------+-------------+---------+------------+--------------+----------+--------------+
+| Case Number   | Consulate   | City    | Country    | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+---------+------------+--------------+----------+--------------|
+| 2023EU19687   | BKK         | Bishkek | Kyrgyzstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU21578   | BKK         | Bishkek | Kyrgyzstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU21611   | BKK         | Bishkek | Kyrgyzstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU21633   | BKK         | Bishkek | Kyrgyzstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU21664   | BKK         | Bishkek | Kyrgyzstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU21708   | BKK         | Bishkek | Kyrgyzstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU21729   | BKK         | Bishkek | Kyrgyzstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU21785   | BKK         | Bishkek | Kyrgyzstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU21838   | BKK         | Bishkek | Kyrgyzstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU21902   | BKK         | Bishkek | Kyrgyzstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU21936   | BKK         | Bishkek | Kyrgyzstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU22042   | BKK         | Bishkek | Kyrgyzstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU22066   | BKK         | Bishkek | Kyrgyzstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU22110   | BKK         | Bishkek | Kyrgyzstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU22139   | BKK         | Bishkek | Kyrgyzstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU22201   | BKK         | Bishkek | Kyrgyzstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU22269   | BKK         | Bishkek | Kyrgyzstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU22290   | BKK         | Bishkek | Kyrgyzstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU22311   | BKK         | Bishkek | Kyrgyzstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU22347   | BKK         | Bishkek | Kyrgyzstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU22366   | BKK         | Bishkek | Kyrgyzstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU22368   | BKK         | Bishkek | Kyrgyzstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU22403   | BKK         | Bishkek | Kyrgyzstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU22462   | BKK         | Bishkek | Kyrgyzstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU22544   | BKK         | Bishkek | Kyrgyzstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU22558   | BKK         | Bishkek | Kyrgyzstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU22651   | BKK         | Bishkek | Kyrgyzstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU22659   | BKK         | Bishkek | Kyrgyzstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU22665   | BKK         | Bishkek | Kyrgyzstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU22670   | BKK         | Bishkek | Kyrgyzstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU22705   | BKK         | Bishkek | Kyrgyzstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU22735   | BKK         | Bishkek | Kyrgyzstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU22828   | BKK         | Bishkek | Kyrgyzstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU22858   | BKK         | Bishkek | Kyrgyzstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU22881   | BKK         | Bishkek | Kyrgyzstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU22895   | BKK         | Bishkek | Kyrgyzstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU22896   | BKK         | Bishkek | Kyrgyzstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU22924   | BKK         | Bishkek | Kyrgyzstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU23150   | BKK         | Bishkek | Kyrgyzstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU23183   | BKK         | Bishkek | Kyrgyzstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU23208   | BKK         | Bishkek | Kyrgyzstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU23489   | BKK         | Bishkek | Kyrgyzstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU23501   | BKK         | Bishkek | Kyrgyzstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU23533   | BKK         | Bishkek | Kyrgyzstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU23585   | BKK         | Bishkek | Kyrgyzstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU23608   | BKK         | Bishkek | Kyrgyzstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU23636   | BKK         | Bishkek | Kyrgyzstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU23637   | BKK         | Bishkek | Kyrgyzstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU23687   | BKK         | Bishkek | Kyrgyzstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU23698   | BKK         | Bishkek | Kyrgyzstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU23738   | BKK         | Bishkek | Kyrgyzstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU23965   | BKK         | Bishkek | Kyrgyzstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU23998   | BKK         | Bishkek | Kyrgyzstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU24007   | BKK         | Bishkek | Kyrgyzstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU24043   | BKK         | Bishkek | Kyrgyzstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU24059   | BKK         | Bishkek | Kyrgyzstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU24253   | BKK         | Bishkek | Kyrgyzstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU24291   | BKK         | Bishkek | Kyrgyzstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU24546   | BKK         | Bishkek | Kyrgyzstan | InTransit    | Ready    | 17-Apr-2023  |
+| 2023EU24588   | BKK         | Bishkek | Kyrgyzstan | InTransit    | Ready    | 17-Apr-2023  |
++---------------+-------------+---------+------------+--------------+----------+--------------+
 Consulate: BMB
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
@@ -132,6 +377,17 @@ Consulate: BNK
 | 2023AS15283   | BNK         | Bangkok | Thailand  | Refused221g  | AP       | 17-Apr-2023  |
 | 2023AS15304   | BNK         | Bangkok | Thailand  | Refused221g  | AP       | 17-Apr-2023  |
 +---------------+-------------+---------+-----------+--------------+----------+--------------+
+Consulate: BNS
++---------------+-------------+--------------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City         | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------------+-----------+--------------+----------+--------------|
+| 2023SA2418    | BNS         | Buenos Aires | Argentina | InTransit    | Ready    | 17-Apr-2023  |
+| 2023SA2422    | BNS         | Buenos Aires | Argentina | InTransit    | Ready    | 17-Apr-2023  |
+| 2023SA2464    | BNS         | Buenos Aires | Argentina | InTransit    | Ready    | 17-Apr-2023  |
+| 2023SA2543    | BNS         | Buenos Aires | Argentina | InTransit    | Ready    | 17-Apr-2023  |
+| 2023SA2621    | BNS         | Buenos Aires | Argentina | InTransit    | Ready    | 17-Apr-2023  |
+| 2023SA2633    | BNS         | Buenos Aires | Argentina | InTransit    | Ready    | 17-Apr-2023  |
++---------------+-------------+--------------+-----------+--------------+----------+--------------+
 Consulate: BRS
 +---------------+-------------+----------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City     | Country   | PrevStatus   | Status   | statusDate   |
@@ -441,6 +697,23 @@ Consulate: HAV
 | 2023SA2725    | HAV         | Havana | Cuba      | NVC          | Ready    | 17-Apr-2023  |
 | 2023SA2739    | HAV         | Havana | Cuba      | NVC          | Ready    | 17-Apr-2023  |
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
+Consulate: ISL
++---------------+-------------+-----------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City      | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+-----------+-----------+--------------+----------+--------------|
+| 2023AS242     | ISL         | Islamabad | Pakistan  | InTransit    | Ready    | 17-Apr-2023  |
+| 2023AS273     | ISL         | Islamabad | Pakistan  | InTransit    | Ready    | 17-Apr-2023  |
+| 2023AS479     | ISL         | Islamabad | Pakistan  | InTransit    | Ready    | 17-Apr-2023  |
+| 2023AS599     | ISL         | Islamabad | Pakistan  | InTransit    | Ready    | 17-Apr-2023  |
+| 2023AS1077    | ISL         | Islamabad | Pakistan  | InTransit    | Ready    | 17-Apr-2023  |
+| 2023AS1204    | ISL         | Islamabad | Pakistan  | InTransit    | Ready    | 17-Apr-2023  |
+| 2023AS1226    | ISL         | Islamabad | Pakistan  | InTransit    | Ready    | 17-Apr-2023  |
+| 2023AS1243    | ISL         | Islamabad | Pakistan  | InTransit    | Ready    | 17-Apr-2023  |
+| 2023AS1502    | ISL         | Islamabad | Pakistan  | InTransit    | Ready    | 17-Apr-2023  |
+| 2023AS1558    | ISL         | Islamabad | Pakistan  | InTransit    | Ready    | 17-Apr-2023  |
+| 2023AS1718    | ISL         | Islamabad | Pakistan  | InTransit    | Ready    | 17-Apr-2023  |
+| 2023AS1753    | ISL         | Islamabad | Pakistan  | InTransit    | Ready    | 17-Apr-2023  |
++---------------+-------------+-----------+-----------+--------------+----------+--------------+
 Consulate: JRS
 +---------------+-------------+-----------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City      | Country   | PrevStatus   | Status   | statusDate   |

@@ -10,6 +10,13 @@ Consulate: ABD
 | 2023AF29950   | ABD         | Abu Dhabi | United Arab Emirates | Ready        | Refused221g | 18-Apr-2023  |
 | 2023AS10936   | ABD         | Abu Dhabi | United Arab Emirates | AP           | Issued      | 18-Apr-2023  |
 +---------------+-------------+-----------+----------------------+--------------+-------------+--------------+
+Consulate: ACK
++---------------+-------------+----------+-------------+--------------+----------+--------------+
+| Case Number   | Consulate   | City     | Country     | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+----------+-------------+--------------+----------+--------------|
+| 2023OC1498    | ACK         | Auckland | New Zealand | InTransit    | Ready    | 18-Apr-2023  |
+| 2023OC1524    | ACK         | Auckland | New Zealand | InTransit    | Ready    | 18-Apr-2023  |
++---------------+-------------+----------+-------------+--------------+----------+--------------+
 Consulate: ADD
 +---------------+-------------+-------------+-----------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City        | Country   | PrevStatus   | Status      | statusDate   |
@@ -27,6 +34,13 @@ Consulate: ADD
 | 2023AF16442   | ADD         | Addis Ababa | Ethiopia  | Ready        | AP          | 18-Apr-2023  |
 | 2023AF16559   | ADD         | Addis Ababa | Ethiopia  | Ready        | AP          | 18-Apr-2023  |
 +---------------+-------------+-------------+-----------+--------------+-------------+--------------+
+Consulate: AKD
++---------------+-------------+----------+--------------+--------------+----------+--------------+
+| Case Number   | Consulate   | City     | Country      | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+----------+--------------+--------------+----------+--------------|
+| 2023EU17181   | AKD         | Ashgabat | Turkmenistan | InTransit    | Ready    | 18-Apr-2023  |
+| 2023EU29656   | AKD         | Ashgabat | Turkmenistan | InTransit    | Ready    | 18-Apr-2023  |
++---------------+-------------+----------+--------------+--------------+----------+--------------+
 Consulate: ALG
 +---------------+-------------+---------+-----------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City    | Country   | PrevStatus   | Status      | statusDate   |
@@ -90,6 +104,14 @@ Consulate: AMM
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023AF21238   | AMM         | Amman  | Jordan    | InTransit    | Ready    | 18-Apr-2023  |
+| 2023AF26779   | AMM         | Amman  | Jordan    | InTransit    | Ready    | 18-Apr-2023  |
+| 2023AF27033   | AMM         | Amman  | Jordan    | InTransit    | Ready    | 18-Apr-2023  |
+| 2023AF27063   | AMM         | Amman  | Jordan    | InTransit    | Ready    | 18-Apr-2023  |
+| 2023AF28106   | AMM         | Amman  | Jordan    | InTransit    | Ready    | 18-Apr-2023  |
+| 2023AF28281   | AMM         | Amman  | Jordan    | InTransit    | Ready    | 18-Apr-2023  |
+| 2023AF47313   | AMM         | Amman  | Jordan    | InTransit    | Ready    | 18-Apr-2023  |
+| 2023AF61443   | AMM         | Amman  | Jordan    | InTransit    | Ready    | 18-Apr-2023  |
 | 2023AS9785    | AMM         | Amman  | Jordan    | AP           | Issued   | 18-Apr-2023  |
 | 2023AS18092   | AMM         | Amman  | Jordan    | AP           | Issued   | 18-Apr-2023  |
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
@@ -112,6 +134,8 @@ Consulate: BCH
 +---------------+-------------+-----------+-----------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City      | Country   | PrevStatus   | Status      | statusDate   |
 |---------------+-------------+-----------+-----------+--------------+-------------+--------------|
+| 2023AF27751   | BCH         | Bucharest | Romania   | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AF53509   | BCH         | Bucharest | Romania   | InTransit    | Ready       | 18-Apr-2023  |
 | 2023AS4771    | BCH         | Bucharest | Romania   | Ready        | Issued      | 18-Apr-2023  |
 | 2023EU18317   | BCH         | Bucharest | Romania   | Ready        | Refused221g | 18-Apr-2023  |
 +---------------+-------------+-----------+-----------+--------------+-------------+--------------+
@@ -119,7 +143,10 @@ Consulate: BDP
 +---------------+-------------+----------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City     | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+----------+-----------+--------------+----------+--------------|
+| 2023AS6793    | BDP         | Budapest | Hungary   | InTransit    | Ready    | 18-Apr-2023  |
+| 2023AS7732    | BDP         | Budapest | Hungary   | InTransit    | Ready    | 18-Apr-2023  |
 | 2023EU14455   | BDP         | Budapest | Hungary   | Ready        | AP       | 18-Apr-2023  |
+| 2023EU19678   | BDP         | Budapest | Hungary   | InTransit    | Ready    | 18-Apr-2023  |
 | 2023EU22117   | BDP         | Budapest | Hungary   | Refused221g  | AP       | 18-Apr-2023  |
 | 2023EU25869   | BDP         | Budapest | Hungary   | Issued       | Transfer | 18-Apr-2023  |
 +---------------+-------------+----------+-----------+--------------+----------+--------------+
@@ -166,7 +193,10 @@ Consulate: BRS
 +---------------+-------------+----------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City     | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+----------+-----------+--------------+----------+--------------|
+| 2023AF61827   | BRS         | Brussels | Belgium   | InTransit    | Ready    | 18-Apr-2023  |
 | 2023EU20815   | BRS         | Brussels | Belgium   | Ready        | AP       | 18-Apr-2023  |
+| 2023EU21736   | BRS         | Brussels | Belgium   | InTransit    | Ready    | 18-Apr-2023  |
+| 2023EU22013   | BRS         | Brussels | Belgium   | InTransit    | Ready    | 18-Apr-2023  |
 +---------------+-------------+----------+-----------+--------------+----------+--------------+
 Consulate: CHS
 +---------------+-------------+----------+-----------+--------------+----------+--------------+
@@ -194,6 +224,66 @@ Consulate: CLM
 | 2023AS8561    | CLM         | Colombo | Sri Lanka | Ready        | AP          | 18-Apr-2023  |
 | 2023AS8718    | CLM         | Colombo | Sri Lanka | Ready        | Refused     | 18-Apr-2023  |
 | 2023AS8729    | CLM         | Colombo | Sri Lanka | Ready        | AP          | 18-Apr-2023  |
+| 2023AS9587    | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AS10621   | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AS10969   | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AS10994   | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AS11070   | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AS11080   | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AS11214   | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AS11238   | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AS11354   | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AS11427   | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AS11437   | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AS11461   | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AS11506   | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AS11562   | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AS11570   | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AS11576   | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AS11595   | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AS11623   | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AS11689   | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AS11693   | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AS11703   | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AS11765   | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AS11808   | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AS11851   | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AS11864   | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AS11879   | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AS11917   | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AS11926   | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AS11982   | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AS12144   | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AS12154   | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AS12223   | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AS12236   | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AS12307   | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AS12345   | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AS12353   | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AS12531   | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AS12555   | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AS12614   | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AS12649   | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AS12704   | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AS12732   | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AS12756   | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AS12834   | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AS12844   | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AS12879   | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AS12953   | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AS12981   | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AS13015   | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AS13026   | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AS13029   | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AS13036   | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AS13056   | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AS13160   | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AS13180   | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AS13261   | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AS13273   | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AS13509   | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AS13573   | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AS13600   | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 18-Apr-2023  |
 +---------------+-------------+---------+-----------+--------------+-------------+--------------+
 Consulate: COT
 +---------------+-------------+---------+-----------+--------------+----------+--------------+
@@ -218,15 +308,37 @@ Consulate: CSB
 | 2023AF8830    | CSB         | Casablanca | Morocco   | Refused221g  | AP       | 18-Apr-2023  |
 | 2023AF26337   | CSB         | Casablanca | Morocco   | Ready        | AP       | 18-Apr-2023  |
 +---------------+-------------+------------+-----------+--------------+----------+--------------+
+Consulate: DBL
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023EU24486   | DBL         | Dublin | Ireland   | InTransit    | Ready    | 18-Apr-2023  |
+| 2023EU28212   | DBL         | Dublin | Ireland   | InTransit    | Ready    | 18-Apr-2023  |
++---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: DJI
 +---------------+-------------+----------+-----------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City     | Country   | PrevStatus   | Status      | statusDate   |
 |---------------+-------------+----------+-----------+--------------+-------------+--------------|
 | 2023AF6643    | DJI         | Djibouti | Djibouti  | Refused221g  | Ready       | 18-Apr-2023  |
 | 2023AF7161    | DJI         | Djibouti | Djibouti  | Ready        | Refused221g | 18-Apr-2023  |
+| 2023AF10736   | DJI         | Djibouti | Djibouti  | InTransit    | Ready       | 18-Apr-2023  |
 | 2023AF13064   | DJI         | Djibouti | Djibouti  | Ready        | AP          | 18-Apr-2023  |
 | 2023AF14736   | DJI         | Djibouti | Djibouti  | Refused221g  | Ready       | 18-Apr-2023  |
+| 2023AF18196   | DJI         | Djibouti | Djibouti  | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AF20003   | DJI         | Djibouti | Djibouti  | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AF20365   | DJI         | Djibouti | Djibouti  | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AF20416   | DJI         | Djibouti | Djibouti  | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AF21609   | DJI         | Djibouti | Djibouti  | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AF21784   | DJI         | Djibouti | Djibouti  | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AF22728   | DJI         | Djibouti | Djibouti  | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AS4573    | DJI         | Djibouti | Djibouti  | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AS5792    | DJI         | Djibouti | Djibouti  | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AS6062    | DJI         | Djibouti | Djibouti  | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AS6583    | DJI         | Djibouti | Djibouti  | InTransit    | Ready       | 18-Apr-2023  |
 | 2023AS6632    | DJI         | Djibouti | Djibouti  | Ready        | Transfer    | 18-Apr-2023  |
+| 2023AS7191    | DJI         | Djibouti | Djibouti  | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AS7199    | DJI         | Djibouti | Djibouti  | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AS7360    | DJI         | Djibouti | Djibouti  | InTransit    | Ready       | 18-Apr-2023  |
 | 2023AS7934    | DJI         | Djibouti | Djibouti  | Ready        | Refused221g | 18-Apr-2023  |
 +---------------+-------------+----------+-----------+--------------+-------------+--------------+
 Consulate: DOH
@@ -247,26 +359,50 @@ Consulate: DOH
 | 2023AS8626    | DOH         | Doha   | Qatar     | Ready        | AP       | 18-Apr-2023  |
 | 2023EU14109   | DOH         | Doha   | Qatar     | Ready        | AP       | 18-Apr-2023  |
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
+Consulate: DRS
++---------------+-------------+---------------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City          | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+---------------+-----------+--------------+----------+--------------|
+| 2023AF45303   | DRS         | Dar es Salaam | Tanzania  | InTransit    | Ready    | 18-Apr-2023  |
+| 2023AF45490   | DRS         | Dar es Salaam | Tanzania  | InTransit    | Ready    | 18-Apr-2023  |
+| 2023AF46611   | DRS         | Dar es Salaam | Tanzania  | InTransit    | Ready    | 18-Apr-2023  |
+| 2023AF48671   | DRS         | Dar es Salaam | Tanzania  | InTransit    | Ready    | 18-Apr-2023  |
+| 2023AF49807   | DRS         | Dar es Salaam | Tanzania  | InTransit    | Ready    | 18-Apr-2023  |
+| 2023AF50445   | DRS         | Dar es Salaam | Tanzania  | InTransit    | Ready    | 18-Apr-2023  |
++---------------+-------------+---------------+-----------+--------------+----------+--------------+
 Consulate: FRN
 +---------------+-------------+-----------+-----------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City      | Country   | PrevStatus   | Status      | statusDate   |
 |---------------+-------------+-----------+-----------+--------------+-------------+--------------|
+| 2023AF61541   | FRN         | Frankfurt | Germany   | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AF62807   | FRN         | Frankfurt | Germany   | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AS5788    | FRN         | Frankfurt | Germany   | InTransit    | Ready       | 18-Apr-2023  |
 | 2023AS15501   | FRN         | Frankfurt | Germany   | Ready        | Refused221g | 18-Apr-2023  |
 | 2023EU3679    | FRN         | Frankfurt | Germany   | Ready        | Issued      | 18-Apr-2023  |
+| 2023EU3830    | FRN         | Frankfurt | Germany   | InTransit    | Ready       | 18-Apr-2023  |
 | 2023EU4172    | FRN         | Frankfurt | Germany   | Ready        | Refused221g | 18-Apr-2023  |
 | 2023EU6374    | FRN         | Frankfurt | Germany   | Ready        | AP          | 18-Apr-2023  |
 | 2023EU8986    | FRN         | Frankfurt | Germany   | Ready        | Issued      | 18-Apr-2023  |
 | 2023EU10902   | FRN         | Frankfurt | Germany   | Refused221g  | Issued      | 18-Apr-2023  |
 | 2023EU11166   | FRN         | Frankfurt | Germany   | Ready        | Refused221g | 18-Apr-2023  |
+| 2023EU13376   | FRN         | Frankfurt | Germany   | InTransit    | Ready       | 18-Apr-2023  |
 | 2023EU14301   | FRN         | Frankfurt | Germany   | Ready        | AP          | 18-Apr-2023  |
 | 2023EU15319   | FRN         | Frankfurt | Germany   | Ready        | AP          | 18-Apr-2023  |
 | 2023EU17031   | FRN         | Frankfurt | Germany   | Ready        | Transfer    | 18-Apr-2023  |
 | 2023EU19499   | FRN         | Frankfurt | Germany   | Refused221g  | AP          | 18-Apr-2023  |
 | 2023EU20086   | FRN         | Frankfurt | Germany   | AP           | Issued      | 18-Apr-2023  |
 | 2023EU20763   | FRN         | Frankfurt | Germany   | Refused221g  | AP          | 18-Apr-2023  |
+| 2023EU20819   | FRN         | Frankfurt | Germany   | InTransit    | Ready       | 18-Apr-2023  |
 | 2023EU20927   | FRN         | Frankfurt | Germany   | AP           | Issued      | 18-Apr-2023  |
+| 2023EU20997   | FRN         | Frankfurt | Germany   | InTransit    | Ready       | 18-Apr-2023  |
 | 2023EU21961   | FRN         | Frankfurt | Germany   | Ready        | Refused221g | 18-Apr-2023  |
 | 2023EU24908   | FRN         | Frankfurt | Germany   | AP           | Issued      | 18-Apr-2023  |
+| 2023EU26406   | FRN         | Frankfurt | Germany   | InTransit    | Ready       | 18-Apr-2023  |
+| 2023EU27476   | FRN         | Frankfurt | Germany   | InTransit    | Ready       | 18-Apr-2023  |
+| 2023EU28090   | FRN         | Frankfurt | Germany   | InTransit    | Ready       | 18-Apr-2023  |
+| 2023EU29403   | FRN         | Frankfurt | Germany   | InTransit    | Ready       | 18-Apr-2023  |
+| 2023EU29721   | FRN         | Frankfurt | Germany   | InTransit    | Ready       | 18-Apr-2023  |
+| 2023EU29765   | FRN         | Frankfurt | Germany   | InTransit    | Ready       | 18-Apr-2023  |
 +---------------+-------------+-----------+-----------+--------------+-------------+--------------+
 Consulate: FTN
 +---------------+-------------+----------+--------------+--------------+----------+--------------+
@@ -291,7 +427,13 @@ Consulate: GUZ
 +---------------+-------------+-----------+-----------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City      | Country   | PrevStatus   | Status      | statusDate   |
 |---------------+-------------+-----------+-----------+--------------+-------------+--------------|
+| 2023AF46032   | GUZ         | Guangzhou | China     | InTransit    | Ready       | 18-Apr-2023  |
 | 2023AF48275   | GUZ         | Guangzhou | China     | Ready        | Refused221g | 18-Apr-2023  |
+| 2023AF48768   | GUZ         | Guangzhou | China     | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AF49713   | GUZ         | Guangzhou | China     | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AF60371   | GUZ         | Guangzhou | China     | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AF60605   | GUZ         | Guangzhou | China     | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AS6072    | GUZ         | Guangzhou | China     | InTransit    | Ready       | 18-Apr-2023  |
 | 2023EU2495    | GUZ         | Guangzhou | China     | Ready        | Refused221g | 18-Apr-2023  |
 +---------------+-------------+-----------+-----------+--------------+-------------+--------------+
 Consulate: HAV
@@ -309,8 +451,22 @@ Consulate: ISL
 |---------------+-------------+-----------+-----------+--------------+-------------+--------------|
 | 2023AS1525    | ISL         | Islamabad | Pakistan  | Ready        | Refused221g | 18-Apr-2023  |
 | 2023AS2930    | ISL         | Islamabad | Pakistan  | Ready        | Refused     | 18-Apr-2023  |
+| 2023AS4057    | ISL         | Islamabad | Pakistan  | InTransit    | Ready       | 18-Apr-2023  |
 | 2023AS7072    | ISL         | Islamabad | Pakistan  | Ready        | AP          | 18-Apr-2023  |
 | 2023AS12260   | ISL         | Islamabad | Pakistan  | AP           | Issued      | 18-Apr-2023  |
+| 2023AS12323   | ISL         | Islamabad | Pakistan  | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AS12552   | ISL         | Islamabad | Pakistan  | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AS13279   | ISL         | Islamabad | Pakistan  | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AS13561   | ISL         | Islamabad | Pakistan  | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AS13746   | ISL         | Islamabad | Pakistan  | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AS13934   | ISL         | Islamabad | Pakistan  | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AS14122   | ISL         | Islamabad | Pakistan  | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AS14126   | ISL         | Islamabad | Pakistan  | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AS14153   | ISL         | Islamabad | Pakistan  | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AS14210   | ISL         | Islamabad | Pakistan  | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AS14213   | ISL         | Islamabad | Pakistan  | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AS14216   | ISL         | Islamabad | Pakistan  | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AS14378   | ISL         | Islamabad | Pakistan  | InTransit    | Ready       | 18-Apr-2023  |
 +---------------+-------------+-----------+-----------+--------------+-------------+--------------+
 Consulate: JAK
 +---------------+-------------+---------+-----------+--------------+----------+--------------+
@@ -319,16 +475,40 @@ Consulate: JAK
 | 2023AS8918    | JAK         | Jakarta | Indonesia | Ready        | AP       | 18-Apr-2023  |
 | 2023EU20684   | JAK         | Jakarta | Indonesia | Refused221g  | AP       | 18-Apr-2023  |
 +---------------+-------------+---------+-----------+--------------+----------+--------------+
+Consulate: JRS
++---------------+-------------+-----------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City      | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+-----------+-----------+--------------+----------+--------------|
+| 2023EU24343   | JRS         | Jerusalem | Israel    | InTransit    | Ready    | 18-Apr-2023  |
+| 2023EU29274   | JRS         | Jerusalem | Israel    | InTransit    | Ready    | 18-Apr-2023  |
++---------------+-------------+-----------+-----------+--------------+----------+--------------+
 Consulate: KDU
 +---------------+-------------+-----------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City      | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+-----------+-----------+--------------+----------+--------------|
+| 2023AS2497    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 18-Apr-2023  |
+| 2023AS7911    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 18-Apr-2023  |
 | 2023AS8155    | KDU         | Kathmandu | Nepal     | Refused221g  | AP       | 18-Apr-2023  |
 | 2023AS8168    | KDU         | Kathmandu | Nepal     | Refused221g  | AP       | 18-Apr-2023  |
 | 2023AS8218    | KDU         | Kathmandu | Nepal     | Ready        | AP       | 18-Apr-2023  |
 | 2023AS8804    | KDU         | Kathmandu | Nepal     | AP           | Issued   | 18-Apr-2023  |
 | 2023AS9605    | KDU         | Kathmandu | Nepal     | Ready        | AP       | 18-Apr-2023  |
 | 2023AS11252   | KDU         | Kathmandu | Nepal     | Ready        | AP       | 18-Apr-2023  |
+| 2023AS12493   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 18-Apr-2023  |
+| 2023AS12796   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 18-Apr-2023  |
+| 2023AS13683   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 18-Apr-2023  |
+| 2023AS14356   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 18-Apr-2023  |
+| 2023AS15077   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 18-Apr-2023  |
+| 2023AS16239   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 18-Apr-2023  |
+| 2023AS16430   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 18-Apr-2023  |
+| 2023AS16966   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 18-Apr-2023  |
+| 2023AS17660   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 18-Apr-2023  |
+| 2023AS17669   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 18-Apr-2023  |
+| 2023AS17680   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 18-Apr-2023  |
+| 2023AS17710   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 18-Apr-2023  |
+| 2023AS17720   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 18-Apr-2023  |
+| 2023AS17726   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 18-Apr-2023  |
+| 2023AS17772   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 18-Apr-2023  |
 +---------------+-------------+-----------+-----------+--------------+----------+--------------+
 Consulate: KGL
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
@@ -789,6 +969,7 @@ Consulate: PHP
 +---------------+-------------+------------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City       | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+------------+-----------+--------------+----------+--------------|
+| 2023AS17074   | PHP         | Phnom Penh | Cambodia  | InTransit    | Ready    | 18-Apr-2023  |
 | 2023AS18605   | PHP         | Phnom Penh | Cambodia  | AP           | Issued   | 18-Apr-2023  |
 +---------------+-------------+------------+-----------+--------------+----------+--------------+
 Consulate: PRS
@@ -867,15 +1048,30 @@ Consulate: SYD
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status      | statusDate   |
 |---------------+-------------+--------+-----------+--------------+-------------+--------------|
+| 2023AF57423   | SYD         | Sydney | Australia | InTransit    | Ready       | 18-Apr-2023  |
 | 2023AS1784    | SYD         | Sydney | Australia | Ready        | AP          | 18-Apr-2023  |
 | 2023AS4625    | SYD         | Sydney | Australia | Ready        | Refused221g | 18-Apr-2023  |
+| 2023AS8200    | SYD         | Sydney | Australia | InTransit    | Ready       | 18-Apr-2023  |
 | 2023AS9010    | SYD         | Sydney | Australia | Ready        | AP          | 18-Apr-2023  |
 | 2023AS10850   | SYD         | Sydney | Australia | Ready        | Refused221g | 18-Apr-2023  |
+| 2023AS11062   | SYD         | Sydney | Australia | InTransit    | Ready       | 18-Apr-2023  |
 | 2023AS12115   | SYD         | Sydney | Australia | Ready        | AP          | 18-Apr-2023  |
 | 2023AS12165   | SYD         | Sydney | Australia | Ready        | AP          | 18-Apr-2023  |
+| 2023AS14778   | SYD         | Sydney | Australia | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AS15685   | SYD         | Sydney | Australia | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AS15778   | SYD         | Sydney | Australia | InTransit    | Ready       | 18-Apr-2023  |
+| 2023AS15996   | SYD         | Sydney | Australia | InTransit    | Ready       | 18-Apr-2023  |
+| 2023EU18382   | SYD         | Sydney | Australia | InTransit    | Ready       | 18-Apr-2023  |
 | 2023EU27136   | SYD         | Sydney | Australia | Ready        | Refused221g | 18-Apr-2023  |
+| 2023OC383     | SYD         | Sydney | Australia | InTransit    | Ready       | 18-Apr-2023  |
+| 2023OC507     | SYD         | Sydney | Australia | InTransit    | Ready       | 18-Apr-2023  |
+| 2023OC523     | SYD         | Sydney | Australia | InTransit    | Ready       | 18-Apr-2023  |
+| 2023OC561     | SYD         | Sydney | Australia | InTransit    | Ready       | 18-Apr-2023  |
 | 2023OC736     | SYD         | Sydney | Australia | Ready        | Refused221g | 18-Apr-2023  |
 | 2023OC891     | SYD         | Sydney | Australia | Ready        | AP          | 18-Apr-2023  |
+| 2023OC899     | SYD         | Sydney | Australia | InTransit    | Ready       | 18-Apr-2023  |
+| 2023OC996     | SYD         | Sydney | Australia | InTransit    | Ready       | 18-Apr-2023  |
+| 2023OC1037    | SYD         | Sydney | Australia | InTransit    | Ready       | 18-Apr-2023  |
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
 Consulate: TAI
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+

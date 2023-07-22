@@ -162,17 +162,58 @@ Consulate: DKR
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023AF3057    | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 04-May-2023  |
+| 2023AF7286    | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 04-May-2023  |
+| 2023AF7610    | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 04-May-2023  |
 | 2023AF16381   | DKR         | Dakar  | Senegal   | AP           | Issued   | 04-May-2023  |
 | 2023AF16885   | DKR         | Dakar  | Senegal   | Ready        | Issued   | 04-May-2023  |
+| 2023AF17905   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 04-May-2023  |
 | 2023AF21216   | DKR         | Dakar  | Senegal   | AP           | Issued   | 04-May-2023  |
+| 2023AF22225   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 04-May-2023  |
+| 2023AF28724   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 04-May-2023  |
+| 2023AF29297   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 04-May-2023  |
 | 2023AF29603   | DKR         | Dakar  | Senegal   | Refused221g  | Refused  | 04-May-2023  |
+| 2023AF31194   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 04-May-2023  |
 | 2023AF38032   | DKR         | Dakar  | Senegal   | Ready        | Issued   | 04-May-2023  |
 | 2023AF42811   | DKR         | Dakar  | Senegal   | AP           | Issued   | 04-May-2023  |
+| 2023AF43644   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 04-May-2023  |
+| 2023AF49883   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 04-May-2023  |
 | 2023AF50080   | DKR         | Dakar  | Senegal   | Ready        | Issued   | 04-May-2023  |
 | 2023AF50684   | DKR         | Dakar  | Senegal   | AP           | Issued   | 04-May-2023  |
+| 2023AF52620   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 04-May-2023  |
 | 2023AF53248   | DKR         | Dakar  | Senegal   | AP           | Issued   | 04-May-2023  |
 | 2023AF56656   | DKR         | Dakar  | Senegal   | AP           | Issued   | 04-May-2023  |
 | 2023AF57545   | DKR         | Dakar  | Senegal   | AP           | Issued   | 04-May-2023  |
+| 2023AF59629   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 04-May-2023  |
+| 2023AF60020   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 04-May-2023  |
+| 2023AF60306   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 04-May-2023  |
+| 2023AF60549   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 04-May-2023  |
+| 2023AF60571   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 04-May-2023  |
+| 2023AF60606   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 04-May-2023  |
+| 2023AF60626   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 04-May-2023  |
+| 2023AF60780   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 04-May-2023  |
+| 2023AF60781   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 04-May-2023  |
+| 2023AF60791   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 04-May-2023  |
+| 2023AF60910   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 04-May-2023  |
+| 2023AF61013   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 04-May-2023  |
+| 2023AF61112   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 04-May-2023  |
+| 2023AF61239   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 04-May-2023  |
+| 2023AF61266   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 04-May-2023  |
+| 2023AF61419   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 04-May-2023  |
+| 2023AF61511   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 04-May-2023  |
+| 2023AF61570   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 04-May-2023  |
+| 2023AF61621   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 04-May-2023  |
+| 2023AF61864   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 04-May-2023  |
+| 2023AF62277   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 04-May-2023  |
+| 2023AF62488   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 04-May-2023  |
+| 2023AF62800   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 04-May-2023  |
+| 2023AF62858   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 04-May-2023  |
+| 2023AF62867   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 04-May-2023  |
+| 2023AF63123   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 04-May-2023  |
+| 2023AF63180   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 04-May-2023  |
+| 2023AF63221   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 04-May-2023  |
+| 2023AF63374   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 04-May-2023  |
+| 2023AF63462   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 04-May-2023  |
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: DOH
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
@@ -433,7 +474,11 @@ Consulate: SEO
 +---------------+-------------+--------+-------------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City   | Country     | PrevStatus   | Status      | statusDate   |
 |---------------+-------------+--------+-------------+--------------+-------------+--------------|
+| 2023AS8078    | SEO         | Seoul  | South Korea | InTransit    | Ready       | 04-May-2023  |
 | 2023AS11688   | SEO         | Seoul  | South Korea | Ready        | Refused221g | 04-May-2023  |
+| 2023EU10860   | SEO         | Seoul  | South Korea | InTransit    | Ready       | 04-May-2023  |
+| 2023EU10972   | SEO         | Seoul  | South Korea | InTransit    | Ready       | 04-May-2023  |
+| 2023EU11109   | SEO         | Seoul  | South Korea | InTransit    | Ready       | 04-May-2023  |
 +---------------+-------------+--------+-------------+--------------+-------------+--------------+
 Consulate: SOF
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
@@ -451,10 +496,30 @@ Consulate: SYD
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023AF54456   | SYD         | Sydney | Australia | InTransit    | Ready    | 04-May-2023  |
+| 2023AS12495   | SYD         | Sydney | Australia | InTransit    | Ready    | 04-May-2023  |
+| 2023AS14916   | SYD         | Sydney | Australia | InTransit    | Ready    | 04-May-2023  |
 | 2023AS15778   | SYD         | Sydney | Australia | AP           | Issued   | 04-May-2023  |
+| 2023AS17335   | SYD         | Sydney | Australia | InTransit    | Ready    | 04-May-2023  |
 | 2023EU18382   | SYD         | Sydney | Australia | AP           | Issued   | 04-May-2023  |
 | 2023OC383     | SYD         | Sydney | Australia | AP           | Issued   | 04-May-2023  |
+| 2023OC496     | SYD         | Sydney | Australia | InTransit    | Ready    | 04-May-2023  |
 | 2023OC899     | SYD         | Sydney | Australia | AP           | Issued   | 04-May-2023  |
+| 2023OC918     | SYD         | Sydney | Australia | InTransit    | Ready    | 04-May-2023  |
+| 2023OC1210    | SYD         | Sydney | Australia | InTransit    | Ready    | 04-May-2023  |
+| 2023OC1290    | SYD         | Sydney | Australia | InTransit    | Ready    | 04-May-2023  |
+| 2023OC1304    | SYD         | Sydney | Australia | InTransit    | Ready    | 04-May-2023  |
+| 2023OC1307    | SYD         | Sydney | Australia | InTransit    | Ready    | 04-May-2023  |
+| 2023OC1332    | SYD         | Sydney | Australia | InTransit    | Ready    | 04-May-2023  |
+| 2023OC1341    | SYD         | Sydney | Australia | InTransit    | Ready    | 04-May-2023  |
+| 2023OC1370    | SYD         | Sydney | Australia | InTransit    | Ready    | 04-May-2023  |
+| 2023OC1398    | SYD         | Sydney | Australia | InTransit    | Ready    | 04-May-2023  |
+| 2023OC1422    | SYD         | Sydney | Australia | InTransit    | Ready    | 04-May-2023  |
+| 2023OC1427    | SYD         | Sydney | Australia | InTransit    | Ready    | 04-May-2023  |
+| 2023OC1438    | SYD         | Sydney | Australia | InTransit    | Ready    | 04-May-2023  |
+| 2023OC1450    | SYD         | Sydney | Australia | InTransit    | Ready    | 04-May-2023  |
+| 2023OC1531    | SYD         | Sydney | Australia | InTransit    | Ready    | 04-May-2023  |
+| 2023OC1534    | SYD         | Sydney | Australia | InTransit    | Ready    | 04-May-2023  |
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: TAI
 +---------------+-------------+--------+-----------+--------------+----------+--------------+

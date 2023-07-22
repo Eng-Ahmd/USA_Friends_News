@@ -31,8 +31,24 @@ Consulate: ADD
 | Case Number   | Consulate   | City        | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+-------------+-----------+--------------+----------+--------------|
 | 2023AF1677    | ADD         | Addis Ababa | Ethiopia  | Ready        | AP       | 25-May-2023  |
+| 2023AF8130    | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready    | 25-May-2023  |
 | 2023AF10744   | ADD         | Addis Ababa | Ethiopia  | AP           | Issued   | 25-May-2023  |
+| 2023AF11013   | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF11894   | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF12423   | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF13211   | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF13592   | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF13738   | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF13944   | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF14174   | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF14710   | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF14721   | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF14792   | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF15074   | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF15273   | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready    | 25-May-2023  |
 | 2023AF15763   | ADD         | Addis Ababa | Ethiopia  | AP           | Issued   | 25-May-2023  |
+| 2023AF16375   | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF16524   | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready    | 25-May-2023  |
 | 2023AF18089   | ADD         | Addis Ababa | Ethiopia  | Ready        | AP       | 25-May-2023  |
 +---------------+-------------+-------------+-----------+--------------+----------+--------------+
 Consulate: AKD
@@ -157,8 +173,18 @@ Consulate: DKR
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023AF9739    | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 25-May-2023  |
+| 2023AF21289   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 25-May-2023  |
+| 2023AF37275   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 25-May-2023  |
+| 2023AF37829   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 25-May-2023  |
+| 2023AF38511   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 25-May-2023  |
+| 2023AF41395   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 25-May-2023  |
+| 2023AF42608   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 25-May-2023  |
 | 2023AF47300   | DKR         | Dakar  | Senegal   | Refused221g  | AP       | 25-May-2023  |
+| 2023AF48648   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 25-May-2023  |
 | 2023AF57853   | DKR         | Dakar  | Senegal   | Refused221g  | AP       | 25-May-2023  |
+| 2023AF59082   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 25-May-2023  |
+| 2023AF59421   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 25-May-2023  |
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: DOH
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
@@ -704,6 +730,16 @@ Consulate: TKY
 | 2023AS16598   | TKY         | Tokyo  | Japan     | AP           | Issued   | 25-May-2023  |
 | 2023AS17084   | TKY         | Tokyo  | Japan     | AP           | Ready    | 25-May-2023  |
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
+Consulate: TNS
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023AF25936   | TNS         | Tunis  | Tunisia   | InTransit    | Ready    | 25-May-2023  |
+| 2023AF28699   | TNS         | Tunis  | Tunisia   | InTransit    | Ready    | 25-May-2023  |
+| 2023AF32268   | TNS         | Tunis  | Tunisia   | InTransit    | Ready    | 25-May-2023  |
+| 2023AF60257   | TNS         | Tunis  | Tunisia   | InTransit    | Ready    | 25-May-2023  |
+| 2023AF61467   | TNS         | Tunis  | Tunisia   | InTransit    | Ready    | 25-May-2023  |
++---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: ULN
 +---------------+-------------+-------------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City        | Country   | PrevStatus   | Status   | statusDate   |
@@ -726,10 +762,29 @@ Consulate: VNN
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status      | statusDate   |
 |---------------+-------------+--------+-----------+--------------+-------------+--------------|
+| 2023AF20842   | VNN         | Vienna | Austria   | InTransit    | Ready       | 25-May-2023  |
+| 2023AS11181   | VNN         | Vienna | Austria   | InTransit    | Ready       | 25-May-2023  |
+| 2023AS11706   | VNN         | Vienna | Austria   | InTransit    | Ready       | 25-May-2023  |
+| 2023EU7693    | VNN         | Vienna | Austria   | InTransit    | Ready       | 25-May-2023  |
+| 2023EU9243    | VNN         | Vienna | Austria   | InTransit    | Ready       | 25-May-2023  |
+| 2023EU18966   | VNN         | Vienna | Austria   | InTransit    | Ready       | 25-May-2023  |
 | 2023EU23712   | VNN         | Vienna | Austria   | Refused221g  | Issued      | 25-May-2023  |
+| 2023EU25122   | VNN         | Vienna | Austria   | InTransit    | Ready       | 25-May-2023  |
 | 2023EU25466   | VNN         | Vienna | Austria   | Refused221g  | Issued      | 25-May-2023  |
 | 2023EU26973   | VNN         | Vienna | Austria   | AP           | Issued      | 25-May-2023  |
 | 2023EU27757   | VNN         | Vienna | Austria   | Ready        | Refused221g | 25-May-2023  |
+| 2023EU30082   | VNN         | Vienna | Austria   | InTransit    | Ready       | 25-May-2023  |
+| 2023EU30220   | VNN         | Vienna | Austria   | InTransit    | Ready       | 25-May-2023  |
+| 2023EU30499   | VNN         | Vienna | Austria   | InTransit    | Ready       | 25-May-2023  |
+| 2023EU30634   | VNN         | Vienna | Austria   | InTransit    | Ready       | 25-May-2023  |
+| 2023EU31004   | VNN         | Vienna | Austria   | InTransit    | Ready       | 25-May-2023  |
+| 2023EU31133   | VNN         | Vienna | Austria   | InTransit    | Ready       | 25-May-2023  |
+| 2023EU31421   | VNN         | Vienna | Austria   | InTransit    | Ready       | 25-May-2023  |
+| 2023EU31556   | VNN         | Vienna | Austria   | InTransit    | Ready       | 25-May-2023  |
+| 2023EU31602   | VNN         | Vienna | Austria   | InTransit    | Ready       | 25-May-2023  |
+| 2023EU31722   | VNN         | Vienna | Austria   | InTransit    | Ready       | 25-May-2023  |
+| 2023EU31737   | VNN         | Vienna | Austria   | InTransit    | Ready       | 25-May-2023  |
+| 2023EU31974   | VNN         | Vienna | Austria   | InTransit    | Ready       | 25-May-2023  |
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
 Consulate: WRW
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
@@ -755,7 +810,187 @@ Consulate: YDE
 +---------------+-------------+---------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City    | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+---------+-----------+--------------+----------+--------------|
+| 2023AF2193    | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF5803    | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF6009    | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF6128    | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF7037    | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF7505    | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF8308    | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF8590    | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF8764    | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF8970    | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF10116   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF10616   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF11118   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF11236   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF11845   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF12105   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF12915   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF13203   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF14838   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF15466   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF15589   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF16676   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF17489   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF17700   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF18272   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF18372   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF18864   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF19021   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF19070   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF19276   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF20179   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF20809   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF20867   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF21139   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF21767   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF23352   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF23527   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF23548   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF23961   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
 | 2023AF24477   | YDE         | Yaounde | Cameroon  | AP           | Issued   | 25-May-2023  |
+| 2023AF24738   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF25436   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF25762   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF26992   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF27187   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF27598   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF28391   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF29068   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF29153   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF29991   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF30330   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF30515   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF31137   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF31180   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF32663   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF32799   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF32821   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF33215   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF33815   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF33916   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF34155   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF34297   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF34489   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF34996   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF35313   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF36454   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF36678   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF37106   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF37536   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF39331   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF39358   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF40148   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF40236   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF40249   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF40289   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF41627   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF41688   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF42264   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF42702   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF43965   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF44460   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF44708   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF44785   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF45027   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF45171   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF45214   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF45299   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF45346   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF45419   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF45610   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF45726   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF45881   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF45883   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF45893   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF46061   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF46173   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF46292   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF46375   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF46445   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF46557   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF46564   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF46723   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF46798   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF46815   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF46906   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF46940   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF46972   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF47082   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF47187   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF47217   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF47250   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF47433   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF47631   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF47783   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF48032   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF48051   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF48147   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF48196   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF48229   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF48276   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF48304   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF48398   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF48471   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF48524   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF48670   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF48796   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF48946   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF49273   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF49484   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF49608   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF49785   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF49838   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF49894   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF50111   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF50178   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF50373   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF50460   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF50507   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF50543   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF50652   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF50693   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF50759   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF50847   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF51028   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF51090   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF51170   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF51310   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF51556   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF51617   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF51877   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF51904   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF52027   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF52124   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF52181   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF52364   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF52389   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF52488   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF52615   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF52640   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF52688   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF52789   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF52900   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF53080   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF53301   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF53325   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF53406   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF53589   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF53642   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF53820   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF54008   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF54116   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF54255   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF54321   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF54333   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF54371   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF54427   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF54505   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF54669   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF54780   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF54796   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
+| 2023AF54904   | YDE         | Yaounde | Cameroon  | InTransit    | Ready    | 25-May-2023  |
 +---------------+-------------+---------+-----------+--------------+----------+--------------+
 Consulate: YRV
 +---------------+-------------+---------+-----------+--------------+----------+--------------+

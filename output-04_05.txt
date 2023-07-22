@@ -370,6 +370,15 @@ Consulate: HAV
 |---------------+-------------+--------+-----------+--------------+----------+--------------|
 | 2023SA1141    | HAV         | Havana | Cuba      | Ready        | AP       | 04-Apr-2023  |
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
+Consulate: HRE
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023AF2351    | HRE         | Harare | Zimbabwe  | InTransit    | Ready    | 05-Apr-2023  |
+| 2023AF12301   | HRE         | Harare | Zimbabwe  | InTransit    | Ready    | 05-Apr-2023  |
+| 2023AF33773   | HRE         | Harare | Zimbabwe  | InTransit    | Ready    | 05-Apr-2023  |
+| 2023AF34228   | HRE         | Harare | Zimbabwe  | InTransit    | Ready    | 05-Apr-2023  |
++---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: ISL
 +---------------+-------------+-----------+-----------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City      | Country   | PrevStatus   | Status      | statusDate   |
@@ -942,6 +951,33 @@ Consulate: RID
 |---------------+-------------+--------+--------------+--------------+-------------+--------------|
 | 2023AF19974   | RID         | Riyadh | Saudi Arabia | Ready        | Refused221g | 05-Apr-2023  |
 | 2023AS1219    | RID         | Riyadh | Saudi Arabia | Refused221g  | AP          | 05-Apr-2023  |
+| 2023AS3760    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 05-Apr-2023  |
+| 2023AS3934    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 05-Apr-2023  |
+| 2023AS4071    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 05-Apr-2023  |
+| 2023AS4334    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 05-Apr-2023  |
+| 2023AS4384    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 05-Apr-2023  |
+| 2023AS4479    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 05-Apr-2023  |
+| 2023AS4519    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 05-Apr-2023  |
+| 2023AS4532    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 05-Apr-2023  |
+| 2023AS4570    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 05-Apr-2023  |
+| 2023AS4825    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 05-Apr-2023  |
+| 2023AS4881    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 05-Apr-2023  |
+| 2023AS4899    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 05-Apr-2023  |
+| 2023AS4962    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 05-Apr-2023  |
+| 2023AS5038    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 05-Apr-2023  |
+| 2023AS5083    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 05-Apr-2023  |
+| 2023AS5208    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 05-Apr-2023  |
+| 2023AS5209    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 05-Apr-2023  |
+| 2023AS5306    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 05-Apr-2023  |
+| 2023AS5393    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 05-Apr-2023  |
+| 2023AS5529    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 05-Apr-2023  |
+| 2023AS5642    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 05-Apr-2023  |
+| 2023AS5842    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 05-Apr-2023  |
+| 2023AS5847    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 05-Apr-2023  |
+| 2023AS5855    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 05-Apr-2023  |
+| 2023AS6108    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 05-Apr-2023  |
+| 2023AS6157    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 05-Apr-2023  |
+| 2023AS6196    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready       | 05-Apr-2023  |
 +---------------+-------------+--------+--------------+--------------+-------------+--------------+
 Consulate: RNG
 +---------------+-------------+---------+-----------+--------------+-------------+--------------+

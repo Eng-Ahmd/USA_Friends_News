@@ -689,10 +689,25 @@ Consulate: TNS
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023AF10774   | TNS         | Tunis  | Tunisia   | InTransit    | Ready    | 11-May-2023  |
+| 2023AF29873   | TNS         | Tunis  | Tunisia   | InTransit    | Ready    | 11-May-2023  |
+| 2023AF30441   | TNS         | Tunis  | Tunisia   | InTransit    | Ready    | 11-May-2023  |
+| 2023AF39868   | TNS         | Tunis  | Tunisia   | InTransit    | Ready    | 11-May-2023  |
+| 2023AF44821   | TNS         | Tunis  | Tunisia   | InTransit    | Ready    | 11-May-2023  |
+| 2023AF48596   | TNS         | Tunis  | Tunisia   | InTransit    | Ready    | 11-May-2023  |
 | 2023AF52174   | TNS         | Tunis  | Tunisia   | AP           | Issued   | 11-May-2023  |
 | 2023AF52921   | TNS         | Tunis  | Tunisia   | AP           | Issued   | 11-May-2023  |
 | 2023AF53967   | TNS         | Tunis  | Tunisia   | Refused221g  | AP       | 11-May-2023  |
 | 2023AF56018   | TNS         | Tunis  | Tunisia   | Refused221g  | AP       | 11-May-2023  |
+| 2023AF60505   | TNS         | Tunis  | Tunisia   | InTransit    | Ready    | 11-May-2023  |
+| 2023AF60727   | TNS         | Tunis  | Tunisia   | InTransit    | Ready    | 11-May-2023  |
+| 2023AF60774   | TNS         | Tunis  | Tunisia   | InTransit    | Ready    | 11-May-2023  |
+| 2023AF60859   | TNS         | Tunis  | Tunisia   | InTransit    | Ready    | 11-May-2023  |
+| 2023AF61099   | TNS         | Tunis  | Tunisia   | InTransit    | Ready    | 11-May-2023  |
+| 2023AF61451   | TNS         | Tunis  | Tunisia   | InTransit    | Ready    | 11-May-2023  |
+| 2023AF61871   | TNS         | Tunis  | Tunisia   | InTransit    | Ready    | 11-May-2023  |
+| 2023AF62234   | TNS         | Tunis  | Tunisia   | InTransit    | Ready    | 11-May-2023  |
+| 2023AF62836   | TNS         | Tunis  | Tunisia   | InTransit    | Ready    | 11-May-2023  |
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: ULN
 +---------------+-------------+-------------+-----------+--------------+-------------+--------------+

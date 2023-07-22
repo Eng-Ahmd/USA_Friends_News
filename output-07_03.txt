@@ -16,8 +16,25 @@ Consulate: ADD
 |---------------+-------------+-------------+-----------+--------------+----------+--------------|
 | 2023AF5356    | ADD         | Addis Ababa | Ethiopia  | AP           | Issued   | 03-Jul-2023  |
 | 2023AF11122   | ADD         | Addis Ababa | Ethiopia  | AP           | Issued   | 03-Jul-2023  |
+| 2023AF15424   | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready    | 03-Jul-2023  |
+| 2023AF15644   | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready    | 03-Jul-2023  |
+| 2023AF15888   | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready    | 03-Jul-2023  |
+| 2023AF16003   | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready    | 03-Jul-2023  |
+| 2023AF16831   | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready    | 03-Jul-2023  |
+| 2023AF17503   | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready    | 03-Jul-2023  |
+| 2023AF19262   | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready    | 03-Jul-2023  |
 | 2023AF19672   | ADD         | Addis Ababa | Ethiopia  | AP           | Issued   | 03-Jul-2023  |
+| 2023AF19801   | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready    | 03-Jul-2023  |
 +---------------+-------------+-------------+-----------+--------------+----------+--------------+
+Consulate: AKD
++---------------+-------------+----------+--------------+--------------+----------+--------------+
+| Case Number   | Consulate   | City     | Country      | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+----------+--------------+--------------+----------+--------------|
+| 2023AS2393    | AKD         | Ashgabat | Turkmenistan | InTransit    | Ready    | 03-Jul-2023  |
+| 2023AS5572    | AKD         | Ashgabat | Turkmenistan | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU16584   | AKD         | Ashgabat | Turkmenistan | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU24776   | AKD         | Ashgabat | Turkmenistan | InTransit    | Ready    | 03-Jul-2023  |
++---------------+-------------+----------+--------------+--------------+----------+--------------+
 Consulate: ALG
 +---------------+-------------+---------+-----------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City    | Country   | PrevStatus   | Status      | statusDate   |
@@ -25,13 +42,17 @@ Consulate: ALG
 | 2023AF24719   | ALG         | Algiers | Algeria   | Refused221g  | AP          | 02-Jul-2023  |
 | 2023AF30213   | ALG         | Algiers | Algeria   | Ready        | AP          | 02-Jul-2023  |
 | 2023AF32964   | ALG         | Algiers | Algeria   | Refused221g  | Refused     | 02-Jul-2023  |
+| 2023AF33265   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
 | 2023AF33303   | ALG         | Algiers | Algeria   | Ready        | AP          | 02-Jul-2023  |
 | 2023AF33768   | ALG         | Algiers | Algeria   | Ready        | AP          | 02-Jul-2023  |
 | 2023AF35365   | ALG         | Algiers | Algeria   | Ready        | AP          | 02-Jul-2023  |
+| 2023AF36169   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
 | 2023AF36282   | ALG         | Algiers | Algeria   | Ready        | Refused221g | 02-Jul-2023  |
 | 2023AF36288   | ALG         | Algiers | Algeria   | Ready        | AP          | 02-Jul-2023  |
 | 2023AF36814   | ALG         | Algiers | Algeria   | Ready        | AP          | 02-Jul-2023  |
 | 2023AF37315   | ALG         | Algiers | Algeria   | Ready        | AP          | 02-Jul-2023  |
+| 2023AF37343   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF37438   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
 | 2023AF38284   | ALG         | Algiers | Algeria   | Ready        | AP          | 02-Jul-2023  |
 | 2023AF38852   | ALG         | Algiers | Algeria   | Ready        | AP          | 02-Jul-2023  |
 | 2023AF39051   | ALG         | Algiers | Algeria   | Ready        | Refused     | 02-Jul-2023  |
@@ -39,13 +60,229 @@ Consulate: ALG
 | 2023AF39607   | ALG         | Algiers | Algeria   | Ready        | AP          | 03-Jul-2023  |
 | 2023AF39852   | ALG         | Algiers | Algeria   | Ready        | AP          | 02-Jul-2023  |
 | 2023AF39854   | ALG         | Algiers | Algeria   | Ready        | AP          | 02-Jul-2023  |
+| 2023AF40005   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF40060   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF40077   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF40084   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF40103   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF40193   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF40213   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF40231   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF40251   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF40263   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF40374   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF40376   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF40394   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF40411   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF40423   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF40438   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF40451   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF40515   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF40557   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF40570   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF40574   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF40626   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF40661   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF40685   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF40740   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF40780   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF40796   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF40813   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF40820   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF40827   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF40863   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF40884   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF40895   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF40945   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF40965   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF40992   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF41062   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF41079   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF41083   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF41115   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF41141   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF41146   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF41210   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF41265   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF41267   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF41295   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF41309   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF41314   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF41325   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF41350   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF41360   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF41381   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF41410   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF41422   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF41424   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF41448   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF41462   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF41479   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF41513   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF41536   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF41612   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF41635   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF41669   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF41702   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF41703   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF41709   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF41744   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF41789   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF41870   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF41874   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF41889   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF41908   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF41911   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF41936   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF41950   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF41970   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF42028   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF42029   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF42031   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF42043   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF42073   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF42089   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF42094   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF42111   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF42120   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF42139   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF42150   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF42170   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF42173   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF42202   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF42220   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF42247   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF42256   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF42285   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF42299   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF42368   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF42378   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF42400   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF42410   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF42429   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF42439   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF42465   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF42474   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF42478   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF42488   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF42560   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF42574   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF42617   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF42645   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF42652   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF42673   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF42717   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF42815   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF42820   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF42821   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF42864   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF42929   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF42943   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF42965   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF42968   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF42996   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF43009   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF43048   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF43065   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF43074   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF43195   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF43222   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF43266   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF43282   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF43300   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF43310   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF43361   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF43362   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF43371   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF43386   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF43428   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF43470   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF43474   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF43528   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF43540   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF43582   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF43590   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF43606   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF43617   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF43642   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF43648   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF43667   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF43673   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF43694   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF43734   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF43788   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF43792   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF43801   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF43804   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF43806   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF43815   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF43816   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF43855   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF43902   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF43905   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF43913   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF43959   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF43960   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF43977   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF43978   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF43990   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF44046   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF44074   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF44081   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF44105   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF44126   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF44145   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF44155   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF44168   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF44191   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF44197   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF44218   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF44227   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF44230   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF44284   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF44285   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF44293   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF44297   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF44392   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF44442   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF44457   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF44473   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF44491   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF44499   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF44511   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF44570   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF44614   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF44615   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF44629   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF44652   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF44753   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF44787   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF44795   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF44800   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF44809   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF44811   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF44813   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF44820   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF44849   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF44855   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF44856   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF44867   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF44873   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF44879   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF44892   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF44944   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
+| 2023AF44959   | ALG         | Algiers | Algeria   | InTransit    | Ready       | 02-Jul-2023  |
 +---------------+-------------+---------+-----------+--------------+-------------+--------------+
 Consulate: AMM
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023AF2004    | AMM         | Amman  | Jordan    | InTransit    | Ready    | 02-Jul-2023  |
+| 2023AF24055   | AMM         | Amman  | Jordan    | InTransit    | Ready    | 02-Jul-2023  |
 | 2023AF27033   | AMM         | Amman  | Jordan    | Refused221g  | Issued   | 02-Jul-2023  |
 | 2023AF30557   | AMM         | Amman  | Jordan    | Ready        | Issued   | 03-Jul-2023  |
+| 2023AF35691   | AMM         | Amman  | Jordan    | InTransit    | Ready    | 02-Jul-2023  |
+| 2023AF37381   | AMM         | Amman  | Jordan    | InTransit    | Ready    | 02-Jul-2023  |
 | 2023AS202     | AMM         | Amman  | Jordan    | Ready        | Issued   | 03-Jul-2023  |
 | 2023AS18987   | AMM         | Amman  | Jordan    | Ready        | AP       | 03-Jul-2023  |
 | 2023AS18990   | AMM         | Amman  | Jordan    | Ready        | Issued   | 03-Jul-2023  |
@@ -170,6 +407,7 @@ Consulate: DKR
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status      | statusDate   |
 |---------------+-------------+--------+-----------+--------------+-------------+--------------|
 | 2023AF21289   | DKR         | Dakar  | Senegal   | Ready        | Refused     | 03-Jul-2023  |
+| 2023AF21935   | DKR         | Dakar  | Senegal   | InTransit    | Ready       | 03-Jul-2023  |
 | 2023AF37275   | DKR         | Dakar  | Senegal   | Ready        | Refused221g | 03-Jul-2023  |
 | 2023AF37829   | DKR         | Dakar  | Senegal   | Ready        | Refused221g | 03-Jul-2023  |
 | 2023AF38511   | DKR         | Dakar  | Senegal   | Ready        | Refused221g | 03-Jul-2023  |
@@ -179,6 +417,12 @@ Consulate: DKR
 | 2023AF59082   | DKR         | Dakar  | Senegal   | Ready        | Refused     | 03-Jul-2023  |
 | 2023AF59421   | DKR         | Dakar  | Senegal   | Ready        | Issued      | 03-Jul-2023  |
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
+Consulate: DOH
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023AF47891   | DOH         | Doha   | Qatar     | InTransit    | Ready    | 02-Jul-2023  |
++---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: FRN
 +---------------+-------------+-----------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City      | Country   | PrevStatus   | Status   | statusDate   |
@@ -226,6 +470,9 @@ Consulate: KDU
 +---------------+-------------+-----------+-----------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City      | Country   | PrevStatus   | Status      | statusDate   |
 |---------------+-------------+-----------+-----------+--------------+-------------+--------------|
+| 2023AF45602   | KDU         | Kathmandu | Nepal     | InTransit    | Ready       | 03-Jul-2023  |
+| 2023AF53889   | KDU         | Kathmandu | Nepal     | InTransit    | Ready       | 03-Jul-2023  |
+| 2023AF61809   | KDU         | Kathmandu | Nepal     | InTransit    | Ready       | 03-Jul-2023  |
 | 2023AS17472   | KDU         | Kathmandu | Nepal     | Refused221g  | AP          | 03-Jul-2023  |
 | 2023AS19260   | KDU         | Kathmandu | Nepal     | Ready        | AP          | 03-Jul-2023  |
 | 2023AS20530   | KDU         | Kathmandu | Nepal     | Ready        | Refused221g | 03-Jul-2023  |
@@ -325,6 +572,7 @@ Consulate: PRI
 | Case Number   | Consulate   | City     | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+----------+-----------+--------------+----------+--------------|
 | 2023EU18896   | PRI         | Pristina | Kosovo    | Refused221g  | AP       | 03-Jul-2023  |
+| 2023EU26440   | PRI         | Pristina | Kosovo    | InTransit    | Ready    | 03-Jul-2023  |
 +---------------+-------------+----------+-----------+--------------+----------+--------------+
 Consulate: RID
 +---------------+-------------+--------+--------------+--------------+----------+--------------+
@@ -388,6 +636,118 @@ Consulate: THT
 | 2023EU9080    | THT         | Tashkent | Uzbekistan | Ready        | AP          | 03-Jul-2023  |
 | 2023EU9144    | THT         | Tashkent | Uzbekistan | Ready        | Refused221g | 03-Jul-2023  |
 +---------------+-------------+----------+------------+--------------+-------------+--------------+
+Consulate: TIA
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023EU1030    | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU1599    | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU5200    | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU7778    | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU8528    | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU10603   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU11737   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU13173   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU13852   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU17133   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU19629   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU19880   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU21047   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU22178   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU22512   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU22846   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU22914   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU23055   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU23191   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU23248   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU23361   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU23463   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU23617   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU23685   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU23699   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU23730   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU23919   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU23954   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU24121   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU24169   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU24286   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU24313   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU24349   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU24458   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU24494   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU24553   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU24637   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU24762   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU24881   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU25013   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU25118   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU25182   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU25218   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU25255   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU25330   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU25519   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU25538   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU25631   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU25649   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU25772   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU25813   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU26053   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU26137   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU26164   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU26303   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU26354   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU26377   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU26398   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU26417   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU26459   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU26494   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU26707   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU26740   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU26760   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU26834   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU26862   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU27007   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU27090   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU27142   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU27283   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU27304   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU27327   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU27400   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU27442   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU27498   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU27685   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU27864   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU27876   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU27878   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU27951   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU27999   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU28039   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU28063   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU28096   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU28163   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU28289   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU28409   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU28441   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU28464   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU28474   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU28487   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU28729   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU28809   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU28923   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU28961   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU29088   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU29157   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU29242   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU29464   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU29521   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU29561   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU29687   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU29720   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU29769   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU29793   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU29858   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
+| 2023EU29963   | TIA         | Tirana | Albania   | InTransit    | Ready    | 03-Jul-2023  |
++---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: WRW
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status      | statusDate   |

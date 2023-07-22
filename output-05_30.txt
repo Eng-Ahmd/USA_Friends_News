@@ -170,6 +170,13 @@ Consulate: ATA
 |---------------+-------------+--------+------------+--------------+----------+--------------|
 | 2023EU2101    | ATA         | Almaty | Kazakhstan | Refused221g  | AP       | 30-May-2023  |
 +---------------+-------------+--------+------------+--------------+----------+--------------+
+Consulate: ATH
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023AF35382   | ATH         | Athens | Greece    | InTransit    | Ready    | 30-May-2023  |
+| 2023EU30715   | ATH         | Athens | Greece    | InTransit    | Ready    | 30-May-2023  |
++---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: BCH
 +---------------+-------------+-----------+-----------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City      | Country   | PrevStatus   | Status      | statusDate   |
@@ -509,6 +516,171 @@ Consulate: LND
 | 2023AS12602   | LND         | London | United Kingdom | Ready        | AP       | 30-May-2023  |
 | 2023OC3       | LND         | London | United Kingdom | Refused221g  | Refused  | 30-May-2023  |
 +---------------+-------------+--------+----------------+--------------+----------+--------------+
+Consulate: LOM
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023AF3358    | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF5992    | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF6455    | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF9754    | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF14327   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF16675   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF17501   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF17750   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF18210   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF18332   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF19302   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF20372   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF21414   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF21816   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF21912   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF22010   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF22517   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF22545   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF22748   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF22943   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF23170   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF23875   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF23876   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF24169   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF25071   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF26096   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF26467   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF26829   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF27604   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF27613   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF27999   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF28123   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF30162   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF30530   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF30794   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF30827   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF31031   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF31432   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF31562   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF31966   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF32117   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF32875   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF33381   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF33524   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF33713   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF34217   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF34746   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF35010   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF35140   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF35234   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF35478   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF36244   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF36881   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF37727   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF37908   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF39306   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF39404   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF39568   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF39617   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF39915   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF40338   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF41092   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF41110   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF41172   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF41249   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF41516   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF41594   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF41624   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF41715   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF41779   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF41822   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF42041   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF42123   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF42681   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF42981   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF42983   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF43000   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF43846   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF43917   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF44365   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF44612   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF45033   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF45666   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF45764   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF46045   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF46070   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF46152   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF46547   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF46799   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF47005   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF47469   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF47886   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF48083   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF48390   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF48535   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF48839   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF49091   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF49098   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF49564   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF49654   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF49812   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF49820   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF50063   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF50240   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF50313   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF50402   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF50668   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF50735   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF50854   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF50958   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF51016   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF51030   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF51126   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF51293   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF51334   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF51367   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF51772   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF51803   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF52030   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF52318   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF52416   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF52973   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF53016   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF53087   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF53128   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF53307   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF53357   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF53359   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF53766   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF54062   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF54083   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF54550   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF54561   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF54568   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF54605   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF54660   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF54697   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF54820   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF54920   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF55032   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF55216   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF55258   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF55354   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF55490   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF55603   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF55840   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF55957   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF56070   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF56098   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF56101   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF56167   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF56198   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF56244   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF56496   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF56845   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF56848   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF56993   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF57029   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF57133   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
+| 2023AF57629   | LOM         | Lome   | Togo      | InTransit    | Ready    | 30-May-2023  |
++---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: LUS
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
@@ -651,7 +823,37 @@ Consulate: RID
 +---------------+-------------+--------+--------------+--------------+----------+--------------+
 | Case Number   | Consulate   | City   | Country      | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+--------+--------------+--------------+----------+--------------|
+| 2023AS874     | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 30-May-2023  |
+| 2023AS1101    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 30-May-2023  |
+| 2023AS1444    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 30-May-2023  |
+| 2023AS2001    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 30-May-2023  |
+| 2023AS2342    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 30-May-2023  |
+| 2023AS2580    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 30-May-2023  |
+| 2023AS3120    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 30-May-2023  |
+| 2023AS3176    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 30-May-2023  |
 | 2023AS5642    | RID         | Riyadh | Saudi Arabia | Refused221g  | AP       | 30-May-2023  |
+| 2023AS6295    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 30-May-2023  |
+| 2023AS6352    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 30-May-2023  |
+| 2023AS6405    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 30-May-2023  |
+| 2023AS6740    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 30-May-2023  |
+| 2023AS6961    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 30-May-2023  |
+| 2023AS7195    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 30-May-2023  |
+| 2023AS7270    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 30-May-2023  |
+| 2023AS7358    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 30-May-2023  |
+| 2023AS7469    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 30-May-2023  |
+| 2023AS7605    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 30-May-2023  |
+| 2023AS7649    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 30-May-2023  |
+| 2023AS7659    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 30-May-2023  |
+| 2023AS7788    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 30-May-2023  |
+| 2023AS7821    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 30-May-2023  |
+| 2023AS7978    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 30-May-2023  |
+| 2023AS7990    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 30-May-2023  |
+| 2023AS8023    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 30-May-2023  |
+| 2023AS8056    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 30-May-2023  |
+| 2023AS8404    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 30-May-2023  |
+| 2023AS8570    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 30-May-2023  |
+| 2023AS8784    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 30-May-2023  |
+| 2023AS8863    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 30-May-2023  |
 +---------------+-------------+--------+--------------+--------------+----------+--------------+
 Consulate: RNG
 +---------------+-------------+---------+-----------+--------------+----------+--------------+
