@@ -80,6 +80,24 @@ Consulate: ATA
 +---------------+-------------+--------+------------+--------------+----------+--------------+
 | Case Number   | Consulate   | City   | Country    | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+--------+------------+--------------+----------+--------------|
+| 2023EU190     | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU348     | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU505     | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU742     | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU1102    | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU1294    | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU1404    | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU1499    | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU1517    | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU1577    | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU1650    | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU1702    | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU1772    | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU1934    | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU1960    | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU2068    | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU2100    | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU2368    | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 03-Mar-2023  |
 | 2023EU12547   | ATA         | Almaty | Kazakhstan | AP           | Issued   | 03-Mar-2023  |
 | 2023EU15064   | ATA         | Almaty | Kazakhstan | AP           | Issued   | 03-Mar-2023  |
 | 2023EU15250   | ATA         | Almaty | Kazakhstan | AP           | Issued   | 03-Mar-2023  |
@@ -88,12 +106,74 @@ Consulate: ATA
 | 2023EU15799   | ATA         | Almaty | Kazakhstan | AP           | Issued   | 03-Mar-2023  |
 | 2023EU16123   | ATA         | Almaty | Kazakhstan | AP           | Issued   | 03-Mar-2023  |
 | 2023EU16470   | ATA         | Almaty | Kazakhstan | AP           | Issued   | 03-Mar-2023  |
+| 2023EU17298   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 03-Mar-2023  |
 | 2023EU17449   | ATA         | Almaty | Kazakhstan | AP           | Issued   | 03-Mar-2023  |
+| 2023EU18174   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 03-Mar-2023  |
 | 2023EU18363   | ATA         | Almaty | Kazakhstan | AP           | Issued   | 03-Mar-2023  |
 | 2023EU18469   | ATA         | Almaty | Kazakhstan | Ready        | Issued   | 03-Mar-2023  |
 | 2023EU18593   | ATA         | Almaty | Kazakhstan | AP           | Issued   | 03-Mar-2023  |
+| 2023EU20050   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 03-Mar-2023  |
 | 2023EU20072   | ATA         | Almaty | Kazakhstan | AP           | Issued   | 03-Mar-2023  |
 | 2023EU20384   | ATA         | Almaty | Kazakhstan | AP           | Issued   | 03-Mar-2023  |
+| 2023EU21024   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU21166   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU21258   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU21313   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU21546   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU21657   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU21823   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU21839   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU21960   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU21970   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU22018   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU22183   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU22265   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU22399   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU22431   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU22453   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU22484   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU22571   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU22601   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU22716   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU22793   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU22864   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU22869   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU22885   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU22990   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU23063   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU23236   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU23256   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU23368   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU23504   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU23522   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU23586   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU23661   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU23713   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU23795   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU23869   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU23871   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU23983   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU24070   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU24078   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU24209   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU24298   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU24445   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU24475   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU24514   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU24578   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU24593   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU24618   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU24773   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU25156   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU25176   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU25213   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU25304   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU25314   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU25477   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU25619   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU25737   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU25820   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU25917   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 03-Mar-2023  |
 +---------------+-------------+--------+------------+--------------+----------+--------------+
 Consulate: BCH
 +---------------+-------------+-----------+-----------+--------------+----------+--------------+
@@ -111,10 +191,30 @@ Consulate: BMB
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023AF17394   | BMB         | Mumbai | India     | InTransit    | Ready    | 03-Mar-2023  |
 | 2023AF29206   | BMB         | Mumbai | India     | Ready        | AP       | 03-Mar-2023  |
 | 2023AF31430   | BMB         | Mumbai | India     | Ready        | Issued   | 03-Mar-2023  |
+| 2023AF42224   | BMB         | Mumbai | India     | InTransit    | Ready    | 03-Mar-2023  |
+| 2023AF45812   | BMB         | Mumbai | India     | InTransit    | Ready    | 03-Mar-2023  |
+| 2023AF45903   | BMB         | Mumbai | India     | InTransit    | Ready    | 03-Mar-2023  |
+| 2023AF46646   | BMB         | Mumbai | India     | InTransit    | Ready    | 03-Mar-2023  |
+| 2023AF47233   | BMB         | Mumbai | India     | InTransit    | Ready    | 03-Mar-2023  |
+| 2023AF48872   | BMB         | Mumbai | India     | InTransit    | Ready    | 03-Mar-2023  |
+| 2023AS531     | BMB         | Mumbai | India     | InTransit    | Ready    | 03-Mar-2023  |
 | 2023AS6399    | BMB         | Mumbai | India     | AP           | Issued   | 03-Mar-2023  |
+| 2023AS9482    | BMB         | Mumbai | India     | InTransit    | Ready    | 03-Mar-2023  |
+| 2023AS9743    | BMB         | Mumbai | India     | InTransit    | Ready    | 03-Mar-2023  |
+| 2023AS10074   | BMB         | Mumbai | India     | InTransit    | Ready    | 03-Mar-2023  |
+| 2023AS12004   | BMB         | Mumbai | India     | InTransit    | Ready    | 03-Mar-2023  |
 | 2023AS14692   | BMB         | Mumbai | India     | Ready        | AP       | 03-Mar-2023  |
+| 2023AS15999   | BMB         | Mumbai | India     | InTransit    | Ready    | 03-Mar-2023  |
+| 2023AS16683   | BMB         | Mumbai | India     | InTransit    | Ready    | 03-Mar-2023  |
+| 2023AS17290   | BMB         | Mumbai | India     | InTransit    | Ready    | 03-Mar-2023  |
+| 2023AS17830   | BMB         | Mumbai | India     | InTransit    | Ready    | 03-Mar-2023  |
+| 2023AS18471   | BMB         | Mumbai | India     | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU18396   | BMB         | Mumbai | India     | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU21180   | BMB         | Mumbai | India     | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU23910   | BMB         | Mumbai | India     | InTransit    | Ready    | 03-Mar-2023  |
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: BNK
 +---------------+-------------+---------+-----------+--------------+----------+--------------+
@@ -519,6 +619,29 @@ Consulate: ULN
 |---------------+-------------+-------------+-----------+--------------+----------+--------------|
 | 2023AS1637    | ULN         | Ulaanbaatar | Mongolia  | AP           | Issued   | 03-Mar-2023  |
 +---------------+-------------+-------------+-----------+--------------+----------+--------------+
+Consulate: VNN
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023EU1150    | VNN         | Vienna | Austria   | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU10745   | VNN         | Vienna | Austria   | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU14946   | VNN         | Vienna | Austria   | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU15337   | VNN         | Vienna | Austria   | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU15940   | VNN         | Vienna | Austria   | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU16845   | VNN         | Vienna | Austria   | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU17853   | VNN         | Vienna | Austria   | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU19668   | VNN         | Vienna | Austria   | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU19786   | VNN         | Vienna | Austria   | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU20632   | VNN         | Vienna | Austria   | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU21799   | VNN         | Vienna | Austria   | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU22460   | VNN         | Vienna | Austria   | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU22734   | VNN         | Vienna | Austria   | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU22998   | VNN         | Vienna | Austria   | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU23226   | VNN         | Vienna | Austria   | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU23492   | VNN         | Vienna | Austria   | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU24675   | VNN         | Vienna | Austria   | InTransit    | Ready    | 03-Mar-2023  |
+| 2023EU25161   | VNN         | Vienna | Austria   | InTransit    | Ready    | 03-Mar-2023  |
++---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: VNT
 +---------------+-------------+-----------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City      | Country   | PrevStatus   | Status   | statusDate   |

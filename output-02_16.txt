@@ -7,12 +7,231 @@ Consulate: ABD
 | 2023AF18575   | ABD         | Abu Dhabi | United Arab Emirates | AP           | Issued   | 16-Feb-2023  |
 | 2023AS4867    | ABD         | Abu Dhabi | United Arab Emirates | AP           | Issued   | 16-Feb-2023  |
 +---------------+-------------+-----------+----------------------+--------------+----------+--------------+
+Consulate: ACK
++---------------+-------------+----------+-------------+--------------+----------+--------------+
+| Case Number   | Consulate   | City     | Country     | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+----------+-------------+--------------+----------+--------------|
+| 2023AS15975   | ACK         | Auckland | New Zealand | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AS17323   | ACK         | Auckland | New Zealand | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU26643   | ACK         | Auckland | New Zealand | InTransit    | Ready    | 16-Feb-2023  |
+| 2023OC290     | ACK         | Auckland | New Zealand | InTransit    | Ready    | 16-Feb-2023  |
+| 2023OC585     | ACK         | Auckland | New Zealand | InTransit    | Ready    | 16-Feb-2023  |
+| 2023OC797     | ACK         | Auckland | New Zealand | InTransit    | Ready    | 16-Feb-2023  |
+| 2023OC897     | ACK         | Auckland | New Zealand | InTransit    | Ready    | 16-Feb-2023  |
+| 2023OC1052    | ACK         | Auckland | New Zealand | InTransit    | Ready    | 16-Feb-2023  |
+| 2023OC1083    | ACK         | Auckland | New Zealand | InTransit    | Ready    | 16-Feb-2023  |
++---------------+-------------+----------+-------------+--------------+----------+--------------+
 Consulate: ALG
 +---------------+-------------+---------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City    | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+---------+-----------+--------------+----------+--------------|
+| 2023AF92      | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF364     | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF1744    | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF1778    | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF1865    | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF1875    | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF2301    | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF2578    | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF3220    | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF4100    | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF4426    | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF4692    | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF4831    | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF5964    | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF5970    | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF6125    | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF6703    | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF6937    | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF7144    | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
 | 2023AF7197    | ALG         | Algiers | Algeria   | Ready        | AP       | 16-Feb-2023  |
+| 2023AF7376    | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF9192    | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF9847    | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF10258   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF10735   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF10819   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF11181   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF11827   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF12148   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF12669   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF13366   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF14055   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF14577   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
 | 2023AF14994   | ALG         | Algiers | Algeria   | Ready        | AP       | 16-Feb-2023  |
+| 2023AF18427   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF18429   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF18438   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF18445   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF18460   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF18472   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF18496   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF18501   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF18514   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF18569   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF18586   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF18667   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF18708   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF18709   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF18712   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF18713   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF18723   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF18726   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF18751   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF18755   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF18787   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF18799   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF18813   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF18825   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF18869   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF18870   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF18905   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF18990   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF19010   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF19011   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF19027   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF19037   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF19038   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF19041   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF19047   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF19054   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF19065   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF19082   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF19089   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF19103   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF19151   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF19186   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF19197   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF19251   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF19266   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF19280   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF19284   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF19288   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF19299   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF19330   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF19348   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF19354   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF19377   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF19419   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF19455   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF19516   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF19524   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF19529   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF19550   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF19552   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF19558   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF19582   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF19619   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF19623   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF19675   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF19691   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF19728   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF19732   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF19740   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF19771   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF19780   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF19824   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF19886   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF19911   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF19915   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF19944   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF19962   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF19976   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF19986   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF20007   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF20022   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF20023   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF20047   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF20087   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF20111   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF20114   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF20117   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF20121   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF20137   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF20157   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF20160   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF20184   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF20187   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF20189   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF20194   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF20217   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF20219   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF20225   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF20260   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF20277   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF20298   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF20330   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF20345   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF20346   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF20369   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF20379   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF20413   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF20421   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF20475   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF20516   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF20546   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF20548   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF20558   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF20630   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF20652   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF20662   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF20681   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF20682   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF20685   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF20747   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF20758   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF20786   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF20793   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF20807   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF20826   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF20834   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF20837   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF20855   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF20876   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF20901   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF20940   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF20963   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF20969   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF20974   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF20976   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF20991   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF21001   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF21046   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF21080   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF21086   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF21093   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF21189   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF21239   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF21268   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF21270   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF21283   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF21322   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF21331   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF21348   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF21362   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF21365   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF21375   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF21380   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF21387   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF21404   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF21417   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF21425   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF21468   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF21529   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF21535   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF21554   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF21627   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF21642   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF21654   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF21698   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF21702   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF21733   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF21795   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF21803   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF21831   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF21869   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF21880   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF21913   | ALG         | Algiers | Algeria   | InTransit    | Ready    | 16-Feb-2023  |
 +---------------+-------------+---------+-----------+--------------+----------+--------------+
 Consulate: AMM
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
@@ -60,18 +279,163 @@ Consulate: BNK
 +---------------+-------------+---------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City    | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+---------+-----------+--------------+----------+--------------|
+| 2023AF47942   | BNK         | Bangkok | Thailand  | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AS1432    | BNK         | Bangkok | Thailand  | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AS1438    | BNK         | Bangkok | Thailand  | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AS1655    | BNK         | Bangkok | Thailand  | InTransit    | Ready    | 16-Feb-2023  |
 | 2023AS1767    | BNK         | Bangkok | Thailand  | AP           | Issued   | 16-Feb-2023  |
+| 2023AS2595    | BNK         | Bangkok | Thailand  | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AS2822    | BNK         | Bangkok | Thailand  | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AS3178    | BNK         | Bangkok | Thailand  | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AS3356    | BNK         | Bangkok | Thailand  | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AS3532    | BNK         | Bangkok | Thailand  | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AS5112    | BNK         | Bangkok | Thailand  | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AS5153    | BNK         | Bangkok | Thailand  | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AS5384    | BNK         | Bangkok | Thailand  | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AS5785    | BNK         | Bangkok | Thailand  | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AS6425    | BNK         | Bangkok | Thailand  | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AS6952    | BNK         | Bangkok | Thailand  | InTransit    | Ready    | 16-Feb-2023  |
 | 2023AS7093    | BNK         | Bangkok | Thailand  | Ready        | Issued   | 16-Feb-2023  |
+| 2023AS7499    | BNK         | Bangkok | Thailand  | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AS7558    | BNK         | Bangkok | Thailand  | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AS7643    | BNK         | Bangkok | Thailand  | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AS7908    | BNK         | Bangkok | Thailand  | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AS8791    | BNK         | Bangkok | Thailand  | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AS9020    | BNK         | Bangkok | Thailand  | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AS9194    | BNK         | Bangkok | Thailand  | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AS9604    | BNK         | Bangkok | Thailand  | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AS10090   | BNK         | Bangkok | Thailand  | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AS10242   | BNK         | Bangkok | Thailand  | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AS10411   | BNK         | Bangkok | Thailand  | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AS10796   | BNK         | Bangkok | Thailand  | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AS10858   | BNK         | Bangkok | Thailand  | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AS11126   | BNK         | Bangkok | Thailand  | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AS11408   | BNK         | Bangkok | Thailand  | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AS11686   | BNK         | Bangkok | Thailand  | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AS12065   | BNK         | Bangkok | Thailand  | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AS12167   | BNK         | Bangkok | Thailand  | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AS12922   | BNK         | Bangkok | Thailand  | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AS12999   | BNK         | Bangkok | Thailand  | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AS13427   | BNK         | Bangkok | Thailand  | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AS13647   | BNK         | Bangkok | Thailand  | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AS13873   | BNK         | Bangkok | Thailand  | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AS14140   | BNK         | Bangkok | Thailand  | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AS14229   | BNK         | Bangkok | Thailand  | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AS14932   | BNK         | Bangkok | Thailand  | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AS15001   | BNK         | Bangkok | Thailand  | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AS15358   | BNK         | Bangkok | Thailand  | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AS15718   | BNK         | Bangkok | Thailand  | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AS15719   | BNK         | Bangkok | Thailand  | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AS17004   | BNK         | Bangkok | Thailand  | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AS18293   | BNK         | Bangkok | Thailand  | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU5711    | BNK         | Bangkok | Thailand  | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU13587   | BNK         | Bangkok | Thailand  | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU15158   | BNK         | Bangkok | Thailand  | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU17763   | BNK         | Bangkok | Thailand  | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU24300   | BNK         | Bangkok | Thailand  | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU24398   | BNK         | Bangkok | Thailand  | InTransit    | Ready    | 16-Feb-2023  |
 +---------------+-------------+---------+-----------+--------------+----------+--------------+
+Consulate: BNS
++---------------+-------------+--------------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City         | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------------+-----------+--------------+----------+--------------|
+| 2023SA563     | BNS         | Buenos Aires | Argentina | InTransit    | Ready    | 16-Feb-2023  |
+| 2023SA813     | BNS         | Buenos Aires | Argentina | InTransit    | Ready    | 16-Feb-2023  |
+| 2023SA971     | BNS         | Buenos Aires | Argentina | InTransit    | Ready    | 16-Feb-2023  |
+| 2023SA1154    | BNS         | Buenos Aires | Argentina | InTransit    | Ready    | 16-Feb-2023  |
+| 2023SA1806    | BNS         | Buenos Aires | Argentina | InTransit    | Ready    | 16-Feb-2023  |
+| 2023SA2101    | BNS         | Buenos Aires | Argentina | InTransit    | Ready    | 16-Feb-2023  |
+| 2023SA2225    | BNS         | Buenos Aires | Argentina | InTransit    | Ready    | 16-Feb-2023  |
+| 2023SA2234    | BNS         | Buenos Aires | Argentina | InTransit    | Ready    | 16-Feb-2023  |
++---------------+-------------+--------------+-----------+--------------+----------+--------------+
+Consulate: BTS
++---------------+-------------+------------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City       | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+------------+-----------+--------------+----------+--------------|
+| 2023EU28513   | BTS         | Bratislava | Slovakia  | InTransit    | Ready    | 16-Feb-2023  |
++---------------+-------------+------------+-----------+--------------+----------+--------------+
+Consulate: CHS
++---------------+-------------+----------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City     | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+----------+-----------+--------------+----------+--------------|
+| 2023EU1587    | CHS         | Chisinau | Moldova   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU20032   | CHS         | Chisinau | Moldova   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU20375   | CHS         | Chisinau | Moldova   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU20436   | CHS         | Chisinau | Moldova   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU20457   | CHS         | Chisinau | Moldova   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU20887   | CHS         | Chisinau | Moldova   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU20981   | CHS         | Chisinau | Moldova   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU21142   | CHS         | Chisinau | Moldova   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU21599   | CHS         | Chisinau | Moldova   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU22258   | CHS         | Chisinau | Moldova   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU22293   | CHS         | Chisinau | Moldova   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU22540   | CHS         | Chisinau | Moldova   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU22727   | CHS         | Chisinau | Moldova   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU22897   | CHS         | Chisinau | Moldova   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU22938   | CHS         | Chisinau | Moldova   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU23193   | CHS         | Chisinau | Moldova   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU23194   | CHS         | Chisinau | Moldova   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU23241   | CHS         | Chisinau | Moldova   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU23380   | CHS         | Chisinau | Moldova   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU23581   | CHS         | Chisinau | Moldova   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU23627   | CHS         | Chisinau | Moldova   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU23704   | CHS         | Chisinau | Moldova   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU24351   | CHS         | Chisinau | Moldova   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU24620   | CHS         | Chisinau | Moldova   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU24679   | CHS         | Chisinau | Moldova   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU24709   | CHS         | Chisinau | Moldova   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU24824   | CHS         | Chisinau | Moldova   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU24831   | CHS         | Chisinau | Moldova   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU24852   | CHS         | Chisinau | Moldova   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU25099   | CHS         | Chisinau | Moldova   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU25617   | CHS         | Chisinau | Moldova   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU25832   | CHS         | Chisinau | Moldova   | InTransit    | Ready    | 16-Feb-2023  |
++---------------+-------------+----------+-----------+--------------+----------+--------------+
 Consulate: CLM
 +---------------+-------------+---------+-----------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City    | Country   | PrevStatus   | Status      | statusDate   |
 |---------------+-------------+---------+-----------+--------------+-------------+--------------|
+| 2023AS126     | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS150     | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS349     | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS589     | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS724     | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS786     | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS1028    | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS1333    | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 16-Feb-2023  |
 | 2023AS1459    | CLM         | Colombo | Sri Lanka | Ready        | Refused221g | 16-Feb-2023  |
+| 2023AS1710    | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS2210    | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS2384    | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS2385    | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS2510    | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS3266    | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 16-Feb-2023  |
 | 2023AS3461    | CLM         | Colombo | Sri Lanka | Ready        | Refused221g | 16-Feb-2023  |
 | 2023AS3526    | CLM         | Colombo | Sri Lanka | Ready        | Refused221g | 16-Feb-2023  |
 | 2023AS3594    | CLM         | Colombo | Sri Lanka | Ready        | Refused221g | 16-Feb-2023  |
 | 2023AS3834    | CLM         | Colombo | Sri Lanka | Ready        | Refused221g | 16-Feb-2023  |
+| 2023AS3904    | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS4316    | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS5389    | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS5574    | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS6821    | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS6859    | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS6982    | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS7001    | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS7022    | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS7953    | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS8270    | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS8453    | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS8483    | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS8561    | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS8597    | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS8619    | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS8665    | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS8675    | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS8718    | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS8729    | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS8875    | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS8934    | CLM         | Colombo | Sri Lanka | InTransit    | Ready       | 16-Feb-2023  |
 +---------------+-------------+---------+-----------+--------------+-------------+--------------+
 Consulate: CRO
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
@@ -85,6 +449,7 @@ Consulate: CRO
 | 2023AF4521    | CRO         | Cairo  | Egypt     | AP           | Issued      | 16-Feb-2023  |
 | 2023AF4934    | CRO         | Cairo  | Egypt     | Ready        | AP          | 16-Feb-2023  |
 | 2023AF4937    | CRO         | Cairo  | Egypt     | Ready        | AP          | 16-Feb-2023  |
+| 2023AF5228    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
 | 2023AF5510    | CRO         | Cairo  | Egypt     | AP           | Issued      | 16-Feb-2023  |
 | 2023AF5546    | CRO         | Cairo  | Egypt     | AP           | Issued      | 16-Feb-2023  |
 | 2023AF5556    | CRO         | Cairo  | Egypt     | Ready        | AP          | 16-Feb-2023  |
@@ -95,6 +460,94 @@ Consulate: CRO
 | 2023AF6598    | CRO         | Cairo  | Egypt     | Ready        | AP          | 16-Feb-2023  |
 | 2023AF6622    | CRO         | Cairo  | Egypt     | Ready        | AP          | 16-Feb-2023  |
 | 2023AF6950    | CRO         | Cairo  | Egypt     | Refused221g  | AP          | 16-Feb-2023  |
+| 2023AF7627    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF7643    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF7665    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF7670    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF7698    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF7781    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF7836    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF7879    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF7929    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF8054    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF8065    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF8082    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF8120    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF8125    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF8128    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF8179    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF8475    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF8497    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF8555    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF8619    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF8623    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF8707    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF8781    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF8782    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF8791    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF8896    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF8954    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF8959    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF8992    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF9069    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF9087    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF9091    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF9101    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF9122    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF9123    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF9145    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF9146    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF9190    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF9230    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF9267    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF9274    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF9294    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF9418    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF9424    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF9494    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF9495    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF9502    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF9578    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF9585    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF9590    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF9703    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF9752    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF9755    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF9786    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF9879    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF9891    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF9955    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF10007   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF10032   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF10047   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF10110   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF10124   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF10127   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF10181   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF10222   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF10251   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF10257   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF10434   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF10567   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF10615   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF10641   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF10673   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF10687   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF10727   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF10831   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF10866   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF10933   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF10965   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF11012   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF11022   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF11110   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF11180   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF11183   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF11239   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF11251   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF11265   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF11292   | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS6012    | CRO         | Cairo  | Egypt     | InTransit    | Ready       | 16-Feb-2023  |
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
 Consulate: CSB
 +---------------+-------------+------------+-----------+--------------+----------+--------------+
@@ -112,31 +565,176 @@ Consulate: DHB
 +---------------+-------------+----------+------------+--------------+----------+--------------+
 | Case Number   | Consulate   | City     | Country    | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+----------+------------+--------------+----------+--------------|
+| 2023EU4443    | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
 | 2023EU4489    | DHB         | Dushanbe | Tajikistan | AP           | Issued   | 16-Feb-2023  |
 | 2023EU5585    | DHB         | Dushanbe | Tajikistan | AP           | Issued   | 16-Feb-2023  |
+| 2023EU6199    | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
 | 2023EU6652    | DHB         | Dushanbe | Tajikistan | AP           | Issued   | 16-Feb-2023  |
+| 2023EU6659    | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
 | 2023EU6676    | DHB         | Dushanbe | Tajikistan | AP           | Issued   | 16-Feb-2023  |
 | 2023EU6757    | DHB         | Dushanbe | Tajikistan | AP           | Issued   | 16-Feb-2023  |
 | 2023EU7001    | DHB         | Dushanbe | Tajikistan | AP           | Issued   | 16-Feb-2023  |
 | 2023EU7136    | DHB         | Dushanbe | Tajikistan | AP           | Issued   | 16-Feb-2023  |
 | 2023EU7184    | DHB         | Dushanbe | Tajikistan | AP           | Issued   | 16-Feb-2023  |
 | 2023EU7225    | DHB         | Dushanbe | Tajikistan | AP           | Issued   | 16-Feb-2023  |
+| 2023EU7268    | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU7339    | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU7473    | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU7632    | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU7813    | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU8011    | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU8039    | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
 | 2023EU8323    | DHB         | Dushanbe | Tajikistan | AP           | Issued   | 16-Feb-2023  |
 | 2023EU8923    | DHB         | Dushanbe | Tajikistan | AP           | Issued   | 16-Feb-2023  |
+| 2023EU9175    | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU9225    | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU9455    | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU9537    | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU9546    | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU9587    | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
 | 2023EU9807    | DHB         | Dushanbe | Tajikistan | AP           | Issued   | 16-Feb-2023  |
+| 2023EU10060   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU10148   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
 | 2023EU10193   | DHB         | Dushanbe | Tajikistan | AP           | Issued   | 16-Feb-2023  |
+| 2023EU10249   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU10353   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU10406   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU10413   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU10537   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU10949   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU10978   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU11088   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU11171   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU11326   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU11679   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
 | 2023EU11989   | DHB         | Dushanbe | Tajikistan | AP           | Issued   | 16-Feb-2023  |
+| 2023EU12006   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU12046   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU12190   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU12718   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU12750   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU13116   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
 | 2023EU13226   | DHB         | Dushanbe | Tajikistan | AP           | Issued   | 16-Feb-2023  |
+| 2023EU13236   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU13368   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU13661   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU13673   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU13695   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU13874   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU13972   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU14168   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU14246   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU14334   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU14589   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU14796   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU15009   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU15236   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU15276   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU15324   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU15336   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU15348   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU15352   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU15368   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU15378   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU15451   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU15487   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU15492   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU15550   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU15732   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU15767   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU15778   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU15910   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU16037   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU16077   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU16098   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU16238   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU16415   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU16462   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU16493   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU16516   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU16566   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU16606   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU16769   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU16839   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU16847   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU16898   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU16979   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU16984   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU17018   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU17044   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU17112   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU17293   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU17349   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU17352   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU17419   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU17448   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU17558   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU17565   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU17651   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU17661   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU17688   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU17751   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU17788   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU17809   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU17890   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU17914   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU17943   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU17998   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 16-Feb-2023  |
 +---------------+-------------+----------+------------+--------------+----------+--------------+
 Consulate: DJI
 +---------------+-------------+----------+-----------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City     | Country   | PrevStatus   | Status      | statusDate   |
 |---------------+-------------+----------+-----------+--------------+-------------+--------------|
 | 2023AF223     | DJI         | Djibouti | Djibouti  | Transfer     | Ready       | 16-Feb-2023  |
+| 2023AF5743    | DJI         | Djibouti | Djibouti  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF6643    | DJI         | Djibouti | Djibouti  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF6647    | DJI         | Djibouti | Djibouti  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF7161    | DJI         | Djibouti | Djibouti  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF8997    | DJI         | Djibouti | Djibouti  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF11839   | DJI         | Djibouti | Djibouti  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF12687   | DJI         | Djibouti | Djibouti  | InTransit    | Ready       | 16-Feb-2023  |
 | 2023AF13825   | DJI         | Djibouti | Djibouti  | Transfer     | Ready       | 16-Feb-2023  |
+| 2023AF14183   | DJI         | Djibouti | Djibouti  | InTransit    | Ready       | 16-Feb-2023  |
 | 2023AF16511   | DJI         | Djibouti | Djibouti  | Ready        | Refused221g | 16-Feb-2023  |
 | 2023AF19329   | DJI         | Djibouti | Djibouti  | Ready        | AP          | 16-Feb-2023  |
 | 2023AS3473    | DJI         | Djibouti | Djibouti  | Ready        | AP          | 16-Feb-2023  |
+| 2023AS4390    | DJI         | Djibouti | Djibouti  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS4911    | DJI         | Djibouti | Djibouti  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS5454    | DJI         | Djibouti | Djibouti  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS5632    | DJI         | Djibouti | Djibouti  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS6672    | DJI         | Djibouti | Djibouti  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS6712    | DJI         | Djibouti | Djibouti  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS6799    | DJI         | Djibouti | Djibouti  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS6809    | DJI         | Djibouti | Djibouti  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS6894    | DJI         | Djibouti | Djibouti  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS6985    | DJI         | Djibouti | Djibouti  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS7048    | DJI         | Djibouti | Djibouti  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS7161    | DJI         | Djibouti | Djibouti  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS7183    | DJI         | Djibouti | Djibouti  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS7264    | DJI         | Djibouti | Djibouti  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS7342    | DJI         | Djibouti | Djibouti  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS7379    | DJI         | Djibouti | Djibouti  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS7419    | DJI         | Djibouti | Djibouti  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS7438    | DJI         | Djibouti | Djibouti  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS7445    | DJI         | Djibouti | Djibouti  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS7701    | DJI         | Djibouti | Djibouti  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS7711    | DJI         | Djibouti | Djibouti  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS7719    | DJI         | Djibouti | Djibouti  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS7754    | DJI         | Djibouti | Djibouti  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS7811    | DJI         | Djibouti | Djibouti  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS7927    | DJI         | Djibouti | Djibouti  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS7934    | DJI         | Djibouti | Djibouti  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS7981    | DJI         | Djibouti | Djibouti  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS8193    | DJI         | Djibouti | Djibouti  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS8245    | DJI         | Djibouti | Djibouti  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS8285    | DJI         | Djibouti | Djibouti  | InTransit    | Transfer    | 16-Feb-2023  |
+| 2023AS8608    | DJI         | Djibouti | Djibouti  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS8731    | DJI         | Djibouti | Djibouti  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS8735    | DJI         | Djibouti | Djibouti  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS8782    | DJI         | Djibouti | Djibouti  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS8846    | DJI         | Djibouti | Djibouti  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS8856    | DJI         | Djibouti | Djibouti  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS8999    | DJI         | Djibouti | Djibouti  | InTransit    | Ready       | 16-Feb-2023  |
 +---------------+-------------+----------+-----------+--------------+-------------+--------------+
 Consulate: DKR
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
@@ -150,25 +748,219 @@ Consulate: DRS
 +---------------+-------------+---------------+-----------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City          | Country   | PrevStatus   | Status      | statusDate   |
 |---------------+-------------+---------------+-----------+--------------+-------------+--------------|
+| 2023AF5031    | DRS         | Dar es Salaam | Tanzania  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF6066    | DRS         | Dar es Salaam | Tanzania  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF10558   | DRS         | Dar es Salaam | Tanzania  | InTransit    | Ready       | 16-Feb-2023  |
 | 2023AF13387   | DRS         | Dar es Salaam | Tanzania  | Ready        | AP          | 16-Feb-2023  |
 | 2023AF23371   | DRS         | Dar es Salaam | Tanzania  | Ready        | AP          | 16-Feb-2023  |
 | 2023AF23904   | DRS         | Dar es Salaam | Tanzania  | Ready        | AP          | 16-Feb-2023  |
 | 2023AF25245   | DRS         | Dar es Salaam | Tanzania  | Ready        | AP          | 16-Feb-2023  |
 | 2023AF27122   | DRS         | Dar es Salaam | Tanzania  | Ready        | Refused221g | 16-Feb-2023  |
+| 2023AF42518   | DRS         | Dar es Salaam | Tanzania  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF42817   | DRS         | Dar es Salaam | Tanzania  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF45751   | DRS         | Dar es Salaam | Tanzania  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF47141   | DRS         | Dar es Salaam | Tanzania  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF47439   | DRS         | Dar es Salaam | Tanzania  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF47571   | DRS         | Dar es Salaam | Tanzania  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF47587   | DRS         | Dar es Salaam | Tanzania  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF47808   | DRS         | Dar es Salaam | Tanzania  | InTransit    | Ready       | 16-Feb-2023  |
 +---------------+-------------+---------------+-----------+--------------+-------------+--------------+
 Consulate: FRN
 +---------------+-------------+-----------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City      | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+-----------+-----------+--------------+----------+--------------|
+| 2023AF2369    | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF3389    | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF6739    | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF11015   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF41685   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AS3653    | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AS12271   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AS14751   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AS15501   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU183     | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU298     | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU440     | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU591     | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU923     | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU1209    | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU1217    | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU1678    | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU1786    | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU1929    | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU1996    | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU2263    | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU2813    | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU2951    | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU3018    | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU3250    | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU3679    | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU3764    | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU3863    | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU3902    | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU3918    | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU3929    | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU3958    | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU3961    | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU4040    | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU4089    | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU4139    | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU4172    | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU4324    | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU4343    | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU4346    | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU4885    | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU4917    | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU4923    | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU5068    | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU5271    | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU5299    | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU5505    | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU5649    | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU5804    | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU5985    | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU6254    | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU6428    | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU6570    | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU6874    | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU6898    | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU6943    | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU7207    | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU7221    | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU7559    | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU7599    | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU7875    | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU8023    | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU8143    | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU8201    | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU8225    | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU8392    | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
 | 2023EU8416    | FRN         | Frankfurt | Germany   | Ready        | AP       | 16-Feb-2023  |
+| 2023EU8541    | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU8595    | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU8972    | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU8986    | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU9594    | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU9687    | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU10022   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU10090   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU10488   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU10523   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU10690   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU10902   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU11024   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU11166   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU11207   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU11318   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU11461   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU11595   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU11922   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU11955   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU12421   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU12650   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU13200   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU13482   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU13523   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU13596   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU13671   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU13789   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU13830   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU14002   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU14114   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU14301   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU14355   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
 | 2023EU14370   | FRN         | Frankfurt | Germany   | Ready        | AP       | 16-Feb-2023  |
+| 2023EU14571   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU14740   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU14845   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU14981   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU15000   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU15040   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU15177   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU15209   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU15270   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU15309   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU15319   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU15340   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU15389   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU15443   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU15765   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU15773   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU16043   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU16492   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU17337   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU18014   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU18588   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU19258   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU19989   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU20927   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU21961   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU22607   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU22824   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU22977   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU23082   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU23467   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU23911   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU24010   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU24226   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU24237   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU24315   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU24648   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU24908   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU25246   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU25334   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU25788   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU25851   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 16-Feb-2023  |
 +---------------+-------------+-----------+-----------+--------------+----------+--------------+
 Consulate: FTN
 +---------------+-------------+----------+--------------+--------------+----------+--------------+
 | Case Number   | Consulate   | City     | Country      | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+----------+--------------+--------------+----------+--------------|
 | 2023AF3388    | FTN         | Freetown | Sierra Leone | Ready        | AP       | 16-Feb-2023  |
+| 2023AF19914   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF21131   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 16-Feb-2023  |
 | 2023AF22658   | FTN         | Freetown | Sierra Leone | Ready        | AP       | 16-Feb-2023  |
+| 2023AF23992   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF27800   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF27867   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF29571   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF30485   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF31398   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF32705   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF36594   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF36743   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF36970   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF37925   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF43416   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF43552   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF45001   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF45066   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF45105   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF45234   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF45316   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF45438   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF45510   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF45822   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF46054   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF46102   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF46396   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF46429   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF46794   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF47629   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF48317   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF48682   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF48723   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF48759   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF48821   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF48957   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF49129   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF49413   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF49420   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF49472   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF49519   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF49618   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF49723   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF49876   | FTN         | Freetown | Sierra Leone | InTransit    | Ready    | 16-Feb-2023  |
 +---------------+-------------+----------+--------------+--------------+----------+--------------+
 Consulate: GEO
 +---------------+-------------+------------+-----------+--------------+----------+--------------+
@@ -182,14 +974,54 @@ Consulate: GUZ
 | Case Number   | Consulate   | City      | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+-----------+-----------+--------------+----------+--------------|
 | 2023AF3560    | GUZ         | Guangzhou | China     | Ready        | Issued   | 16-Feb-2023  |
+| 2023AF9041    | GUZ         | Guangzhou | China     | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF12173   | GUZ         | Guangzhou | China     | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF32652   | GUZ         | Guangzhou | China     | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF36146   | GUZ         | Guangzhou | China     | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF36973   | GUZ         | Guangzhou | China     | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF38945   | GUZ         | Guangzhou | China     | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF45304   | GUZ         | Guangzhou | China     | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF45943   | GUZ         | Guangzhou | China     | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF46385   | GUZ         | Guangzhou | China     | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF47768   | GUZ         | Guangzhou | China     | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF48275   | GUZ         | Guangzhou | China     | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU2495    | GUZ         | Guangzhou | China     | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU8271    | GUZ         | Guangzhou | China     | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU17889   | GUZ         | Guangzhou | China     | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU20794   | GUZ         | Guangzhou | China     | InTransit    | Ready    | 16-Feb-2023  |
 +---------------+-------------+-----------+-----------+--------------+----------+--------------+
 Consulate: GYQ
 +---------------+-------------+-----------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City      | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+-----------+-----------+--------------+----------+--------------|
+| 2023EU13073   | GYQ         | Guayaquil | Ecuador   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU23844   | GYQ         | Guayaquil | Ecuador   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023SA38      | GYQ         | Guayaquil | Ecuador   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023SA56      | GYQ         | Guayaquil | Ecuador   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023SA64      | GYQ         | Guayaquil | Ecuador   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023SA94      | GYQ         | Guayaquil | Ecuador   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023SA203     | GYQ         | Guayaquil | Ecuador   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023SA228     | GYQ         | Guayaquil | Ecuador   | InTransit    | Ready    | 16-Feb-2023  |
 | 2023SA467     | GYQ         | Guayaquil | Ecuador   | AP           | Issued   | 16-Feb-2023  |
+| 2023SA496     | GYQ         | Guayaquil | Ecuador   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023SA500     | GYQ         | Guayaquil | Ecuador   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023SA742     | GYQ         | Guayaquil | Ecuador   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023SA762     | GYQ         | Guayaquil | Ecuador   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023SA810     | GYQ         | Guayaquil | Ecuador   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023SA823     | GYQ         | Guayaquil | Ecuador   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023SA873     | GYQ         | Guayaquil | Ecuador   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023SA1157    | GYQ         | Guayaquil | Ecuador   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023SA1183    | GYQ         | Guayaquil | Ecuador   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023SA1202    | GYQ         | Guayaquil | Ecuador   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023SA1258    | GYQ         | Guayaquil | Ecuador   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023SA1314    | GYQ         | Guayaquil | Ecuador   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023SA1326    | GYQ         | Guayaquil | Ecuador   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023SA1463    | GYQ         | Guayaquil | Ecuador   | InTransit    | Ready    | 16-Feb-2023  |
 | 2023SA1481    | GYQ         | Guayaquil | Ecuador   | AP           | Issued   | 16-Feb-2023  |
 | 2023SA1694    | GYQ         | Guayaquil | Ecuador   | AP           | Issued   | 16-Feb-2023  |
+| 2023SA1823    | GYQ         | Guayaquil | Ecuador   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023SA1832    | GYQ         | Guayaquil | Ecuador   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023SA1868    | GYQ         | Guayaquil | Ecuador   | InTransit    | Ready    | 16-Feb-2023  |
 +---------------+-------------+-----------+-----------+--------------+----------+--------------+
 Consulate: HAV
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
@@ -202,11 +1034,24 @@ Consulate: HAV
 | 2023SA1790    | HAV         | Havana | Cuba      | AP           | Issued   | 16-Feb-2023  |
 | 2023SA1793    | HAV         | Havana | Cuba      | AP           | Issued   | 16-Feb-2023  |
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
+Consulate: HNK
++---------------+-------------+-----------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City      | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+-----------+-----------+--------------+----------+--------------|
+| 2023AF26187   | HNK         | Hong Kong | China     | InTransit    | Ready    | 16-Feb-2023  |
+| 2023OC1135    | HNK         | Hong Kong | China     | InTransit    | Ready    | 16-Feb-2023  |
++---------------+-------------+-----------+-----------+--------------+----------+--------------+
 Consulate: HRE
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status      | statusDate   |
 |---------------+-------------+--------+-----------+--------------+-------------+--------------|
 | 2023AF8217    | HRE         | Harare | Zimbabwe  | Ready        | Refused221g | 16-Feb-2023  |
+| 2023AF23690   | HRE         | Harare | Zimbabwe  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF24246   | HRE         | Harare | Zimbabwe  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF27428   | HRE         | Harare | Zimbabwe  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF29979   | HRE         | Harare | Zimbabwe  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF31602   | HRE         | Harare | Zimbabwe  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AF32118   | HRE         | Harare | Zimbabwe  | InTransit    | Ready       | 16-Feb-2023  |
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
 Consulate: ISL
 +---------------+-------------+-----------+-----------+--------------+-------------+--------------+
@@ -214,7 +1059,42 @@ Consulate: ISL
 |---------------+-------------+-----------+-----------+--------------+-------------+--------------|
 | 2023AF20216   | ISL         | Islamabad | Pakistan  | Ready        | Refused221g | 16-Feb-2023  |
 | 2023AS3121    | ISL         | Islamabad | Pakistan  | Refused221g  | AP          | 16-Feb-2023  |
+| 2023AS6321    | ISL         | Islamabad | Pakistan  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS7312    | ISL         | Islamabad | Pakistan  | InTransit    | Ready       | 16-Feb-2023  |
 | 2023AS8748    | ISL         | Islamabad | Pakistan  | Ready        | Refused221g | 16-Feb-2023  |
+| 2023AS9243    | ISL         | Islamabad | Pakistan  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS9968    | ISL         | Islamabad | Pakistan  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS10919   | ISL         | Islamabad | Pakistan  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS11154   | ISL         | Islamabad | Pakistan  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS12177   | ISL         | Islamabad | Pakistan  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS12260   | ISL         | Islamabad | Pakistan  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS12294   | ISL         | Islamabad | Pakistan  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS12425   | ISL         | Islamabad | Pakistan  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS12435   | ISL         | Islamabad | Pakistan  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS12515   | ISL         | Islamabad | Pakistan  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS12632   | ISL         | Islamabad | Pakistan  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS12656   | ISL         | Islamabad | Pakistan  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS13020   | ISL         | Islamabad | Pakistan  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS13052   | ISL         | Islamabad | Pakistan  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS13137   | ISL         | Islamabad | Pakistan  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS13230   | ISL         | Islamabad | Pakistan  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS13256   | ISL         | Islamabad | Pakistan  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS13278   | ISL         | Islamabad | Pakistan  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS13315   | ISL         | Islamabad | Pakistan  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS13333   | ISL         | Islamabad | Pakistan  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS13364   | ISL         | Islamabad | Pakistan  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS13435   | ISL         | Islamabad | Pakistan  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS13450   | ISL         | Islamabad | Pakistan  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS13490   | ISL         | Islamabad | Pakistan  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS13544   | ISL         | Islamabad | Pakistan  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS13606   | ISL         | Islamabad | Pakistan  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS13644   | ISL         | Islamabad | Pakistan  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS13648   | ISL         | Islamabad | Pakistan  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS13848   | ISL         | Islamabad | Pakistan  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS13918   | ISL         | Islamabad | Pakistan  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS13939   | ISL         | Islamabad | Pakistan  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS14035   | ISL         | Islamabad | Pakistan  | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS14076   | ISL         | Islamabad | Pakistan  | InTransit    | Ready       | 16-Feb-2023  |
 +---------------+-------------+-----------+-----------+--------------+-------------+--------------+
 Consulate: JHN
 +---------------+-------------+--------------+--------------+--------------+----------+--------------+
@@ -255,6 +1135,166 @@ Consulate: KDU
 | 2023AS5818    | KDU         | Kathmandu | Nepal     | AP           | Issued   | 16-Feb-2023  |
 | 2023AS5820    | KDU         | Kathmandu | Nepal     | AP           | Issued   | 16-Feb-2023  |
 +---------------+-------------+-----------+-----------+--------------+----------+--------------+
+Consulate: KGL
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023AF380     | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF645     | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF1305    | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF1355    | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF2606    | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF3238    | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF3562    | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF3655    | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF4217    | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF4529    | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF4830    | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF5127    | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF5831    | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF5965    | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF6182    | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF6532    | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF6901    | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF7160    | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF7434    | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF8405    | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF8445    | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF8477    | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF9440    | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF9919    | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF10543   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF11469   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF11925   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF11934   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF13209   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF13435   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF13507   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF13741   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF13778   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF14535   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF14563   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF15089   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF15098   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF15210   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF15611   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF18895   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF20465   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF21521   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF22068   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF23555   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF24503   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF25396   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF26261   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF26835   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF27055   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF27522   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF28751   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF30481   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF30610   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF30619   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF32024   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF32037   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF33573   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF33803   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF33835   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF33894   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF34016   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF34481   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF34629   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF34772   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF35093   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF35240   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF35333   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF35504   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF35579   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF35875   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF35906   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF36296   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF36499   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF36532   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF36537   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF36917   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF36987   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF37081   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF37202   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF37353   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF37588   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF37601   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF37713   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF37728   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF37854   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF38007   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF38097   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF38184   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF38579   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF38808   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF38812   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF38835   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF39207   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF39215   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF39288   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF39291   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF39329   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF39498   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF39760   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF39906   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF40003   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF40127   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF40203   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF40366   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF40715   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF40745   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF41016   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF41104   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF41236   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF41322   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF41326   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF41399   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF41494   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF41661   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF41745   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF41975   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF42182   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF43134   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF43419   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF43503   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF44183   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF44536   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF44604   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF44644   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF44844   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF44845   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF44886   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF44940   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF45499   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF46009   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF46057   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF46146   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF46201   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF46279   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF46608   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF46793   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF46871   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF47017   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF47142   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF47425   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF47529   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF47588   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF47667   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF48064   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF48219   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF48269   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF48436   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF49112   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF49271   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF49307   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF49694   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF49702   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF49825   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF49909   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF49915   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 16-Feb-2023  |
++---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: KIN
 +---------------+-------------+----------+----------------------------------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City     | Country                          | PrevStatus   | Status      | statusDate   |
@@ -272,6 +1312,11 @@ Consulate: KLL
 | Case Number   | Consulate   | City         | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+--------------+-----------+--------------+----------+--------------|
 | 2023AF19897   | KLL         | Kuala Lumpur | Malaysia  | Ready        | AP       | 16-Feb-2023  |
+| 2023AS1178    | KLL         | Kuala Lumpur | Malaysia  | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AS1943    | KLL         | Kuala Lumpur | Malaysia  | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AS3308    | KLL         | Kuala Lumpur | Malaysia  | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AS3341    | KLL         | Kuala Lumpur | Malaysia  | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AS5183    | KLL         | Kuala Lumpur | Malaysia  | InTransit    | Ready    | 16-Feb-2023  |
 +---------------+-------------+--------------+-----------+--------------+----------+--------------+
 Consulate: KWT
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
@@ -281,6 +1326,58 @@ Consulate: KWT
 | 2023AF12114   | KWT         | Kuwait | Kuwait    | AP           | Issued   | 16-Feb-2023  |
 | 2023AF12765   | KWT         | Kuwait | Kuwait    | AP           | Issued   | 16-Feb-2023  |
 | 2023AS5621    | KWT         | Kuwait | Kuwait    | AP           | Issued   | 16-Feb-2023  |
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+Consulate: LIB
++---------------+-------------+------------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City       | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+------------+-----------+--------------+----------+--------------|
+| 2023AF969     | LIB         | Libreville | Gabon     | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF10449   | LIB         | Libreville | Gabon     | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF10757   | LIB         | Libreville | Gabon     | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF21409   | LIB         | Libreville | Gabon     | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF23630   | LIB         | Libreville | Gabon     | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF24256   | LIB         | Libreville | Gabon     | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF38158   | LIB         | Libreville | Gabon     | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF48819   | LIB         | Libreville | Gabon     | InTransit    | Ready    | 16-Feb-2023  |
++---------------+-------------+------------+-----------+--------------+----------+--------------+
+Consulate: LMA
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023SA37      | LMA         | Lima   | Peru      | InTransit    | Ready    | 16-Feb-2023  |
+| 2023SA42      | LMA         | Lima   | Peru      | InTransit    | Ready    | 16-Feb-2023  |
+| 2023SA101     | LMA         | Lima   | Peru      | InTransit    | Ready    | 16-Feb-2023  |
+| 2023SA143     | LMA         | Lima   | Peru      | InTransit    | Ready    | 16-Feb-2023  |
+| 2023SA181     | LMA         | Lima   | Peru      | InTransit    | Ready    | 16-Feb-2023  |
+| 2023SA312     | LMA         | Lima   | Peru      | InTransit    | Ready    | 16-Feb-2023  |
+| 2023SA356     | LMA         | Lima   | Peru      | InTransit    | Ready    | 16-Feb-2023  |
+| 2023SA366     | LMA         | Lima   | Peru      | InTransit    | Ready    | 16-Feb-2023  |
+| 2023SA381     | LMA         | Lima   | Peru      | InTransit    | Ready    | 16-Feb-2023  |
+| 2023SA385     | LMA         | Lima   | Peru      | InTransit    | Ready    | 16-Feb-2023  |
+| 2023SA416     | LMA         | Lima   | Peru      | InTransit    | Ready    | 16-Feb-2023  |
+| 2023SA669     | LMA         | Lima   | Peru      | InTransit    | Ready    | 16-Feb-2023  |
+| 2023SA696     | LMA         | Lima   | Peru      | InTransit    | Ready    | 16-Feb-2023  |
+| 2023SA732     | LMA         | Lima   | Peru      | InTransit    | Ready    | 16-Feb-2023  |
+| 2023SA764     | LMA         | Lima   | Peru      | InTransit    | Ready    | 16-Feb-2023  |
+| 2023SA886     | LMA         | Lima   | Peru      | InTransit    | Ready    | 16-Feb-2023  |
+| 2023SA1015    | LMA         | Lima   | Peru      | InTransit    | Ready    | 16-Feb-2023  |
+| 2023SA1021    | LMA         | Lima   | Peru      | InTransit    | Ready    | 16-Feb-2023  |
+| 2023SA1032    | LMA         | Lima   | Peru      | InTransit    | Ready    | 16-Feb-2023  |
+| 2023SA1066    | LMA         | Lima   | Peru      | InTransit    | Ready    | 16-Feb-2023  |
+| 2023SA1089    | LMA         | Lima   | Peru      | InTransit    | Ready    | 16-Feb-2023  |
+| 2023SA1097    | LMA         | Lima   | Peru      | InTransit    | Ready    | 16-Feb-2023  |
+| 2023SA1119    | LMA         | Lima   | Peru      | InTransit    | Ready    | 16-Feb-2023  |
+| 2023SA1131    | LMA         | Lima   | Peru      | InTransit    | Ready    | 16-Feb-2023  |
+| 2023SA1135    | LMA         | Lima   | Peru      | InTransit    | Ready    | 16-Feb-2023  |
+| 2023SA1156    | LMA         | Lima   | Peru      | InTransit    | Ready    | 16-Feb-2023  |
+| 2023SA1161    | LMA         | Lima   | Peru      | InTransit    | Ready    | 16-Feb-2023  |
+| 2023SA1424    | LMA         | Lima   | Peru      | InTransit    | Ready    | 16-Feb-2023  |
+| 2023SA1524    | LMA         | Lima   | Peru      | InTransit    | Ready    | 16-Feb-2023  |
+| 2023SA1567    | LMA         | Lima   | Peru      | InTransit    | Ready    | 16-Feb-2023  |
+| 2023SA1568    | LMA         | Lima   | Peru      | InTransit    | Ready    | 16-Feb-2023  |
+| 2023SA1825    | LMA         | Lima   | Peru      | InTransit    | Ready    | 16-Feb-2023  |
+| 2023SA1845    | LMA         | Lima   | Peru      | InTransit    | Ready    | 16-Feb-2023  |
+| 2023SA1857    | LMA         | Lima   | Peru      | InTransit    | Ready    | 16-Feb-2023  |
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: LOM
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
@@ -301,6 +1398,51 @@ Consulate: LPZ
 |---------------+-------------+--------+-----------+--------------+----------+--------------|
 | 2023SA1516    | LPZ         | La Paz | Bolivia   | AP           | Issued   | 16-Feb-2023  |
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
+Consulate: LUA
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023AF391     | LUA         | Luanda | Angola    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF506     | LUA         | Luanda | Angola    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF542     | LUA         | Luanda | Angola    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF784     | LUA         | Luanda | Angola    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF1999    | LUA         | Luanda | Angola    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF2108    | LUA         | Luanda | Angola    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF2428    | LUA         | Luanda | Angola    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF3172    | LUA         | Luanda | Angola    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF3257    | LUA         | Luanda | Angola    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF3425    | LUA         | Luanda | Angola    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF3623    | LUA         | Luanda | Angola    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF4115    | LUA         | Luanda | Angola    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF4592    | LUA         | Luanda | Angola    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF4672    | LUA         | Luanda | Angola    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF5708    | LUA         | Luanda | Angola    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF6350    | LUA         | Luanda | Angola    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF6701    | LUA         | Luanda | Angola    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF8294    | LUA         | Luanda | Angola    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF8935    | LUA         | Luanda | Angola    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF10165   | LUA         | Luanda | Angola    | InTransit    | Ready    | 16-Feb-2023  |
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+Consulate: MDD
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023EU2051    | MDD         | Madrid | Spain     | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU2383    | MDD         | Madrid | Spain     | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU9399    | MDD         | Madrid | Spain     | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU10206   | MDD         | Madrid | Spain     | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU12801   | MDD         | Madrid | Spain     | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU13709   | MDD         | Madrid | Spain     | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU16146   | MDD         | Madrid | Spain     | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU19870   | MDD         | Madrid | Spain     | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU25205   | MDD         | Madrid | Spain     | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU26172   | MDD         | Madrid | Spain     | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU26435   | MDD         | Madrid | Spain     | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU26979   | MDD         | Madrid | Spain     | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU27988   | MDD         | Madrid | Spain     | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU28686   | MDD         | Madrid | Spain     | InTransit    | Ready    | 16-Feb-2023  |
+| 2023SA1837    | MDD         | Madrid | Spain     | InTransit    | Ready    | 16-Feb-2023  |
++---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: MNA
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status      | statusDate   |
@@ -309,6 +1451,76 @@ Consulate: MNA
 | 2023AF24530   | MNA         | Manama | Bahrain   | Ready        | Refused221g | 16-Feb-2023  |
 | 2023AF26185   | MNA         | Manama | Bahrain   | Ready        | Refused221g | 16-Feb-2023  |
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
+Consulate: MNG
++---------------+-------------+---------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City    | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+---------+-----------+--------------+----------+--------------|
+| 2023SA171     | MNG         | Managua | Nicaragua | InTransit    | Ready    | 16-Feb-2023  |
+| 2023SA770     | MNG         | Managua | Nicaragua | InTransit    | Ready    | 16-Feb-2023  |
+| 2023SA2137    | MNG         | Managua | Nicaragua | InTransit    | Ready    | 16-Feb-2023  |
+| 2023SA2188    | MNG         | Managua | Nicaragua | InTransit    | Ready    | 16-Feb-2023  |
+| 2023SA2221    | MNG         | Managua | Nicaragua | InTransit    | Ready    | 16-Feb-2023  |
++---------------+-------------+---------+-----------+--------------+----------+--------------+
+Consulate: MNL
++---------------+-------------+--------+-------------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country     | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-------------+--------------+----------+--------------|
+| 2023AF10473   | MNL         | Manila | Philippines | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AS11701   | MNL         | Manila | Philippines | InTransit    | Ready    | 16-Feb-2023  |
++---------------+-------------+--------+-------------+--------------+----------+--------------+
+Consulate: MRV
++---------------+-------------+----------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City     | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+----------+-----------+--------------+----------+--------------|
+| 2023AF3141    | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF9550    | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF13977   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF21470   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF22694   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF22702   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF22720   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF23210   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF23997   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF24460   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF25922   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF26112   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF26172   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF26481   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF27299   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF28012   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF28542   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF29557   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF29850   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF31131   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF31219   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF32456   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF32944   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF33043   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF33738   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF34707   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF35051   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF35361   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF35667   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF35957   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF35973   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF36677   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF37346   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF37738   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF37784   | MRV         | Monrovia | Liberia   | InTransit    | Ready    | 16-Feb-2023  |
++---------------+-------------+----------+-----------+--------------+----------+--------------+
+Consulate: MST
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023AF11169   | MST         | Muscat | Oman      | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF26149   | MST         | Muscat | Oman      | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF43797   | MST         | Muscat | Oman      | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF45024   | MST         | Muscat | Oman      | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF45896   | MST         | Muscat | Oman      | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF48415   | MST         | Muscat | Oman      | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AS4129    | MST         | Muscat | Oman      | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AS18187   | MST         | Muscat | Oman      | InTransit    | Ready    | 16-Feb-2023  |
++---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: NRB
 +---------------+-------------+---------+-----------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City    | Country   | PrevStatus   | Status      | statusDate   |
@@ -1332,7 +2544,15 @@ Consulate: PHP
 +---------------+-------------+------------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City       | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+------------+-----------+--------------+----------+--------------|
+| 2023AF30652   | PHP         | Phnom Penh | Cambodia  | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AS22      | PHP         | Phnom Penh | Cambodia  | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AS975     | PHP         | Phnom Penh | Cambodia  | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AS2206    | PHP         | Phnom Penh | Cambodia  | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AS2660    | PHP         | Phnom Penh | Cambodia  | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AS4713    | PHP         | Phnom Penh | Cambodia  | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AS10719   | PHP         | Phnom Penh | Cambodia  | InTransit    | Ready    | 16-Feb-2023  |
 | 2023AS11174   | PHP         | Phnom Penh | Cambodia  | Ready        | Refused  | 16-Feb-2023  |
+| 2023AS15773   | PHP         | Phnom Penh | Cambodia  | InTransit    | Ready    | 16-Feb-2023  |
 +---------------+-------------+------------+-----------+--------------+----------+--------------+
 Consulate: PRG
 +---------------+-------------+--------+----------------+--------------+----------+--------------+
@@ -1340,6 +2560,46 @@ Consulate: PRG
 |---------------+-------------+--------+----------------+--------------+----------+--------------|
 | 2023EU4597    | PRG         | Prague | Czech Republic | AP           | Issued   | 16-Feb-2023  |
 +---------------+-------------+--------+----------------+--------------+----------+--------------+
+Consulate: PRS
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023AF25391   | PRS         | Paris  | France    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF26146   | PRS         | Paris  | France    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF26524   | PRS         | Paris  | France    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF31597   | PRS         | Paris  | France    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF35089   | PRS         | Paris  | France    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF36472   | PRS         | Paris  | France    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF39305   | PRS         | Paris  | France    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF41403   | PRS         | Paris  | France    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF41918   | PRS         | Paris  | France    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF43591   | PRS         | Paris  | France    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF43682   | PRS         | Paris  | France    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AS1714    | PRS         | Paris  | France    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AS6543    | PRS         | Paris  | France    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU5143    | PRS         | Paris  | France    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU15199   | PRS         | Paris  | France    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU16272   | PRS         | Paris  | France    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU16524   | PRS         | Paris  | France    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU17641   | PRS         | Paris  | France    | InTransit    | Ready    | 16-Feb-2023  |
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+Consulate: RDJ
++---------------+-------------+----------------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City           | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+----------------+-----------+--------------+----------+--------------|
+| 2023AF48142   | RDJ         | Rio De Janeiro | Brazil    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AS2081    | RDJ         | Rio De Janeiro | Brazil    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023SA2136    | RDJ         | Rio De Janeiro | Brazil    | InTransit    | Ready    | 16-Feb-2023  |
++---------------+-------------+----------------+-----------+--------------+----------+--------------+
+Consulate: RGA
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023EU998     | RGA         | Riga   | Latvia    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU18323   | RGA         | Riga   | Latvia    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU26184   | RGA         | Riga   | Latvia    | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU27388   | RGA         | Riga   | Latvia    | InTransit    | Ready    | 16-Feb-2023  |
++---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: RID
 +---------------+-------------+--------+--------------+--------------+----------+--------------+
 | Case Number   | Consulate   | City   | Country      | PrevStatus   | Status   | statusDate   |
@@ -1352,29 +2612,85 @@ Consulate: RID
 | 2023AF10889   | RID         | Riyadh | Saudi Arabia | Ready        | AP       | 16-Feb-2023  |
 | 2023AF11238   | RID         | Riyadh | Saudi Arabia | Ready        | AP       | 16-Feb-2023  |
 | 2023AF11266   | RID         | Riyadh | Saudi Arabia | Ready        | AP       | 16-Feb-2023  |
+| 2023AF16596   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF17180   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF17382   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF18088   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF18117   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF18223   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF19784   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AF19974   | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Feb-2023  |
 | 2023AF32937   | RID         | Riyadh | Saudi Arabia | Transfer     | AP       | 16-Feb-2023  |
+| 2023AS3361    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AS3362    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AS3412    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AS3420    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AS3520    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AS3602    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AS3721    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AS3769    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AS3825    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AS3829    | RID         | Riyadh | Saudi Arabia | InTransit    | Ready    | 16-Feb-2023  |
 +---------------+-------------+--------+--------------+--------------+----------+--------------+
 Consulate: RNG
 +---------------+-------------+---------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City    | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+---------+-----------+--------------+----------+--------------|
+| 2023AS1414    | RNG         | Rangoon | Burma     | InTransit    | Ready    | 16-Feb-2023  |
 | 2023AS3157    | RNG         | Rangoon | Burma     | AP           | Issued   | 16-Feb-2023  |
+| 2023AS3380    | RNG         | Rangoon | Burma     | InTransit    | Ready    | 16-Feb-2023  |
 | 2023AS5151    | RNG         | Rangoon | Burma     | AP           | Issued   | 16-Feb-2023  |
 | 2023AS6703    | RNG         | Rangoon | Burma     | AP           | Issued   | 16-Feb-2023  |
 | 2023AS8017    | RNG         | Rangoon | Burma     | AP           | Issued   | 16-Feb-2023  |
+| 2023AS10359   | RNG         | Rangoon | Burma     | InTransit    | Ready    | 16-Feb-2023  |
 | 2023AS13762   | RNG         | Rangoon | Burma     | AP           | Issued   | 16-Feb-2023  |
+| 2023AS15321   | RNG         | Rangoon | Burma     | InTransit    | Ready    | 16-Feb-2023  |
+| 2023AS15853   | RNG         | Rangoon | Burma     | InTransit    | Ready    | 16-Feb-2023  |
 +---------------+-------------+---------+-----------+--------------+----------+--------------+
 Consulate: SEO
 +---------------+-------------+--------+-------------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City   | Country     | PrevStatus   | Status      | statusDate   |
 |---------------+-------------+--------+-------------+--------------+-------------+--------------|
+| 2023AF25319   | SEO         | Seoul  | South Korea | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS957     | SEO         | Seoul  | South Korea | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS10313   | SEO         | Seoul  | South Korea | InTransit    | Ready       | 16-Feb-2023  |
 | 2023AS12472   | SEO         | Seoul  | South Korea | Ready        | Refused221g | 16-Feb-2023  |
+| 2023AS14930   | SEO         | Seoul  | South Korea | InTransit    | Ready       | 16-Feb-2023  |
+| 2023AS18005   | SEO         | Seoul  | South Korea | InTransit    | Ready       | 16-Feb-2023  |
+| 2023EU20801   | SEO         | Seoul  | South Korea | InTransit    | Ready       | 16-Feb-2023  |
 +---------------+-------------+--------+-------------+--------------+-------------+--------------+
 Consulate: SKO
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+--------+-----------+--------------+----------+--------------|
 | 2023EU5741    | SKO         | Skopje | Macedonia | AP           | Issued   | 16-Feb-2023  |
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+Consulate: SNJ
++---------------+-------------+-----------+------------+--------------+----------+--------------+
+| Case Number   | Consulate   | City      | Country    | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+-----------+------------+--------------+----------+--------------|
+| 2023SA1905    | SNJ         | San José | Costa Rica | InTransit    | Ready    | 16-Feb-2023  |
+| 2023SA1985    | SNJ         | San José | Costa Rica | InTransit    | Ready    | 16-Feb-2023  |
+| 2023SA2129    | SNJ         | San José | Costa Rica | InTransit    | Ready    | 16-Feb-2023  |
++---------------+-------------+-----------+------------+--------------+----------+--------------+
+Consulate: SOF
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023EU1863    | SOF         | Sofia  | Bulgaria  | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU5708    | SOF         | Sofia  | Bulgaria  | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU7823    | SOF         | Sofia  | Bulgaria  | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU9839    | SOF         | Sofia  | Bulgaria  | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU11056   | SOF         | Sofia  | Bulgaria  | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU13923   | SOF         | Sofia  | Bulgaria  | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU15283   | SOF         | Sofia  | Bulgaria  | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU21571   | SOF         | Sofia  | Bulgaria  | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU23300   | SOF         | Sofia  | Bulgaria  | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU24072   | SOF         | Sofia  | Bulgaria  | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU24509   | SOF         | Sofia  | Bulgaria  | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU25489   | SOF         | Sofia  | Bulgaria  | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU26057   | SOF         | Sofia  | Bulgaria  | InTransit    | Ready    | 16-Feb-2023  |
+| 2023EU26936   | SOF         | Sofia  | Bulgaria  | InTransit    | Ready    | 16-Feb-2023  |
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: SUV
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+

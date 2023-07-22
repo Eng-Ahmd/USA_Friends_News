@@ -143,7 +143,36 @@ Consulate: BGH
 +---------------+-------------+---------+-----------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City    | Country   | PrevStatus   | Status      | statusDate   |
 |---------------+-------------+---------+-----------+--------------+-------------+--------------|
+| 2023AS1397    | BGH         | Baghdad | Iraq      | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AS1959    | BGH         | Baghdad | Iraq      | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AS2353    | BGH         | Baghdad | Iraq      | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AS4991    | BGH         | Baghdad | Iraq      | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AS5576    | BGH         | Baghdad | Iraq      | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AS5869    | BGH         | Baghdad | Iraq      | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AS6732    | BGH         | Baghdad | Iraq      | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AS6968    | BGH         | Baghdad | Iraq      | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AS7672    | BGH         | Baghdad | Iraq      | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AS8156    | BGH         | Baghdad | Iraq      | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AS8768    | BGH         | Baghdad | Iraq      | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AS10657   | BGH         | Baghdad | Iraq      | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AS10756   | BGH         | Baghdad | Iraq      | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AS10965   | BGH         | Baghdad | Iraq      | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AS11142   | BGH         | Baghdad | Iraq      | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AS11753   | BGH         | Baghdad | Iraq      | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AS12392   | BGH         | Baghdad | Iraq      | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AS12619   | BGH         | Baghdad | Iraq      | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AS13012   | BGH         | Baghdad | Iraq      | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AS13096   | BGH         | Baghdad | Iraq      | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AS13110   | BGH         | Baghdad | Iraq      | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AS13727   | BGH         | Baghdad | Iraq      | InTransit    | Ready       | 21-Feb-2023  |
 | 2023AS13729   | BGH         | Baghdad | Iraq      | Ready        | Refused221g | 20-Feb-2023  |
+| 2023AS14480   | BGH         | Baghdad | Iraq      | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AS14852   | BGH         | Baghdad | Iraq      | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AS15835   | BGH         | Baghdad | Iraq      | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AS15852   | BGH         | Baghdad | Iraq      | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AS17360   | BGH         | Baghdad | Iraq      | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AS17377   | BGH         | Baghdad | Iraq      | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AS18171   | BGH         | Baghdad | Iraq      | InTransit    | Ready       | 21-Feb-2023  |
 +---------------+-------------+---------+-----------+--------------+-------------+--------------+
 Consulate: BKK
 +---------------+-------------+---------+------------+--------------+-------------+--------------+
@@ -190,7 +219,17 @@ Consulate: BRS
 +---------------+-------------+----------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City     | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+----------+-----------+--------------+----------+--------------|
+| 2023AF3652    | BRS         | Brussels | Belgium   | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AF14326   | BRS         | Brussels | Belgium   | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AF25852   | BRS         | Brussels | Belgium   | InTransit    | Ready    | 21-Feb-2023  |
 | 2023AF28988   | BRS         | Brussels | Belgium   | Ready        | AP       | 21-Feb-2023  |
+| 2023AF46372   | BRS         | Brussels | Belgium   | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS7206    | BRS         | Brussels | Belgium   | InTransit    | Ready    | 21-Feb-2023  |
+| 2023EU4102    | BRS         | Brussels | Belgium   | InTransit    | Ready    | 21-Feb-2023  |
+| 2023EU7151    | BRS         | Brussels | Belgium   | InTransit    | Ready    | 21-Feb-2023  |
+| 2023EU11734   | BRS         | Brussels | Belgium   | InTransit    | Ready    | 21-Feb-2023  |
+| 2023EU20815   | BRS         | Brussels | Belgium   | InTransit    | Ready    | 21-Feb-2023  |
+| 2023EU23768   | BRS         | Brussels | Belgium   | InTransit    | Ready    | 21-Feb-2023  |
 +---------------+-------------+----------+-----------+--------------+----------+--------------+
 Consulate: CLM
 +---------------+-------------+---------+-----------+--------------+-------------+--------------+
@@ -204,6 +243,26 @@ Consulate: CLM
 | 2023AS8062    | CLM         | Colombo | Sri Lanka | Ready        | Refused221g | 21-Feb-2023  |
 | 2023AS8123    | CLM         | Colombo | Sri Lanka | Ready        | Refused221g | 21-Feb-2023  |
 +---------------+-------------+---------+-----------+--------------+-------------+--------------+
+Consulate: COT
++---------------+-------------+---------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City    | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+---------+-----------+--------------+----------+--------------|
+| 2023AF1664    | COT         | Cotonou | Benin     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AF5025    | COT         | Cotonou | Benin     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AF8355    | COT         | Cotonou | Benin     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AF18953   | COT         | Cotonou | Benin     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AF21054   | COT         | Cotonou | Benin     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AF23021   | COT         | Cotonou | Benin     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AF29943   | COT         | Cotonou | Benin     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AF30437   | COT         | Cotonou | Benin     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AF30533   | COT         | Cotonou | Benin     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AF31210   | COT         | Cotonou | Benin     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AF31759   | COT         | Cotonou | Benin     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AF32033   | COT         | Cotonou | Benin     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AF33609   | COT         | Cotonou | Benin     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AF33695   | COT         | Cotonou | Benin     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AF33761   | COT         | Cotonou | Benin     | InTransit    | Ready    | 21-Feb-2023  |
++---------------+-------------+---------+-----------+--------------+----------+--------------+
 Consulate: CRO
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status      | statusDate   |
@@ -245,8 +304,168 @@ Consulate: CSB
 | 2023AF14910   | CSB         | Casablanca | Morocco   | Ready        | AP          | 21-Feb-2023  |
 | 2023AF15291   | CSB         | Casablanca | Morocco   | AP           | Issued      | 21-Feb-2023  |
 | 2023AF15295   | CSB         | Casablanca | Morocco   | Ready        | AP          | 21-Feb-2023  |
+| 2023AF16836   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
 | 2023AF17648   | CSB         | Casablanca | Morocco   | AP           | Issued      | 21-Feb-2023  |
+| 2023AF17948   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
 | 2023AF18767   | CSB         | Casablanca | Morocco   | AP           | Issued      | 21-Feb-2023  |
+| 2023AF19045   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF20057   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF20300   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF20586   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF20841   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF21004   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF21157   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF21575   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF21995   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF22178   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF22419   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF22678   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF22692   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF22698   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF22716   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF22736   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF22798   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF22801   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF22839   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF22867   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF22913   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF22931   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF22935   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF22951   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF22956   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF22983   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF23006   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF23029   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF23111   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF23123   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF23177   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF23193   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF23203   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF23208   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF23259   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF23330   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF23331   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF23332   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF23380   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF23407   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF23443   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF23445   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF23454   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF23475   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF23480   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF23495   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF23502   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF23519   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF23544   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF23552   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF23556   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF23566   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF23604   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF23614   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF23622   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF23657   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF23728   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF23736   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF23762   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF23782   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF23801   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF23850   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF23897   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF23928   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF23940   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF23989   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF24094   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF24101   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF24123   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF24126   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF24163   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF24201   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF24214   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF24220   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF24336   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF24362   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF24382   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF24386   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF24417   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF24432   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF24463   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF24495   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF24532   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF24545   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF24546   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF24588   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF24640   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF24708   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF24727   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF24755   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF24768   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF24782   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF24794   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF24801   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF24825   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF24838   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF24841   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF24879   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF24933   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF24962   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF24963   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF24967   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF24994   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF24997   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF25051   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF25092   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF25130   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF25140   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF25152   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF25187   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF25272   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF25289   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF25291   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF25313   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF25330   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF25334   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF25351   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF25374   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF25376   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF25392   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF25401   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF25419   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF25463   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF25467   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF25511   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF25527   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF25566   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF25581   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF25661   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF25683   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF25685   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF25686   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF25696   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF25746   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF25827   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF25851   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF25854   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF25866   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF25906   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF25926   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF25982   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF26018   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF26021   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF26045   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF26088   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF26090   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF26107   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF26130   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF26179   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF26204   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF26216   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF26218   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF26299   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF26337   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF26364   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF26372   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF26415   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
+| 2023AF26450   | CSB         | Casablanca | Morocco   | InTransit    | Ready       | 21-Feb-2023  |
 +---------------+-------------+------------+-----------+--------------+-------------+--------------+
 Consulate: DJI
 +---------------+-------------+----------+-----------+--------------+-------------+--------------+
@@ -321,10 +540,485 @@ Consulate: KDU
 +---------------+-------------+-----------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City      | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+-----------+-----------+--------------+----------+--------------|
+| 2023AS257     | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS468     | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS619     | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS1190    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS1837    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS1840    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS2623    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS2699    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS2891    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS2935    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS2949    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS3009    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS3277    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS3301    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS3512    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS3585    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS3995    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
 | 2023AS4161    | KDU         | Kathmandu | Nepal     | Refused221g  | AP       | 21-Feb-2023  |
+| 2023AS4182    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS4265    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS4345    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS4484    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
 | 2023AS4644    | KDU         | Kathmandu | Nepal     | Refused221g  | AP       | 21-Feb-2023  |
+| 2023AS4742    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS4785    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
 | 2023AS4820    | KDU         | Kathmandu | Nepal     | Refused221g  | AP       | 21-Feb-2023  |
+| 2023AS4835    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS5028    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS5260    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
 | 2023AS5555    | KDU         | Kathmandu | Nepal     | Refused221g  | AP       | 21-Feb-2023  |
+| 2023AS5669    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS5742    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS5907    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS5911    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS6001    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS6195    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS6212    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS6662    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS6665    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS6741    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS6806    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS7192    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS7344    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS7417    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS7519    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS7586    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8026    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8028    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8032    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8038    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8039    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8045    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8051    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8064    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8094    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8106    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8128    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8130    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8131    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8145    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8150    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8155    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8163    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8167    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8168    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8195    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8209    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8214    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8216    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8218    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8225    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8269    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8272    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8274    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8278    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8280    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8294    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8295    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8296    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8323    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8335    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8340    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8341    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8346    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8352    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8354    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8358    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8378    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8394    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8405    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8415    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8417    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8431    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8434    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8437    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8438    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8452    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8464    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8468    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8480    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8491    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8492    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8505    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8526    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8546    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8547    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8549    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8553    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8559    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8563    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8578    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8584    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8592    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8593    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8594    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8595    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8598    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8642    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8667    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8684    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8716    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8717    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8739    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8759    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8763    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8764    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8770    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8771    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8788    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8800    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8801    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8804    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8850    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8883    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8900    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8912    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8920    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8922    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8931    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8948    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8980    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8984    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8986    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS8997    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9012    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9013    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9039    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9040    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9046    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9049    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9051    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9056    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9065    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9074    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9081    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9085    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9101    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9102    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9103    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9109    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9121    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9123    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9128    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9149    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9161    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9172    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9213    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9223    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9254    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9266    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9270    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9287    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9300    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9306    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9310    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9327    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9338    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9359    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9369    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9375    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9393    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9395    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9409    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9444    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9445    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9451    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9492    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9493    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9497    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9500    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9511    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9515    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9517    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9560    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9574    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9575    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9598    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9605    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9622    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9625    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9636    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9653    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9674    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9677    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9689    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9690    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9704    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9711    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9731    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9732    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9741    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9751    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9752    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9759    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9764    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9772    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9773    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9784    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9787    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9796    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9806    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9831    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9843    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9853    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9863    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9875    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9890    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9918    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9946    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9958    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9972    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS9974    | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10005   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10006   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10016   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10017   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10019   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10087   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10095   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10098   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10108   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10110   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10111   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10118   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10128   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10135   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10142   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10144   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10146   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10162   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10169   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10172   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10177   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10179   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10180   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10196   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10204   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10212   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10222   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10228   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10235   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10251   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10267   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10308   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10309   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10312   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10348   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10349   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10360   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10367   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10389   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10404   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10405   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10409   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10423   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10434   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10444   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10478   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10488   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10489   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10509   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10513   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10543   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10561   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10575   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10583   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10597   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10599   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10609   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10612   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10614   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10624   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10661   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10672   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10686   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10688   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10690   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10700   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10713   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10718   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10739   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10755   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10770   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10790   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10794   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10803   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10808   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10813   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10835   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10837   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10842   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10847   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10869   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10885   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10893   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10913   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10928   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10950   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10958   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10961   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10967   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10973   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS10978   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11004   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11028   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11034   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11042   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11044   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11052   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11055   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11057   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11063   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11065   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11071   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11078   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11081   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11098   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11105   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11110   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11137   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11150   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11157   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11158   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11167   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11168   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11187   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11195   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11209   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11221   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11247   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11251   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11252   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11264   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11277   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11294   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11301   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11303   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11326   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11328   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11331   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11350   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11355   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11357   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11362   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11383   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11392   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11411   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11419   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11434   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11439   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11467   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11503   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11524   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11545   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11551   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11569   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11588   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11612   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11617   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11626   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11627   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11630   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11648   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11664   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11667   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11675   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11677   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11680   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11690   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11691   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11697   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11705   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11732   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11743   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11751   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11757   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11759   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11760   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11776   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11790   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11792   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11800   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11804   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11810   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11829   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11846   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11852   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11858   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11861   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11862   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11867   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11870   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11889   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11899   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11919   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11923   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11924   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11930   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11931   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11941   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11955   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11963   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11970   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11973   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS11979   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS12001   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS12002   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS12023   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS12042   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS12056   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS12058   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS12064   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS12066   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS12073   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS12091   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS12094   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS12098   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS12103   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS12150   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS12151   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS12187   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS12196   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS12220   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS12222   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS12224   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS12227   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS12237   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS12239   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS12274   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS12277   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS12300   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS12311   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS12313   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS12347   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS12363   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS12369   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS12375   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS12379   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS12387   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS12402   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS12409   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS12422   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS12444   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS12454   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS12459   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS12466   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS12475   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS12479   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS12496   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS12499   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS12503   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS12513   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS12518   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS12525   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS12567   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS12571   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS12575   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS12576   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS12578   | KDU         | Kathmandu | Nepal     | InTransit    | Ready    | 21-Feb-2023  |
 +---------------+-------------+-----------+-----------+--------------+----------+--------------+
 Consulate: KIN
 +---------------+-------------+----------+----------------------------------+--------------+----------+--------------+
@@ -356,7 +1050,10 @@ Consulate: KWT
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status      | statusDate   |
 |---------------+-------------+--------+-----------+--------------+-------------+--------------|
+| 2023AF1819    | KWT         | Kuwait | Kuwait    | InTransit    | Ready       | 20-Feb-2023  |
 | 2023AF11917   | KWT         | Kuwait | Kuwait    | Refused221g  | Ready       | 21-Feb-2023  |
+| 2023AF28448   | KWT         | Kuwait | Kuwait    | InTransit    | Ready       | 20-Feb-2023  |
+| 2023AS6708    | KWT         | Kuwait | Kuwait    | InTransit    | Ready       | 20-Feb-2023  |
 | 2023AS14232   | KWT         | Kuwait | Kuwait    | Ready        | Refused221g | 21-Feb-2023  |
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
 Consulate: LIL
@@ -819,6 +1516,14 @@ Consulate: None
 | 2023EU29673   | None        |        |           | NVC          | InTransit | None         |
 | 2023OC264     | None        |        |           | NVC          | InTransit | None         |
 +---------------+-------------+--------+-----------+--------------+-----------+--------------+
+Consulate: PIA
++---------------+-------------+--------+------------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country    | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+------------+--------------+----------+--------------|
+| 2023AF21062   | PIA         | Praia  | Cape Verde | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AF43512   | PIA         | Praia  | Cape Verde | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AF48546   | PIA         | Praia  | Cape Verde | InTransit    | Ready    | 21-Feb-2023  |
++---------------+-------------+--------+------------+--------------+----------+--------------+
 Consulate: PRG
 +---------------+-------------+--------+----------------+--------------+----------+--------------+
 | Case Number   | Consulate   | City   | Country        | PrevStatus   | Status   | statusDate   |
@@ -847,6 +1552,47 @@ Consulate: RID
 | 2023AF32937   | RID         | Riyadh | Saudi Arabia | AP           | Issued   | 21-Feb-2023  |
 | 2023AS8285    | RID         | Riyadh | Saudi Arabia | Transfer     | Ready    | 21-Feb-2023  |
 +---------------+-------------+--------+--------------+--------------+----------+--------------+
+Consulate: SGP
++---------------+-------------+-----------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City      | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+-----------+-----------+--------------+----------+--------------|
+| 2023AS2687    | SGP         | Singapore | Singapore | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS3423    | SGP         | Singapore | Singapore | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS3887    | SGP         | Singapore | Singapore | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS14526   | SGP         | Singapore | Singapore | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS15688   | SGP         | Singapore | Singapore | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AS16384   | SGP         | Singapore | Singapore | InTransit    | Ready    | 21-Feb-2023  |
++---------------+-------------+-----------+-----------+--------------+----------+--------------+
+Consulate: SKO
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023EU350     | SKO         | Skopje | Macedonia | InTransit    | Ready    | 21-Feb-2023  |
+| 2023EU1172    | SKO         | Skopje | Macedonia | InTransit    | Ready    | 21-Feb-2023  |
+| 2023EU2761    | SKO         | Skopje | Macedonia | InTransit    | Ready    | 21-Feb-2023  |
+| 2023EU3895    | SKO         | Skopje | Macedonia | InTransit    | Ready    | 21-Feb-2023  |
+| 2023EU6645    | SKO         | Skopje | Macedonia | InTransit    | Ready    | 21-Feb-2023  |
+| 2023EU8334    | SKO         | Skopje | Macedonia | InTransit    | Ready    | 21-Feb-2023  |
+| 2023EU9904    | SKO         | Skopje | Macedonia | InTransit    | Ready    | 21-Feb-2023  |
+| 2023EU10602   | SKO         | Skopje | Macedonia | InTransit    | Ready    | 21-Feb-2023  |
+| 2023EU11539   | SKO         | Skopje | Macedonia | InTransit    | Ready    | 21-Feb-2023  |
+| 2023EU13643   | SKO         | Skopje | Macedonia | InTransit    | Ready    | 21-Feb-2023  |
+| 2023EU19319   | SKO         | Skopje | Macedonia | InTransit    | Ready    | 21-Feb-2023  |
+| 2023EU26024   | SKO         | Skopje | Macedonia | InTransit    | Ready    | 21-Feb-2023  |
+| 2023EU26046   | SKO         | Skopje | Macedonia | InTransit    | Ready    | 21-Feb-2023  |
+| 2023EU26391   | SKO         | Skopje | Macedonia | InTransit    | Ready    | 21-Feb-2023  |
+| 2023EU27339   | SKO         | Skopje | Macedonia | InTransit    | Ready    | 21-Feb-2023  |
+| 2023EU27529   | SKO         | Skopje | Macedonia | InTransit    | Ready    | 21-Feb-2023  |
+| 2023EU27550   | SKO         | Skopje | Macedonia | InTransit    | Ready    | 21-Feb-2023  |
+| 2023EU27586   | SKO         | Skopje | Macedonia | InTransit    | Ready    | 21-Feb-2023  |
+| 2023EU28495   | SKO         | Skopje | Macedonia | InTransit    | Ready    | 21-Feb-2023  |
+| 2023EU29036   | SKO         | Skopje | Macedonia | InTransit    | Ready    | 21-Feb-2023  |
+| 2023EU29185   | SKO         | Skopje | Macedonia | InTransit    | Ready    | 21-Feb-2023  |
+| 2023EU29273   | SKO         | Skopje | Macedonia | InTransit    | Ready    | 21-Feb-2023  |
+| 2023EU29545   | SKO         | Skopje | Macedonia | InTransit    | Ready    | 21-Feb-2023  |
+| 2023EU29659   | SKO         | Skopje | Macedonia | InTransit    | Ready    | 21-Feb-2023  |
+| 2023EU29688   | SKO         | Skopje | Macedonia | InTransit    | Ready    | 21-Feb-2023  |
++---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: SNJ
 +---------------+-------------+-----------+------------+--------------+----------+--------------+
 | Case Number   | Consulate   | City      | Country    | PrevStatus   | Status   | statusDate   |
@@ -877,11 +1623,75 @@ Consulate: TAI
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023AS2597    | TAI         | Taipei | Taiwan    | InTransit    | Ready    | 21-Feb-2023  |
 | 2023AS10533   | TAI         | Taipei | Taiwan    | Ready        | AP       | 21-Feb-2023  |
+| 2023AS11902   | TAI         | Taipei | Taiwan    | InTransit    | Ready    | 21-Feb-2023  |
 | 2023AS14018   | TAI         | Taipei | Taiwan    | Ready        | AP       | 21-Feb-2023  |
 | 2023AS14265   | TAI         | Taipei | Taiwan    | Ready        | AP       | 21-Feb-2023  |
 | 2023AS14427   | TAI         | Taipei | Taiwan    | Ready        | AP       | 21-Feb-2023  |
+| 2023EU21562   | TAI         | Taipei | Taiwan    | InTransit    | Ready    | 21-Feb-2023  |
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
+Consulate: TBL
++---------------+-------------+---------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City    | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+---------+-----------+--------------+----------+--------------|
+| 2023EU10991   | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 21-Feb-2023  |
+| 2023EU11566   | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 21-Feb-2023  |
+| 2023EU11675   | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 21-Feb-2023  |
+| 2023EU11722   | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 21-Feb-2023  |
+| 2023EU11875   | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 21-Feb-2023  |
+| 2023EU11960   | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 21-Feb-2023  |
+| 2023EU11964   | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 21-Feb-2023  |
+| 2023EU12009   | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 21-Feb-2023  |
+| 2023EU12077   | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 21-Feb-2023  |
+| 2023EU12186   | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 21-Feb-2023  |
+| 2023EU12284   | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 21-Feb-2023  |
+| 2023EU12298   | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 21-Feb-2023  |
+| 2023EU12320   | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 21-Feb-2023  |
+| 2023EU12399   | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 21-Feb-2023  |
+| 2023EU12452   | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 21-Feb-2023  |
+| 2023EU12502   | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 21-Feb-2023  |
+| 2023EU12553   | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 21-Feb-2023  |
+| 2023EU12597   | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 21-Feb-2023  |
+| 2023EU12627   | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 21-Feb-2023  |
+| 2023EU12673   | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 21-Feb-2023  |
+| 2023EU12674   | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 21-Feb-2023  |
+| 2023EU12694   | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 21-Feb-2023  |
+| 2023EU12710   | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 21-Feb-2023  |
+| 2023EU12743   | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 21-Feb-2023  |
+| 2023EU12817   | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 21-Feb-2023  |
+| 2023EU12881   | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 21-Feb-2023  |
+| 2023EU12945   | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 21-Feb-2023  |
+| 2023EU12961   | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 21-Feb-2023  |
+| 2023EU13075   | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 21-Feb-2023  |
+| 2023EU13076   | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 21-Feb-2023  |
+| 2023EU13120   | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 21-Feb-2023  |
+| 2023EU13140   | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 21-Feb-2023  |
+| 2023EU13175   | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 21-Feb-2023  |
+| 2023EU13247   | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 21-Feb-2023  |
+| 2023EU13261   | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 21-Feb-2023  |
+| 2023EU13281   | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 21-Feb-2023  |
+| 2023EU13374   | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 21-Feb-2023  |
+| 2023EU13443   | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 21-Feb-2023  |
+| 2023EU13515   | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 21-Feb-2023  |
+| 2023EU13518   | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 21-Feb-2023  |
+| 2023EU13538   | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 21-Feb-2023  |
+| 2023EU13554   | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 21-Feb-2023  |
+| 2023EU13600   | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 21-Feb-2023  |
+| 2023EU13739   | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 21-Feb-2023  |
+| 2023EU13775   | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 21-Feb-2023  |
+| 2023EU13798   | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 21-Feb-2023  |
+| 2023EU13803   | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 21-Feb-2023  |
+| 2023EU13822   | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 21-Feb-2023  |
+| 2023EU13838   | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 21-Feb-2023  |
+| 2023EU13848   | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 21-Feb-2023  |
+| 2023EU13861   | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 21-Feb-2023  |
+| 2023EU14063   | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 21-Feb-2023  |
+| 2023EU14086   | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 21-Feb-2023  |
+| 2023EU14127   | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 21-Feb-2023  |
+| 2023EU14137   | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 21-Feb-2023  |
+| 2023EU14173   | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 21-Feb-2023  |
++---------------+-------------+---------+-----------+--------------+----------+--------------+
 Consulate: THT
 +---------------+-------------+----------+------------+--------------+----------+--------------+
 | Case Number   | Consulate   | City     | Country    | PrevStatus   | Status   | statusDate   |
@@ -899,6 +1709,35 @@ Consulate: TKY
 | 2023EU5105    | TKY         | Tokyo  | Japan     | Refused221g  | AP          | 21-Feb-2023  |
 | 2023EU6317    | TKY         | Tokyo  | Japan     | Ready        | Refused221g | 21-Feb-2023  |
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
+Consulate: TNS
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023AF3258    | TNS         | Tunis  | Tunisia   | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AF6648    | TNS         | Tunis  | Tunisia   | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AF10701   | TNS         | Tunis  | Tunisia   | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AF11881   | TNS         | Tunis  | Tunisia   | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AF12094   | TNS         | Tunis  | Tunisia   | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AF14051   | TNS         | Tunis  | Tunisia   | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AF32910   | TNS         | Tunis  | Tunisia   | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AF45061   | TNS         | Tunis  | Tunisia   | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AF45327   | TNS         | Tunis  | Tunisia   | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AF46080   | TNS         | Tunis  | Tunisia   | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AF46228   | TNS         | Tunis  | Tunisia   | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AF46259   | TNS         | Tunis  | Tunisia   | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AF46588   | TNS         | Tunis  | Tunisia   | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AF46649   | TNS         | Tunis  | Tunisia   | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AF47047   | TNS         | Tunis  | Tunisia   | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AF47368   | TNS         | Tunis  | Tunisia   | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AF47603   | TNS         | Tunis  | Tunisia   | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AF47868   | TNS         | Tunis  | Tunisia   | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AF47901   | TNS         | Tunis  | Tunisia   | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AF48222   | TNS         | Tunis  | Tunisia   | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AF48973   | TNS         | Tunis  | Tunisia   | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AF49635   | TNS         | Tunis  | Tunisia   | InTransit    | Ready    | 21-Feb-2023  |
+| 2023AF49646   | TNS         | Tunis  | Tunisia   | InTransit    | Ready    | 21-Feb-2023  |
+| 2023OC1130    | TNS         | Tunis  | Tunisia   | InTransit    | Ready    | 21-Feb-2023  |
++---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: WRW
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |

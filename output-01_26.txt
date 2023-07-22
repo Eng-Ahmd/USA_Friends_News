@@ -207,6 +207,26 @@ Consulate: KIN
 | 2023AF29061   | KIN         | Kinshasa | Democratic Republic of the Congo | Ready        | Refused221g | 26-Jan-2023  |
 | 2023AF31231   | KIN         | Kinshasa | Democratic Republic of the Congo | Ready        | Refused221g | 26-Jan-2023  |
 +---------------+-------------+----------+----------------------------------+--------------+-------------+--------------+
+Consulate: KLL
++---------------+-------------+--------------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City         | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------------+-----------+--------------+----------+--------------|
+| 2023AF43877   | KLL         | Kuala Lumpur | Malaysia  | InTransit    | Ready    | 26-Jan-2023  |
+| 2023AS16940   | KLL         | Kuala Lumpur | Malaysia  | InTransit    | Ready    | 26-Jan-2023  |
+| 2023AS18316   | KLL         | Kuala Lumpur | Malaysia  | InTransit    | Ready    | 26-Jan-2023  |
++---------------+-------------+--------------+-----------+--------------+----------+--------------+
+Consulate: KWT
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023AF13523   | KWT         | Kuwait | Kuwait    | InTransit    | Ready    | 26-Jan-2023  |
+| 2023AF14059   | KWT         | Kuwait | Kuwait    | InTransit    | Ready    | 26-Jan-2023  |
+| 2023AF19149   | KWT         | Kuwait | Kuwait    | InTransit    | Ready    | 26-Jan-2023  |
+| 2023AF23161   | KWT         | Kuwait | Kuwait    | InTransit    | Ready    | 26-Jan-2023  |
+| 2023AS17797   | KWT         | Kuwait | Kuwait    | InTransit    | Ready    | 26-Jan-2023  |
+| 2023AS18550   | KWT         | Kuwait | Kuwait    | InTransit    | Ready    | 26-Jan-2023  |
+| 2023EU23261   | KWT         | Kuwait | Kuwait    | InTransit    | Ready    | 26-Jan-2023  |
++---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: LMA
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
@@ -233,6 +253,19 @@ Consulate: LOM
 | 2023AF15598   | LOM         | Lome   | Togo      | Ready        | Refused221g | 26-Jan-2023  |
 | 2023AF16146   | LOM         | Lome   | Togo      | Ready        | Issued      | 26-Jan-2023  |
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
+Consulate: LUS
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023AF9404    | LUS         | Lusaka | Zambia    | InTransit    | Ready    | 26-Jan-2023  |
+| 2023AF20210   | LUS         | Lusaka | Zambia    | InTransit    | Ready    | 26-Jan-2023  |
+| 2023AF35049   | LUS         | Lusaka | Zambia    | InTransit    | Ready    | 26-Jan-2023  |
+| 2023AF39739   | LUS         | Lusaka | Zambia    | InTransit    | Ready    | 26-Jan-2023  |
+| 2023AF40034   | LUS         | Lusaka | Zambia    | InTransit    | Ready    | 26-Jan-2023  |
+| 2023AF40955   | LUS         | Lusaka | Zambia    | InTransit    | Ready    | 26-Jan-2023  |
+| 2023AF43090   | LUS         | Lusaka | Zambia    | InTransit    | Ready    | 26-Jan-2023  |
+| 2023AF43837   | LUS         | Lusaka | Zambia    | InTransit    | Ready    | 26-Jan-2023  |
++---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: MNG
 +---------------+-------------+---------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City    | Country   | PrevStatus   | Status   | statusDate   |
@@ -252,7 +285,23 @@ Consulate: MTL
 +---------------+-------------+----------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City     | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+----------+-----------+--------------+----------+--------------|
+| 2023AF11903   | MTL         | Montreal | Canada    | InTransit    | Ready    | 26-Jan-2023  |
+| 2023AF18055   | MTL         | Montreal | Canada    | InTransit    | Ready    | 26-Jan-2023  |
+| 2023AF26607   | MTL         | Montreal | Canada    | InTransit    | Ready    | 26-Jan-2023  |
+| 2023AF31598   | MTL         | Montreal | Canada    | InTransit    | Ready    | 26-Jan-2023  |
+| 2023AF31865   | MTL         | Montreal | Canada    | InTransit    | Ready    | 26-Jan-2023  |
+| 2023AF41296   | MTL         | Montreal | Canada    | InTransit    | Ready    | 26-Jan-2023  |
+| 2023AS11881   | MTL         | Montreal | Canada    | InTransit    | Ready    | 26-Jan-2023  |
+| 2023AS12626   | MTL         | Montreal | Canada    | InTransit    | Ready    | 26-Jan-2023  |
+| 2023AS12776   | MTL         | Montreal | Canada    | InTransit    | Ready    | 26-Jan-2023  |
+| 2023AS17263   | MTL         | Montreal | Canada    | InTransit    | Ready    | 26-Jan-2023  |
+| 2023AS18219   | MTL         | Montreal | Canada    | InTransit    | Ready    | 26-Jan-2023  |
+| 2023EU6925    | MTL         | Montreal | Canada    | InTransit    | Ready    | 26-Jan-2023  |
 | 2023EU8935    | MTL         | Montreal | Canada    | Refused221g  | Ready    | 26-Jan-2023  |
+| 2023EU10752   | MTL         | Montreal | Canada    | InTransit    | Ready    | 26-Jan-2023  |
+| 2023EU13130   | MTL         | Montreal | Canada    | InTransit    | Ready    | 26-Jan-2023  |
+| 2023EU13535   | MTL         | Montreal | Canada    | InTransit    | Ready    | 26-Jan-2023  |
+| 2023OC941     | MTL         | Montreal | Canada    | InTransit    | Ready    | 26-Jan-2023  |
 +---------------+-------------+----------+-----------+--------------+----------+--------------+
 Consulate: NPL
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
@@ -266,9 +315,69 @@ Consulate: NRB
 | Case Number   | Consulate   | City    | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+---------+-----------+--------------+----------+--------------|
 | 2023AF220     | NRB         | Nairobi | Kenya     | AP           | Issued   | 26-Jan-2023  |
+| 2023AF267     | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 26-Jan-2023  |
+| 2023AF292     | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 26-Jan-2023  |
 | 2023AF338     | NRB         | Nairobi | Kenya     | Ready        | AP       | 26-Jan-2023  |
+| 2023AF426     | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 26-Jan-2023  |
+| 2023AF679     | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 26-Jan-2023  |
+| 2023AF936     | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 26-Jan-2023  |
+| 2023AF1522    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 26-Jan-2023  |
+| 2023AF1531    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 26-Jan-2023  |
+| 2023AF1533    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 26-Jan-2023  |
+| 2023AF2797    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 26-Jan-2023  |
+| 2023AF3016    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 26-Jan-2023  |
+| 2023AF3676    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 26-Jan-2023  |
+| 2023AF3918    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 26-Jan-2023  |
 | 2023AF4268    | NRB         | Nairobi | Kenya     | AP           | Issued   | 26-Jan-2023  |
+| 2023AF4460    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 26-Jan-2023  |
+| 2023AF4674    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 26-Jan-2023  |
 | 2023AF4720    | NRB         | Nairobi | Kenya     | Ready        | AP       | 26-Jan-2023  |
+| 2023AF4814    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 26-Jan-2023  |
+| 2023AF4833    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 26-Jan-2023  |
+| 2023AF5052    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 26-Jan-2023  |
+| 2023AF5453    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 26-Jan-2023  |
+| 2023AF5729    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 26-Jan-2023  |
+| 2023AF6069    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 26-Jan-2023  |
+| 2023AF6094    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 26-Jan-2023  |
+| 2023AF6282    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 26-Jan-2023  |
+| 2023AF6408    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 26-Jan-2023  |
+| 2023AF6510    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 26-Jan-2023  |
+| 2023AF6519    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 26-Jan-2023  |
+| 2023AF6683    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 26-Jan-2023  |
+| 2023AF6710    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 26-Jan-2023  |
+| 2023AF6931    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 26-Jan-2023  |
+| 2023AF6962    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 26-Jan-2023  |
+| 2023AF7103    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 26-Jan-2023  |
+| 2023AF7183    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 26-Jan-2023  |
+| 2023AF7206    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 26-Jan-2023  |
+| 2023AF7310    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 26-Jan-2023  |
+| 2023AF7334    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 26-Jan-2023  |
+| 2023AF7423    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 26-Jan-2023  |
+| 2023AF7461    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 26-Jan-2023  |
+| 2023AF7462    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 26-Jan-2023  |
+| 2023AF7624    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 26-Jan-2023  |
+| 2023AF7630    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 26-Jan-2023  |
+| 2023AF7913    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 26-Jan-2023  |
+| 2023AF7962    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 26-Jan-2023  |
+| 2023AF8022    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 26-Jan-2023  |
+| 2023AF8074    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 26-Jan-2023  |
+| 2023AF8110    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 26-Jan-2023  |
+| 2023AF8163    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 26-Jan-2023  |
+| 2023AF8168    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 26-Jan-2023  |
+| 2023AF8183    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 26-Jan-2023  |
+| 2023AF8198    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 26-Jan-2023  |
+| 2023AF8263    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 26-Jan-2023  |
+| 2023AF8344    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 26-Jan-2023  |
+| 2023AF8390    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 26-Jan-2023  |
+| 2023AF8434    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 26-Jan-2023  |
+| 2023AF8509    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 26-Jan-2023  |
+| 2023AF8515    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 26-Jan-2023  |
+| 2023AF8585    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 26-Jan-2023  |
+| 2023AF8640    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 26-Jan-2023  |
+| 2023AF8680    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 26-Jan-2023  |
+| 2023AF8695    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 26-Jan-2023  |
+| 2023AF8696    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 26-Jan-2023  |
+| 2023AF8971    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 26-Jan-2023  |
 +---------------+-------------+---------+-----------+--------------+----------+--------------+
 Consulate: None
 +---------------+-------------+--------+-----------+--------------+-----------+--------------+
@@ -390,6 +499,12 @@ Consulate: TKY
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+--------+-----------+--------------+----------+--------------|
 | 2023AS2469    | TKY         | Tokyo  | Japan     | Refused221g  | AP       | 26-Jan-2023  |
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+Consulate: TNS
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023AF40808   | TNS         | Tunis  | Tunisia   | InTransit    | Ready    | 26-Jan-2023  |
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: WRW
 +---------------+-------------+--------+-----------+--------------+----------+--------------+

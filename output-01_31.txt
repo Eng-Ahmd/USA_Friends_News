@@ -65,7 +65,27 @@ Consulate: ATA
 +---------------+-------------+--------+------------+--------------+----------+--------------+
 | Case Number   | Consulate   | City   | Country    | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+--------+------------+--------------+----------+--------------|
+| 2023EU3152    | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 31-Jan-2023  |
+| 2023EU8449    | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 31-Jan-2023  |
 | 2023EU9488    | ATA         | Almaty | Kazakhstan | Refused221g  | AP       | 31-Jan-2023  |
+| 2023EU12547   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 31-Jan-2023  |
+| 2023EU15064   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 31-Jan-2023  |
+| 2023EU15250   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 31-Jan-2023  |
+| 2023EU15254   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 31-Jan-2023  |
+| 2023EU15322   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 31-Jan-2023  |
+| 2023EU15331   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 31-Jan-2023  |
+| 2023EU15413   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 31-Jan-2023  |
+| 2023EU15429   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 31-Jan-2023  |
+| 2023EU15521   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 31-Jan-2023  |
+| 2023EU15647   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 31-Jan-2023  |
+| 2023EU15659   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 31-Jan-2023  |
+| 2023EU15780   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 31-Jan-2023  |
+| 2023EU15799   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 31-Jan-2023  |
+| 2023EU15985   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 31-Jan-2023  |
+| 2023EU16002   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 31-Jan-2023  |
+| 2023EU16112   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 31-Jan-2023  |
+| 2023EU16321   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 31-Jan-2023  |
+| 2023EU16355   | ATA         | Almaty | Kazakhstan | InTransit    | Ready    | 31-Jan-2023  |
 +---------------+-------------+--------+------------+--------------+----------+--------------+
 Consulate: BKK
 +---------------+-------------+---------+------------+--------------+----------+--------------+
@@ -189,6 +209,17 @@ Consulate: FRN
 | 2023EU11746   | FRN         | Frankfurt | Germany   | AP           | Issued      | 31-Jan-2023  |
 | 2023EU13223   | FRN         | Frankfurt | Germany   | AP           | Issued      | 31-Jan-2023  |
 +---------------+-------------+-----------+-----------+--------------+-------------+--------------+
+Consulate: HLS
++---------------+-------------+----------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City     | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+----------+-----------+--------------+----------+--------------|
+| 2023AF21170   | HLS         | Helsinki | Finland   | InTransit    | Ready    | 31-Jan-2023  |
+| 2023AF35503   | HLS         | Helsinki | Finland   | InTransit    | Ready    | 31-Jan-2023  |
+| 2023EU5150    | HLS         | Helsinki | Finland   | InTransit    | Ready    | 31-Jan-2023  |
+| 2023EU15750   | HLS         | Helsinki | Finland   | InTransit    | Ready    | 31-Jan-2023  |
+| 2023EU18216   | HLS         | Helsinki | Finland   | InTransit    | Ready    | 31-Jan-2023  |
+| 2023EU23509   | HLS         | Helsinki | Finland   | InTransit    | Ready    | 31-Jan-2023  |
++---------------+-------------+----------+-----------+--------------+----------+--------------+
 Consulate: KDU
 +---------------+-------------+-----------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City      | Country   | PrevStatus   | Status   | statusDate   |
@@ -253,6 +284,32 @@ Consulate: NRB
 | 2023AF695     | NRB         | Nairobi | Kenya     | AP           | Issued      | 31-Jan-2023  |
 | 2023AF4995    | NRB         | Nairobi | Kenya     | Ready        | AP          | 31-Jan-2023  |
 +---------------+-------------+---------+-----------+--------------+-------------+--------------+
+Consulate: OUG
++---------------+-------------+-------------+--------------+--------------+----------+--------------+
+| Case Number   | Consulate   | City        | Country      | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+-------------+--------------+--------------+----------+--------------|
+| 2023AF7375    | OUG         | Ouagadougou | Burkina Faso | InTransit    | Ready    | 31-Jan-2023  |
+| 2023AF15189   | OUG         | Ouagadougou | Burkina Faso | InTransit    | Ready    | 31-Jan-2023  |
+| 2023AF20810   | OUG         | Ouagadougou | Burkina Faso | InTransit    | Ready    | 31-Jan-2023  |
+| 2023AF23286   | OUG         | Ouagadougou | Burkina Faso | InTransit    | Ready    | 31-Jan-2023  |
+| 2023AF23549   | OUG         | Ouagadougou | Burkina Faso | InTransit    | Ready    | 31-Jan-2023  |
+| 2023AF27526   | OUG         | Ouagadougou | Burkina Faso | InTransit    | Ready    | 31-Jan-2023  |
+| 2023AF27894   | OUG         | Ouagadougou | Burkina Faso | InTransit    | Ready    | 31-Jan-2023  |
+| 2023AF28478   | OUG         | Ouagadougou | Burkina Faso | InTransit    | Ready    | 31-Jan-2023  |
+| 2023AF28627   | OUG         | Ouagadougou | Burkina Faso | InTransit    | Ready    | 31-Jan-2023  |
+| 2023AF29333   | OUG         | Ouagadougou | Burkina Faso | InTransit    | Ready    | 31-Jan-2023  |
+| 2023AF30528   | OUG         | Ouagadougou | Burkina Faso | InTransit    | Ready    | 31-Jan-2023  |
+| 2023AF31172   | OUG         | Ouagadougou | Burkina Faso | InTransit    | Ready    | 31-Jan-2023  |
+| 2023AF35410   | OUG         | Ouagadougou | Burkina Faso | InTransit    | Ready    | 31-Jan-2023  |
+| 2023AF36571   | OUG         | Ouagadougou | Burkina Faso | InTransit    | Ready    | 31-Jan-2023  |
+| 2023AF36640   | OUG         | Ouagadougou | Burkina Faso | InTransit    | Ready    | 31-Jan-2023  |
+| 2023AF39559   | OUG         | Ouagadougou | Burkina Faso | InTransit    | Ready    | 31-Jan-2023  |
+| 2023AF40878   | OUG         | Ouagadougou | Burkina Faso | InTransit    | Ready    | 31-Jan-2023  |
+| 2023AF42384   | OUG         | Ouagadougou | Burkina Faso | InTransit    | Ready    | 31-Jan-2023  |
+| 2023AF43317   | OUG         | Ouagadougou | Burkina Faso | InTransit    | Ready    | 31-Jan-2023  |
+| 2023AF43595   | OUG         | Ouagadougou | Burkina Faso | InTransit    | Ready    | 31-Jan-2023  |
+| 2023AF44111   | OUG         | Ouagadougou | Burkina Faso | InTransit    | Ready    | 31-Jan-2023  |
++---------------+-------------+-------------+--------------+--------------+----------+--------------+
 Consulate: RGA
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
@@ -309,6 +366,20 @@ Consulate: SYD
 | 2023EU11127   | SYD         | Sydney | Australia | Ready        | Refused221g | 31-Jan-2023  |
 | 2023OC540     | SYD         | Sydney | Australia | Ready        | Issued      | 31-Jan-2023  |
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
+Consulate: TAI
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023AS2141    | TAI         | Taipei | Taiwan    | InTransit    | Ready    | 31-Jan-2023  |
+| 2023AS4511    | TAI         | Taipei | Taiwan    | InTransit    | Ready    | 31-Jan-2023  |
+| 2023AS9860    | TAI         | Taipei | Taiwan    | InTransit    | Ready    | 31-Jan-2023  |
+| 2023AS10318   | TAI         | Taipei | Taiwan    | InTransit    | Ready    | 31-Jan-2023  |
+| 2023AS16246   | TAI         | Taipei | Taiwan    | InTransit    | Ready    | 31-Jan-2023  |
+| 2023AS17496   | TAI         | Taipei | Taiwan    | InTransit    | Ready    | 31-Jan-2023  |
+| 2023AS17502   | TAI         | Taipei | Taiwan    | InTransit    | Ready    | 31-Jan-2023  |
+| 2023AS18296   | TAI         | Taipei | Taiwan    | InTransit    | Ready    | 31-Jan-2023  |
+| 2023AS18592   | TAI         | Taipei | Taiwan    | InTransit    | Ready    | 31-Jan-2023  |
++---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: TBL
 +---------------+-------------+---------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City    | Country   | PrevStatus   | Status   | statusDate   |

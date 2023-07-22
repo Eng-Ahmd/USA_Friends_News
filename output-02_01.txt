@@ -216,6 +216,13 @@ Consulate: FRN
 | 2023EU6993    | FRN         | Frankfurt | Germany   | Ready        | Issued   | 01-Feb-2023  |
 | 2023EU8115    | FRN         | Frankfurt | Germany   | Refused221g  | Issued   | 01-Feb-2023  |
 +---------------+-------------+-----------+-----------+--------------+----------+--------------+
+Consulate: GEO
++---------------+-------------+------------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City       | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+------------+-----------+--------------+----------+--------------|
+| 2023SA1551    | GEO         | Georgetown | Guyana    | InTransit    | Ready    | 01-Feb-2023  |
+| 2023SA1951    | GEO         | Georgetown | Guyana    | InTransit    | Ready    | 01-Feb-2023  |
++---------------+-------------+------------+-----------+--------------+----------+--------------+
 Consulate: GUZ
 +---------------+-------------+-----------+-----------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City      | Country   | PrevStatus   | Status      | statusDate   |
@@ -226,7 +233,22 @@ Consulate: GYQ
 +---------------+-------------+-----------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City      | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+-----------+-----------+--------------+----------+--------------|
+| 2023SA164     | GYQ         | Guayaquil | Ecuador   | InTransit    | Ready    | 01-Feb-2023  |
+| 2023SA308     | GYQ         | Guayaquil | Ecuador   | InTransit    | Ready    | 01-Feb-2023  |
+| 2023SA323     | GYQ         | Guayaquil | Ecuador   | InTransit    | Ready    | 01-Feb-2023  |
+| 2023SA648     | GYQ         | Guayaquil | Ecuador   | InTransit    | Ready    | 01-Feb-2023  |
+| 2023SA751     | GYQ         | Guayaquil | Ecuador   | InTransit    | Ready    | 01-Feb-2023  |
 | 2023SA758     | GYQ         | Guayaquil | Ecuador   | AP           | Issued   | 01-Feb-2023  |
+| 2023SA890     | GYQ         | Guayaquil | Ecuador   | InTransit    | Ready    | 01-Feb-2023  |
+| 2023SA941     | GYQ         | Guayaquil | Ecuador   | InTransit    | Ready    | 01-Feb-2023  |
+| 2023SA1016    | GYQ         | Guayaquil | Ecuador   | InTransit    | Ready    | 01-Feb-2023  |
+| 2023SA1289    | GYQ         | Guayaquil | Ecuador   | InTransit    | Ready    | 01-Feb-2023  |
+| 2023SA1464    | GYQ         | Guayaquil | Ecuador   | InTransit    | Ready    | 01-Feb-2023  |
+| 2023SA1493    | GYQ         | Guayaquil | Ecuador   | InTransit    | Ready    | 01-Feb-2023  |
+| 2023SA1712    | GYQ         | Guayaquil | Ecuador   | InTransit    | Ready    | 01-Feb-2023  |
+| 2023SA1903    | GYQ         | Guayaquil | Ecuador   | InTransit    | Ready    | 01-Feb-2023  |
+| 2023SA1906    | GYQ         | Guayaquil | Ecuador   | InTransit    | Ready    | 01-Feb-2023  |
+| 2023SA2090    | GYQ         | Guayaquil | Ecuador   | InTransit    | Ready    | 01-Feb-2023  |
 +---------------+-------------+-----------+-----------+--------------+----------+--------------+
 Consulate: HAV
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
@@ -627,6 +649,13 @@ Consulate: TAI
 | 2023AS4051    | TAI         | Taipei | Taiwan    | Refused221g  | Issued      | 02-Feb-2023  |
 | 2023AS5071    | TAI         | Taipei | Taiwan    | Ready        | Refused221g | 02-Feb-2023  |
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
+Consulate: TAL
++---------------+-------------+---------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City    | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+---------+-----------+--------------+----------+--------------|
+| 2023EU7915    | TAL         | Tallinn | Estonia   | InTransit    | Ready    | 01-Feb-2023  |
+| 2023EU16319   | TAL         | Tallinn | Estonia   | InTransit    | Ready    | 01-Feb-2023  |
++---------------+-------------+---------+-----------+--------------+----------+--------------+
 Consulate: TBL
 +---------------+-------------+---------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City    | Country   | PrevStatus   | Status   | statusDate   |

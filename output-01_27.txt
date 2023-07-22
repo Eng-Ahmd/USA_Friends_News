@@ -142,6 +142,21 @@ Consulate: FRN
 | 2023EU10751   | FRN         | Frankfurt | Germany   | AP           | Issued      | 27-Jan-2023  |
 | 2023EU11746   | FRN         | Frankfurt | Germany   | Ready        | AP          | 27-Jan-2023  |
 +---------------+-------------+-----------+-----------+--------------+-------------+--------------+
+Consulate: JRS
++---------------+-------------+-----------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City      | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+-----------+-----------+--------------+----------+--------------|
+| 2023AF25732   | JRS         | Jerusalem | Israel    | InTransit    | Ready    | 27-Jan-2023  |
+| 2023AS11906   | JRS         | Jerusalem | Israel    | InTransit    | Ready    | 27-Jan-2023  |
+| 2023AS16688   | JRS         | Jerusalem | Israel    | InTransit    | Ready    | 27-Jan-2023  |
+| 2023AS17480   | JRS         | Jerusalem | Israel    | InTransit    | Ready    | 27-Jan-2023  |
+| 2023AS18100   | JRS         | Jerusalem | Israel    | InTransit    | Ready    | 27-Jan-2023  |
+| 2023AS18397   | JRS         | Jerusalem | Israel    | InTransit    | Ready    | 27-Jan-2023  |
+| 2023EU8505    | JRS         | Jerusalem | Israel    | InTransit    | Ready    | 27-Jan-2023  |
+| 2023EU9861    | JRS         | Jerusalem | Israel    | InTransit    | Ready    | 27-Jan-2023  |
+| 2023EU13125   | JRS         | Jerusalem | Israel    | InTransit    | Ready    | 27-Jan-2023  |
+| 2023EU14427   | JRS         | Jerusalem | Israel    | InTransit    | Ready    | 27-Jan-2023  |
++---------------+-------------+-----------+-----------+--------------+----------+--------------+
 Consulate: KDU
 +---------------+-------------+-----------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City      | Country   | PrevStatus   | Status   | statusDate   |
@@ -268,8 +283,23 @@ Consulate: SEO
 +---------------+-------------+--------+-------------+--------------+----------+--------------+
 | Case Number   | Consulate   | City   | Country     | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+--------+-------------+--------------+----------+--------------|
+| 2023AF7168    | SEO         | Seoul  | South Korea | InTransit    | Ready    | 27-Jan-2023  |
+| 2023AF9871    | SEO         | Seoul  | South Korea | InTransit    | Ready    | 27-Jan-2023  |
+| 2023AF39302   | SEO         | Seoul  | South Korea | InTransit    | Ready    | 27-Jan-2023  |
+| 2023AS8803    | SEO         | Seoul  | South Korea | InTransit    | Ready    | 27-Jan-2023  |
 | 2023EU6032    | SEO         | Seoul  | South Korea | AP           | Issued   | 27-Jan-2023  |
 +---------------+-------------+--------+-------------+--------------+----------+--------------+
+Consulate: SGP
++---------------+-------------+-----------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City      | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+-----------+-----------+--------------+----------+--------------|
+| 2023AS10340   | SGP         | Singapore | Singapore | InTransit    | Ready    | 27-Jan-2023  |
+| 2023AS10826   | SGP         | Singapore | Singapore | InTransit    | Ready    | 27-Jan-2023  |
+| 2023AS10871   | SGP         | Singapore | Singapore | InTransit    | Ready    | 27-Jan-2023  |
+| 2023AS11175   | SGP         | Singapore | Singapore | InTransit    | Ready    | 27-Jan-2023  |
+| 2023AS12020   | SGP         | Singapore | Singapore | InTransit    | Ready    | 27-Jan-2023  |
+| 2023AS12128   | SGP         | Singapore | Singapore | InTransit    | Ready    | 27-Jan-2023  |
++---------------+-------------+-----------+-----------+--------------+----------+--------------+
 Consulate: STK
 +---------------+-------------+-----------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City      | Country   | PrevStatus   | Status   | statusDate   |
@@ -291,6 +321,38 @@ Consulate: TBL
 | 2023EU6425    | TBL         | Tbilisi | Georgia   | Refused221g  | AP       | 27-Jan-2023  |
 | 2023EU6542    | TBL         | Tbilisi | Georgia   | Refused221g  | AP       | 27-Jan-2023  |
 | 2023EU7058    | TBL         | Tbilisi | Georgia   | Refused221g  | AP       | 27-Jan-2023  |
+| 2023EU9423    | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 27-Jan-2023  |
+| 2023EU9885    | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 27-Jan-2023  |
+| 2023EU10868   | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 27-Jan-2023  |
+| 2023EU10884   | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 27-Jan-2023  |
+| 2023EU10913   | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 27-Jan-2023  |
+| 2023EU10915   | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 27-Jan-2023  |
+| 2023EU10976   | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 27-Jan-2023  |
+| 2023EU10979   | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 27-Jan-2023  |
+| 2023EU10994   | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 27-Jan-2023  |
+| 2023EU11020   | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 27-Jan-2023  |
+| 2023EU11054   | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 27-Jan-2023  |
+| 2023EU11061   | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 27-Jan-2023  |
+| 2023EU11075   | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 27-Jan-2023  |
+| 2023EU11098   | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 27-Jan-2023  |
+| 2023EU11107   | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 27-Jan-2023  |
+| 2023EU11209   | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 27-Jan-2023  |
+| 2023EU11232   | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 27-Jan-2023  |
+| 2023EU11283   | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 27-Jan-2023  |
+| 2023EU11347   | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 27-Jan-2023  |
+| 2023EU11374   | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 27-Jan-2023  |
+| 2023EU11375   | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 27-Jan-2023  |
+| 2023EU11407   | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 27-Jan-2023  |
+| 2023EU11428   | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 27-Jan-2023  |
+| 2023EU11440   | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 27-Jan-2023  |
+| 2023EU11499   | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 27-Jan-2023  |
+| 2023EU11526   | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 27-Jan-2023  |
+| 2023EU11575   | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 27-Jan-2023  |
+| 2023EU11596   | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 27-Jan-2023  |
+| 2023EU11765   | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 27-Jan-2023  |
+| 2023EU11780   | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 27-Jan-2023  |
+| 2023EU11784   | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 27-Jan-2023  |
+| 2023EU11852   | TBL         | Tbilisi | Georgia   | InTransit    | Ready    | 27-Jan-2023  |
 +---------------+-------------+---------+-----------+--------------+----------+--------------+
 Consulate: THT
 +---------------+-------------+----------+------------+--------------+----------+--------------+
@@ -312,6 +374,13 @@ Consulate: ULN
 |---------------+-------------+-------------+-----------+--------------+----------+--------------|
 | 2023AS7165    | ULN         | Ulaanbaatar | Mongolia  | AP           | Issued   | 27-Jan-2023  |
 +---------------+-------------+-------------+-----------+--------------+----------+--------------+
+Consulate: VNT
++---------------+-------------+-----------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City      | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+-----------+-----------+--------------+----------+--------------|
+| 2023AS7343    | VNT         | Vientiane | Laos      | InTransit    | Ready    | 27-Jan-2023  |
+| 2023AS17605   | VNT         | Vientiane | Laos      | InTransit    | Ready    | 27-Jan-2023  |
++---------------+-------------+-----------+-----------+--------------+----------+--------------+
 Consulate: WRW
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |

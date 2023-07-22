@@ -118,10 +118,35 @@ Consulate: BMB
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status      | statusDate   |
 |---------------+-------------+--------+-----------+--------------+-------------+--------------|
+| 2023AF10177   | BMB         | Mumbai | India     | InTransit    | Ready       | 20-Jan-2023  |
 | 2023AF15806   | BMB         | Mumbai | India     | Ready        | AP          | 20-Jan-2023  |
+| 2023AF28513   | BMB         | Mumbai | India     | InTransit    | Ready       | 20-Jan-2023  |
+| 2023AF29206   | BMB         | Mumbai | India     | InTransit    | Ready       | 20-Jan-2023  |
+| 2023AF31430   | BMB         | Mumbai | India     | InTransit    | Ready       | 20-Jan-2023  |
+| 2023AF31529   | BMB         | Mumbai | India     | InTransit    | Ready       | 20-Jan-2023  |
+| 2023AF40354   | BMB         | Mumbai | India     | InTransit    | Ready       | 20-Jan-2023  |
+| 2023AF40634   | BMB         | Mumbai | India     | InTransit    | Ready       | 20-Jan-2023  |
+| 2023AF41826   | BMB         | Mumbai | India     | InTransit    | Ready       | 20-Jan-2023  |
+| 2023AF42625   | BMB         | Mumbai | India     | InTransit    | Ready       | 20-Jan-2023  |
+| 2023AF42848   | BMB         | Mumbai | India     | InTransit    | Ready       | 20-Jan-2023  |
+| 2023AF43263   | BMB         | Mumbai | India     | InTransit    | Ready       | 20-Jan-2023  |
+| 2023AF44725   | BMB         | Mumbai | India     | InTransit    | Ready       | 20-Jan-2023  |
+| 2023AS411     | BMB         | Mumbai | India     | InTransit    | Ready       | 20-Jan-2023  |
+| 2023AS2189    | BMB         | Mumbai | India     | InTransit    | Ready       | 20-Jan-2023  |
+| 2023AS3351    | BMB         | Mumbai | India     | InTransit    | Ready       | 20-Jan-2023  |
 | 2023AS4174    | BMB         | Mumbai | India     | Ready        | Refused221g | 20-Jan-2023  |
+| 2023AS4193    | BMB         | Mumbai | India     | InTransit    | Ready       | 20-Jan-2023  |
+| 2023AS5900    | BMB         | Mumbai | India     | InTransit    | Ready       | 20-Jan-2023  |
 | 2023AS6229    | BMB         | Mumbai | India     | Ready        | Refused221g | 20-Jan-2023  |
 | 2023AS7836    | BMB         | Mumbai | India     | Ready        | Refused221g | 20-Jan-2023  |
+| 2023AS9945    | BMB         | Mumbai | India     | InTransit    | Ready       | 20-Jan-2023  |
+| 2023AS11920   | BMB         | Mumbai | India     | InTransit    | Ready       | 20-Jan-2023  |
+| 2023AS14274   | BMB         | Mumbai | India     | InTransit    | Ready       | 20-Jan-2023  |
+| 2023AS14486   | BMB         | Mumbai | India     | InTransit    | Ready       | 20-Jan-2023  |
+| 2023AS14692   | BMB         | Mumbai | India     | InTransit    | Ready       | 20-Jan-2023  |
+| 2023AS15198   | BMB         | Mumbai | India     | InTransit    | Ready       | 20-Jan-2023  |
+| 2023AS15525   | BMB         | Mumbai | India     | InTransit    | Ready       | 20-Jan-2023  |
+| 2023AS15601   | BMB         | Mumbai | India     | InTransit    | Ready       | 20-Jan-2023  |
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
 Consulate: BNK
 +---------------+-------------+---------+-----------+--------------+----------+--------------+
@@ -187,6 +212,15 @@ Consulate: GEO
 |---------------+-------------+------------+-----------+--------------+-------------+--------------|
 | 2023SA52      | GEO         | Georgetown | Guyana    | Ready        | Refused221g | 20-Jan-2023  |
 +---------------+-------------+------------+-----------+--------------+-------------+--------------+
+Consulate: HNK
++---------------+-------------+-----------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City      | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+-----------+-----------+--------------+----------+--------------|
+| 2023EU15185   | HNK         | Hong Kong | China     | InTransit    | Ready    | 20-Jan-2023  |
+| 2023EU15859   | HNK         | Hong Kong | China     | InTransit    | Ready    | 20-Jan-2023  |
+| 2023OC664     | HNK         | Hong Kong | China     | InTransit    | Ready    | 20-Jan-2023  |
+| 2023OC890     | HNK         | Hong Kong | China     | InTransit    | Ready    | 20-Jan-2023  |
++---------------+-------------+-----------+-----------+--------------+----------+--------------+
 Consulate: ISL
 +---------------+-------------+-----------+-----------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City      | Country   | PrevStatus   | Status      | statusDate   |
@@ -198,8 +232,151 @@ Consulate: JHN
 +---------------+-------------+--------------+--------------+--------------+----------+--------------+
 | Case Number   | Consulate   | City         | Country      | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+--------------+--------------+--------------+----------+--------------|
+| 2023AF1230    | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF1644    | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF3012    | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF4235    | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF6881    | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF7513    | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF8250    | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF8851    | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF9194    | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 20-Jan-2023  |
 | 2023AF16725   | JHN         | Johannesburg | South Africa | AP           | Issued   | 20-Jan-2023  |
+| 2023AF17273   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF17405   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF18436   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF21176   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF21996   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF22745   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF23953   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF24339   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF25901   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF26730   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF34343   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF35946   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF35970   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF36468   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF37341   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF37671   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF38542   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF38858   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF39608   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF40811   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF41256   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF41464   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF41599   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF41831   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF42445   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF42448   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF42722   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF43290   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF43351   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF43418   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF44661   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF44662   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 20-Jan-2023  |
+| 2023EU9181    | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 20-Jan-2023  |
+| 2023EU17516   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 20-Jan-2023  |
+| 2023EU18128   | JHN         | Johannesburg | South Africa | InTransit    | Ready    | 20-Jan-2023  |
 +---------------+-------------+--------------+--------------+--------------+----------+--------------+
+Consulate: KGL
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023AF2581    | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF3395    | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF5165    | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF5561    | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF5665    | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF7899    | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF8185    | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF8332    | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF10685   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF10716   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF11526   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF13445   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF15076   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF15650   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF17499   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF20450   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF20642   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF20677   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF21069   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF21228   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF21328   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF21484   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF21860   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF21924   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF22401   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF22530   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF22593   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF22689   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF22710   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF22918   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF22954   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF23461   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF23654   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF24044   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF24484   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF24877   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF25066   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF25200   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF25260   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF25308   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF25487   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF25501   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF26066   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF26078   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF26530   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF26584   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF26641   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF27266   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF27887   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF28334   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF28336   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF28670   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF28836   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF28952   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF29043   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF29072   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF29157   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF29358   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF29539   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF29697   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF30042   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF30304   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF30392   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF30572   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF30596   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF30647   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF30872   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF30952   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF31397   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF31443   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF31476   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF31505   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF31701   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF31899   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF32073   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF32231   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF32582   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF32630   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF32866   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF33091   | KGL         | Kigali | Rwanda    | InTransit    | Ready    | 20-Jan-2023  |
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+Consulate: KLL
++---------------+-------------+--------------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City         | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------------+-----------+--------------+----------+--------------|
+| 2023AF37600   | KLL         | Kuala Lumpur | Malaysia  | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF43010   | KLL         | Kuala Lumpur | Malaysia  | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF43904   | KLL         | Kuala Lumpur | Malaysia  | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AS4275    | KLL         | Kuala Lumpur | Malaysia  | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AS16209   | KLL         | Kuala Lumpur | Malaysia  | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AS16583   | KLL         | Kuala Lumpur | Malaysia  | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AS17744   | KLL         | Kuala Lumpur | Malaysia  | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AS18512   | KLL         | Kuala Lumpur | Malaysia  | InTransit    | Ready    | 20-Jan-2023  |
+| 2023EU24902   | KLL         | Kuala Lumpur | Malaysia  | InTransit    | Ready    | 20-Jan-2023  |
++---------------+-------------+--------------+-----------+--------------+----------+--------------+
 Consulate: LIB
 +---------------+-------------+------------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City       | Country   | PrevStatus   | Status   | statusDate   |
@@ -212,6 +389,37 @@ Consulate: NCS
 |---------------+-------------+---------+-----------+--------------+----------+--------------|
 | 2023AF6233    | NCS         | Nicosia | Cyprus    | Refused221g  | Ready    | 20-Jan-2023  |
 +---------------+-------------+---------+-----------+--------------+----------+--------------+
+Consulate: NPL
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023AF10513   | NPL         | Naples | Italy     | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF20843   | NPL         | Naples | Italy     | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF38593   | NPL         | Naples | Italy     | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF40750   | NPL         | Naples | Italy     | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF42171   | NPL         | Naples | Italy     | InTransit    | Ready    | 20-Jan-2023  |
+| 2023EU1675    | NPL         | Naples | Italy     | InTransit    | Ready    | 20-Jan-2023  |
+| 2023EU4981    | NPL         | Naples | Italy     | InTransit    | Ready    | 20-Jan-2023  |
+| 2023EU9729    | NPL         | Naples | Italy     | InTransit    | Ready    | 20-Jan-2023  |
+| 2023EU10446   | NPL         | Naples | Italy     | InTransit    | Ready    | 20-Jan-2023  |
+| 2023EU15695   | NPL         | Naples | Italy     | InTransit    | Ready    | 20-Jan-2023  |
+| 2023EU17392   | NPL         | Naples | Italy     | InTransit    | Ready    | 20-Jan-2023  |
+| 2023EU17406   | NPL         | Naples | Italy     | InTransit    | Ready    | 20-Jan-2023  |
+| 2023EU17743   | NPL         | Naples | Italy     | InTransit    | Ready    | 20-Jan-2023  |
+| 2023EU18147   | NPL         | Naples | Italy     | InTransit    | Ready    | 20-Jan-2023  |
+| 2023EU20474   | NPL         | Naples | Italy     | InTransit    | Ready    | 20-Jan-2023  |
+| 2023EU20575   | NPL         | Naples | Italy     | InTransit    | Ready    | 20-Jan-2023  |
+| 2023EU22031   | NPL         | Naples | Italy     | InTransit    | Ready    | 20-Jan-2023  |
+| 2023EU22842   | NPL         | Naples | Italy     | InTransit    | Ready    | 20-Jan-2023  |
+| 2023EU23136   | NPL         | Naples | Italy     | InTransit    | Ready    | 20-Jan-2023  |
+| 2023EU23394   | NPL         | Naples | Italy     | InTransit    | Ready    | 20-Jan-2023  |
+| 2023EU23454   | NPL         | Naples | Italy     | InTransit    | Ready    | 20-Jan-2023  |
+| 2023EU24172   | NPL         | Naples | Italy     | InTransit    | Ready    | 20-Jan-2023  |
+| 2023EU24287   | NPL         | Naples | Italy     | InTransit    | Ready    | 20-Jan-2023  |
+| 2023EU24429   | NPL         | Naples | Italy     | InTransit    | Ready    | 20-Jan-2023  |
+| 2023EU24798   | NPL         | Naples | Italy     | InTransit    | Ready    | 20-Jan-2023  |
+| 2023EU25499   | NPL         | Naples | Italy     | InTransit    | Ready    | 20-Jan-2023  |
++---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: NRB
 +---------------+-------------+---------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City    | Country   | PrevStatus   | Status   | statusDate   |
@@ -1064,6 +1272,55 @@ Consulate: None
 | 2023SA2098    | None        |        |           | NVC          | InTransit | None         |
 | 2023SA2099    | None        |        |           | NVC          | InTransit | None         |
 +---------------+-------------+--------+-----------+--------------+-----------+--------------+
+Consulate: PRI
++---------------+-------------+----------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City     | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+----------+-----------+--------------+----------+--------------|
+| 2023EU297     | PRI         | Pristina | Kosovo    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023EU5033    | PRI         | Pristina | Kosovo    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023EU9348    | PRI         | Pristina | Kosovo    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023EU10438   | PRI         | Pristina | Kosovo    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023EU13975   | PRI         | Pristina | Kosovo    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023EU14526   | PRI         | Pristina | Kosovo    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023EU14847   | PRI         | Pristina | Kosovo    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023EU15524   | PRI         | Pristina | Kosovo    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023EU15680   | PRI         | Pristina | Kosovo    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023EU16943   | PRI         | Pristina | Kosovo    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023EU17203   | PRI         | Pristina | Kosovo    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023EU17834   | PRI         | Pristina | Kosovo    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023EU17846   | PRI         | Pristina | Kosovo    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023EU18012   | PRI         | Pristina | Kosovo    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023EU18075   | PRI         | Pristina | Kosovo    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023EU18094   | PRI         | Pristina | Kosovo    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023EU18193   | PRI         | Pristina | Kosovo    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023EU18200   | PRI         | Pristina | Kosovo    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023EU18320   | PRI         | Pristina | Kosovo    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023EU18793   | PRI         | Pristina | Kosovo    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023EU18851   | PRI         | Pristina | Kosovo    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023EU18934   | PRI         | Pristina | Kosovo    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023EU19301   | PRI         | Pristina | Kosovo    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023EU19854   | PRI         | Pristina | Kosovo    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023EU19875   | PRI         | Pristina | Kosovo    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023EU20501   | PRI         | Pristina | Kosovo    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023EU20708   | PRI         | Pristina | Kosovo    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023EU20826   | PRI         | Pristina | Kosovo    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023EU20854   | PRI         | Pristina | Kosovo    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023EU21036   | PRI         | Pristina | Kosovo    | InTransit    | Ready    | 20-Jan-2023  |
++---------------+-------------+----------+-----------+--------------+----------+--------------+
+Consulate: PRS
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023AF6567    | PRS         | Paris  | France    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF7425    | PRS         | Paris  | France    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF7582    | PRS         | Paris  | France    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF11421   | PRS         | Paris  | France    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF19894   | PRS         | Paris  | France    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023AF20535   | PRS         | Paris  | France    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023EU10339   | PRS         | Paris  | France    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023EU10483   | PRS         | Paris  | France    | InTransit    | Ready    | 20-Jan-2023  |
+| 2023EU14581   | PRS         | Paris  | France    | InTransit    | Ready    | 20-Jan-2023  |
++---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: RNG
 +---------------+-------------+---------+-----------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City    | Country   | PrevStatus   | Status      | statusDate   |

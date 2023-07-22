@@ -308,12 +308,40 @@ Consulate: NRB
 +---------------+-------------+---------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City    | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+---------+-----------+--------------+----------+--------------|
+| 2023AF973     | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 31-Mar-2023  |
+| 2023AF1330    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 31-Mar-2023  |
+| 2023AF1385    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 31-Mar-2023  |
 | 2023AF1522    | NRB         | Nairobi | Kenya     | AP           | Issued   | 31-Mar-2023  |
+| 2023AF1527    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 31-Mar-2023  |
+| 2023AF2210    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 31-Mar-2023  |
+| 2023AF2533    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 31-Mar-2023  |
+| 2023AF2796    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 31-Mar-2023  |
+| 2023AF2947    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 31-Mar-2023  |
+| 2023AF2998    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 31-Mar-2023  |
 | 2023AF3918    | NRB         | Nairobi | Kenya     | AP           | Issued   | 31-Mar-2023  |
+| 2023AF4084    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 31-Mar-2023  |
+| 2023AF4131    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 31-Mar-2023  |
+| 2023AF4690    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 31-Mar-2023  |
+| 2023AF4782    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 31-Mar-2023  |
 | 2023AF4996    | NRB         | Nairobi | Kenya     | AP           | Issued   | 31-Mar-2023  |
+| 2023AF5109    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 31-Mar-2023  |
 | 2023AF5140    | NRB         | Nairobi | Kenya     | Ready        | AP       | 31-Mar-2023  |
+| 2023AF5348    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 31-Mar-2023  |
+| 2023AF6504    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 31-Mar-2023  |
+| 2023AF6698    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 31-Mar-2023  |
+| 2023AF6978    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 31-Mar-2023  |
+| 2023AF7406    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 31-Mar-2023  |
+| 2023AF7566    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 31-Mar-2023  |
 | 2023AF7624    | NRB         | Nairobi | Kenya     | AP           | Issued   | 31-Mar-2023  |
 | 2023AF8263    | NRB         | Nairobi | Kenya     | AP           | Issued   | 31-Mar-2023  |
+| 2023AF8289    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 31-Mar-2023  |
+| 2023AF14530   | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 31-Mar-2023  |
+| 2023AF15535   | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 31-Mar-2023  |
+| 2023AF16154   | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 31-Mar-2023  |
+| 2023AF17171   | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 31-Mar-2023  |
+| 2023AF17667   | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 31-Mar-2023  |
+| 2023AF18249   | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 31-Mar-2023  |
+| 2023AF19586   | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 31-Mar-2023  |
 +---------------+-------------+---------+-----------+--------------+----------+--------------+
 Consulate: PHP
 +---------------+-------------+------------+-----------+--------------+----------+--------------+

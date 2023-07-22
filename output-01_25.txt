@@ -28,8 +28,57 @@ Consulate: ADD
 +---------------+-------------+-------------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City        | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+-------------+-----------+--------------+----------+--------------|
+| 2023AF1481    | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready    | 25-Jan-2023  |
+| 2023AF1677    | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready    | 25-Jan-2023  |
+| 2023AF2762    | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready    | 25-Jan-2023  |
+| 2023AF2828    | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready    | 25-Jan-2023  |
+| 2023AF2845    | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready    | 25-Jan-2023  |
+| 2023AF2853    | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready    | 25-Jan-2023  |
+| 2023AF2881    | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready    | 25-Jan-2023  |
+| 2023AF3122    | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready    | 25-Jan-2023  |
+| 2023AF3376    | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready    | 25-Jan-2023  |
+| 2023AF3432    | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready    | 25-Jan-2023  |
+| 2023AF3554    | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready    | 25-Jan-2023  |
+| 2023AF3872    | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready    | 25-Jan-2023  |
+| 2023AF4048    | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready    | 25-Jan-2023  |
+| 2023AF4354    | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready    | 25-Jan-2023  |
+| 2023AF5449    | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready    | 25-Jan-2023  |
 | 2023AF6003    | ADD         | Addis Ababa | Ethiopia  | AP           | Issued   | 25-Jan-2023  |
 | 2023AF6111    | ADD         | Addis Ababa | Ethiopia  | AP           | Issued   | 25-Jan-2023  |
+| 2023AF6134    | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready    | 25-Jan-2023  |
+| 2023AF6346    | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready    | 25-Jan-2023  |
+| 2023AF6839    | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready    | 25-Jan-2023  |
+| 2023AF7555    | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready    | 25-Jan-2023  |
+| 2023AF9023    | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready    | 25-Jan-2023  |
+| 2023AF9040    | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready    | 25-Jan-2023  |
+| 2023AF9306    | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready    | 25-Jan-2023  |
+| 2023AF9614    | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready    | 25-Jan-2023  |
+| 2023AF9616    | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready    | 25-Jan-2023  |
+| 2023AF9800    | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready    | 25-Jan-2023  |
+| 2023AF9809    | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready    | 25-Jan-2023  |
+| 2023AF9861    | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready    | 25-Jan-2023  |
+| 2023AF9894    | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready    | 25-Jan-2023  |
+| 2023AF9929    | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready    | 25-Jan-2023  |
+| 2023AF9976    | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready    | 25-Jan-2023  |
+| 2023AF10264   | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready    | 25-Jan-2023  |
+| 2023AF10311   | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready    | 25-Jan-2023  |
+| 2023AF10421   | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready    | 25-Jan-2023  |
+| 2023AF10533   | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready    | 25-Jan-2023  |
+| 2023AF10672   | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready    | 25-Jan-2023  |
+| 2023AF10689   | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready    | 25-Jan-2023  |
+| 2023AF10705   | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready    | 25-Jan-2023  |
+| 2023AF10728   | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready    | 25-Jan-2023  |
+| 2023AF10733   | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready    | 25-Jan-2023  |
+| 2023AF10744   | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready    | 25-Jan-2023  |
+| 2023AF10769   | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready    | 25-Jan-2023  |
+| 2023AF10908   | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready    | 25-Jan-2023  |
+| 2023AF10946   | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready    | 25-Jan-2023  |
+| 2023AF10987   | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready    | 25-Jan-2023  |
+| 2023AF11151   | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready    | 25-Jan-2023  |
+| 2023AF11249   | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready    | 25-Jan-2023  |
+| 2023AF11296   | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready    | 25-Jan-2023  |
+| 2023AF11337   | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready    | 25-Jan-2023  |
+| 2023AF11342   | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready    | 25-Jan-2023  |
 +---------------+-------------+-------------+-----------+--------------+----------+--------------+
 Consulate: AKD
 +---------------+-------------+----------+--------------+--------------+----------+--------------+
@@ -276,6 +325,7 @@ Consulate: MNG
 | Case Number   | Consulate   | City    | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+---------+-----------+--------------+----------+--------------|
 | 2023SA359     | MNG         | Managua | Nicaragua | Refused221g  | Ready    | 25-Jan-2023  |
+| 2023SA1611    | MNG         | Managua | Nicaragua | InTransit    | Ready    | 25-Jan-2023  |
 +---------------+-------------+---------+-----------+--------------+----------+--------------+
 Consulate: MRV
 +---------------+-------------+----------+-----------+--------------+-------------+--------------+
@@ -377,6 +427,16 @@ Consulate: None
 | 2023AS16940   | None        |        |           | NVC          | InTransit | None         |
 | 2023AS18316   | None        |        |           | NVC          | InTransit | None         |
 +---------------+-------------+--------+-----------+--------------+-----------+--------------+
+Consulate: PRG
++---------------+-------------+--------+----------------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country        | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+----------------+--------------+----------+--------------|
+| 2023EU15122   | PRG         | Prague | Czech Republic | InTransit    | Ready    | 25-Jan-2023  |
+| 2023EU15164   | PRG         | Prague | Czech Republic | InTransit    | Ready    | 25-Jan-2023  |
+| 2023EU19991   | PRG         | Prague | Czech Republic | InTransit    | Ready    | 25-Jan-2023  |
+| 2023EU20120   | PRG         | Prague | Czech Republic | InTransit    | Ready    | 25-Jan-2023  |
+| 2023EU21642   | PRG         | Prague | Czech Republic | InTransit    | Ready    | 25-Jan-2023  |
++---------------+-------------+--------+----------------+--------------+----------+--------------+
 Consulate: PRS
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status      | statusDate   |
@@ -427,7 +487,25 @@ Consulate: SYD
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023AF19827   | SYD         | Sydney | Australia | InTransit    | Ready    | 25-Jan-2023  |
+| 2023AF35573   | SYD         | Sydney | Australia | InTransit    | Ready    | 25-Jan-2023  |
 | 2023AS306     | SYD         | Sydney | Australia | Ready        | AP       | 25-Jan-2023  |
+| 2023AS625     | SYD         | Sydney | Australia | InTransit    | Ready    | 25-Jan-2023  |
+| 2023AS3551    | SYD         | Sydney | Australia | InTransit    | Ready    | 25-Jan-2023  |
+| 2023AS4445    | SYD         | Sydney | Australia | InTransit    | Ready    | 25-Jan-2023  |
+| 2023AS7773    | SYD         | Sydney | Australia | InTransit    | Ready    | 25-Jan-2023  |
+| 2023AS11388   | SYD         | Sydney | Australia | InTransit    | Ready    | 25-Jan-2023  |
+| 2023AS12881   | SYD         | Sydney | Australia | InTransit    | Ready    | 25-Jan-2023  |
+| 2023AS15882   | SYD         | Sydney | Australia | InTransit    | Ready    | 25-Jan-2023  |
+| 2023AS17994   | SYD         | Sydney | Australia | InTransit    | Ready    | 25-Jan-2023  |
+| 2023AS18718   | SYD         | Sydney | Australia | InTransit    | Ready    | 25-Jan-2023  |
+| 2023EU10867   | SYD         | Sydney | Australia | InTransit    | Ready    | 25-Jan-2023  |
+| 2023EU15161   | SYD         | Sydney | Australia | InTransit    | Ready    | 25-Jan-2023  |
+| 2023EU16017   | SYD         | Sydney | Australia | InTransit    | Ready    | 25-Jan-2023  |
+| 2023EU16094   | SYD         | Sydney | Australia | InTransit    | Ready    | 25-Jan-2023  |
+| 2023EU19215   | SYD         | Sydney | Australia | InTransit    | Ready    | 25-Jan-2023  |
+| 2023OC422     | SYD         | Sydney | Australia | InTransit    | Ready    | 25-Jan-2023  |
+| 2023OC763     | SYD         | Sydney | Australia | InTransit    | Ready    | 25-Jan-2023  |
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: THT
 +---------------+-------------+----------+------------+--------------+----------+--------------+

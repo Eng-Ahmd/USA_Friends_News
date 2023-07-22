@@ -324,6 +324,41 @@ Consulate: JHN
 |---------------+-------------+--------------+--------------+--------------+----------+--------------|
 | 2023AF17156   | JHN         | Johannesburg | South Africa | AP           | Issued   | 13-Mar-2023  |
 +---------------+-------------+--------------+--------------+--------------+----------+--------------+
+Consulate: KHT
++---------------+-------------+----------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City     | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+----------+-----------+--------------+----------+--------------|
+| 2023AF4566    | KHT         | Khartoum | Sudan     | InTransit    | Ready    | 13-Mar-2023  |
+| 2023AF6018    | KHT         | Khartoum | Sudan     | InTransit    | Ready    | 13-Mar-2023  |
+| 2023AF6886    | KHT         | Khartoum | Sudan     | InTransit    | Ready    | 12-Mar-2023  |
+| 2023AF8834    | KHT         | Khartoum | Sudan     | InTransit    | Ready    | 13-Mar-2023  |
+| 2023AF9001    | KHT         | Khartoum | Sudan     | InTransit    | Ready    | 12-Mar-2023  |
+| 2023AF9355    | KHT         | Khartoum | Sudan     | InTransit    | Ready    | 12-Mar-2023  |
+| 2023AF10112   | KHT         | Khartoum | Sudan     | InTransit    | Ready    | 12-Mar-2023  |
+| 2023AF10346   | KHT         | Khartoum | Sudan     | InTransit    | Ready    | 12-Mar-2023  |
+| 2023AF10436   | KHT         | Khartoum | Sudan     | InTransit    | Ready    | 13-Mar-2023  |
+| 2023AF10505   | KHT         | Khartoum | Sudan     | InTransit    | Ready    | 13-Mar-2023  |
+| 2023AF10659   | KHT         | Khartoum | Sudan     | InTransit    | Ready    | 12-Mar-2023  |
+| 2023AF10975   | KHT         | Khartoum | Sudan     | InTransit    | Ready    | 13-Mar-2023  |
+| 2023AF11109   | KHT         | Khartoum | Sudan     | InTransit    | Ready    | 12-Mar-2023  |
+| 2023AF11283   | KHT         | Khartoum | Sudan     | InTransit    | Ready    | 12-Mar-2023  |
+| 2023AF11400   | KHT         | Khartoum | Sudan     | InTransit    | Ready    | 12-Mar-2023  |
+| 2023AF12189   | KHT         | Khartoum | Sudan     | InTransit    | Ready    | 13-Mar-2023  |
+| 2023AF12199   | KHT         | Khartoum | Sudan     | InTransit    | Ready    | 12-Mar-2023  |
+| 2023AF12320   | KHT         | Khartoum | Sudan     | InTransit    | Ready    | 12-Mar-2023  |
+| 2023AF12352   | KHT         | Khartoum | Sudan     | InTransit    | Ready    | 12-Mar-2023  |
+| 2023AF12810   | KHT         | Khartoum | Sudan     | InTransit    | Ready    | 12-Mar-2023  |
+| 2023AF12823   | KHT         | Khartoum | Sudan     | InTransit    | Ready    | 13-Mar-2023  |
+| 2023AF13001   | KHT         | Khartoum | Sudan     | InTransit    | Ready    | 13-Mar-2023  |
+| 2023AF13090   | KHT         | Khartoum | Sudan     | InTransit    | Ready    | 13-Mar-2023  |
+| 2023AF13207   | KHT         | Khartoum | Sudan     | InTransit    | Ready    | 12-Mar-2023  |
+| 2023AF13215   | KHT         | Khartoum | Sudan     | InTransit    | Ready    | 12-Mar-2023  |
+| 2023AF13285   | KHT         | Khartoum | Sudan     | InTransit    | Ready    | 12-Mar-2023  |
+| 2023AF13397   | KHT         | Khartoum | Sudan     | InTransit    | Ready    | 13-Mar-2023  |
+| 2023AF13812   | KHT         | Khartoum | Sudan     | InTransit    | Ready    | 12-Mar-2023  |
+| 2023AF13925   | KHT         | Khartoum | Sudan     | InTransit    | Ready    | 12-Mar-2023  |
+| 2023AS2772    | KHT         | Khartoum | Sudan     | InTransit    | Ready    | 13-Mar-2023  |
++---------------+-------------+----------+-----------+--------------+----------+--------------+
 Consulate: KIN
 +---------------+-------------+----------+----------------------------------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City     | Country                          | PrevStatus   | Status      | statusDate   |
@@ -365,6 +400,13 @@ Consulate: LND
 | 2023EU22284   | LND         | London | United Kingdom | Ready        | AP       | 13-Mar-2023  |
 | 2023EU23206   | LND         | London | United Kingdom | Ready        | AP       | 13-Mar-2023  |
 +---------------+-------------+--------+----------------+--------------+----------+--------------+
+Consulate: LPZ
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023SA910     | LPZ         | La Paz | Bolivia   | InTransit    | Ready    | 13-Mar-2023  |
+| 2023SA2062    | LPZ         | La Paz | Bolivia   | InTransit    | Ready    | 13-Mar-2023  |
++---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: MNA
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
@@ -523,6 +565,31 @@ Consulate: TNS
 | 2023AF40606   | TNS         | Tunis  | Tunisia   | AP           | Issued   | 13-Mar-2023  |
 | 2023AF44323   | TNS         | Tunis  | Tunisia   | AP           | Issued   | 13-Mar-2023  |
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
+Consulate: ULN
++---------------+-------------+-------------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City        | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+-------------+-----------+--------------+----------+--------------|
+| 2023AS456     | ULN         | Ulaanbaatar | Mongolia  | InTransit    | Ready    | 13-Mar-2023  |
+| 2023AS2956    | ULN         | Ulaanbaatar | Mongolia  | InTransit    | Ready    | 13-Mar-2023  |
+| 2023AS4261    | ULN         | Ulaanbaatar | Mongolia  | InTransit    | Ready    | 13-Mar-2023  |
+| 2023AS4546    | ULN         | Ulaanbaatar | Mongolia  | InTransit    | Ready    | 13-Mar-2023  |
+| 2023AS5167    | ULN         | Ulaanbaatar | Mongolia  | InTransit    | Ready    | 13-Mar-2023  |
+| 2023AS5559    | ULN         | Ulaanbaatar | Mongolia  | InTransit    | Ready    | 13-Mar-2023  |
+| 2023AS6725    | ULN         | Ulaanbaatar | Mongolia  | InTransit    | Ready    | 13-Mar-2023  |
+| 2023AS7148    | ULN         | Ulaanbaatar | Mongolia  | InTransit    | Ready    | 13-Mar-2023  |
+| 2023AS7246    | ULN         | Ulaanbaatar | Mongolia  | InTransit    | Ready    | 13-Mar-2023  |
+| 2023AS7476    | ULN         | Ulaanbaatar | Mongolia  | InTransit    | Ready    | 13-Mar-2023  |
+| 2023AS7567    | ULN         | Ulaanbaatar | Mongolia  | InTransit    | Ready    | 13-Mar-2023  |
+| 2023AS8586    | ULN         | Ulaanbaatar | Mongolia  | InTransit    | Ready    | 13-Mar-2023  |
+| 2023AS9098    | ULN         | Ulaanbaatar | Mongolia  | InTransit    | Ready    | 13-Mar-2023  |
+| 2023AS9158    | ULN         | Ulaanbaatar | Mongolia  | InTransit    | Ready    | 13-Mar-2023  |
+| 2023AS10199   | ULN         | Ulaanbaatar | Mongolia  | InTransit    | Ready    | 13-Mar-2023  |
+| 2023AS10618   | ULN         | Ulaanbaatar | Mongolia  | InTransit    | Ready    | 13-Mar-2023  |
+| 2023AS11901   | ULN         | Ulaanbaatar | Mongolia  | InTransit    | Ready    | 13-Mar-2023  |
+| 2023AS15869   | ULN         | Ulaanbaatar | Mongolia  | InTransit    | Ready    | 13-Mar-2023  |
+| 2023AS17628   | ULN         | Ulaanbaatar | Mongolia  | InTransit    | Ready    | 13-Mar-2023  |
+| 2023AS18639   | ULN         | Ulaanbaatar | Mongolia  | InTransit    | Ready    | 13-Mar-2023  |
++---------------+-------------+-------------+-----------+--------------+----------+--------------+
 Consulate: VIL
 +---------------+-------------+---------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City    | Country   | PrevStatus   | Status   | statusDate   |

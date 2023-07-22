@@ -125,6 +125,26 @@ Consulate: CSB
 | 2023AF18622   | CSB         | Casablanca | Morocco   | Refused221g  | AP          | 24-Feb-2023  |
 | 2023AF18629   | CSB         | Casablanca | Morocco   | Refused221g  | AP          | 24-Feb-2023  |
 +---------------+-------------+------------+-----------+--------------+-------------+--------------+
+Consulate: DHB
++---------------+-------------+----------+------------+--------------+----------+--------------+
+| Case Number   | Consulate   | City     | Country    | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+----------+------------+--------------+----------+--------------|
+| 2023EU12140   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 24-Feb-2023  |
+| 2023EU15279   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 24-Feb-2023  |
+| 2023EU16565   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 24-Feb-2023  |
+| 2023EU18010   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 24-Feb-2023  |
+| 2023EU18238   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 24-Feb-2023  |
+| 2023EU18279   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 24-Feb-2023  |
+| 2023EU18331   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 24-Feb-2023  |
+| 2023EU18357   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 24-Feb-2023  |
+| 2023EU18358   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 24-Feb-2023  |
+| 2023EU18369   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 24-Feb-2023  |
+| 2023EU18559   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 24-Feb-2023  |
+| 2023EU18583   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 24-Feb-2023  |
+| 2023EU18638   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 24-Feb-2023  |
+| 2023EU18657   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 24-Feb-2023  |
+| 2023EU18697   | DHB         | Dushanbe | Tajikistan | InTransit    | Ready    | 24-Feb-2023  |
++---------------+-------------+----------+------------+--------------+----------+--------------+
 Consulate: FRN
 +---------------+-------------+-----------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City      | Country   | PrevStatus   | Status   | statusDate   |
@@ -212,6 +232,99 @@ Consulate: KIN
 | 2023AF32297   | KIN         | Kinshasa | Democratic Republic of the Congo | AP           | Issued   | 24-Feb-2023  |
 | 2023AF33779   | KIN         | Kinshasa | Democratic Republic of the Congo | AP           | Issued   | 24-Feb-2023  |
 +---------------+-------------+----------+----------------------------------+--------------+----------+--------------+
+Consulate: LJU
++---------------+-------------+-----------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City      | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+-----------+-----------+--------------+----------+--------------|
+| 2023EU28066   | LJU         | Ljubljana | Slovenia  | InTransit    | Ready    | 24-Feb-2023  |
++---------------+-------------+-----------+-----------+--------------+----------+--------------+
+Consulate: LOM
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023AF119     | LOM         | Lome   | Togo      | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AF408     | LOM         | Lome   | Togo      | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AF3310    | LOM         | Lome   | Togo      | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AF3537    | LOM         | Lome   | Togo      | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AF3778    | LOM         | Lome   | Togo      | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AF6119    | LOM         | Lome   | Togo      | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AF6883    | LOM         | Lome   | Togo      | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AF7562    | LOM         | Lome   | Togo      | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AF7846    | LOM         | Lome   | Togo      | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AF8170    | LOM         | Lome   | Togo      | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AF9532    | LOM         | Lome   | Togo      | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AF10060   | LOM         | Lome   | Togo      | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AF13377   | LOM         | Lome   | Togo      | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AF14547   | LOM         | Lome   | Togo      | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AF14925   | LOM         | Lome   | Togo      | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AF16977   | LOM         | Lome   | Togo      | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AF17631   | LOM         | Lome   | Togo      | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AF19212   | LOM         | Lome   | Togo      | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AF20009   | LOM         | Lome   | Togo      | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AF20513   | LOM         | Lome   | Togo      | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AF23234   | LOM         | Lome   | Togo      | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AF23706   | LOM         | Lome   | Togo      | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AF23791   | LOM         | Lome   | Togo      | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AF23976   | LOM         | Lome   | Togo      | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AF24112   | LOM         | Lome   | Togo      | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AF24127   | LOM         | Lome   | Togo      | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AF24372   | LOM         | Lome   | Togo      | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AF24430   | LOM         | Lome   | Togo      | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AF24541   | LOM         | Lome   | Togo      | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AF24745   | LOM         | Lome   | Togo      | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AF24846   | LOM         | Lome   | Togo      | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AF24990   | LOM         | Lome   | Togo      | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AF25008   | LOM         | Lome   | Togo      | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AF25159   | LOM         | Lome   | Togo      | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AF25348   | LOM         | Lome   | Togo      | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AF25823   | LOM         | Lome   | Togo      | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AF25904   | LOM         | Lome   | Togo      | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AF26240   | LOM         | Lome   | Togo      | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AF26269   | LOM         | Lome   | Togo      | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AF26351   | LOM         | Lome   | Togo      | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AF26365   | LOM         | Lome   | Togo      | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AF27000   | LOM         | Lome   | Togo      | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AF27519   | LOM         | Lome   | Togo      | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AF27585   | LOM         | Lome   | Togo      | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AF27713   | LOM         | Lome   | Togo      | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AF27918   | LOM         | Lome   | Togo      | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AF28097   | LOM         | Lome   | Togo      | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AF28359   | LOM         | Lome   | Togo      | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AF28398   | LOM         | Lome   | Togo      | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AF28846   | LOM         | Lome   | Togo      | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AF28863   | LOM         | Lome   | Togo      | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AF29085   | LOM         | Lome   | Togo      | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AF29537   | LOM         | Lome   | Togo      | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AF29675   | LOM         | Lome   | Togo      | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AF29687   | LOM         | Lome   | Togo      | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AF29863   | LOM         | Lome   | Togo      | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AF30331   | LOM         | Lome   | Togo      | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AF30381   | LOM         | Lome   | Togo      | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AF30926   | LOM         | Lome   | Togo      | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AF31065   | LOM         | Lome   | Togo      | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AF31070   | LOM         | Lome   | Togo      | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AF31075   | LOM         | Lome   | Togo      | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AF31330   | LOM         | Lome   | Togo      | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AF31358   | LOM         | Lome   | Togo      | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AF31408   | LOM         | Lome   | Togo      | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AF31482   | LOM         | Lome   | Togo      | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AF31703   | LOM         | Lome   | Togo      | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AF31786   | LOM         | Lome   | Togo      | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AF32112   | LOM         | Lome   | Togo      | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AF32241   | LOM         | Lome   | Togo      | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AF32638   | LOM         | Lome   | Togo      | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AF32811   | LOM         | Lome   | Togo      | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AF32873   | LOM         | Lome   | Togo      | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AF33029   | LOM         | Lome   | Togo      | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AF33037   | LOM         | Lome   | Togo      | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AF33149   | LOM         | Lome   | Togo      | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AF33540   | LOM         | Lome   | Togo      | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AF33542   | LOM         | Lome   | Togo      | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AF33683   | LOM         | Lome   | Togo      | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AF33931   | LOM         | Lome   | Togo      | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AF34269   | LOM         | Lome   | Togo      | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AF34681   | LOM         | Lome   | Togo      | InTransit    | Ready    | 24-Feb-2023  |
++---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: LUS
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status      | statusDate   |
@@ -243,7 +356,37 @@ Consulate: PRI
 +---------------+-------------+----------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City     | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+----------+-----------+--------------+----------+--------------|
+| 2023EU330     | PRI         | Pristina | Kosovo    | InTransit    | Ready    | 24-Feb-2023  |
 | 2023EU1172    | PRI         | Pristina | Kosovo    | Transfer     | Ready    | 24-Feb-2023  |
+| 2023EU5497    | PRI         | Pristina | Kosovo    | InTransit    | Ready    | 24-Feb-2023  |
+| 2023EU6457    | PRI         | Pristina | Kosovo    | InTransit    | Ready    | 24-Feb-2023  |
+| 2023EU7535    | PRI         | Pristina | Kosovo    | InTransit    | Ready    | 24-Feb-2023  |
+| 2023EU18896   | PRI         | Pristina | Kosovo    | InTransit    | Ready    | 24-Feb-2023  |
+| 2023EU21185   | PRI         | Pristina | Kosovo    | InTransit    | Ready    | 24-Feb-2023  |
+| 2023EU21198   | PRI         | Pristina | Kosovo    | InTransit    | Ready    | 24-Feb-2023  |
+| 2023EU21240   | PRI         | Pristina | Kosovo    | InTransit    | Ready    | 24-Feb-2023  |
+| 2023EU21331   | PRI         | Pristina | Kosovo    | InTransit    | Ready    | 24-Feb-2023  |
+| 2023EU21555   | PRI         | Pristina | Kosovo    | InTransit    | Ready    | 24-Feb-2023  |
+| 2023EU21641   | PRI         | Pristina | Kosovo    | InTransit    | Ready    | 24-Feb-2023  |
+| 2023EU21673   | PRI         | Pristina | Kosovo    | InTransit    | Ready    | 24-Feb-2023  |
+| 2023EU21787   | PRI         | Pristina | Kosovo    | InTransit    | Ready    | 24-Feb-2023  |
+| 2023EU21844   | PRI         | Pristina | Kosovo    | InTransit    | Ready    | 24-Feb-2023  |
+| 2023EU22006   | PRI         | Pristina | Kosovo    | InTransit    | Ready    | 24-Feb-2023  |
+| 2023EU22505   | PRI         | Pristina | Kosovo    | InTransit    | Ready    | 24-Feb-2023  |
+| 2023EU22599   | PRI         | Pristina | Kosovo    | InTransit    | Ready    | 24-Feb-2023  |
+| 2023EU23218   | PRI         | Pristina | Kosovo    | InTransit    | Ready    | 24-Feb-2023  |
+| 2023EU23476   | PRI         | Pristina | Kosovo    | InTransit    | Ready    | 24-Feb-2023  |
+| 2023EU23735   | PRI         | Pristina | Kosovo    | InTransit    | Ready    | 24-Feb-2023  |
+| 2023EU23935   | PRI         | Pristina | Kosovo    | InTransit    | Ready    | 24-Feb-2023  |
+| 2023EU23958   | PRI         | Pristina | Kosovo    | InTransit    | Ready    | 24-Feb-2023  |
+| 2023EU23991   | PRI         | Pristina | Kosovo    | InTransit    | Ready    | 24-Feb-2023  |
+| 2023EU24206   | PRI         | Pristina | Kosovo    | InTransit    | Ready    | 24-Feb-2023  |
+| 2023EU24525   | PRI         | Pristina | Kosovo    | InTransit    | Ready    | 24-Feb-2023  |
+| 2023EU24667   | PRI         | Pristina | Kosovo    | InTransit    | Ready    | 24-Feb-2023  |
+| 2023EU24886   | PRI         | Pristina | Kosovo    | InTransit    | Ready    | 24-Feb-2023  |
+| 2023EU25206   | PRI         | Pristina | Kosovo    | InTransit    | Ready    | 24-Feb-2023  |
+| 2023EU25629   | PRI         | Pristina | Kosovo    | InTransit    | Ready    | 24-Feb-2023  |
+| 2023EU25808   | PRI         | Pristina | Kosovo    | InTransit    | Ready    | 24-Feb-2023  |
 | 2023EU26391   | PRI         | Pristina | Kosovo    | Transfer     | Ready    | 24-Feb-2023  |
 +---------------+-------------+----------+-----------+--------------+----------+--------------+
 Consulate: PRS
@@ -276,6 +419,17 @@ Consulate: SNT
 |---------------+-------------+-----------+-----------+--------------+-------------+--------------|
 | 2023EU1423    | SNT         | Santiagoi | Chile     | Ready        | Refused221g | 24-Feb-2023  |
 +---------------+-------------+-----------+-----------+--------------+-------------+--------------+
+Consulate: STK
++---------------+-------------+-----------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City      | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+-----------+-----------+--------------+----------+--------------|
+| 2023AF32800   | STK         | Stockholm | Sweden    | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AF44245   | STK         | Stockholm | Sweden    | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AF46545   | STK         | Stockholm | Sweden    | InTransit    | Ready    | 24-Feb-2023  |
+| 2023EU15608   | STK         | Stockholm | Sweden    | InTransit    | Ready    | 24-Feb-2023  |
+| 2023EU20797   | STK         | Stockholm | Sweden    | InTransit    | Ready    | 24-Feb-2023  |
+| 2023EU26062   | STK         | Stockholm | Sweden    | InTransit    | Ready    | 24-Feb-2023  |
++---------------+-------------+-----------+-----------+--------------+----------+--------------+
 Consulate: SUV
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
@@ -303,6 +457,22 @@ Consulate: THT
 |---------------+-------------+----------+------------+--------------+----------+--------------|
 | 2023EU3462    | THT         | Tashkent | Uzbekistan | Refused221g  | Transfer | 24-Feb-2023  |
 +---------------+-------------+----------+------------+--------------+----------+--------------+
+Consulate: TKY
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023AS4020    | TKY         | Tokyo  | Japan     | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AS8011    | TKY         | Tokyo  | Japan     | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AS8259    | TKY         | Tokyo  | Japan     | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AS9519    | TKY         | Tokyo  | Japan     | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AS10501   | TKY         | Tokyo  | Japan     | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AS10675   | TKY         | Tokyo  | Japan     | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AS12685   | TKY         | Tokyo  | Japan     | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AS15121   | TKY         | Tokyo  | Japan     | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AS15293   | TKY         | Tokyo  | Japan     | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AS15509   | TKY         | Tokyo  | Japan     | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AS16022   | TKY         | Tokyo  | Japan     | InTransit    | Ready    | 24-Feb-2023  |
++---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: ULN
 +---------------+-------------+-------------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City        | Country   | PrevStatus   | Status   | statusDate   |

@@ -16,10 +16,34 @@ Consulate: ABJ
 +---------------+-------------+---------+---------------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City    | Country       | PrevStatus   | Status      | statusDate   |
 |---------------+-------------+---------+---------------+--------------+-------------+--------------|
+| 2023AF3605    | ABJ         | Abidjan | Cote d'Ivoire | InTransit    | Ready       | 15-Feb-2023  |
 | 2023AF6616    | ABJ         | Abidjan | Cote d'Ivoire | Ready        | Refused221g | 15-Feb-2023  |
+| 2023AF6948    | ABJ         | Abidjan | Cote d'Ivoire | InTransit    | Ready       | 15-Feb-2023  |
+| 2023AF11514   | ABJ         | Abidjan | Cote d'Ivoire | InTransit    | Ready       | 15-Feb-2023  |
 | 2023AF12696   | ABJ         | Abidjan | Cote d'Ivoire | Ready        | Refused     | 15-Feb-2023  |
+| 2023AF13088   | ABJ         | Abidjan | Cote d'Ivoire | InTransit    | Ready       | 15-Feb-2023  |
+| 2023AF13095   | ABJ         | Abidjan | Cote d'Ivoire | InTransit    | Ready       | 15-Feb-2023  |
+| 2023AF13295   | ABJ         | Abidjan | Cote d'Ivoire | InTransit    | Ready       | 15-Feb-2023  |
+| 2023AF13320   | ABJ         | Abidjan | Cote d'Ivoire | InTransit    | Ready       | 15-Feb-2023  |
 | 2023AF14804   | ABJ         | Abidjan | Cote d'Ivoire | Ready        | Refused221g | 15-Feb-2023  |
 | 2023AF17486   | ABJ         | Abidjan | Cote d'Ivoire | Ready        | Refused221g | 15-Feb-2023  |
+| 2023AF20560   | ABJ         | Abidjan | Cote d'Ivoire | InTransit    | Ready       | 15-Feb-2023  |
+| 2023AF23623   | ABJ         | Abidjan | Cote d'Ivoire | InTransit    | Ready       | 15-Feb-2023  |
+| 2023AF26259   | ABJ         | Abidjan | Cote d'Ivoire | InTransit    | Ready       | 15-Feb-2023  |
+| 2023AF26808   | ABJ         | Abidjan | Cote d'Ivoire | InTransit    | Ready       | 15-Feb-2023  |
+| 2023AF26877   | ABJ         | Abidjan | Cote d'Ivoire | InTransit    | Ready       | 15-Feb-2023  |
+| 2023AF27537   | ABJ         | Abidjan | Cote d'Ivoire | InTransit    | Ready       | 15-Feb-2023  |
+| 2023AF28257   | ABJ         | Abidjan | Cote d'Ivoire | InTransit    | Ready       | 15-Feb-2023  |
+| 2023AF28557   | ABJ         | Abidjan | Cote d'Ivoire | InTransit    | Ready       | 15-Feb-2023  |
+| 2023AF29380   | ABJ         | Abidjan | Cote d'Ivoire | InTransit    | Ready       | 15-Feb-2023  |
+| 2023AF29877   | ABJ         | Abidjan | Cote d'Ivoire | InTransit    | Ready       | 15-Feb-2023  |
+| 2023AF30273   | ABJ         | Abidjan | Cote d'Ivoire | InTransit    | Ready       | 15-Feb-2023  |
+| 2023AF30301   | ABJ         | Abidjan | Cote d'Ivoire | InTransit    | Ready       | 15-Feb-2023  |
+| 2023AF31214   | ABJ         | Abidjan | Cote d'Ivoire | InTransit    | Ready       | 15-Feb-2023  |
+| 2023AF31235   | ABJ         | Abidjan | Cote d'Ivoire | InTransit    | Ready       | 15-Feb-2023  |
+| 2023AF32225   | ABJ         | Abidjan | Cote d'Ivoire | InTransit    | Ready       | 15-Feb-2023  |
+| 2023AF34825   | ABJ         | Abidjan | Cote d'Ivoire | InTransit    | Ready       | 15-Feb-2023  |
+| 2023AF34915   | ABJ         | Abidjan | Cote d'Ivoire | InTransit    | Ready       | 15-Feb-2023  |
 +---------------+-------------+---------+---------------+--------------+-------------+--------------+
 Consulate: ADD
 +---------------+-------------+-------------+-----------+--------------+-------------+--------------+
@@ -27,6 +51,33 @@ Consulate: ADD
 |---------------+-------------+-------------+-----------+--------------+-------------+--------------|
 | 2023AF872     | ADD         | Addis Ababa | Ethiopia  | Ready        | Refused221g | 15-Feb-2023  |
 +---------------+-------------+-------------+-----------+--------------+-------------+--------------+
+Consulate: AKD
++---------------+-------------+----------+--------------+--------------+----------+--------------+
+| Case Number   | Consulate   | City     | Country      | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+----------+--------------+--------------+----------+--------------|
+| 2023EU1998    | AKD         | Ashgabat | Turkmenistan | InTransit    | Ready    | 15-Feb-2023  |
+| 2023EU2930    | AKD         | Ashgabat | Turkmenistan | InTransit    | Ready    | 15-Feb-2023  |
+| 2023EU6086    | AKD         | Ashgabat | Turkmenistan | InTransit    | Ready    | 15-Feb-2023  |
+| 2023EU7260    | AKD         | Ashgabat | Turkmenistan | InTransit    | Ready    | 15-Feb-2023  |
+| 2023EU7963    | AKD         | Ashgabat | Turkmenistan | InTransit    | Ready    | 15-Feb-2023  |
+| 2023EU8806    | AKD         | Ashgabat | Turkmenistan | InTransit    | Ready    | 15-Feb-2023  |
+| 2023EU9269    | AKD         | Ashgabat | Turkmenistan | InTransit    | Ready    | 15-Feb-2023  |
+| 2023EU10144   | AKD         | Ashgabat | Turkmenistan | InTransit    | Ready    | 15-Feb-2023  |
+| 2023EU12765   | AKD         | Ashgabat | Turkmenistan | InTransit    | Ready    | 15-Feb-2023  |
+| 2023EU13319   | AKD         | Ashgabat | Turkmenistan | InTransit    | Ready    | 15-Feb-2023  |
+| 2023EU18349   | AKD         | Ashgabat | Turkmenistan | InTransit    | Ready    | 15-Feb-2023  |
+| 2023EU23244   | AKD         | Ashgabat | Turkmenistan | InTransit    | Ready    | 15-Feb-2023  |
+| 2023EU26028   | AKD         | Ashgabat | Turkmenistan | InTransit    | Ready    | 15-Feb-2023  |
+| 2023EU26122   | AKD         | Ashgabat | Turkmenistan | InTransit    | Ready    | 15-Feb-2023  |
+| 2023EU26511   | AKD         | Ashgabat | Turkmenistan | InTransit    | Ready    | 15-Feb-2023  |
+| 2023EU27173   | AKD         | Ashgabat | Turkmenistan | InTransit    | Ready    | 15-Feb-2023  |
+| 2023EU27245   | AKD         | Ashgabat | Turkmenistan | InTransit    | Ready    | 15-Feb-2023  |
+| 2023EU27808   | AKD         | Ashgabat | Turkmenistan | InTransit    | Ready    | 15-Feb-2023  |
+| 2023EU28038   | AKD         | Ashgabat | Turkmenistan | InTransit    | Ready    | 15-Feb-2023  |
+| 2023EU28427   | AKD         | Ashgabat | Turkmenistan | InTransit    | Ready    | 15-Feb-2023  |
+| 2023EU28550   | AKD         | Ashgabat | Turkmenistan | InTransit    | Ready    | 15-Feb-2023  |
+| 2023EU29292   | AKD         | Ashgabat | Turkmenistan | InTransit    | Ready    | 15-Feb-2023  |
++---------------+-------------+----------+--------------+--------------+----------+--------------+
 Consulate: ALG
 +---------------+-------------+---------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City    | Country   | PrevStatus   | Status   | statusDate   |
@@ -81,7 +132,15 @@ Consulate: AMM
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status      | statusDate   |
 |---------------+-------------+--------+-----------+--------------+-------------+--------------|
+| 2023AS1051    | AMM         | Amman  | Jordan    | InTransit    | Ready       | 15-Feb-2023  |
+| 2023AS4042    | AMM         | Amman  | Jordan    | InTransit    | Ready       | 15-Feb-2023  |
+| 2023AS6123    | AMM         | Amman  | Jordan    | InTransit    | Ready       | 15-Feb-2023  |
+| 2023AS6381    | AMM         | Amman  | Jordan    | InTransit    | Ready       | 15-Feb-2023  |
+| 2023AS6395    | AMM         | Amman  | Jordan    | InTransit    | Ready       | 15-Feb-2023  |
+| 2023AS6586    | AMM         | Amman  | Jordan    | InTransit    | Ready       | 15-Feb-2023  |
+| 2023AS7157    | AMM         | Amman  | Jordan    | InTransit    | Ready       | 15-Feb-2023  |
 | 2023AS9157    | AMM         | Amman  | Jordan    | Ready        | Issued      | 15-Feb-2023  |
+| 2023AS9316    | AMM         | Amman  | Jordan    | InTransit    | Ready       | 15-Feb-2023  |
 | 2023AS9325    | AMM         | Amman  | Jordan    | Ready        | Refused221g | 15-Feb-2023  |
 | 2023AS9593    | AMM         | Amman  | Jordan    | Ready        | Issued      | 15-Feb-2023  |
 | 2023AS10015   | AMM         | Amman  | Jordan    | Ready        | Issued      | 15-Feb-2023  |
@@ -99,9 +158,46 @@ Consulate: AMM
 | 2023AS13602   | AMM         | Amman  | Jordan    | Ready        | AP          | 15-Feb-2023  |
 | 2023AS14105   | AMM         | Amman  | Jordan    | Ready        | AP          | 15-Feb-2023  |
 | 2023AS14263   | AMM         | Amman  | Jordan    | Ready        | AP          | 15-Feb-2023  |
+| 2023AS14641   | AMM         | Amman  | Jordan    | InTransit    | Ready       | 15-Feb-2023  |
 | 2023AS15058   | AMM         | Amman  | Jordan    | Ready        | Issued      | 15-Feb-2023  |
 | 2023AS15125   | AMM         | Amman  | Jordan    | Ready        | AP          | 15-Feb-2023  |
 | 2023AS15495   | AMM         | Amman  | Jordan    | Ready        | AP          | 15-Feb-2023  |
+| 2023AS16404   | AMM         | Amman  | Jordan    | InTransit    | Ready       | 15-Feb-2023  |
+| 2023AS16685   | AMM         | Amman  | Jordan    | InTransit    | Ready       | 15-Feb-2023  |
+| 2023AS16747   | AMM         | Amman  | Jordan    | InTransit    | Ready       | 15-Feb-2023  |
+| 2023AS16925   | AMM         | Amman  | Jordan    | InTransit    | Ready       | 15-Feb-2023  |
+| 2023AS16926   | AMM         | Amman  | Jordan    | InTransit    | Ready       | 15-Feb-2023  |
+| 2023AS16978   | AMM         | Amman  | Jordan    | InTransit    | Ready       | 15-Feb-2023  |
+| 2023AS17002   | AMM         | Amman  | Jordan    | InTransit    | Ready       | 15-Feb-2023  |
+| 2023AS17107   | AMM         | Amman  | Jordan    | InTransit    | Ready       | 15-Feb-2023  |
+| 2023AS17115   | AMM         | Amman  | Jordan    | InTransit    | Ready       | 15-Feb-2023  |
+| 2023AS17177   | AMM         | Amman  | Jordan    | InTransit    | Ready       | 15-Feb-2023  |
+| 2023AS17179   | AMM         | Amman  | Jordan    | InTransit    | Ready       | 15-Feb-2023  |
+| 2023AS17197   | AMM         | Amman  | Jordan    | InTransit    | Ready       | 15-Feb-2023  |
+| 2023AS17489   | AMM         | Amman  | Jordan    | InTransit    | Ready       | 15-Feb-2023  |
+| 2023AS17501   | AMM         | Amman  | Jordan    | InTransit    | Ready       | 15-Feb-2023  |
+| 2023AS17513   | AMM         | Amman  | Jordan    | InTransit    | Ready       | 15-Feb-2023  |
+| 2023AS17594   | AMM         | Amman  | Jordan    | InTransit    | Ready       | 15-Feb-2023  |
+| 2023AS17666   | AMM         | Amman  | Jordan    | InTransit    | Ready       | 15-Feb-2023  |
+| 2023AS17712   | AMM         | Amman  | Jordan    | InTransit    | Ready       | 15-Feb-2023  |
+| 2023AS17838   | AMM         | Amman  | Jordan    | InTransit    | Ready       | 15-Feb-2023  |
+| 2023AS17874   | AMM         | Amman  | Jordan    | InTransit    | Ready       | 15-Feb-2023  |
+| 2023AS17964   | AMM         | Amman  | Jordan    | InTransit    | Ready       | 15-Feb-2023  |
+| 2023AS17967   | AMM         | Amman  | Jordan    | InTransit    | Ready       | 15-Feb-2023  |
+| 2023AS17978   | AMM         | Amman  | Jordan    | InTransit    | Ready       | 15-Feb-2023  |
+| 2023AS18092   | AMM         | Amman  | Jordan    | InTransit    | Ready       | 15-Feb-2023  |
+| 2023AS18200   | AMM         | Amman  | Jordan    | InTransit    | Ready       | 15-Feb-2023  |
+| 2023AS18214   | AMM         | Amman  | Jordan    | InTransit    | Ready       | 15-Feb-2023  |
+| 2023AS18304   | AMM         | Amman  | Jordan    | InTransit    | Ready       | 15-Feb-2023  |
+| 2023AS18305   | AMM         | Amman  | Jordan    | InTransit    | Ready       | 15-Feb-2023  |
+| 2023AS18472   | AMM         | Amman  | Jordan    | InTransit    | Ready       | 15-Feb-2023  |
+| 2023AS18480   | AMM         | Amman  | Jordan    | InTransit    | Ready       | 15-Feb-2023  |
+| 2023AS18517   | AMM         | Amman  | Jordan    | InTransit    | Ready       | 15-Feb-2023  |
+| 2023AS18530   | AMM         | Amman  | Jordan    | InTransit    | Ready       | 15-Feb-2023  |
+| 2023AS18599   | AMM         | Amman  | Jordan    | InTransit    | Ready       | 15-Feb-2023  |
+| 2023AS18603   | AMM         | Amman  | Jordan    | InTransit    | Ready       | 15-Feb-2023  |
+| 2023AS18721   | AMM         | Amman  | Jordan    | InTransit    | Ready       | 15-Feb-2023  |
+| 2023AS18726   | AMM         | Amman  | Jordan    | InTransit    | Ready       | 15-Feb-2023  |
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
 Consulate: AMS
 +---------------+-------------+-----------+-------------+--------------+----------+--------------+
@@ -339,6 +435,7 @@ Consulate: MTV
 +---------------+-------------+------------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City       | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+------------+-----------+--------------+----------+--------------|
+| 2023SA236     | MTV         | Montevideo | Uruguay   | InTransit    | Ready    | 15-Feb-2023  |
 | 2023SA1437    | MTV         | Montevideo | Uruguay   | AP           | Issued   | 15-Feb-2023  |
 +---------------+-------------+------------+-----------+--------------+----------+--------------+
 Consulate: NHA

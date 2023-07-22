@@ -356,6 +356,7 @@ Consulate: LUA
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status      | statusDate   |
 |---------------+-------------+--------+-----------+--------------+-------------+--------------|
 | 2023AF16054   | LUA         | Luanda | Angola    | Ready        | Refused221g | 08-Feb-2023  |
+| 2023AF43246   | LUA         | Luanda | Angola    | InTransit    | Ready       | 08-Feb-2023  |
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
 Consulate: NRB
 +---------------+-------------+---------+-----------+--------------+-------------+--------------+
@@ -458,6 +459,12 @@ Consulate: PRS
 | 2023EU11865   | PRS         | Paris  | France    | Ready        | AP          | 08-Feb-2023  |
 | 2023EU12313   | PRS         | Paris  | France    | Ready        | AP          | 08-Feb-2023  |
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
+Consulate: RGA
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023EU13995   | RGA         | Riga   | Latvia    | InTransit    | Ready    | 08-Feb-2023  |
++---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: RID
 +---------------+-------------+--------+--------------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City   | Country      | PrevStatus   | Status      | statusDate   |
@@ -485,6 +492,17 @@ Consulate: RNG
 | 2023AS9521    | RNG         | Rangoon | Burma     | AP           | Issued      | 08-Feb-2023  |
 | 2023AS11699   | RNG         | Rangoon | Burma     | Ready        | Issued      | 08-Feb-2023  |
 +---------------+-------------+---------+-----------+--------------+-------------+--------------+
+Consulate: SGP
++---------------+-------------+-----------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City      | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+-----------+-----------+--------------+----------+--------------|
+| 2023AS5853    | SGP         | Singapore | Singapore | InTransit    | Ready    | 08-Feb-2023  |
+| 2023AS7774    | SGP         | Singapore | Singapore | InTransit    | Ready    | 08-Feb-2023  |
+| 2023AS11821   | SGP         | Singapore | Singapore | InTransit    | Ready    | 08-Feb-2023  |
+| 2023AS13733   | SGP         | Singapore | Singapore | InTransit    | Ready    | 08-Feb-2023  |
+| 2023AS14629   | SGP         | Singapore | Singapore | InTransit    | Ready    | 08-Feb-2023  |
+| 2023AS15285   | SGP         | Singapore | Singapore | InTransit    | Ready    | 08-Feb-2023  |
++---------------+-------------+-----------+-----------+--------------+----------+--------------+
 Consulate: SNJ
 +---------------+-------------+-----------+------------+--------------+----------+--------------+
 | Case Number   | Consulate   | City      | Country    | PrevStatus   | Status   | statusDate   |
@@ -607,12 +625,33 @@ Consulate: ULN
 +---------------+-------------+-------------+-----------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City        | Country   | PrevStatus   | Status      | statusDate   |
 |---------------+-------------+-------------+-----------+--------------+-------------+--------------|
+| 2023AS1637    | ULN         | Ulaanbaatar | Mongolia  | InTransit    | Ready       | 08-Feb-2023  |
+| 2023AS3820    | ULN         | Ulaanbaatar | Mongolia  | InTransit    | Ready       | 08-Feb-2023  |
+| 2023AS6856    | ULN         | Ulaanbaatar | Mongolia  | InTransit    | Ready       | 08-Feb-2023  |
+| 2023AS7726    | ULN         | Ulaanbaatar | Mongolia  | InTransit    | Ready       | 08-Feb-2023  |
 | 2023AS9043    | ULN         | Ulaanbaatar | Mongolia  | Ready        | AP          | 08-Feb-2023  |
 | 2023AS11152   | ULN         | Ulaanbaatar | Mongolia  | Ready        | AP          | 08-Feb-2023  |
+| 2023AS11961   | ULN         | Ulaanbaatar | Mongolia  | InTransit    | Ready       | 08-Feb-2023  |
+| 2023AS13645   | ULN         | Ulaanbaatar | Mongolia  | InTransit    | Ready       | 08-Feb-2023  |
 | 2023AS13798   | ULN         | Ulaanbaatar | Mongolia  | Ready        | AP          | 08-Feb-2023  |
 | 2023AS14026   | ULN         | Ulaanbaatar | Mongolia  | Ready        | Refused221g | 08-Feb-2023  |
+| 2023AS14071   | ULN         | Ulaanbaatar | Mongolia  | InTransit    | Ready       | 08-Feb-2023  |
 | 2023AS14462   | ULN         | Ulaanbaatar | Mongolia  | Ready        | AP          | 08-Feb-2023  |
+| 2023AS15794   | ULN         | Ulaanbaatar | Mongolia  | InTransit    | Ready       | 08-Feb-2023  |
 +---------------+-------------+-------------+-----------+--------------+-------------+--------------+
+Consulate: VNN
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023AF26069   | VNN         | Vienna | Austria   | InTransit    | Ready    | 08-Feb-2023  |
+| 2023EU17006   | VNN         | Vienna | Austria   | InTransit    | Ready    | 08-Feb-2023  |
+| 2023EU18742   | VNN         | Vienna | Austria   | InTransit    | Ready    | 08-Feb-2023  |
+| 2023EU20012   | VNN         | Vienna | Austria   | InTransit    | Ready    | 08-Feb-2023  |
+| 2023EU21252   | VNN         | Vienna | Austria   | InTransit    | Ready    | 08-Feb-2023  |
+| 2023EU24032   | VNN         | Vienna | Austria   | InTransit    | Ready    | 08-Feb-2023  |
+| 2023EU24302   | VNN         | Vienna | Austria   | InTransit    | Ready    | 08-Feb-2023  |
+| 2023EU25521   | VNN         | Vienna | Austria   | InTransit    | Ready    | 08-Feb-2023  |
++---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: WRW
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status      | statusDate   |

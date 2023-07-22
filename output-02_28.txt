@@ -174,6 +174,15 @@ Consulate: CSB
 | 2023AF15919   | CSB         | Casablanca | Morocco   | Ready        | Refused221g | 28-Feb-2023  |
 | 2023AF18433   | CSB         | Casablanca | Morocco   | Refused221g  | AP          | 28-Feb-2023  |
 +---------------+-------------+------------+-----------+--------------+-------------+--------------+
+Consulate: DHK
++---------------+-------------+--------+------------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country    | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+------------+--------------+----------+--------------|
+| 2023AF3546    | DHK         | Dhaka  | Bangladesh | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF47350   | DHK         | Dhaka  | Bangladesh | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF48717   | DHK         | Dhaka  | Bangladesh | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF49069   | DHK         | Dhaka  | Bangladesh | InTransit    | Ready    | 28-Feb-2023  |
++---------------+-------------+--------+------------+--------------+----------+--------------+
 Consulate: DJI
 +---------------+-------------+----------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City     | Country   | PrevStatus   | Status   | statusDate   |
@@ -182,6 +191,113 @@ Consulate: DJI
 | 2023AF10836   | DJI         | Djibouti | Djibouti  | Refused221g  | AP       | 28-Feb-2023  |
 | 2023AF39577   | DJI         | Djibouti | Djibouti  | Transfer     | Ready    | 28-Feb-2023  |
 +---------------+-------------+----------+-----------+--------------+----------+--------------+
+Consulate: DKR
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023AF61      | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF699     | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF1148    | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF2645    | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF2969    | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF3206    | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF3222    | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF3471    | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF3515    | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF3625    | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF3879    | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF5150    | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF5301    | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF6243    | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF7195    | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF7328    | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF7394    | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF7530    | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF7596    | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF7714    | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF8520    | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF9393    | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF10021   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF10469   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF10662   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF11781   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF11843   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF12092   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF12101   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF12453   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF13351   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF13460   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF14095   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF14350   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF14860   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF15122   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF15127   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF15492   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF16004   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF16185   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF16381   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF20726   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF24279   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF26593   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF28155   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF28730   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF29344   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF29374   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF30086   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF32853   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF35122   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF35656   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF36261   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF36388   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF37551   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF42766   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF42787   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF43565   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF44000   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF45194   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF45357   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF45376   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF45608   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF45668   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF45809   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF45811   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF45827   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF46088   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF46091   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF46128   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF46194   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF46301   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF46457   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF46475   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF46501   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF46894   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF47230   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF47276   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF47305   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF47356   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF47394   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF47475   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF47485   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF47604   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF47707   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF47740   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF47876   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF47929   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF47958   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF48090   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF48143   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF48301   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF48387   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF48539   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF48731   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF48910   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF48926   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF48931   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF49025   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF49531   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF49737   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023AF49931   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 28-Feb-2023  |
++---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: DOH
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
@@ -192,7 +308,127 @@ Consulate: FRN
 +---------------+-------------+-----------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City      | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+-----------+-----------+--------------+----------+--------------|
+| 2023AF15651   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU1582    | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU3914    | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU4811    | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
 | 2023EU6054    | FRN         | Frankfurt | Germany   | AP           | Issued   | 28-Feb-2023  |
+| 2023EU7865    | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU9937    | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU12693   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU15527   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU15561   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU15690   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU16142   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU16201   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU16263   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU16980   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU17031   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU17053   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU17069   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU17340   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU17655   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU18438   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU18546   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU18977   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU19002   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU19354   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU19435   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU19459   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU20426   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU20739   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU20995   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU21084   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU22666   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU22892   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU23422   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU23772   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU23928   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU24077   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU24581   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU24641   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU24697   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU24893   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU26071   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU26134   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU26165   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU26269   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU26301   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU26309   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU26333   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU26436   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU26602   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU26669   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU26701   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU26709   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU26718   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU26741   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU26777   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU26784   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU26804   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU26851   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU26909   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU26925   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU27189   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU27252   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU27267   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU27300   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU27314   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU27332   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU27358   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU27365   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU27371   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU27392   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU27401   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU27439   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU27474   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU27521   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU27601   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU27698   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU27766   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU27785   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU27799   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU27906   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU27941   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU27942   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU28034   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU28073   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU28158   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU28164   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU28167   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU28213   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU28225   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU28233   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU28249   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU28269   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU28423   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU28428   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU28436   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU28473   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU28555   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU28598   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU28608   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU28631   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU28719   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU28911   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU28930   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU28944   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU29057   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU29105   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU29171   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU29193   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU29225   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU29425   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU29442   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU29496   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU29513   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU29618   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU29674   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU29691   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU29875   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU29910   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU29957   | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
+| 2023OC172     | FRN         | Frankfurt | Germany   | InTransit    | Ready    | 28-Feb-2023  |
 +---------------+-------------+-----------+-----------+--------------+----------+--------------+
 Consulate: FTN
 +---------------+-------------+----------+--------------+--------------+-------------+--------------+
@@ -355,6 +591,12 @@ Consulate: MST
 |---------------+-------------+--------+-----------+--------------+-------------+--------------|
 | 2023AF25948   | MST         | Muscat | Oman      | Ready        | Refused221g | 28-Feb-2023  |
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
+Consulate: MTV
++---------------+-------------+------------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City       | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+------------+-----------+--------------+----------+--------------|
+| 2023SA78      | MTV         | Montevideo | Uruguay   | InTransit    | Ready    | 28-Feb-2023  |
++---------------+-------------+------------+-----------+--------------+----------+--------------+
 Consulate: NRB
 +---------------+-------------+---------+-----------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City    | Country   | PrevStatus   | Status      | statusDate   |
@@ -427,6 +669,17 @@ Consulate: None
 | 2023EU14818   | None        |        |           | NVC          | InTransit | None         |
 | 2023EU14912   | None        |        |           | NVC          | InTransit | None         |
 +---------------+-------------+--------+-----------+--------------+-----------+--------------+
+Consulate: PRG
++---------------+-------------+--------+----------------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country        | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+----------------+--------------+----------+--------------|
+| 2023AS11538   | PRG         | Prague | Czech Republic | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU578     | PRG         | Prague | Czech Republic | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU1524    | PRG         | Prague | Czech Republic | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU2459    | PRG         | Prague | Czech Republic | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU7299    | PRG         | Prague | Czech Republic | InTransit    | Ready    | 28-Feb-2023  |
+| 2023EU7824    | PRG         | Prague | Czech Republic | InTransit    | Ready    | 28-Feb-2023  |
++---------------+-------------+--------+----------------+--------------+----------+--------------+
 Consulate: RID
 +---------------+-------------+--------+--------------+--------------+----------+--------------+
 | Case Number   | Consulate   | City   | Country      | PrevStatus   | Status   | statusDate   |

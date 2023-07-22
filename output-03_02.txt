@@ -87,6 +87,7 @@ Consulate: BCH
 |---------------+-------------+-----------+-----------+--------------+-------------+--------------|
 | 2023EU5139    | BCH         | Bucharest | Romania   | Refused221g  | Issued      | 02-Mar-2023  |
 | 2023EU14607   | BCH         | Bucharest | Romania   | Ready        | Refused221g | 02-Mar-2023  |
+| 2023EU18317   | BCH         | Bucharest | Romania   | InTransit    | Ready       | 02-Mar-2023  |
 +---------------+-------------+-----------+-----------+--------------+-------------+--------------+
 Consulate: BDP
 +---------------+-------------+----------+-----------+--------------+----------+--------------+
@@ -138,6 +139,12 @@ Consulate: BRT
 |---------------+-------------+--------+-----------+--------------+-------------+--------------|
 | 2023AS9417    | BRT         | Beirut | Lebanon   | AP           | Issued      | 02-Mar-2023  |
 | 2023AS9855    | BRT         | Beirut | Lebanon   | Ready        | Refused221g | 02-Mar-2023  |
+| 2023AS16711   | BRT         | Beirut | Lebanon   | InTransit    | Ready       | 02-Mar-2023  |
+| 2023AS16805   | BRT         | Beirut | Lebanon   | InTransit    | Ready       | 02-Mar-2023  |
+| 2023AS17189   | BRT         | Beirut | Lebanon   | InTransit    | Ready       | 02-Mar-2023  |
+| 2023AS17443   | BRT         | Beirut | Lebanon   | InTransit    | Ready       | 02-Mar-2023  |
+| 2023AS17932   | BRT         | Beirut | Lebanon   | InTransit    | Ready       | 02-Mar-2023  |
+| 2023EU20912   | BRT         | Beirut | Lebanon   | InTransit    | Ready       | 02-Mar-2023  |
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
 Consulate: CDJ
 +---------------+-------------+---------------+-----------+--------------+-------------+--------------+
@@ -384,6 +391,111 @@ Consulate: NRB
 | Case Number   | Consulate   | City    | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+---------+-----------+--------------+----------+--------------|
 | 2023AF1406    | NRB         | Nairobi | Kenya     | Refused221g  | AP       | 02-Mar-2023  |
+| 2023AF2491    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF5916    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF6329    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF7312    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF7401    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF7414    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF7489    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF7524    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF7805    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF7876    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF7956    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF8309    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF8710    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF8733    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF8866    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF8982    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF8998    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF9018    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF9024    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF9067    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF9114    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF9119    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF9174    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF9175    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF9195    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF9200    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF9235    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF9299    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF9354    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF9373    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF9484    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF9668    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF9681    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF9716    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF9723    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF9888    | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF10004   | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF10026   | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF10039   | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF10232   | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF10292   | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF10307   | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF10409   | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF10470   | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF10485   | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF10506   | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF10610   | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF10670   | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF10690   | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF10710   | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF10715   | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF10785   | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF10791   | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF10815   | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF10855   | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF10930   | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF10957   | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF11088   | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF11108   | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF11212   | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF11223   | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF11231   | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF11303   | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF11386   | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF11437   | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF11547   | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF11617   | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF11623   | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF11637   | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF11648   | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF11821   | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF11877   | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF11960   | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF11969   | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF12143   | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF12203   | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF12252   | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF12304   | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF12311   | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF12383   | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF12408   | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF12426   | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF12472   | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF12491   | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF12582   | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF12750   | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF12762   | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF12833   | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF12834   | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF12896   | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF12910   | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF12925   | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF12933   | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF13012   | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF13060   | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF13063   | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF13082   | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF13126   | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF13245   | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF13332   | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF13338   | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF13360   | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF13469   | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF13816   | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
+| 2023AF13850   | NRB         | Nairobi | Kenya     | InTransit    | Ready    | 02-Mar-2023  |
 +---------------+-------------+---------+-----------+--------------+----------+--------------+
 Consulate: None
 +---------------+-------------+--------+-----------+--------------+-----------+--------------+
@@ -489,23 +601,78 @@ Consulate: TIA
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status      | statusDate   |
 |---------------+-------------+--------+-----------+--------------+-------------+--------------|
+| 2023EU300     | TIA         | Tirana | Albania   | InTransit    | Ready       | 02-Mar-2023  |
+| 2023EU3337    | TIA         | Tirana | Albania   | InTransit    | Ready       | 02-Mar-2023  |
+| 2023EU5767    | TIA         | Tirana | Albania   | InTransit    | Ready       | 02-Mar-2023  |
+| 2023EU5932    | TIA         | Tirana | Albania   | InTransit    | Ready       | 02-Mar-2023  |
 | 2023EU6349    | TIA         | Tirana | Albania   | Ready        | AP          | 02-Mar-2023  |
 | 2023EU6608    | TIA         | Tirana | Albania   | Ready        | AP          | 02-Mar-2023  |
 | 2023EU6872    | TIA         | Tirana | Albania   | Ready        | AP          | 02-Mar-2023  |
 | 2023EU7277    | TIA         | Tirana | Albania   | Ready        | AP          | 02-Mar-2023  |
+| 2023EU8284    | TIA         | Tirana | Albania   | InTransit    | Ready       | 02-Mar-2023  |
+| 2023EU8522    | TIA         | Tirana | Albania   | InTransit    | Ready       | 02-Mar-2023  |
 | 2023EU9148    | TIA         | Tirana | Albania   | Ready        | AP          | 02-Mar-2023  |
 | 2023EU9158    | TIA         | Tirana | Albania   | Ready        | Refused221g | 02-Mar-2023  |
+| 2023EU9393    | TIA         | Tirana | Albania   | InTransit    | Ready       | 02-Mar-2023  |
 | 2023EU9398    | TIA         | Tirana | Albania   | Ready        | AP          | 02-Mar-2023  |
 | 2023EU9422    | TIA         | Tirana | Albania   | Ready        | AP          | 02-Mar-2023  |
 | 2023EU9435    | TIA         | Tirana | Albania   | Ready        | AP          | 02-Mar-2023  |
 | 2023EU9548    | TIA         | Tirana | Albania   | Ready        | AP          | 02-Mar-2023  |
 | 2023EU9591    | TIA         | Tirana | Albania   | Ready        | AP          | 02-Mar-2023  |
 | 2023EU9596    | TIA         | Tirana | Albania   | Ready        | AP          | 02-Mar-2023  |
+| 2023EU10287   | TIA         | Tirana | Albania   | InTransit    | Ready       | 02-Mar-2023  |
 | 2023EU10359   | TIA         | Tirana | Albania   | Ready        | AP          | 02-Mar-2023  |
 | 2023EU10388   | TIA         | Tirana | Albania   | Ready        | Refused221g | 02-Mar-2023  |
 | 2023EU10431   | TIA         | Tirana | Albania   | Ready        | AP          | 02-Mar-2023  |
 | 2023EU11234   | TIA         | Tirana | Albania   | Ready        | AP          | 02-Mar-2023  |
 | 2023EU11239   | TIA         | Tirana | Albania   | Ready        | AP          | 02-Mar-2023  |
+| 2023EU11772   | TIA         | Tirana | Albania   | InTransit    | Ready       | 02-Mar-2023  |
+| 2023EU11824   | TIA         | Tirana | Albania   | InTransit    | Ready       | 02-Mar-2023  |
+| 2023EU11919   | TIA         | Tirana | Albania   | InTransit    | Ready       | 02-Mar-2023  |
+| 2023EU12153   | TIA         | Tirana | Albania   | InTransit    | Ready       | 02-Mar-2023  |
+| 2023EU12163   | TIA         | Tirana | Albania   | InTransit    | Ready       | 02-Mar-2023  |
+| 2023EU12194   | TIA         | Tirana | Albania   | InTransit    | Ready       | 02-Mar-2023  |
+| 2023EU12231   | TIA         | Tirana | Albania   | InTransit    | Ready       | 02-Mar-2023  |
+| 2023EU12351   | TIA         | Tirana | Albania   | InTransit    | Ready       | 02-Mar-2023  |
+| 2023EU12541   | TIA         | Tirana | Albania   | InTransit    | Ready       | 02-Mar-2023  |
+| 2023EU12552   | TIA         | Tirana | Albania   | InTransit    | Ready       | 02-Mar-2023  |
+| 2023EU12559   | TIA         | Tirana | Albania   | InTransit    | Ready       | 02-Mar-2023  |
+| 2023EU12576   | TIA         | Tirana | Albania   | InTransit    | Ready       | 02-Mar-2023  |
+| 2023EU12605   | TIA         | Tirana | Albania   | InTransit    | Ready       | 02-Mar-2023  |
+| 2023EU12734   | TIA         | Tirana | Albania   | InTransit    | Ready       | 02-Mar-2023  |
+| 2023EU12792   | TIA         | Tirana | Albania   | InTransit    | Ready       | 02-Mar-2023  |
+| 2023EU12794   | TIA         | Tirana | Albania   | InTransit    | Ready       | 02-Mar-2023  |
+| 2023EU12900   | TIA         | Tirana | Albania   | InTransit    | Ready       | 02-Mar-2023  |
+| 2023EU12975   | TIA         | Tirana | Albania   | InTransit    | Ready       | 02-Mar-2023  |
+| 2023EU13050   | TIA         | Tirana | Albania   | InTransit    | Ready       | 02-Mar-2023  |
+| 2023EU13139   | TIA         | Tirana | Albania   | InTransit    | Ready       | 02-Mar-2023  |
+| 2023EU13190   | TIA         | Tirana | Albania   | InTransit    | Ready       | 02-Mar-2023  |
+| 2023EU13219   | TIA         | Tirana | Albania   | InTransit    | Ready       | 02-Mar-2023  |
+| 2023EU13285   | TIA         | Tirana | Albania   | InTransit    | Ready       | 02-Mar-2023  |
+| 2023EU13414   | TIA         | Tirana | Albania   | InTransit    | Ready       | 02-Mar-2023  |
+| 2023EU13470   | TIA         | Tirana | Albania   | InTransit    | Ready       | 02-Mar-2023  |
+| 2023EU13520   | TIA         | Tirana | Albania   | InTransit    | Ready       | 02-Mar-2023  |
+| 2023EU13604   | TIA         | Tirana | Albania   | InTransit    | Ready       | 02-Mar-2023  |
+| 2023EU13702   | TIA         | Tirana | Albania   | InTransit    | Ready       | 02-Mar-2023  |
+| 2023EU13727   | TIA         | Tirana | Albania   | InTransit    | Ready       | 02-Mar-2023  |
+| 2023EU13734   | TIA         | Tirana | Albania   | InTransit    | Ready       | 02-Mar-2023  |
+| 2023EU13773   | TIA         | Tirana | Albania   | InTransit    | Ready       | 02-Mar-2023  |
+| 2023EU13819   | TIA         | Tirana | Albania   | InTransit    | Ready       | 02-Mar-2023  |
+| 2023EU13914   | TIA         | Tirana | Albania   | InTransit    | Ready       | 02-Mar-2023  |
+| 2023EU14051   | TIA         | Tirana | Albania   | InTransit    | Ready       | 02-Mar-2023  |
+| 2023EU14145   | TIA         | Tirana | Albania   | InTransit    | Ready       | 02-Mar-2023  |
+| 2023EU14214   | TIA         | Tirana | Albania   | InTransit    | Ready       | 02-Mar-2023  |
+| 2023EU14262   | TIA         | Tirana | Albania   | InTransit    | Ready       | 02-Mar-2023  |
+| 2023EU14309   | TIA         | Tirana | Albania   | InTransit    | Ready       | 02-Mar-2023  |
+| 2023EU14416   | TIA         | Tirana | Albania   | InTransit    | Ready       | 02-Mar-2023  |
+| 2023EU14450   | TIA         | Tirana | Albania   | InTransit    | Ready       | 02-Mar-2023  |
+| 2023EU14470   | TIA         | Tirana | Albania   | InTransit    | Ready       | 02-Mar-2023  |
+| 2023EU14658   | TIA         | Tirana | Albania   | InTransit    | Ready       | 02-Mar-2023  |
+| 2023EU14674   | TIA         | Tirana | Albania   | InTransit    | Ready       | 02-Mar-2023  |
+| 2023EU14732   | TIA         | Tirana | Albania   | InTransit    | Ready       | 02-Mar-2023  |
+| 2023EU14762   | TIA         | Tirana | Albania   | InTransit    | Ready       | 02-Mar-2023  |
+| 2023EU14818   | TIA         | Tirana | Albania   | InTransit    | Ready       | 02-Mar-2023  |
+| 2023EU14912   | TIA         | Tirana | Albania   | InTransit    | Ready       | 02-Mar-2023  |
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
 Consulate: TKY
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
@@ -525,6 +692,12 @@ Consulate: VNN
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status      | statusDate   |
 |---------------+-------------+--------+-----------+--------------+-------------+--------------|
 | 2023EU6955    | VNN         | Vienna | Austria   | Ready        | Refused221g | 02-Mar-2023  |
+| 2023EU11942   | VNN         | Vienna | Austria   | InTransit    | Ready       | 02-Mar-2023  |
+| 2023EU12467   | VNN         | Vienna | Austria   | InTransit    | Ready       | 02-Mar-2023  |
+| 2023EU12512   | VNN         | Vienna | Austria   | InTransit    | Ready       | 02-Mar-2023  |
+| 2023EU15226   | VNN         | Vienna | Austria   | InTransit    | Ready       | 02-Mar-2023  |
+| 2023EU15587   | VNN         | Vienna | Austria   | InTransit    | Ready       | 02-Mar-2023  |
+| 2023EU16882   | VNN         | Vienna | Austria   | InTransit    | Ready       | 02-Mar-2023  |
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
 Consulate: VNT
 +---------------+-------------+-----------+-----------+--------------+----------+--------------+

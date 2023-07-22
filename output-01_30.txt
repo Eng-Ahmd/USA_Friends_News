@@ -208,6 +208,13 @@ Consulate: GYQ
 |---------------+-------------+-----------+-----------+--------------+----------+--------------|
 | 2023SA758     | GYQ         | Guayaquil | Ecuador   | Refused221g  | AP       | 30-Jan-2023  |
 +---------------+-------------+-----------+-----------+--------------+----------+--------------+
+Consulate: HCM
++---------------+-------------+------------------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City             | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+------------------+-----------+--------------+----------+--------------|
+| 2023EU5556    | HCM         | Ho Chi Minh City | Vietnam   | InTransit    | Ready    | 30-Jan-2023  |
+| 2023EU25943   | HCM         | Ho Chi Minh City | Vietnam   | InTransit    | Ready    | 30-Jan-2023  |
++---------------+-------------+------------------+-----------+--------------+----------+--------------+
 Consulate: ISL
 +---------------+-------------+-----------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City      | Country   | PrevStatus   | Status   | statusDate   |
@@ -222,6 +229,31 @@ Consulate: KDU
 | 2023AS2479    | KDU         | Kathmandu | Nepal     | Refused221g  | AP          | 30-Jan-2023  |
 | 2023AS5086    | KDU         | Kathmandu | Nepal     | Ready        | Refused221g | 30-Jan-2023  |
 +---------------+-------------+-----------+-----------+--------------+-------------+--------------+
+Consulate: KHT
++---------------+-------------+----------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City     | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+----------+-----------+--------------+----------+--------------|
+| 2023AF461     | KHT         | Khartoum | Sudan     | InTransit    | Ready    | 30-Jan-2023  |
+| 2023AF1613    | KHT         | Khartoum | Sudan     | InTransit    | Ready    | 30-Jan-2023  |
+| 2023AF2079    | KHT         | Khartoum | Sudan     | InTransit    | Ready    | 30-Jan-2023  |
+| 2023AF2917    | KHT         | Khartoum | Sudan     | InTransit    | Ready    | 30-Jan-2023  |
+| 2023AF3893    | KHT         | Khartoum | Sudan     | InTransit    | Ready    | 30-Jan-2023  |
+| 2023AF4552    | KHT         | Khartoum | Sudan     | InTransit    | Ready    | 30-Jan-2023  |
+| 2023AF6192    | KHT         | Khartoum | Sudan     | InTransit    | Ready    | 30-Jan-2023  |
+| 2023AF7042    | KHT         | Khartoum | Sudan     | InTransit    | Ready    | 30-Jan-2023  |
+| 2023AF7355    | KHT         | Khartoum | Sudan     | InTransit    | Ready    | 30-Jan-2023  |
+| 2023AF7370    | KHT         | Khartoum | Sudan     | InTransit    | Ready    | 30-Jan-2023  |
+| 2023AF7682    | KHT         | Khartoum | Sudan     | InTransit    | Ready    | 30-Jan-2023  |
+| 2023AF7881    | KHT         | Khartoum | Sudan     | InTransit    | Ready    | 30-Jan-2023  |
+| 2023AF8262    | KHT         | Khartoum | Sudan     | InTransit    | Ready    | 30-Jan-2023  |
+| 2023AF8519    | KHT         | Khartoum | Sudan     | InTransit    | Ready    | 30-Jan-2023  |
+| 2023AF9004    | KHT         | Khartoum | Sudan     | InTransit    | Ready    | 30-Jan-2023  |
+| 2023AF9052    | KHT         | Khartoum | Sudan     | InTransit    | Ready    | 30-Jan-2023  |
+| 2023AF9085    | KHT         | Khartoum | Sudan     | InTransit    | Ready    | 30-Jan-2023  |
+| 2023AF9197    | KHT         | Khartoum | Sudan     | InTransit    | Ready    | 30-Jan-2023  |
+| 2023AF9409    | KHT         | Khartoum | Sudan     | InTransit    | Ready    | 30-Jan-2023  |
+| 2023AF9478    | KHT         | Khartoum | Sudan     | InTransit    | Ready    | 30-Jan-2023  |
++---------------+-------------+----------+-----------+--------------+----------+--------------+
 Consulate: KIN
 +---------------+-------------+----------+----------------------------------+--------------+----------+--------------+
 | Case Number   | Consulate   | City     | Country                          | PrevStatus   | Status   | statusDate   |
@@ -271,6 +303,8 @@ Consulate: NSS
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+--------+-----------+--------------+----------+--------------|
 | 2023NA4       | NSS         | Nassau | Bahamas   | Ready        | AP       | 30-Jan-2023  |
+| 2023NA8       | NSS         | Nassau | Bahamas   | InTransit    | Ready    | 30-Jan-2023  |
+| 2023NA12      | NSS         | Nassau | Bahamas   | InTransit    | Ready    | 30-Jan-2023  |
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: None
 +---------------+-------------+--------+-----------+--------------+-----------+--------------+

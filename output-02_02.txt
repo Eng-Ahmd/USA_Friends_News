@@ -31,6 +31,15 @@ Consulate: AMM
 | 2023AS9921    | AMM         | Amman  | Jordan    | Ready        | AP       | 02-Feb-2023  |
 | 2023AS13502   | AMM         | Amman  | Jordan    | Ready        | AP       | 02-Feb-2023  |
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
+Consulate: AMS
++---------------+-------------+-----------+-------------+--------------+----------+--------------+
+| Case Number   | Consulate   | City      | Country     | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+-----------+-------------+--------------+----------+--------------|
+| 2023AF4311    | AMS         | Amsterdam | Netherlands | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF43730   | AMS         | Amsterdam | Netherlands | InTransit    | Ready    | 02-Feb-2023  |
+| 2023EU4345    | AMS         | Amsterdam | Netherlands | InTransit    | Ready    | 02-Feb-2023  |
+| 2023EU18288   | AMS         | Amsterdam | Netherlands | InTransit    | Ready    | 02-Feb-2023  |
++---------------+-------------+-----------+-------------+--------------+----------+--------------+
 Consulate: ANK
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status      | statusDate   |
@@ -131,21 +140,132 @@ Consulate: DKR
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023AF99      | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF433     | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF789     | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF1259    | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF1297    | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF4247    | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF4295    | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF4585    | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF5899    | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF6239    | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
 | 2023AF8108    | DKR         | Dakar  | Senegal   | AP           | Issued   | 02-Feb-2023  |
 | 2023AF8317    | DKR         | Dakar  | Senegal   | AP           | Issued   | 02-Feb-2023  |
 | 2023AF8340    | DKR         | Dakar  | Senegal   | Ready        | AP       | 02-Feb-2023  |
+| 2023AF8451    | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF8593    | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF8814    | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF11998   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
 | 2023AF13871   | DKR         | Dakar  | Senegal   | AP           | Issued   | 02-Feb-2023  |
+| 2023AF15308   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF15885   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF16741   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
 | 2023AF17550   | DKR         | Dakar  | Senegal   | AP           | Issued   | 02-Feb-2023  |
+| 2023AF17628   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF17682   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
 | 2023AF17986   | DKR         | Dakar  | Senegal   | AP           | Issued   | 02-Feb-2023  |
 | 2023AF18037   | DKR         | Dakar  | Senegal   | Ready        | AP       | 02-Feb-2023  |
+| 2023AF20162   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF20209   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF20321   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
 | 2023AF20526   | DKR         | Dakar  | Senegal   | Ready        | Issued   | 02-Feb-2023  |
 | 2023AF20590   | DKR         | Dakar  | Senegal   | Ready        | AP       | 02-Feb-2023  |
+| 2023AF21274   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF21368   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
 | 2023AF21963   | DKR         | Dakar  | Senegal   | AP           | Issued   | 02-Feb-2023  |
+| 2023AF22165   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
 | 2023AF22827   | DKR         | Dakar  | Senegal   | AP           | Issued   | 02-Feb-2023  |
+| 2023AF23786   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF24517   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF24940   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
 | 2023AF25232   | DKR         | Dakar  | Senegal   | AP           | Issued   | 02-Feb-2023  |
 | 2023AF26532   | DKR         | Dakar  | Senegal   | AP           | Issued   | 02-Feb-2023  |
+| 2023AF26574   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF26642   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF27641   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF28214   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF28369   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF28403   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF28785   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF28982   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
 | 2023AF29424   | DKR         | Dakar  | Senegal   | AP           | Issued   | 02-Feb-2023  |
+| 2023AF31346   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF31414   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF31776   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
 | 2023AF31789   | DKR         | Dakar  | Senegal   | AP           | Issued   | 02-Feb-2023  |
+| 2023AF32466   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF32738   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF33298   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF33300   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF33557   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF33831   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF34157   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF34539   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF34872   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF35848   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF35850   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF35878   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF35884   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF35953   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF36075   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF36125   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF36203   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF36228   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF36300   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF36419   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF36421   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF36514   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF36732   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF36822   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF36972   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF37035   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF37356   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF37518   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF37632   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF37813   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF37842   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF38217   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF38244   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF38375   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF38455   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF38560   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF38591   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF38741   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF38776   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF38898   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF39481   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF39699   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF39704   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF39990   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF40017   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF40023   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF40088   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF40144   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF40533   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF40664   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF40714   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF41353   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF41692   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF41731   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF42167   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF42296   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF42438   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF42610   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF42858   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF43071   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF43234   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF43851   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF43880   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF44244   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF44248   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF44302   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF44606   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF44848   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF44851   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF44878   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF44903   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AS12657   | DKR         | Dakar  | Senegal   | InTransit    | Ready    | 02-Feb-2023  |
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: FRN
 +---------------+-------------+-----------+-----------+--------------+----------+--------------+
@@ -238,6 +358,32 @@ Consulate: KWT
 | 2023AF11656   | KWT         | Kuwait | Kuwait    | AP           | Issued   | 02-Feb-2023  |
 | 2023AF15333   | KWT         | Kuwait | Kuwait    | Ready        | Issued   | 02-Feb-2023  |
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
+Consulate: LND
++---------------+-------------+--------+----------------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country        | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+----------------+--------------+----------+--------------|
+| 2023AF37841   | LND         | London | United Kingdom | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AF42254   | LND         | London | United Kingdom | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AS10201   | LND         | London | United Kingdom | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AS11734   | LND         | London | United Kingdom | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AS17036   | LND         | London | United Kingdom | InTransit    | Ready    | 02-Feb-2023  |
+| 2023AS17392   | LND         | London | United Kingdom | InTransit    | Ready    | 02-Feb-2023  |
+| 2023EU16647   | LND         | London | United Kingdom | InTransit    | Ready    | 02-Feb-2023  |
+| 2023EU18854   | LND         | London | United Kingdom | InTransit    | Ready    | 02-Feb-2023  |
+| 2023EU19044   | LND         | London | United Kingdom | InTransit    | Ready    | 02-Feb-2023  |
+| 2023EU19335   | LND         | London | United Kingdom | InTransit    | Ready    | 02-Feb-2023  |
+| 2023EU19509   | LND         | London | United Kingdom | InTransit    | Ready    | 02-Feb-2023  |
+| 2023EU19769   | LND         | London | United Kingdom | InTransit    | Ready    | 02-Feb-2023  |
+| 2023EU20584   | LND         | London | United Kingdom | InTransit    | Ready    | 02-Feb-2023  |
+| 2023EU20588   | LND         | London | United Kingdom | InTransit    | Ready    | 02-Feb-2023  |
+| 2023EU20957   | LND         | London | United Kingdom | InTransit    | Ready    | 02-Feb-2023  |
+| 2023EU21172   | LND         | London | United Kingdom | InTransit    | Ready    | 02-Feb-2023  |
+| 2023EU22284   | LND         | London | United Kingdom | InTransit    | Ready    | 02-Feb-2023  |
+| 2023EU23206   | LND         | London | United Kingdom | InTransit    | Ready    | 02-Feb-2023  |
+| 2023EU23507   | LND         | London | United Kingdom | InTransit    | Ready    | 02-Feb-2023  |
+| 2023EU24488   | LND         | London | United Kingdom | InTransit    | Ready    | 02-Feb-2023  |
+| 2023EU24853   | LND         | London | United Kingdom | InTransit    | Ready    | 02-Feb-2023  |
++---------------+-------------+--------+----------------+--------------+----------+--------------+
 Consulate: LOM
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |

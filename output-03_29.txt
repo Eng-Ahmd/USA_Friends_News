@@ -54,6 +54,23 @@ Consulate: ADD
 | 2023AF9929    | ADD         | Addis Ababa | Ethiopia  | Ready        | Refused221g | 29-Mar-2023  |
 | 2023AF11151   | ADD         | Addis Ababa | Ethiopia  | Ready        | AP          | 28-Mar-2023  |
 | 2023AF11249   | ADD         | Addis Ababa | Ethiopia  | Ready        | AP          | 29-Mar-2023  |
+| 2023AF12818   | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready       | 29-Mar-2023  |
+| 2023AF13661   | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready       | 29-Mar-2023  |
+| 2023AF14329   | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready       | 29-Mar-2023  |
+| 2023AF15707   | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready       | 29-Mar-2023  |
+| 2023AF17330   | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready       | 29-Mar-2023  |
+| 2023AF17349   | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready       | 29-Mar-2023  |
+| 2023AF17446   | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready       | 29-Mar-2023  |
+| 2023AF17539   | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready       | 29-Mar-2023  |
+| 2023AF17590   | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready       | 29-Mar-2023  |
+| 2023AF17600   | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready       | 29-Mar-2023  |
+| 2023AF17686   | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready       | 29-Mar-2023  |
+| 2023AF17918   | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready       | 29-Mar-2023  |
+| 2023AF17987   | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready       | 29-Mar-2023  |
+| 2023AF18046   | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready       | 29-Mar-2023  |
+| 2023AF18089   | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready       | 29-Mar-2023  |
+| 2023AF18473   | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready       | 29-Mar-2023  |
+| 2023AF19182   | ADD         | Addis Ababa | Ethiopia  | InTransit    | Ready       | 29-Mar-2023  |
 +---------------+-------------+-------------+-----------+--------------+-------------+--------------+
 Consulate: AKD
 +---------------+-------------+----------+--------------+--------------+-------------+--------------+
@@ -138,6 +155,13 @@ Consulate: AMS
 | Case Number   | Consulate   | City      | Country     | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+-----------+-------------+--------------+----------+--------------|
 | 2023AF5299    | AMS         | Amsterdam | Netherlands | AP           | Issued   | 28-Mar-2023  |
+| 2023AF16697   | AMS         | Amsterdam | Netherlands | InTransit    | Ready    | 29-Mar-2023  |
+| 2023AF39042   | AMS         | Amsterdam | Netherlands | InTransit    | Ready    | 29-Mar-2023  |
+| 2023AF55641   | AMS         | Amsterdam | Netherlands | InTransit    | Ready    | 29-Mar-2023  |
+| 2023AF56924   | AMS         | Amsterdam | Netherlands | InTransit    | Ready    | 29-Mar-2023  |
+| 2023AS9086    | AMS         | Amsterdam | Netherlands | InTransit    | Ready    | 29-Mar-2023  |
+| 2023EU16325   | AMS         | Amsterdam | Netherlands | InTransit    | Ready    | 29-Mar-2023  |
+| 2023EU23538   | AMS         | Amsterdam | Netherlands | InTransit    | Ready    | 29-Mar-2023  |
 +---------------+-------------+-----------+-------------+--------------+----------+--------------+
 Consulate: ANK
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
@@ -180,6 +204,12 @@ Consulate: BDP
 |---------------+-------------+----------+-----------+--------------+-------------+--------------|
 | 2023EU22113   | BDP         | Budapest | Hungary   | Ready        | Refused221g | 29-Mar-2023  |
 +---------------+-------------+----------+-----------+--------------+-------------+--------------+
+Consulate: BEN
++---------------+-------------+--------+-------------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country     | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-------------+--------------+----------+--------------|
+| 2023AF42715   | BEN         | Bern   | Switzerland | InTransit    | Ready    | 29-Mar-2023  |
++---------------+-------------+--------+-------------+--------------+----------+--------------+
 Consulate: BGH
 +---------------+-------------+---------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City    | Country   | PrevStatus   | Status   | statusDate   |
@@ -208,6 +238,7 @@ Consulate: BMB
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status      | statusDate   |
 |---------------+-------------+--------+-----------+--------------+-------------+--------------|
 | 2023AF10177   | BMB         | Mumbai | India     | AP           | Issued      | 28-Mar-2023  |
+| 2023AF41652   | BMB         | Mumbai | India     | InTransit    | Ready       | 28-Mar-2023  |
 | 2023AS14274   | BMB         | Mumbai | India     | Ready        | Refused221g | 29-Mar-2023  |
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
 Consulate: BNK
@@ -291,12 +322,48 @@ Consulate: CLM
 | Case Number   | Consulate   | City    | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+---------+-----------+--------------+----------+--------------|
 | 2023AS1149    | CLM         | Colombo | Sri Lanka | Ready        | AP       | 29-Mar-2023  |
+| 2023AS1717    | CLM         | Colombo | Sri Lanka | InTransit    | Ready    | 28-Mar-2023  |
 | 2023AS2899    | CLM         | Colombo | Sri Lanka | Refused221g  | AP       | 28-Mar-2023  |
+| 2023AS6167    | CLM         | Colombo | Sri Lanka | InTransit    | Ready    | 28-Mar-2023  |
 | 2023AS6328    | CLM         | Colombo | Sri Lanka | AP           | Ready    | 29-Mar-2023  |
+| 2023AS7298    | CLM         | Colombo | Sri Lanka | InTransit    | Ready    | 28-Mar-2023  |
 | 2023AS8072    | CLM         | Colombo | Sri Lanka | Ready        | AP       | 28-Mar-2023  |
 | 2023AS8103    | CLM         | Colombo | Sri Lanka | Ready        | Refused  | 28-Mar-2023  |
 | 2023AS8173    | CLM         | Colombo | Sri Lanka | Ready        | AP       | 28-Mar-2023  |
 | 2023AS8222    | CLM         | Colombo | Sri Lanka | Ready        | AP       | 29-Mar-2023  |
+| 2023AS8808    | CLM         | Colombo | Sri Lanka | InTransit    | Ready    | 28-Mar-2023  |
+| 2023AS9005    | CLM         | Colombo | Sri Lanka | InTransit    | Ready    | 28-Mar-2023  |
+| 2023AS9110    | CLM         | Colombo | Sri Lanka | InTransit    | Ready    | 28-Mar-2023  |
+| 2023AS9116    | CLM         | Colombo | Sri Lanka | InTransit    | Ready    | 28-Mar-2023  |
+| 2023AS9131    | CLM         | Colombo | Sri Lanka | InTransit    | Ready    | 28-Mar-2023  |
+| 2023AS9232    | CLM         | Colombo | Sri Lanka | InTransit    | Ready    | 28-Mar-2023  |
+| 2023AS9302    | CLM         | Colombo | Sri Lanka | InTransit    | Ready    | 28-Mar-2023  |
+| 2023AS9351    | CLM         | Colombo | Sri Lanka | InTransit    | Ready    | 28-Mar-2023  |
+| 2023AS9397    | CLM         | Colombo | Sri Lanka | InTransit    | Ready    | 28-Mar-2023  |
+| 2023AS9439    | CLM         | Colombo | Sri Lanka | InTransit    | Ready    | 28-Mar-2023  |
+| 2023AS9442    | CLM         | Colombo | Sri Lanka | InTransit    | Ready    | 28-Mar-2023  |
+| 2023AS9464    | CLM         | Colombo | Sri Lanka | InTransit    | Ready    | 28-Mar-2023  |
+| 2023AS9467    | CLM         | Colombo | Sri Lanka | InTransit    | Ready    | 28-Mar-2023  |
+| 2023AS9523    | CLM         | Colombo | Sri Lanka | InTransit    | Ready    | 28-Mar-2023  |
+| 2023AS9624    | CLM         | Colombo | Sri Lanka | InTransit    | Ready    | 28-Mar-2023  |
+| 2023AS9770    | CLM         | Colombo | Sri Lanka | InTransit    | Ready    | 28-Mar-2023  |
+| 2023AS9791    | CLM         | Colombo | Sri Lanka | InTransit    | Ready    | 28-Mar-2023  |
+| 2023AS9904    | CLM         | Colombo | Sri Lanka | InTransit    | Ready    | 28-Mar-2023  |
+| 2023AS9911    | CLM         | Colombo | Sri Lanka | InTransit    | Ready    | 28-Mar-2023  |
+| 2023AS10021   | CLM         | Colombo | Sri Lanka | InTransit    | Ready    | 28-Mar-2023  |
+| 2023AS10040   | CLM         | Colombo | Sri Lanka | InTransit    | Ready    | 28-Mar-2023  |
+| 2023AS10056   | CLM         | Colombo | Sri Lanka | InTransit    | Ready    | 28-Mar-2023  |
+| 2023AS10078   | CLM         | Colombo | Sri Lanka | InTransit    | Ready    | 28-Mar-2023  |
+| 2023AS10256   | CLM         | Colombo | Sri Lanka | InTransit    | Ready    | 28-Mar-2023  |
+| 2023AS10262   | CLM         | Colombo | Sri Lanka | InTransit    | Ready    | 28-Mar-2023  |
+| 2023AS10467   | CLM         | Colombo | Sri Lanka | InTransit    | Ready    | 28-Mar-2023  |
+| 2023AS10485   | CLM         | Colombo | Sri Lanka | InTransit    | Ready    | 28-Mar-2023  |
+| 2023AS10610   | CLM         | Colombo | Sri Lanka | InTransit    | Ready    | 28-Mar-2023  |
+| 2023AS10764   | CLM         | Colombo | Sri Lanka | InTransit    | Ready    | 28-Mar-2023  |
+| 2023AS10780   | CLM         | Colombo | Sri Lanka | InTransit    | Ready    | 28-Mar-2023  |
+| 2023AS10799   | CLM         | Colombo | Sri Lanka | InTransit    | Ready    | 28-Mar-2023  |
+| 2023AS10956   | CLM         | Colombo | Sri Lanka | InTransit    | Ready    | 28-Mar-2023  |
+| 2023AS10970   | CLM         | Colombo | Sri Lanka | InTransit    | Ready    | 28-Mar-2023  |
 +---------------+-------------+---------+-----------+--------------+----------+--------------+
 Consulate: CRO
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
@@ -363,10 +430,35 @@ Consulate: DJI
 +---------------+-------------+----------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City     | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+----------+-----------+--------------+----------+--------------|
+| 2023AF13070   | DJI         | Djibouti | Djibouti  | InTransit    | Ready    | 28-Mar-2023  |
+| 2023AF13675   | DJI         | Djibouti | Djibouti  | InTransit    | Ready    | 28-Mar-2023  |
+| 2023AF13766   | DJI         | Djibouti | Djibouti  | InTransit    | Ready    | 28-Mar-2023  |
 | 2023AF14397   | DJI         | Djibouti | Djibouti  | Refused221g  | Issued   | 29-Mar-2023  |
+| 2023AF16859   | DJI         | Djibouti | Djibouti  | InTransit    | Ready    | 28-Mar-2023  |
+| 2023AF16912   | DJI         | Djibouti | Djibouti  | InTransit    | Ready    | 28-Mar-2023  |
+| 2023AF18594   | DJI         | Djibouti | Djibouti  | InTransit    | Ready    | 28-Mar-2023  |
+| 2023AS482     | DJI         | Djibouti | Djibouti  | InTransit    | Ready    | 28-Mar-2023  |
+| 2023AS2673    | DJI         | Djibouti | Djibouti  | InTransit    | Ready    | 28-Mar-2023  |
+| 2023AS3232    | DJI         | Djibouti | Djibouti  | InTransit    | Ready    | 28-Mar-2023  |
+| 2023AS3646    | DJI         | Djibouti | Djibouti  | InTransit    | Ready    | 28-Mar-2023  |
+| 2023AS4423    | DJI         | Djibouti | Djibouti  | InTransit    | Ready    | 28-Mar-2023  |
 | 2023AS4792    | DJI         | Djibouti | Djibouti  | Refused221g  | AP       | 29-Mar-2023  |
+| 2023AS4943    | DJI         | Djibouti | Djibouti  | InTransit    | Ready    | 28-Mar-2023  |
+| 2023AS4967    | DJI         | Djibouti | Djibouti  | InTransit    | Ready    | 28-Mar-2023  |
+| 2023AS4993    | DJI         | Djibouti | Djibouti  | InTransit    | Ready    | 28-Mar-2023  |
 | 2023AS5501    | DJI         | Djibouti | Djibouti  | Ready        | Issued   | 28-Mar-2023  |
+| 2023AS5664    | DJI         | Djibouti | Djibouti  | InTransit    | Ready    | 28-Mar-2023  |
+| 2023AS6413    | DJI         | Djibouti | Djibouti  | InTransit    | Ready    | 28-Mar-2023  |
 | 2023AS6503    | DJI         | Djibouti | Djibouti  | AP           | Issued   | 29-Mar-2023  |
+| 2023AS6765    | DJI         | Djibouti | Djibouti  | InTransit    | Ready    | 28-Mar-2023  |
+| 2023AS6954    | DJI         | Djibouti | Djibouti  | InTransit    | Ready    | 28-Mar-2023  |
+| 2023AS6964    | DJI         | Djibouti | Djibouti  | InTransit    | Ready    | 28-Mar-2023  |
+| 2023AS7110    | DJI         | Djibouti | Djibouti  | InTransit    | Ready    | 28-Mar-2023  |
+| 2023AS7637    | DJI         | Djibouti | Djibouti  | InTransit    | Ready    | 28-Mar-2023  |
+| 2023AS7681    | DJI         | Djibouti | Djibouti  | InTransit    | Ready    | 28-Mar-2023  |
+| 2023AS7717    | DJI         | Djibouti | Djibouti  | InTransit    | Ready    | 28-Mar-2023  |
+| 2023AS7770    | DJI         | Djibouti | Djibouti  | InTransit    | Ready    | 28-Mar-2023  |
+| 2023AS8501    | DJI         | Djibouti | Djibouti  | InTransit    | Ready    | 28-Mar-2023  |
 +---------------+-------------+----------+-----------+--------------+----------+--------------+
 Consulate: DKR
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
@@ -630,14 +722,29 @@ Consulate: MDD
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023AF42564   | MDD         | Madrid | Spain     | InTransit    | Ready    | 29-Mar-2023  |
+| 2023AF42633   | MDD         | Madrid | Spain     | InTransit    | Ready    | 29-Mar-2023  |
+| 2023AF45426   | MDD         | Madrid | Spain     | InTransit    | Ready    | 29-Mar-2023  |
+| 2023AF54472   | MDD         | Madrid | Spain     | InTransit    | Ready    | 29-Mar-2023  |
 | 2023AS10366   | MDD         | Madrid | Spain     | Ready        | Issued   | 29-Mar-2023  |
+| 2023EU17790   | MDD         | Madrid | Spain     | InTransit    | Ready    | 29-Mar-2023  |
+| 2023EU17981   | MDD         | Madrid | Spain     | InTransit    | Ready    | 29-Mar-2023  |
+| 2023EU19874   | MDD         | Madrid | Spain     | InTransit    | Ready    | 29-Mar-2023  |
+| 2023EU20554   | MDD         | Madrid | Spain     | InTransit    | Ready    | 29-Mar-2023  |
+| 2023EU21792   | MDD         | Madrid | Spain     | InTransit    | Ready    | 29-Mar-2023  |
+| 2023EU23475   | MDD         | Madrid | Spain     | InTransit    | Ready    | 29-Mar-2023  |
+| 2023EU26108   | MDD         | Madrid | Spain     | InTransit    | Ready    | 29-Mar-2023  |
+| 2023EU26221   | MDD         | Madrid | Spain     | InTransit    | Ready    | 29-Mar-2023  |
+| 2023EU27940   | MDD         | Madrid | Spain     | InTransit    | Ready    | 29-Mar-2023  |
 | 2023SA1795    | MDD         | Madrid | Spain     | Ready        | Issued   | 29-Mar-2023  |
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: MNA
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023AF17895   | MNA         | Manama | Bahrain   | InTransit    | Ready    | 29-Mar-2023  |
 | 2023AF28561   | MNA         | Manama | Bahrain   | Ready        | Issued   | 29-Mar-2023  |
+| 2023AF29971   | MNA         | Manama | Bahrain   | InTransit    | Ready    | 29-Mar-2023  |
 | 2023AS16932   | MNA         | Manama | Bahrain   | Refused221g  | Issued   | 29-Mar-2023  |
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: MNG
@@ -719,8 +826,11 @@ Consulate: NCS
 +---------------+-------------+---------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City    | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+---------+-----------+--------------+----------+--------------|
+| 2023AF51163   | NCS         | Nicosia | Cyprus    | InTransit    | Ready    | 29-Mar-2023  |
+| 2023AF55221   | NCS         | Nicosia | Cyprus    | InTransit    | Ready    | 29-Mar-2023  |
 | 2023EU17739   | NCS         | Nicosia | Cyprus    | AP           | Issued   | 28-Mar-2023  |
 | 2023EU20239   | NCS         | Nicosia | Cyprus    | AP           | Issued   | 28-Mar-2023  |
+| 2023EU21337   | NCS         | Nicosia | Cyprus    | InTransit    | Ready    | 29-Mar-2023  |
 +---------------+-------------+---------+-----------+--------------+----------+--------------+
 Consulate: NPL
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
@@ -902,6 +1012,28 @@ Consulate: None
 | 2023AF39543   | None        |        |           | NVC          | InTransit | None         |
 | 2023AF39563   | None        |        |           | NVC          | InTransit | None         |
 +---------------+-------------+--------+-----------+--------------+-----------+--------------+
+Consulate: OUG
++---------------+-------------+-------------+--------------+--------------+----------+--------------+
+| Case Number   | Consulate   | City        | Country      | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+-------------+--------------+--------------+----------+--------------|
+| 2023AF27046   | OUG         | Ouagadougou | Burkina Faso | InTransit    | Ready    | 29-Mar-2023  |
+| 2023AF31554   | OUG         | Ouagadougou | Burkina Faso | InTransit    | Ready    | 29-Mar-2023  |
+| 2023AF33583   | OUG         | Ouagadougou | Burkina Faso | InTransit    | Ready    | 29-Mar-2023  |
+| 2023AF35808   | OUG         | Ouagadougou | Burkina Faso | InTransit    | Ready    | 29-Mar-2023  |
+| 2023AF36393   | OUG         | Ouagadougou | Burkina Faso | InTransit    | Ready    | 29-Mar-2023  |
+| 2023AF36832   | OUG         | Ouagadougou | Burkina Faso | InTransit    | Ready    | 29-Mar-2023  |
+| 2023AF44267   | OUG         | Ouagadougou | Burkina Faso | InTransit    | Ready    | 29-Mar-2023  |
+| 2023AF44908   | OUG         | Ouagadougou | Burkina Faso | InTransit    | Ready    | 29-Mar-2023  |
+| 2023AF46602   | OUG         | Ouagadougou | Burkina Faso | InTransit    | Ready    | 29-Mar-2023  |
+| 2023AF50204   | OUG         | Ouagadougou | Burkina Faso | InTransit    | Ready    | 29-Mar-2023  |
+| 2023AF50577   | OUG         | Ouagadougou | Burkina Faso | InTransit    | Ready    | 29-Mar-2023  |
+| 2023AF52950   | OUG         | Ouagadougou | Burkina Faso | InTransit    | Ready    | 29-Mar-2023  |
+| 2023AF53419   | OUG         | Ouagadougou | Burkina Faso | InTransit    | Ready    | 29-Mar-2023  |
+| 2023AF54094   | OUG         | Ouagadougou | Burkina Faso | InTransit    | Ready    | 29-Mar-2023  |
+| 2023AF55931   | OUG         | Ouagadougou | Burkina Faso | InTransit    | Ready    | 29-Mar-2023  |
+| 2023AF56254   | OUG         | Ouagadougou | Burkina Faso | InTransit    | Ready    | 29-Mar-2023  |
+| 2023AF58195   | OUG         | Ouagadougou | Burkina Faso | InTransit    | Ready    | 29-Mar-2023  |
++---------------+-------------+-------------+--------------+--------------+----------+--------------+
 Consulate: PHP
 +---------------+-------------+------------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City       | Country   | PrevStatus   | Status   | statusDate   |
@@ -920,6 +1052,13 @@ Consulate: PRS
 |---------------+-------------+--------+-----------+--------------+----------+--------------|
 | 2023AF7582    | PRS         | Paris  | France    | AP           | Issued   | 28-Mar-2023  |
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
+Consulate: RDJ
++---------------+-------------+----------------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City           | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+----------------+-----------+--------------+----------+--------------|
+| 2023AF47343   | RDJ         | Rio De Janeiro | Brazil    | InTransit    | Ready    | 29-Mar-2023  |
+| 2023AF50640   | RDJ         | Rio De Janeiro | Brazil    | InTransit    | Ready    | 29-Mar-2023  |
++---------------+-------------+----------------+-----------+--------------+----------+--------------+
 Consulate: RID
 +---------------+-------------+--------+--------------+--------------+----------+--------------+
 | Case Number   | Consulate   | City   | Country      | PrevStatus   | Status   | statusDate   |
@@ -989,6 +1128,26 @@ Consulate: SUV
 | 2023OC513     | SUV         | Suva   | Fiji      | AP           | Issued   | 28-Mar-2023  |
 | 2023OC727     | SUV         | Suva   | Fiji      | AP           | Issued   | 28-Mar-2023  |
 | 2023OC753     | SUV         | Suva   | Fiji      | Refused      | Ready    | 30-Mar-2023  |
+| 2023OC1305    | SUV         | Suva   | Fiji      | InTransit    | Ready    | 28-Mar-2023  |
+| 2023OC1310    | SUV         | Suva   | Fiji      | InTransit    | Ready    | 29-Mar-2023  |
+| 2023OC1324    | SUV         | Suva   | Fiji      | InTransit    | Ready    | 28-Mar-2023  |
+| 2023OC1325    | SUV         | Suva   | Fiji      | InTransit    | Ready    | 28-Mar-2023  |
+| 2023OC1335    | SUV         | Suva   | Fiji      | InTransit    | Ready    | 29-Mar-2023  |
+| 2023OC1344    | SUV         | Suva   | Fiji      | InTransit    | Ready    | 28-Mar-2023  |
+| 2023OC1349    | SUV         | Suva   | Fiji      | InTransit    | Ready    | 28-Mar-2023  |
+| 2023OC1352    | SUV         | Suva   | Fiji      | InTransit    | Ready    | 28-Mar-2023  |
+| 2023OC1357    | SUV         | Suva   | Fiji      | InTransit    | Ready    | 28-Mar-2023  |
+| 2023OC1362    | SUV         | Suva   | Fiji      | InTransit    | Ready    | 28-Mar-2023  |
+| 2023OC1364    | SUV         | Suva   | Fiji      | InTransit    | Ready    | 28-Mar-2023  |
+| 2023OC1379    | SUV         | Suva   | Fiji      | InTransit    | Ready    | 29-Mar-2023  |
+| 2023OC1385    | SUV         | Suva   | Fiji      | InTransit    | Ready    | 29-Mar-2023  |
+| 2023OC1395    | SUV         | Suva   | Fiji      | InTransit    | Ready    | 29-Mar-2023  |
+| 2023OC1402    | SUV         | Suva   | Fiji      | InTransit    | Ready    | 29-Mar-2023  |
+| 2023OC1411    | SUV         | Suva   | Fiji      | InTransit    | Ready    | 29-Mar-2023  |
+| 2023OC1412    | SUV         | Suva   | Fiji      | InTransit    | Ready    | 29-Mar-2023  |
+| 2023OC1415    | SUV         | Suva   | Fiji      | InTransit    | Ready    | 29-Mar-2023  |
+| 2023OC1443    | SUV         | Suva   | Fiji      | InTransit    | Ready    | 29-Mar-2023  |
+| 2023OC1444    | SUV         | Suva   | Fiji      | InTransit    | Ready    | 28-Mar-2023  |
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: SYD
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
@@ -1012,24 +1171,138 @@ Consulate: THT
 +---------------+-------------+----------+------------+--------------+----------+--------------+
 | Case Number   | Consulate   | City     | Country    | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+----------+------------+--------------+----------+--------------|
+| 2023AF22085   | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023AS12112   | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU71      | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU110     | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU157     | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU187     | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU201     | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU291     | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU328     | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU347     | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU425     | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU449     | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU450     | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU467     | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU544     | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU724     | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU737     | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
 | 2023EU757     | THT         | Tashkent | Uzbekistan | AP           | Issued   | 28-Mar-2023  |
+| 2023EU798     | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
 | 2023EU913     | THT         | Tashkent | Uzbekistan | Ready        | Issued   | 29-Mar-2023  |
 | 2023EU933     | THT         | Tashkent | Uzbekistan | AP           | Issued   | 28-Mar-2023  |
+| 2023EU940     | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU952     | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU956     | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU962     | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU975     | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
 | 2023EU1015    | THT         | Tashkent | Uzbekistan | Ready        | Issued   | 29-Mar-2023  |
+| 2023EU1076    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU1078    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU1098    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU1114    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU1181    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU1210    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU1211    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU1249    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU1258    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU1326    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU1414    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU1465    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU1474    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU1486    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU1509    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU1558    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU1639    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU1651    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU1755    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU1760    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU1821    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU1839    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU1888    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU2131    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU2136    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU2143    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
 | 2023EU2147    | THT         | Tashkent | Uzbekistan | Ready        | Issued   | 29-Mar-2023  |
+| 2023EU2183    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU2199    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU2223    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU2231    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU2246    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU2417    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU2419    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
 | 2023EU2431    | THT         | Tashkent | Uzbekistan | Refused221g  | Issued   | 29-Mar-2023  |
+| 2023EU2447    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU2450    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU2497    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU2513    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU2579    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU2583    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU2591    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU2600    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU2636    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU2687    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU2716    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU2733    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU2818    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU2853    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU2857    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU2866    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU2885    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU2939    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU2972    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU3025    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU3039    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
 | 2023EU3097    | THT         | Tashkent | Uzbekistan | AP           | Issued   | 28-Mar-2023  |
+| 2023EU3184    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU3222    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU3385    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU3390    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU3468    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU3492    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU3524    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU3540    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU3569    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU3590    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
 | 2023EU3634    | THT         | Tashkent | Uzbekistan | Ready        | Issued   | 29-Mar-2023  |
+| 2023EU3651    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU3659    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU3719    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
 | 2023EU3783    | THT         | Tashkent | Uzbekistan | AP           | Issued   | 28-Mar-2023  |
 | 2023EU3821    | THT         | Tashkent | Uzbekistan | Ready        | Issued   | 29-Mar-2023  |
 | 2023EU3833    | THT         | Tashkent | Uzbekistan | AP           | Issued   | 28-Mar-2023  |
+| 2023EU3972    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU3984    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU4001    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU4037    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
 | 2023EU4045    | THT         | Tashkent | Uzbekistan | AP           | Issued   | 28-Mar-2023  |
+| 2023EU4050    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU4064    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
 | 2023EU4079    | THT         | Tashkent | Uzbekistan | Ready        | Issued   | 29-Mar-2023  |
+| 2023EU4112    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU4127    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU4131    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU4153    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU4167    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
 | 2023EU4190    | THT         | Tashkent | Uzbekistan | Ready        | Issued   | 29-Mar-2023  |
+| 2023EU4214    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU4274    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU4278    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU4335    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
 | 2023EU4385    | THT         | Tashkent | Uzbekistan | AP           | Issued   | 28-Mar-2023  |
 | 2023EU4396    | THT         | Tashkent | Uzbekistan | AP           | Issued   | 28-Mar-2023  |
+| 2023EU4512    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU4515    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU4634    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU4654    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU4730    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU4731    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU4752    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU4864    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
 | 2023EU4965    | THT         | Tashkent | Uzbekistan | AP           | Issued   | 28-Mar-2023  |
 | 2023EU5125    | THT         | Tashkent | Uzbekistan | AP           | Issued   | 28-Mar-2023  |
+| 2023EU5408    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
 | 2023EU5568    | THT         | Tashkent | Uzbekistan | Ready        | Issued   | 29-Mar-2023  |
 | 2023EU5617    | THT         | Tashkent | Uzbekistan | Ready        | Issued   | 29-Mar-2023  |
 | 2023EU5803    | THT         | Tashkent | Uzbekistan | AP           | Issued   | 28-Mar-2023  |
@@ -1037,38 +1310,150 @@ Consulate: THT
 | 2023EU6113    | THT         | Tashkent | Uzbekistan | AP           | Issued   | 28-Mar-2023  |
 | 2023EU6135    | THT         | Tashkent | Uzbekistan | AP           | Issued   | 28-Mar-2023  |
 | 2023EU6207    | THT         | Tashkent | Uzbekistan | Ready        | Issued   | 29-Mar-2023  |
+| 2023EU6560    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
 | 2023EU6647    | THT         | Tashkent | Uzbekistan | Ready        | Issued   | 29-Mar-2023  |
 | 2023EU6977    | THT         | Tashkent | Uzbekistan | Ready        | Issued   | 29-Mar-2023  |
 | 2023EU7016    | THT         | Tashkent | Uzbekistan | Ready        | Issued   | 29-Mar-2023  |
+| 2023EU7092    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
+| 2023EU7439    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
 | 2023EU7690    | THT         | Tashkent | Uzbekistan | AP           | Issued   | 28-Mar-2023  |
 | 2023EU8045    | THT         | Tashkent | Uzbekistan | AP           | Issued   | 28-Mar-2023  |
+| 2023EU8270    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
 | 2023EU8297    | THT         | Tashkent | Uzbekistan | AP           | Issued   | 28-Mar-2023  |
+| 2023EU8363    | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
 | 2023EU12548   | THT         | Tashkent | Uzbekistan | Ready        | Issued   | 29-Mar-2023  |
+| 2023EU22188   | THT         | Tashkent | Uzbekistan | InTransit    | Ready    | 28-Mar-2023  |
 +---------------+-------------+----------+------------+--------------+----------+--------------+
 Consulate: TIA
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status      | statusDate   |
 |---------------+-------------+--------+-----------+--------------+-------------+--------------|
+| 2023EU5161    | TIA         | Tirana | Albania   | InTransit    | Ready       | 28-Mar-2023  |
+| 2023EU5863    | TIA         | Tirana | Albania   | InTransit    | Ready       | 28-Mar-2023  |
+| 2023EU6553    | TIA         | Tirana | Albania   | InTransit    | Ready       | 28-Mar-2023  |
+| 2023EU6653    | TIA         | Tirana | Albania   | InTransit    | Ready       | 28-Mar-2023  |
+| 2023EU7905    | TIA         | Tirana | Albania   | InTransit    | Ready       | 28-Mar-2023  |
 | 2023EU8219    | TIA         | Tirana | Albania   | AP           | Issued      | 28-Mar-2023  |
+| 2023EU8612    | TIA         | Tirana | Albania   | InTransit    | Ready       | 28-Mar-2023  |
+| 2023EU8737    | TIA         | Tirana | Albania   | InTransit    | Ready       | 28-Mar-2023  |
+| 2023EU9039    | TIA         | Tirana | Albania   | InTransit    | Ready       | 28-Mar-2023  |
+| 2023EU9213    | TIA         | Tirana | Albania   | InTransit    | Ready       | 28-Mar-2023  |
+| 2023EU9458    | TIA         | Tirana | Albania   | InTransit    | Ready       | 28-Mar-2023  |
+| 2023EU9689    | TIA         | Tirana | Albania   | InTransit    | Ready       | 28-Mar-2023  |
 | 2023EU9736    | TIA         | Tirana | Albania   | AP           | Ready       | 29-Mar-2023  |
 | 2023EU9832    | TIA         | Tirana | Albania   | AP           | Issued      | 28-Mar-2023  |
 | 2023EU9846    | TIA         | Tirana | Albania   | AP           | Issued      | 28-Mar-2023  |
 | 2023EU9908    | TIA         | Tirana | Albania   | AP           | Issued      | 28-Mar-2023  |
 | 2023EU10287   | TIA         | Tirana | Albania   | AP           | Issued      | 29-Mar-2023  |
+| 2023EU11163   | TIA         | Tirana | Albania   | InTransit    | Ready       | 28-Mar-2023  |
 | 2023EU11312   | TIA         | Tirana | Albania   | Ready        | Refused221g | 29-Mar-2023  |
+| 2023EU11337   | TIA         | Tirana | Albania   | InTransit    | Ready       | 28-Mar-2023  |
+| 2023EU11356   | TIA         | Tirana | Albania   | InTransit    | Ready       | 28-Mar-2023  |
+| 2023EU11501   | TIA         | Tirana | Albania   | InTransit    | Ready       | 28-Mar-2023  |
+| 2023EU11600   | TIA         | Tirana | Albania   | InTransit    | Ready       | 28-Mar-2023  |
+| 2023EU11709   | TIA         | Tirana | Albania   | InTransit    | Ready       | 28-Mar-2023  |
+| 2023EU11982   | TIA         | Tirana | Albania   | InTransit    | Ready       | 28-Mar-2023  |
+| 2023EU12050   | TIA         | Tirana | Albania   | InTransit    | Ready       | 28-Mar-2023  |
+| 2023EU12187   | TIA         | Tirana | Albania   | InTransit    | Ready       | 28-Mar-2023  |
+| 2023EU12188   | TIA         | Tirana | Albania   | InTransit    | Ready       | 28-Mar-2023  |
+| 2023EU12223   | TIA         | Tirana | Albania   | InTransit    | Ready       | 28-Mar-2023  |
+| 2023EU12376   | TIA         | Tirana | Albania   | InTransit    | Ready       | 28-Mar-2023  |
+| 2023EU12379   | TIA         | Tirana | Albania   | InTransit    | Ready       | 28-Mar-2023  |
 | 2023EU12541   | TIA         | Tirana | Albania   | Ready        | Issued      | 28-Mar-2023  |
 | 2023EU12552   | TIA         | Tirana | Albania   | Ready        | Issued      | 28-Mar-2023  |
+| 2023EU12572   | TIA         | Tirana | Albania   | InTransit    | Ready       | 28-Mar-2023  |
+| 2023EU12586   | TIA         | Tirana | Albania   | InTransit    | Ready       | 28-Mar-2023  |
 | 2023EU12605   | TIA         | Tirana | Albania   | Ready        | AP          | 28-Mar-2023  |
+| 2023EU12625   | TIA         | Tirana | Albania   | InTransit    | Ready       | 28-Mar-2023  |
+| 2023EU12691   | TIA         | Tirana | Albania   | InTransit    | Ready       | 28-Mar-2023  |
 | 2023EU12792   | TIA         | Tirana | Albania   | Ready        | Issued      | 28-Mar-2023  |
+| 2023EU12979   | TIA         | Tirana | Albania   | InTransit    | Ready       | 28-Mar-2023  |
+| 2023EU13070   | TIA         | Tirana | Albania   | InTransit    | Ready       | 28-Mar-2023  |
+| 2023EU13284   | TIA         | Tirana | Albania   | InTransit    | Ready       | 28-Mar-2023  |
 | 2023EU13285   | TIA         | Tirana | Albania   | AP           | Issued      | 28-Mar-2023  |
+| 2023EU13329   | TIA         | Tirana | Albania   | InTransit    | Ready       | 28-Mar-2023  |
+| 2023EU13377   | TIA         | Tirana | Albania   | InTransit    | Ready       | 28-Mar-2023  |
+| 2023EU13653   | TIA         | Tirana | Albania   | InTransit    | Ready       | 28-Mar-2023  |
 | 2023EU13702   | TIA         | Tirana | Albania   | AP           | Issued      | 28-Mar-2023  |
 | 2023EU13773   | TIA         | Tirana | Albania   | Ready        | Issued      | 28-Mar-2023  |
+| 2023EU13901   | TIA         | Tirana | Albania   | InTransit    | Ready       | 28-Mar-2023  |
+| 2023EU14159   | TIA         | Tirana | Albania   | InTransit    | Ready       | 28-Mar-2023  |
+| 2023EU14198   | TIA         | Tirana | Albania   | InTransit    | Ready       | 28-Mar-2023  |
+| 2023EU14253   | TIA         | Tirana | Albania   | InTransit    | Ready       | 28-Mar-2023  |
+| 2023EU14371   | TIA         | Tirana | Albania   | InTransit    | Ready       | 28-Mar-2023  |
+| 2023EU14475   | TIA         | Tirana | Albania   | InTransit    | Ready       | 28-Mar-2023  |
+| 2023EU14548   | TIA         | Tirana | Albania   | InTransit    | Ready       | 28-Mar-2023  |
+| 2023EU14575   | TIA         | Tirana | Albania   | InTransit    | Ready       | 28-Mar-2023  |
+| 2023EU14608   | TIA         | Tirana | Albania   | InTransit    | Ready       | 28-Mar-2023  |
+| 2023EU14683   | TIA         | Tirana | Albania   | InTransit    | Ready       | 28-Mar-2023  |
+| 2023EU14788   | TIA         | Tirana | Albania   | InTransit    | Ready       | 28-Mar-2023  |
+| 2023EU14855   | TIA         | Tirana | Albania   | InTransit    | Ready       | 28-Mar-2023  |
+| 2023EU14966   | TIA         | Tirana | Albania   | InTransit    | Ready       | 28-Mar-2023  |
+| 2023EU15043   | TIA         | Tirana | Albania   | InTransit    | Ready       | 28-Mar-2023  |
+| 2023EU15082   | TIA         | Tirana | Albania   | InTransit    | Ready       | 28-Mar-2023  |
+| 2023EU15115   | TIA         | Tirana | Albania   | InTransit    | Ready       | 28-Mar-2023  |
+| 2023EU15128   | TIA         | Tirana | Albania   | InTransit    | Ready       | 28-Mar-2023  |
+| 2023EU15223   | TIA         | Tirana | Albania   | InTransit    | Ready       | 28-Mar-2023  |
+| 2023EU15356   | TIA         | Tirana | Albania   | InTransit    | Ready       | 28-Mar-2023  |
+| 2023EU15379   | TIA         | Tirana | Albania   | InTransit    | Ready       | 28-Mar-2023  |
+| 2023EU15380   | TIA         | Tirana | Albania   | InTransit    | Ready       | 28-Mar-2023  |
+| 2023EU15411   | TIA         | Tirana | Albania   | InTransit    | Ready       | 28-Mar-2023  |
+| 2023EU15419   | TIA         | Tirana | Albania   | InTransit    | Ready       | 28-Mar-2023  |
+| 2023EU15431   | TIA         | Tirana | Albania   | InTransit    | Ready       | 28-Mar-2023  |
+| 2023EU15446   | TIA         | Tirana | Albania   | InTransit    | Ready       | 28-Mar-2023  |
+| 2023EU15543   | TIA         | Tirana | Albania   | InTransit    | Ready       | 28-Mar-2023  |
+| 2023EU15614   | TIA         | Tirana | Albania   | InTransit    | Ready       | 28-Mar-2023  |
+| 2023EU15624   | TIA         | Tirana | Albania   | InTransit    | Ready       | 28-Mar-2023  |
+| 2023EU15691   | TIA         | Tirana | Albania   | InTransit    | Ready       | 28-Mar-2023  |
+| 2023EU15721   | TIA         | Tirana | Albania   | InTransit    | Ready       | 28-Mar-2023  |
+| 2023EU15810   | TIA         | Tirana | Albania   | InTransit    | Ready       | 28-Mar-2023  |
+| 2023EU15817   | TIA         | Tirana | Albania   | InTransit    | Ready       | 28-Mar-2023  |
+| 2023EU15828   | TIA         | Tirana | Albania   | InTransit    | Ready       | 28-Mar-2023  |
+| 2023EU15868   | TIA         | Tirana | Albania   | InTransit    | Ready       | 28-Mar-2023  |
+| 2023EU15929   | TIA         | Tirana | Albania   | InTransit    | Ready       | 28-Mar-2023  |
+| 2023EU16068   | TIA         | Tirana | Albania   | InTransit    | Ready       | 28-Mar-2023  |
+| 2023EU16073   | TIA         | Tirana | Albania   | InTransit    | Ready       | 28-Mar-2023  |
+| 2023EU16141   | TIA         | Tirana | Albania   | InTransit    | Ready       | 28-Mar-2023  |
+| 2023EU16292   | TIA         | Tirana | Albania   | InTransit    | Ready       | 28-Mar-2023  |
+| 2023EU16432   | TIA         | Tirana | Albania   | InTransit    | Ready       | 28-Mar-2023  |
+| 2023EU16472   | TIA         | Tirana | Albania   | InTransit    | Ready       | 28-Mar-2023  |
+| 2023EU16535   | TIA         | Tirana | Albania   | InTransit    | Ready       | 28-Mar-2023  |
+| 2023EU16582   | TIA         | Tirana | Albania   | InTransit    | Ready       | 28-Mar-2023  |
+| 2023EU16601   | TIA         | Tirana | Albania   | InTransit    | Ready       | 28-Mar-2023  |
+| 2023EU16605   | TIA         | Tirana | Albania   | InTransit    | Ready       | 28-Mar-2023  |
+| 2023EU16692   | TIA         | Tirana | Albania   | InTransit    | Ready       | 28-Mar-2023  |
+| 2023EU16735   | TIA         | Tirana | Albania   | InTransit    | Ready       | 28-Mar-2023  |
+| 2023EU16759   | TIA         | Tirana | Albania   | InTransit    | Ready       | 28-Mar-2023  |
+| 2023EU16772   | TIA         | Tirana | Albania   | InTransit    | Ready       | 28-Mar-2023  |
+| 2023EU16805   | TIA         | Tirana | Albania   | InTransit    | Ready       | 28-Mar-2023  |
+| 2023EU16868   | TIA         | Tirana | Albania   | InTransit    | Ready       | 28-Mar-2023  |
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
 Consulate: TKY
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+--------+-----------+--------------+----------+--------------|
 | 2023AS5111    | TKY         | Tokyo  | Japan     | Ready        | Issued   | 29-Mar-2023  |
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+Consulate: TNS
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023AF36274   | TNS         | Tunis  | Tunisia   | InTransit    | Ready    | 28-Mar-2023  |
+| 2023AF51407   | TNS         | Tunis  | Tunisia   | InTransit    | Ready    | 28-Mar-2023  |
+| 2023AF52191   | TNS         | Tunis  | Tunisia   | InTransit    | Ready    | 28-Mar-2023  |
+| 2023AF52855   | TNS         | Tunis  | Tunisia   | InTransit    | Ready    | 28-Mar-2023  |
+| 2023AF54168   | TNS         | Tunis  | Tunisia   | InTransit    | Ready    | 28-Mar-2023  |
+| 2023AF55071   | TNS         | Tunis  | Tunisia   | InTransit    | Ready    | 28-Mar-2023  |
+| 2023AF55940   | TNS         | Tunis  | Tunisia   | InTransit    | Ready    | 28-Mar-2023  |
+| 2023AF55966   | TNS         | Tunis  | Tunisia   | InTransit    | Ready    | 28-Mar-2023  |
+| 2023AF56018   | TNS         | Tunis  | Tunisia   | InTransit    | Ready    | 28-Mar-2023  |
+| 2023AF57145   | TNS         | Tunis  | Tunisia   | InTransit    | Ready    | 28-Mar-2023  |
+| 2023AF58251   | TNS         | Tunis  | Tunisia   | InTransit    | Ready    | 28-Mar-2023  |
+| 2023AF58521   | TNS         | Tunis  | Tunisia   | InTransit    | Ready    | 28-Mar-2023  |
+| 2023AF58781   | TNS         | Tunis  | Tunisia   | InTransit    | Ready    | 28-Mar-2023  |
+| 2023AF59157   | TNS         | Tunis  | Tunisia   | InTransit    | Ready    | 28-Mar-2023  |
+| 2023AF59307   | TNS         | Tunis  | Tunisia   | InTransit    | Ready    | 28-Mar-2023  |
+| 2023AF59416   | TNS         | Tunis  | Tunisia   | InTransit    | Ready    | 28-Mar-2023  |
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: ULN
 +---------------+-------------+-------------+-----------+--------------+-------------+--------------+

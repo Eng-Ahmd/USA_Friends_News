@@ -386,6 +386,8 @@ Consulate: VNN
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023EU6995    | VNN         | Vienna | Austria   | InTransit    | Ready    | 20-Mar-2023  |
+| 2023EU10601   | VNN         | Vienna | Austria   | InTransit    | Ready    | 20-Mar-2023  |
 | 2023EU24032   | VNN         | Vienna | Austria   | Refused221g  | Ready    | 20-Mar-2023  |
 | 2023EU24302   | VNN         | Vienna | Austria   | Ready        | Issued   | 20-Mar-2023  |
 +---------------+-------------+--------+-----------+--------------+----------+--------------+

@@ -31,6 +31,12 @@ Consulate: AMM
 | 2023AS14761   | AMM         | Amman  | Jordan    | AP           | Issued      | 23-Feb-2023  |
 | 2023OC965     | AMM         | Amman  | Jordan    | Refused221g  | AP          | 23-Feb-2023  |
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
+Consulate: ANT
++---------------+-------------+--------------+------------+--------------+----------+--------------+
+| Case Number   | Consulate   | City         | Country    | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------------+------------+--------------+----------+--------------|
+| 2023AF4808    | ANT         | Antananarivo | Madagascar | InTransit    | Ready    | 23-Feb-2023  |
++---------------+-------------+--------------+------------+--------------+----------+--------------+
 Consulate: ATA
 +---------------+-------------+--------+------------+--------------+----------+--------------+
 | Case Number   | Consulate   | City   | Country    | PrevStatus   | Status   | statusDate   |
@@ -55,6 +61,13 @@ Consulate: BDP
 |---------------+-------------+----------+-----------+--------------+----------+--------------|
 | 2023AF22761   | BDP         | Budapest | Hungary   | AP           | Issued   | 23-Feb-2023  |
 +---------------+-------------+----------+-----------+--------------+----------+--------------+
+Consulate: BGN
++---------------+-------------+------------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City       | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+------------+-----------+--------------+----------+--------------|
+| 2023AF2754    | BGN         | Bridgetown | Barbados  | InTransit    | Ready    | 23-Feb-2023  |
+| 2023SA1584    | BGN         | Bridgetown | Barbados  | InTransit    | Ready    | 23-Feb-2023  |
++---------------+-------------+------------+-----------+--------------+----------+--------------+
 Consulate: BMB
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
@@ -87,6 +100,15 @@ Consulate: BRT
 |---------------+-------------+--------+-----------+--------------+----------+--------------|
 | 2023AS1156    | BRT         | Beirut | Lebanon   | Ready        | AP       | 23-Feb-2023  |
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
+Consulate: CDJ
++---------------+-------------+---------------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City          | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+---------------+-----------+--------------+----------+--------------|
+| 2023EU372     | CDJ         | Ciudad Juarez | Mexico    | InTransit    | Ready    | 23-Feb-2023  |
+| 2023EU5166    | CDJ         | Ciudad Juarez | Mexico    | InTransit    | Ready    | 23-Feb-2023  |
+| 2023EU29650   | CDJ         | Ciudad Juarez | Mexico    | InTransit    | Ready    | 23-Feb-2023  |
+| 2023SA2180    | CDJ         | Ciudad Juarez | Mexico    | InTransit    | Ready    | 23-Feb-2023  |
++---------------+-------------+---------------+-----------+--------------+----------+--------------+
 Consulate: CRO
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
@@ -305,7 +327,25 @@ Consulate: KIN
 +---------------+-------------+----------+----------------------------------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City     | Country                          | PrevStatus   | Status      | statusDate   |
 |---------------+-------------+----------+----------------------------------+--------------+-------------+--------------|
+| 2023AF266     | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready       | 23-Feb-2023  |
+| 2023AF1092    | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready       | 23-Feb-2023  |
+| 2023AF1201    | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready       | 23-Feb-2023  |
+| 2023AF1485    | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready       | 23-Feb-2023  |
+| 2023AF1590    | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready       | 23-Feb-2023  |
+| 2023AF1963    | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready       | 23-Feb-2023  |
+| 2023AF2112    | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready       | 23-Feb-2023  |
 | 2023AF2278    | KIN         | Kinshasa | Democratic Republic of the Congo | Ready        | Refused221g | 23-Feb-2023  |
+| 2023AF2654    | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready       | 23-Feb-2023  |
+| 2023AF2986    | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready       | 23-Feb-2023  |
+| 2023AF3146    | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready       | 23-Feb-2023  |
+| 2023AF3723    | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready       | 23-Feb-2023  |
+| 2023AF3964    | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready       | 23-Feb-2023  |
+| 2023AF4316    | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready       | 23-Feb-2023  |
+| 2023AF4611    | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready       | 23-Feb-2023  |
+| 2023AF4643    | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready       | 23-Feb-2023  |
+| 2023AF4979    | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready       | 23-Feb-2023  |
+| 2023AF5643    | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready       | 23-Feb-2023  |
+| 2023AF5740    | KIN         | Kinshasa | Democratic Republic of the Congo | InTransit    | Ready       | 23-Feb-2023  |
 | 2023AF6618    | KIN         | Kinshasa | Democratic Republic of the Congo | Ready        | AP          | 23-Feb-2023  |
 | 2023AF7440    | KIN         | Kinshasa | Democratic Republic of the Congo | Ready        | AP          | 23-Feb-2023  |
 | 2023AF9555    | KIN         | Kinshasa | Democratic Republic of the Congo | Ready        | AP          | 23-Feb-2023  |
@@ -370,6 +410,13 @@ Consulate: LOM
 | 2023AF18468   | LOM         | Lome   | Togo      | Refused221g  | Issued      | 23-Feb-2023  |
 | 2023AF19519   | LOM         | Lome   | Togo      | Ready        | Issued      | 23-Feb-2023  |
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
+Consulate: MNA
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023AF8651    | MNA         | Manama | Bahrain   | InTransit    | Ready    | 23-Feb-2023  |
+| 2023AS13677   | MNA         | Manama | Bahrain   | InTransit    | Ready    | 23-Feb-2023  |
++---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: NRB
 +---------------+-------------+---------+-----------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City    | Country   | PrevStatus   | Status      | statusDate   |
@@ -457,10 +504,29 @@ Consulate: SYD
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023AF3051    | SYD         | Sydney | Australia | InTransit    | Ready    | 23-Feb-2023  |
+| 2023AS1784    | SYD         | Sydney | Australia | InTransit    | Ready    | 23-Feb-2023  |
 | 2023AS1841    | SYD         | Sydney | Australia | Refused221g  | AP       | 24-Feb-2023  |
+| 2023AS4625    | SYD         | Sydney | Australia | InTransit    | Ready    | 24-Feb-2023  |
+| 2023AS8529    | SYD         | Sydney | Australia | InTransit    | Ready    | 23-Feb-2023  |
+| 2023AS9010    | SYD         | Sydney | Australia | InTransit    | Ready    | 23-Feb-2023  |
+| 2023AS9313    | SYD         | Sydney | Australia | InTransit    | Ready    | 23-Feb-2023  |
+| 2023AS10850   | SYD         | Sydney | Australia | InTransit    | Ready    | 23-Feb-2023  |
+| 2023AS11146   | SYD         | Sydney | Australia | InTransit    | Ready    | 23-Feb-2023  |
+| 2023AS12115   | SYD         | Sydney | Australia | InTransit    | Ready    | 23-Feb-2023  |
+| 2023AS12117   | SYD         | Sydney | Australia | InTransit    | Ready    | 23-Feb-2023  |
+| 2023AS12165   | SYD         | Sydney | Australia | InTransit    | Ready    | 24-Feb-2023  |
+| 2023EU17997   | SYD         | Sydney | Australia | InTransit    | Ready    | 23-Feb-2023  |
+| 2023EU24844   | SYD         | Sydney | Australia | InTransit    | Ready    | 23-Feb-2023  |
+| 2023EU27136   | SYD         | Sydney | Australia | InTransit    | Ready    | 24-Feb-2023  |
+| 2023OC352     | SYD         | Sydney | Australia | InTransit    | Ready    | 23-Feb-2023  |
+| 2023OC597     | SYD         | Sydney | Australia | InTransit    | Ready    | 23-Feb-2023  |
 | 2023OC733     | SYD         | Sydney | Australia | AP           | Issued   | 23-Feb-2023  |
+| 2023OC736     | SYD         | Sydney | Australia | InTransit    | Ready    | 23-Feb-2023  |
+| 2023OC891     | SYD         | Sydney | Australia | InTransit    | Ready    | 24-Feb-2023  |
 | 2023OC937     | SYD         | Sydney | Australia | AP           | Issued   | 23-Feb-2023  |
 | 2023OC1022    | SYD         | Sydney | Australia | Refused221g  | AP       | 23-Feb-2023  |
+| 2023OC1087    | SYD         | Sydney | Australia | InTransit    | Ready    | 23-Feb-2023  |
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: TBL
 +---------------+-------------+---------+-----------+--------------+----------+--------------+
@@ -469,6 +535,12 @@ Consulate: TBL
 | 2023EU6425    | TBL         | Tbilisi | Georgia   | Issued       | Ready    | 23-Feb-2023  |
 | 2023EU8411    | TBL         | Tbilisi | Georgia   | Refused221g  | AP       | 23-Feb-2023  |
 +---------------+-------------+---------+-----------+--------------+----------+--------------+
+Consulate: VNN
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023EU21266   | VNN         | Vienna | Austria   | InTransit    | Ready    | 23-Feb-2023  |
++---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: WRW
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |

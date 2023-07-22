@@ -282,9 +282,69 @@ Consulate: LMA
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023SA96      | LMA         | Lima   | Peru      | InTransit    | Ready    | 24-Mar-2023  |
+| 2023SA140     | LMA         | Lima   | Peru      | InTransit    | Ready    | 24-Mar-2023  |
 | 2023SA206     | LMA         | Lima   | Peru      | AP           | Issued   | 24-Mar-2023  |
+| 2023SA304     | LMA         | Lima   | Peru      | InTransit    | Ready    | 24-Mar-2023  |
+| 2023SA629     | LMA         | Lima   | Peru      | InTransit    | Ready    | 24-Mar-2023  |
+| 2023SA944     | LMA         | Lima   | Peru      | InTransit    | Ready    | 24-Mar-2023  |
+| 2023SA1028    | LMA         | Lima   | Peru      | InTransit    | Ready    | 24-Mar-2023  |
+| 2023SA1054    | LMA         | Lima   | Peru      | InTransit    | Ready    | 24-Mar-2023  |
 | 2023SA1178    | LMA         | Lima   | Peru      | Issued       | Ready    | 24-Mar-2023  |
+| 2023SA1232    | LMA         | Lima   | Peru      | InTransit    | Ready    | 24-Mar-2023  |
+| 2023SA1260    | LMA         | Lima   | Peru      | InTransit    | Ready    | 24-Mar-2023  |
+| 2023SA1261    | LMA         | Lima   | Peru      | InTransit    | Ready    | 24-Mar-2023  |
+| 2023SA1269    | LMA         | Lima   | Peru      | InTransit    | Ready    | 24-Mar-2023  |
+| 2023SA1319    | LMA         | Lima   | Peru      | InTransit    | Ready    | 24-Mar-2023  |
+| 2023SA1329    | LMA         | Lima   | Peru      | InTransit    | Ready    | 24-Mar-2023  |
+| 2023SA1366    | LMA         | Lima   | Peru      | InTransit    | Ready    | 24-Mar-2023  |
+| 2023SA1369    | LMA         | Lima   | Peru      | InTransit    | Ready    | 24-Mar-2023  |
+| 2023SA1397    | LMA         | Lima   | Peru      | InTransit    | Ready    | 24-Mar-2023  |
+| 2023SA1399    | LMA         | Lima   | Peru      | InTransit    | Ready    | 24-Mar-2023  |
+| 2023SA1402    | LMA         | Lima   | Peru      | InTransit    | Ready    | 24-Mar-2023  |
+| 2023SA1478    | LMA         | Lima   | Peru      | InTransit    | Ready    | 24-Mar-2023  |
+| 2023SA1526    | LMA         | Lima   | Peru      | InTransit    | Ready    | 24-Mar-2023  |
+| 2023SA1687    | LMA         | Lima   | Peru      | InTransit    | Ready    | 24-Mar-2023  |
+| 2023SA1830    | LMA         | Lima   | Peru      | InTransit    | Ready    | 24-Mar-2023  |
+| 2023SA1900    | LMA         | Lima   | Peru      | InTransit    | Ready    | 24-Mar-2023  |
+| 2023SA1924    | LMA         | Lima   | Peru      | InTransit    | Ready    | 24-Mar-2023  |
 | 2023SA1984    | LMA         | Lima   | Peru      | AP           | Issued   | 24-Mar-2023  |
+| 2023SA2002    | LMA         | Lima   | Peru      | InTransit    | Ready    | 24-Mar-2023  |
+| 2023SA2016    | LMA         | Lima   | Peru      | InTransit    | Ready    | 24-Mar-2023  |
+| 2023SA2056    | LMA         | Lima   | Peru      | InTransit    | Ready    | 24-Mar-2023  |
+| 2023SA2100    | LMA         | Lima   | Peru      | InTransit    | Ready    | 24-Mar-2023  |
+| 2023SA2112    | LMA         | Lima   | Peru      | InTransit    | Ready    | 24-Mar-2023  |
+| 2023SA2132    | LMA         | Lima   | Peru      | InTransit    | Ready    | 24-Mar-2023  |
+| 2023SA2151    | LMA         | Lima   | Peru      | InTransit    | Ready    | 24-Mar-2023  |
+| 2023SA2162    | LMA         | Lima   | Peru      | InTransit    | Ready    | 24-Mar-2023  |
+| 2023SA2163    | LMA         | Lima   | Peru      | InTransit    | Ready    | 24-Mar-2023  |
+| 2023SA2165    | LMA         | Lima   | Peru      | InTransit    | Ready    | 24-Mar-2023  |
+| 2023SA2172    | LMA         | Lima   | Peru      | InTransit    | Ready    | 24-Mar-2023  |
+| 2023SA2189    | LMA         | Lima   | Peru      | InTransit    | Ready    | 24-Mar-2023  |
+| 2023SA2197    | LMA         | Lima   | Peru      | InTransit    | Ready    | 24-Mar-2023  |
+| 2023SA2199    | LMA         | Lima   | Peru      | InTransit    | Ready    | 24-Mar-2023  |
+| 2023SA2206    | LMA         | Lima   | Peru      | InTransit    | Ready    | 24-Mar-2023  |
+| 2023SA2224    | LMA         | Lima   | Peru      | InTransit    | Ready    | 24-Mar-2023  |
+| 2023SA2251    | LMA         | Lima   | Peru      | InTransit    | Ready    | 24-Mar-2023  |
+| 2023SA2255    | LMA         | Lima   | Peru      | InTransit    | Ready    | 24-Mar-2023  |
+| 2023SA2258    | LMA         | Lima   | Peru      | InTransit    | Ready    | 24-Mar-2023  |
+| 2023SA2269    | LMA         | Lima   | Peru      | InTransit    | Ready    | 24-Mar-2023  |
+| 2023SA2272    | LMA         | Lima   | Peru      | InTransit    | Ready    | 24-Mar-2023  |
+| 2023SA2280    | LMA         | Lima   | Peru      | InTransit    | Ready    | 24-Mar-2023  |
+| 2023SA2293    | LMA         | Lima   | Peru      | InTransit    | Ready    | 24-Mar-2023  |
+| 2023SA2303    | LMA         | Lima   | Peru      | InTransit    | Ready    | 24-Mar-2023  |
+| 2023SA2314    | LMA         | Lima   | Peru      | InTransit    | Ready    | 24-Mar-2023  |
+| 2023SA2316    | LMA         | Lima   | Peru      | InTransit    | Ready    | 24-Mar-2023  |
+| 2023SA2321    | LMA         | Lima   | Peru      | InTransit    | Ready    | 24-Mar-2023  |
+| 2023SA2325    | LMA         | Lima   | Peru      | InTransit    | Ready    | 24-Mar-2023  |
+| 2023SA2341    | LMA         | Lima   | Peru      | InTransit    | Ready    | 24-Mar-2023  |
+| 2023SA2346    | LMA         | Lima   | Peru      | InTransit    | Ready    | 24-Mar-2023  |
+| 2023SA2356    | LMA         | Lima   | Peru      | InTransit    | Ready    | 24-Mar-2023  |
+| 2023SA2358    | LMA         | Lima   | Peru      | InTransit    | Ready    | 24-Mar-2023  |
+| 2023SA2362    | LMA         | Lima   | Peru      | InTransit    | Ready    | 24-Mar-2023  |
+| 2023SA2363    | LMA         | Lima   | Peru      | InTransit    | Ready    | 24-Mar-2023  |
+| 2023SA2367    | LMA         | Lima   | Peru      | InTransit    | Ready    | 24-Mar-2023  |
+| 2023SA2377    | LMA         | Lima   | Peru      | InTransit    | Ready    | 24-Mar-2023  |
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: LUS
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
