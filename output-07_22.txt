@@ -1,0 +1,197 @@
+Consulate: ALG
++---------------+-------------+---------+-----------+--------------+-------------+--------------+
+| Case Number   | Consulate   | City    | Country   | PrevStatus   | Status      | statusDate   |
+|---------------+-------------+---------+-----------+--------------+-------------+--------------|
+| 2023AF21741   | ALG         | Algiers | Algeria   | Ready        | AP          | 23-Jul-2023  |
+| 2023AF24926   | ALG         | Algiers | Algeria   | Ready        | Refused221g | 23-Jul-2023  |
+| 2023AF28468   | ALG         | Algiers | Algeria   | Ready        | AP          | 23-Jul-2023  |
+| 2023AF30105   | ALG         | Algiers | Algeria   | Ready        | Refused     | 23-Jul-2023  |
+| 2023AF33291   | ALG         | Algiers | Algeria   | Refused221g  | AP          | 23-Jul-2023  |
+| 2023AF36101   | ALG         | Algiers | Algeria   | Ready        | AP          | 23-Jul-2023  |
+| 2023AF36610   | ALG         | Algiers | Algeria   | Ready        | AP          | 23-Jul-2023  |
+| 2023AF37582   | ALG         | Algiers | Algeria   | Ready        | Refused221g | 23-Jul-2023  |
+| 2023AF37806   | ALG         | Algiers | Algeria   | Ready        | AP          | 23-Jul-2023  |
+| 2023AF38633   | ALG         | Algiers | Algeria   | Ready        | AP          | 23-Jul-2023  |
+| 2023AF38774   | ALG         | Algiers | Algeria   | Ready        | AP          | 23-Jul-2023  |
+| 2023AF39048   | ALG         | Algiers | Algeria   | Ready        | Refused221g | 23-Jul-2023  |
+| 2023AF39258   | ALG         | Algiers | Algeria   | Ready        | Refused221g | 23-Jul-2023  |
+| 2023AF39738   | ALG         | Algiers | Algeria   | Ready        | Refused221g | 23-Jul-2023  |
+| 2023AF39965   | ALG         | Algiers | Algeria   | Ready        | AP          | 23-Jul-2023  |
++---------------+-------------+---------+-----------+--------------+-------------+--------------+
+Consulate: AMM
++---------------+-------------+--------+-----------+--------------+-------------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status      | statusDate   |
+|---------------+-------------+--------+-----------+--------------+-------------+--------------|
+| 2023AF39597   | AMM         | Amman  | Jordan    | AP           | Issued      | 23-Jul-2023  |
+| 2023AF40356   | AMM         | Amman  | Jordan    | Ready        | Refused     | 23-Jul-2023  |
+| 2023AS18925   | AMM         | Amman  | Jordan    | AP           | Issued      | 23-Jul-2023  |
+| 2023AS19314   | AMM         | Amman  | Jordan    | Ready        | AP          | 23-Jul-2023  |
+| 2023AS19389   | AMM         | Amman  | Jordan    | Ready        | AP          | 23-Jul-2023  |
+| 2023AS19865   | AMM         | Amman  | Jordan    | AP           | Issued      | 23-Jul-2023  |
+| 2023AS19885   | AMM         | Amman  | Jordan    | Ready        | AP          | 23-Jul-2023  |
+| 2023AS19981   | AMM         | Amman  | Jordan    | Ready        | Refused221g | 23-Jul-2023  |
+| 2023AS20037   | AMM         | Amman  | Jordan    | Ready        | Issued      | 23-Jul-2023  |
+| 2023AS20774   | AMM         | Amman  | Jordan    | AP           | Issued      | 23-Jul-2023  |
+| 2023EU31410   | AMM         | Amman  | Jordan    | Ready        | AP          | 23-Jul-2023  |
++---------------+-------------+--------+-----------+--------------+-------------+--------------+
+Consulate: DHK
++---------------+-------------+--------+------------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country    | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+------------+--------------+----------+--------------|
+| 2023AF57171   | DHK         | Dhaka  | Bangladesh | Refused221g  | Ready    | 23-Jul-2023  |
++---------------+-------------+--------+------------+--------------+----------+--------------+
+Consulate: DJI
++---------------+-------------+----------+-----------+--------------+-------------+--------------+
+| Case Number   | Consulate   | City     | Country   | PrevStatus   | Status      | statusDate   |
+|---------------+-------------+----------+-----------+--------------+-------------+--------------|
+| 2023AF22636   | DJI         | Djibouti | Djibouti  | Ready        | Refused221g | 23-Jul-2023  |
+| 2023AF26025   | DJI         | Djibouti | Djibouti  | Ready        | Refused221g | 23-Jul-2023  |
+| 2023AF27162   | DJI         | Djibouti | Djibouti  | Ready        | Refused221g | 23-Jul-2023  |
+| 2023AF27944   | DJI         | Djibouti | Djibouti  | Ready        | Refused221g | 23-Jul-2023  |
+| 2023AS2468    | DJI         | Djibouti | Djibouti  | Refused221g  | AP          | 23-Jul-2023  |
++---------------+-------------+----------+-----------+--------------+-------------+--------------+
+Consulate: DOH
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023AF6773    | DOH         | Doha   | Qatar     | AP           | Ready    | 23-Jul-2023  |
+| 2023AF31909   | DOH         | Doha   | Qatar     | AP           | Issued   | 23-Jul-2023  |
+| 2023AF36542   | DOH         | Doha   | Qatar     | AP           | Issued   | 23-Jul-2023  |
+| 2023AF46902   | DOH         | Doha   | Qatar     | AP           | Issued   | 23-Jul-2023  |
+| 2023AF47496   | DOH         | Doha   | Qatar     | AP           | Issued   | 23-Jul-2023  |
+| 2023AS4018    | DOH         | Doha   | Qatar     | Ready        | AP       | 23-Jul-2023  |
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+Consulate: KWT
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023AF30234   | KWT         | Kuwait | Kuwait    | AP           | Issued   | 23-Jul-2023  |
+| 2023AF30711   | KWT         | Kuwait | Kuwait    | AP           | Issued   | 23-Jul-2023  |
+| 2023AF32959   | KWT         | Kuwait | Kuwait    | AP           | Issued   | 23-Jul-2023  |
+| 2023AF34550   | KWT         | Kuwait | Kuwait    | AP           | Issued   | 23-Jul-2023  |
+| 2023AF34836   | KWT         | Kuwait | Kuwait    | AP           | Issued   | 23-Jul-2023  |
+| 2023AF36903   | KWT         | Kuwait | Kuwait    | AP           | Issued   | 23-Jul-2023  |
+| 2023AF40322   | KWT         | Kuwait | Kuwait    | AP           | Issued   | 23-Jul-2023  |
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+Consulate: MST
++---------------+-------------+--------+-----------+--------------+-------------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status      | statusDate   |
+|---------------+-------------+--------+-----------+--------------+-------------+--------------|
+| 2023AS17879   | MST         | Muscat | Oman      | Ready        | Refused221g | 23-Jul-2023  |
++---------------+-------------+--------+-----------+--------------+-------------+--------------+
+Consulate: RID
++---------------+-------------+--------+--------------+--------------+-------------+--------------+
+| Case Number   | Consulate   | City   | Country      | PrevStatus   | Status      | statusDate   |
+|---------------+-------------+--------+--------------+--------------+-------------+--------------|
+| 2023AF8272    | RID         | Riyadh | Saudi Arabia | Ready        | Refused221g | 23-Jul-2023  |
+| 2023AS5429    | RID         | Riyadh | Saudi Arabia | Ready        | Refused221g | 23-Jul-2023  |
+| 2023AS7195    | RID         | Riyadh | Saudi Arabia | Refused221g  | Refused     | 23-Jul-2023  |
++---------------+-------------+--------+--------------+--------------+-------------+--------------+
+Consulate: YRV
++---------------+-------------+---------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City    | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+---------+-----------+--------------+----------+--------------|
+| 2023AS8796    | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS10123   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS10329   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS11558   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS13542   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS14005   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS14022   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS14024   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS14028   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS14030   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS14051   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS14056   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS14062   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS14070   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS14106   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS14110   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS14136   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS14175   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS14180   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS14182   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS14194   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS14202   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS14212   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS14220   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS14233   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS14269   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS14305   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS14316   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS14317   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS14398   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS14400   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS14406   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS14444   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS14460   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS14461   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS14496   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS14538   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS14553   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS14577   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS14579   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS14589   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS14616   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS14637   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS14701   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS14729   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS14745   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS14826   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS14847   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS14851   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS14863   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS14864   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS14950   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS14953   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS14968   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS15025   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS15066   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS15082   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS15115   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS15117   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS15133   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS15144   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS15152   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS15156   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS15160   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS15174   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS15202   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS15206   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS15218   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS15238   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS15246   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS15248   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS15257   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS15262   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS15377   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS15422   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS15443   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS15477   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS15493   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS15503   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS15526   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS15560   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS15596   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS15602   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS15605   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS15613   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS15614   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS15615   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS15632   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS15671   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS15698   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS15725   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS15757   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS15787   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS15832   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS15856   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS15863   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS15873   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS15898   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS15908   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS15926   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS15960   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS15974   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
+| 2023AS15982   | YRV         | Yerevan | Armenia   | InTransit    | Ready    | 22-Jul-2023  |
++---------------+-------------+---------+-----------+--------------+----------+--------------+
