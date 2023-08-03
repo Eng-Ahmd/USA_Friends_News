@@ -2,368 +2,551 @@ Consulate: ABD
 +---------------+-------------+-----------+----------------------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City      | Country              | PrevStatus   | Status      | statusDate   |
 |---------------+-------------+-----------+----------------------+--------------+-------------+--------------|
-| 2023AF11676   | ABD         | Abu Dhabi | United Arab Emirates | Ready        | Refused221g | 02-Aug-23    |
-| 2023AF12536   | ABD         | Abu Dhabi | United Arab Emirates | Ready        | Issued      | 02-Aug-23    |
-| 2023AF13834   | ABD         | Abu Dhabi | United Arab Emirates | Ready        | Issued      | 02-Aug-23    |
-| 2023AF17917   | ABD         | Abu Dhabi | United Arab Emirates | Ready        | Issued      | 02-Aug-23    |
-| 2023AF49846   | ABD         | Abu Dhabi | United Arab Emirates | Ready        | Refused221g | 02-Aug-23    |
-| 2023AS12      | ABD         | Abu Dhabi | United Arab Emirates | Ready        | Issued      | 02-Aug-23    |
-| 2023AS693     | ABD         | Abu Dhabi | United Arab Emirates | Ready        | AP          | 02-Aug-23    |
-| 2023AS1690    | ABD         | Abu Dhabi | United Arab Emirates | Ready        | Refused221g | 02-Aug-23    |
-| 2023AS1814    | ABD         | Abu Dhabi | United Arab Emirates | Ready        | Issued      | 02-Aug-23    |
-| 2023AS2188    | ABD         | Abu Dhabi | United Arab Emirates | Ready        | Refused221g | 02-Aug-23    |
-| 2023AS4842    | ABD         | Abu Dhabi | United Arab Emirates | Ready        | Refused221g | 02-Aug-23    |
-| 2023AS5144    | ABD         | Abu Dhabi | United Arab Emirates | Ready        | Refused221g | 02-Aug-23    |
-| 2023AS8603    | ABD         | Abu Dhabi | United Arab Emirates | Ready        | Issued      | 02-Aug-23    |
-| 2023AS9203    | ABD         | Abu Dhabi | United Arab Emirates | Ready        | Refused221g | 02-Aug-23    |
+| 2023AF12536   | ABD         | Abu Dhabi | United Arab Emirates | AP           | Issued      | 02-Aug-2023  |
+| 2023AF13834   | ABD         | Abu Dhabi | United Arab Emirates | AP           | Issued      | 02-Aug-2023  |
+| 2023AF17917   | ABD         | Abu Dhabi | United Arab Emirates | AP           | Issued      | 02-Aug-2023  |
+| 2023AF49846   | ABD         | Abu Dhabi | United Arab Emirates | Ready        | Refused221g | 02-Aug-2023  |
+| 2023AS12      | ABD         | Abu Dhabi | United Arab Emirates | AP           | Issued      | 02-Aug-2023  |
+| 2023AS1814    | ABD         | Abu Dhabi | United Arab Emirates | AP           | Issued      | 02-Aug-2023  |
+| 2023AS2188    | ABD         | Abu Dhabi | United Arab Emirates | Ready        | Refused221g | 02-Aug-2023  |
+| 2023AS4842    | ABD         | Abu Dhabi | United Arab Emirates | Ready        | Refused221g | 02-Aug-2023  |
+| 2023AS8603    | ABD         | Abu Dhabi | United Arab Emirates | AP           | Issued      | 02-Aug-2023  |
 +---------------+-------------+-----------+----------------------+--------------+-------------+--------------+
-Consulate: ACK
-+---------------+-------------+----------+-------------+--------------+----------+--------------+
-| Case Number   | Consulate   | City     | Country     | PrevStatus   | Status   | statusDate   |
-|---------------+-------------+----------+-------------+--------------+----------+--------------|
-| 2023OC1734    | ACK         | Auckland | New Zealand | InTransit    | Ready    | 02-Aug-23    |
-| 2023OC2448    | ACK         | Auckland | New Zealand | InTransit    | Ready    | 02-Aug-23    |
-+---------------+-------------+----------+-------------+--------------+----------+--------------+
+Consulate: ABJ
++---------------+-------------+---------+---------------+--------------+----------+--------------+
+| Case Number   | Consulate   | City    | Country       | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+---------+---------------+--------------+----------+--------------|
+| 2023AF4772    | ABJ         | Abidjan | Cote d'Ivoire | Ready        | AP       | 02-Aug-2023  |
++---------------+-------------+---------+---------------+--------------+----------+--------------+
 Consulate: ADD
 +---------------+-------------+-------------+-----------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City        | Country   | PrevStatus   | Status      | statusDate   |
 |---------------+-------------+-------------+-----------+--------------+-------------+--------------|
-| 2023AF10769   | ADD         | Addis Ababa | Ethiopia  | Ready        | Issued      | 02-Aug-23    |
-| 2023AF14960   | ADD         | Addis Ababa | Ethiopia  | Transfer     | Ready       | 02-Aug-23    |
-| 2023AF15273   | ADD         | Addis Ababa | Ethiopia  | Ready        | Issued      | 02-Aug-23    |
-| 2023AF34314   | ADD         | Addis Ababa | Ethiopia  | Ready        | Refused221g | 02-Aug-23    |
-| 2023AF42885   | ADD         | Addis Ababa | Ethiopia  | Transfer     | Ready       | 02-Aug-23    |
+| 2023AF3188    | ADD         | Addis Ababa | Ethiopia  | Refused221g  | AP          | 02-Aug-2023  |
+| 2023AF10769   | ADD         | Addis Ababa | Ethiopia  | AP           | Issued      | 02-Aug-2023  |
+| 2023AF13038   | ADD         | Addis Ababa | Ethiopia  | Refused221g  | AP          | 02-Aug-2023  |
+| 2023AF14960   | ADD         | Addis Ababa | Ethiopia  | Transfer     | Ready       | 02-Aug-2023  |
+| 2023AF15273   | ADD         | Addis Ababa | Ethiopia  | AP           | Issued      | 02-Aug-2023  |
+| 2023AF32849   | ADD         | Addis Ababa | Ethiopia  | Ready        | AP          | 02-Aug-2023  |
+| 2023AF34314   | ADD         | Addis Ababa | Ethiopia  | Ready        | Refused221g | 02-Aug-2023  |
+| 2023AF42885   | ADD         | Addis Ababa | Ethiopia  | Transfer     | Ready       | 02-Aug-2023  |
 +---------------+-------------+-------------+-----------+--------------+-------------+--------------+
 Consulate: AKD
 +---------------+-------------+----------+--------------+--------------+----------+--------------+
 | Case Number   | Consulate   | City     | Country      | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+----------+--------------+--------------+----------+--------------|
-| 2023EU1256    | AKD         | Ashgabat | Turkmenistan | InTransit    | Ready    | 02-Aug-23    |
-| 2023EU16347   | AKD         | Ashgabat | Turkmenistan | InTransit    | Ready    | 02-Aug-23    |
-| 2023EU16711   | AKD         | Ashgabat | Turkmenistan | InTransit    | Ready    | 02-Aug-23    |
+| 2023EU1256    | AKD         | Ashgabat | Turkmenistan | InTransit    | Ready    | 02-Aug-2023  |
+| 2023EU16347   | AKD         | Ashgabat | Turkmenistan | InTransit    | Ready    | 02-Aug-2023  |
+| 2023EU16711   | AKD         | Ashgabat | Turkmenistan | InTransit    | Ready    | 02-Aug-2023  |
 +---------------+-------------+----------+--------------+--------------+----------+--------------+
+Consulate: ALG
++---------------+-------------+---------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City    | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+---------+-----------+--------------+----------+--------------|
+| 2023AF37582   | ALG         | Algiers | Algeria   | Refused221g  | Ready    | 02-Aug-2023  |
++---------------+-------------+---------+-----------+--------------+----------+--------------+
 Consulate: AMM
-+---------------+-------------+--------+-----------+--------------+----------+--------------+
-| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
-|---------------+-------------+--------+-----------+--------------+----------+--------------|
-| 2023AF2004    | AMM         | Amman  | Jordan    | Ready        | Issued   | 02-Aug-23    |
-| 2023AS20390   | AMM         | Amman  | Jordan    | Refused221g  | Ready    | 02-Aug-23    |
-+---------------+-------------+--------+-----------+--------------+----------+--------------+
++---------------+-------------+--------+-----------+--------------+-------------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status      | statusDate   |
+|---------------+-------------+--------+-----------+--------------+-------------+--------------|
+| 2023AF2004    | AMM         | Amman  | Jordan    | Ready        | Issued      | 02-Aug-2023  |
+| 2023AF29896   | AMM         | Amman  | Jordan    | Ready        | AP          | 02-Aug-2023  |
+| 2023AS2354    | AMM         | Amman  | Jordan    | Ready        | Refused221g | 02-Aug-2023  |
+| 2023AS7769    | AMM         | Amman  | Jordan    | Refused221g  | AP          | 02-Aug-2023  |
+| 2023AS20390   | AMM         | Amman  | Jordan    | Refused221g  | Ready       | 02-Aug-2023  |
++---------------+-------------+--------+-----------+--------------+-------------+--------------+
 Consulate: ANK
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+--------+-----------+--------------+----------+--------------|
-| 2023EU7709    | ANK         | Ankara | Turkey    | Refused221g  | Issued   | 02-Aug-23    |
-| 2023EU7951    | ANK         | Ankara | Turkey    | Refused221g  | Issued   | 02-Aug-23    |
-| 2023EU8032    | ANK         | Ankara | Turkey    | AP           | Issued   | 02-Aug-23    |
-| 2023EU8912    | ANK         | Ankara | Turkey    | Refused221g  | Issued   | 02-Aug-23    |
-| 2023EU9198    | ANK         | Ankara | Turkey    | Refused221g  | Issued   | 02-Aug-23    |
+| 2023EU7709    | ANK         | Ankara | Turkey    | AP           | Issued   | 02-Aug-2023  |
+| 2023EU7951    | ANK         | Ankara | Turkey    | AP           | Issued   | 02-Aug-2023  |
+| 2023EU8032    | ANK         | Ankara | Turkey    | AP           | Issued   | 02-Aug-2023  |
+| 2023EU8912    | ANK         | Ankara | Turkey    | AP           | Issued   | 02-Aug-2023  |
+| 2023EU9151    | ANK         | Ankara | Turkey    | Refused221g  | AP       | 02-Aug-2023  |
+| 2023EU9198    | ANK         | Ankara | Turkey    | AP           | Issued   | 02-Aug-2023  |
+| 2023EU25521   | ANK         | Ankara | Turkey    | Issued       | Transfer | 02-Aug-2023  |
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: ATA
 +---------------+-------------+--------+------------+--------------+----------+--------------+
 | Case Number   | Consulate   | City   | Country    | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+--------+------------+--------------+----------+--------------|
-| 2023EU26207   | ATA         | Almaty | Kazakhstan | Ready        | AP       | 02-Aug-23    |
+| 2023EU26207   | ATA         | Almaty | Kazakhstan | Ready        | AP       | 02-Aug-2023  |
 +---------------+-------------+--------+------------+--------------+----------+--------------+
 Consulate: BCH
-+---------------+-------------+-----------+-----------+--------------+----------+--------------+
-| Case Number   | Consulate   | City      | Country   | PrevStatus   | Status   | statusDate   |
-|---------------+-------------+-----------+-----------+--------------+----------+--------------|
-| 2023EU9055    | BCH         | Bucharest | Romania   | Ready        | AP       | 02-Aug-23    |
-| 2023EU28888   | BCH         | Bucharest | Romania   | Ready        | AP       | 02-Aug-23    |
-+---------------+-------------+-----------+-----------+--------------+----------+--------------+
++---------------+-------------+-----------+-----------+--------------+-------------+--------------+
+| Case Number   | Consulate   | City      | Country   | PrevStatus   | Status      | statusDate   |
+|---------------+-------------+-----------+-----------+--------------+-------------+--------------|
+| 2023EU9055    | BCH         | Bucharest | Romania   | Refused221g  | Issued      | 02-Aug-2023  |
+| 2023EU15277   | BCH         | Bucharest | Romania   | Ready        | Refused221g | 02-Aug-2023  |
+| 2023EU19161   | BCH         | Bucharest | Romania   | Ready        | Refused221g | 02-Aug-2023  |
+| 2023EU27736   | BCH         | Bucharest | Romania   | Ready        | Refused221g | 02-Aug-2023  |
+| 2023EU28888   | BCH         | Bucharest | Romania   | Refused221g  | Issued      | 02-Aug-2023  |
++---------------+-------------+-----------+-----------+--------------+-------------+--------------+
+Consulate: BDP
++---------------+-------------+----------+-----------+--------------+-------------+--------------+
+| Case Number   | Consulate   | City     | Country   | PrevStatus   | Status      | statusDate   |
+|---------------+-------------+----------+-----------+--------------+-------------+--------------|
+| 2023AS18578   | BDP         | Budapest | Hungary   | Ready        | Refused221g | 02-Aug-2023  |
+| 2023EU30349   | BDP         | Budapest | Hungary   | Ready        | AP          | 02-Aug-2023  |
++---------------+-------------+----------+-----------+--------------+-------------+--------------+
 Consulate: BKK
 +---------------+-------------+---------+------------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City    | Country    | PrevStatus   | Status      | statusDate   |
 |---------------+-------------+---------+------------+--------------+-------------+--------------|
-| 2023EU3083    | BKK         | Bishkek | Kyrgyzstan | Ready        | Issued      | 02-Aug-23    |
-| 2023EU3226    | BKK         | Bishkek | Kyrgyzstan | Refused221g  | Issued      | 02-Aug-23    |
-| 2023EU3966    | BKK         | Bishkek | Kyrgyzstan | Ready        | Issued      | 02-Aug-23    |
-| 2023EU4650    | BKK         | Bishkek | Kyrgyzstan | Ready        | Refused221g | 02-Aug-23    |
-| 2023EU5628    | BKK         | Bishkek | Kyrgyzstan | Refused221g  | AP          | 02-Aug-23    |
-| 2023EU5699    | BKK         | Bishkek | Kyrgyzstan | Ready        | Issued      | 02-Aug-23    |
-| 2023EU5911    | BKK         | Bishkek | Kyrgyzstan | Ready        | Issued      | 02-Aug-23    |
-| 2023EU10290   | BKK         | Bishkek | Kyrgyzstan | Refused221g  | Issued      | 02-Aug-23    |
-| 2023EU12198   | BKK         | Bishkek | Kyrgyzstan | Ready        | Issued      | 02-Aug-23    |
-| 2023EU13678   | BKK         | Bishkek | Kyrgyzstan | Ready        | Issued      | 02-Aug-23    |
-| 2023EU13762   | BKK         | Bishkek | Kyrgyzstan | Ready        | Issued      | 02-Aug-23    |
-| 2023EU17936   | BKK         | Bishkek | Kyrgyzstan | Refused221g  | AP          | 02-Aug-23    |
-| 2023EU22403   | BKK         | Bishkek | Kyrgyzstan | Refused221g  | Issued      | 02-Aug-23    |
+| 2023EU4650    | BKK         | Bishkek | Kyrgyzstan | Ready        | Refused221g | 02-Aug-2023  |
+| 2023EU5628    | BKK         | Bishkek | Kyrgyzstan | Refused221g  | AP          | 02-Aug-2023  |
+| 2023EU17936   | BKK         | Bishkek | Kyrgyzstan | Ready        | AP          | 02-Aug-2023  |
 +---------------+-------------+---------+------------+--------------+-------------+--------------+
+Consulate: BLG
++---------------+-------------+----------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City     | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+----------+-----------+--------------+----------+--------------|
+| 2023EU26439   | BLG         | Belgrade | Serbia    | Refused221g  | Issued   | 02-Aug-2023  |
++---------------+-------------+----------+-----------+--------------+----------+--------------+
 Consulate: BNK
 +---------------+-------------+---------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City    | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+---------+-----------+--------------+----------+--------------|
-| 2023AS4919    | BNK         | Bangkok | Thailand  | Ready        | Issued   | 02-Aug-23    |
+| 2023AS6186    | BNK         | Bangkok | Thailand  | Issued       | Ready    | 02-Aug-2023  |
 +---------------+-------------+---------+-----------+--------------+----------+--------------+
+Consulate: BRT
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023AS11274   | BRT         | Beirut | Lebanon   | Ready        | AP       | 02-Aug-2023  |
++---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: COT
-+---------------+-------------+---------+-----------+--------------+----------+--------------+
-| Case Number   | Consulate   | City    | Country   | PrevStatus   | Status   | statusDate   |
-|---------------+-------------+---------+-----------+--------------+----------+--------------|
-| 2023AF50107   | COT         | Cotonou | Benin     | Ready        | AP       | 02-Aug-23    |
-| 2023AF61416   | COT         | Cotonou | Benin     | Ready        | Refused  | 02-Aug-23    |
-+---------------+-------------+---------+-----------+--------------+----------+--------------+
++---------------+-------------+---------+-----------+--------------+-------------+--------------+
+| Case Number   | Consulate   | City    | Country   | PrevStatus   | Status      | statusDate   |
+|---------------+-------------+---------+-----------+--------------+-------------+--------------|
+| 2023AF8862    | COT         | Cotonou | Benin     | Ready        | Refused221g | 02-Aug-2023  |
+| 2023AF19397   | COT         | Cotonou | Benin     | Ready        | AP          | 02-Aug-2023  |
+| 2023AF45842   | COT         | Cotonou | Benin     | Ready        | AP          | 02-Aug-2023  |
+| 2023AF47752   | COT         | Cotonou | Benin     | Ready        | AP          | 02-Aug-2023  |
+| 2023AF50107   | COT         | Cotonou | Benin     | Ready        | AP          | 02-Aug-2023  |
+| 2023AF50501   | COT         | Cotonou | Benin     | Ready        | AP          | 02-Aug-2023  |
+| 2023AF50605   | COT         | Cotonou | Benin     | Ready        | AP          | 02-Aug-2023  |
+| 2023AF50714   | COT         | Cotonou | Benin     | Ready        | Refused221g | 02-Aug-2023  |
+| 2023AF53701   | COT         | Cotonou | Benin     | Ready        | AP          | 02-Aug-2023  |
+| 2023AF55033   | COT         | Cotonou | Benin     | Ready        | Refused221g | 02-Aug-2023  |
+| 2023AF55423   | COT         | Cotonou | Benin     | Ready        | AP          | 02-Aug-2023  |
+| 2023AF55894   | COT         | Cotonou | Benin     | Ready        | Refused221g | 02-Aug-2023  |
+| 2023AF59792   | COT         | Cotonou | Benin     | Ready        | Refused221g | 02-Aug-2023  |
+| 2023AF59870   | COT         | Cotonou | Benin     | Ready        | Refused221g | 02-Aug-2023  |
+| 2023AF59991   | COT         | Cotonou | Benin     | Ready        | AP          | 02-Aug-2023  |
+| 2023AF61416   | COT         | Cotonou | Benin     | Ready        | Refused     | 02-Aug-2023  |
+| 2023AF61916   | COT         | Cotonou | Benin     | Ready        | Refused221g | 02-Aug-2023  |
+| 2023AF62421   | COT         | Cotonou | Benin     | Ready        | AP          | 02-Aug-2023  |
++---------------+-------------+---------+-----------+--------------+-------------+--------------+
 Consulate: CRO
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status      | statusDate   |
 |---------------+-------------+--------+-----------+--------------+-------------+--------------|
-| 2023AF18962   | CRO         | Cairo  | Egypt     | Ready        | Issued      | 02-Aug-23    |
-| 2023AF19025   | CRO         | Cairo  | Egypt     | Ready        | Refused221g | 02-Aug-23    |
-| 2023AF23038   | CRO         | Cairo  | Egypt     | Ready        | Refused221g | 02-Aug-23    |
-| 2023AF28413   | CRO         | Cairo  | Egypt     | Ready        | Refused221g | 02-Aug-23    |
-| 2023AF45369   | CRO         | Cairo  | Egypt     | Ready        | Issued      | 02-Aug-23    |
-| 2023AS18600   | CRO         | Cairo  | Egypt     | Ready        | Issued      | 02-Aug-23    |
-| 2023AS19436   | CRO         | Cairo  | Egypt     | AP           | Issued      | 02-Aug-23    |
+| 2023AF7616    | CRO         | Cairo  | Egypt     | Refused221g  | AP          | 03-Aug-2023  |
+| 2023AF12352   | CRO         | Cairo  | Egypt     | Transfer     | Ready       | 02-Aug-2023  |
+| 2023AF17123   | CRO         | Cairo  | Egypt     | Refused221g  | AP          | 02-Aug-2023  |
+| 2023AF18962   | CRO         | Cairo  | Egypt     | AP           | Issued      | 02-Aug-2023  |
+| 2023AF19025   | CRO         | Cairo  | Egypt     | Ready        | Refused221g | 02-Aug-2023  |
+| 2023AF20525   | CRO         | Cairo  | Egypt     | Refused221g  | AP          | 03-Aug-2023  |
+| 2023AF23038   | CRO         | Cairo  | Egypt     | Ready        | Refused221g | 02-Aug-2023  |
+| 2023AF23439   | CRO         | Cairo  | Egypt     | Refused221g  | AP          | 02-Aug-2023  |
+| 2023AF28413   | CRO         | Cairo  | Egypt     | Ready        | Refused221g | 02-Aug-2023  |
+| 2023AF45369   | CRO         | Cairo  | Egypt     | AP           | Issued      | 02-Aug-2023  |
+| 2023AF53572   | CRO         | Cairo  | Egypt     | Transfer     | Ready       | 02-Aug-2023  |
+| 2023AF59709   | CRO         | Cairo  | Egypt     | Issued       | Refused221g | 02-Aug-2023  |
+| 2023AS15415   | CRO         | Cairo  | Egypt     | Ready        | Issued      | 02-Aug-2023  |
+| 2023AS18600   | CRO         | Cairo  | Egypt     | AP           | Issued      | 02-Aug-2023  |
+| 2023AS19105   | CRO         | Cairo  | Egypt     | Refused221g  | Issued      | 02-Aug-2023  |
+| 2023AS19436   | CRO         | Cairo  | Egypt     | AP           | Issued      | 02-Aug-2023  |
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
 Consulate: CSB
-+---------------+-------------+------------+-----------+--------------+----------+--------------+
-| Case Number   | Consulate   | City       | Country   | PrevStatus   | Status   | statusDate   |
-|---------------+-------------+------------+-----------+--------------+----------+--------------|
-| 2023AF41834   | CSB         | Casablanca | Morocco   | Ready        | Issued   | 02-Aug-23    |
-| 2023AF43795   | CSB         | Casablanca | Morocco   | Ready        | Issued   | 02-Aug-23    |
-| 2023AF43875   | CSB         | Casablanca | Morocco   | Ready        | Issued   | 02-Aug-23    |
-| 2023AF43891   | CSB         | Casablanca | Morocco   | Ready        | Issued   | 02-Aug-23    |
-| 2023AF44806   | CSB         | Casablanca | Morocco   | Ready        | Issued   | 02-Aug-23    |
-| 2023AF44941   | CSB         | Casablanca | Morocco   | Ready        | Issued   | 02-Aug-23    |
-| 2023AF45212   | CSB         | Casablanca | Morocco   | Ready        | Issued   | 02-Aug-23    |
-| 2023AF45464   | CSB         | Casablanca | Morocco   | Ready        | Issued   | 02-Aug-23    |
-| 2023AF45697   | CSB         | Casablanca | Morocco   | Ready        | Issued   | 02-Aug-23    |
-| 2023AF46011   | CSB         | Casablanca | Morocco   | Ready        | Issued   | 02-Aug-23    |
-| 2023AF47078   | CSB         | Casablanca | Morocco   | Ready        | Issued   | 02-Aug-23    |
-| 2023AF47227   | CSB         | Casablanca | Morocco   | Ready        | Issued   | 02-Aug-23    |
-| 2023AF47745   | CSB         | Casablanca | Morocco   | Ready        | Issued   | 02-Aug-23    |
-+---------------+-------------+------------+-----------+--------------+----------+--------------+
-Consulate: DHK
-+---------------+-------------+--------+------------+--------------+----------+--------------+
-| Case Number   | Consulate   | City   | Country    | PrevStatus   | Status   | statusDate   |
-|---------------+-------------+--------+------------+--------------+----------+--------------|
-| 2023EU4068    | DHK         | Dhaka  | Bangladesh | Refused221g  | Issued   | 02-Aug-23    |
-+---------------+-------------+--------+------------+--------------+----------+--------------+
++---------------+-------------+------------+-----------+--------------+-------------+--------------+
+| Case Number   | Consulate   | City       | Country   | PrevStatus   | Status      | statusDate   |
+|---------------+-------------+------------+-----------+--------------+-------------+--------------|
+| 2023AF27045   | CSB         | Casablanca | Morocco   | AP           | Issued      | 02-Aug-2023  |
+| 2023AF31152   | CSB         | Casablanca | Morocco   | AP           | Issued      | 02-Aug-2023  |
+| 2023AF32170   | CSB         | Casablanca | Morocco   | Refused      | AP          | 02-Aug-2023  |
+| 2023AF32378   | CSB         | Casablanca | Morocco   | AP           | Issued      | 02-Aug-2023  |
+| 2023AF35083   | CSB         | Casablanca | Morocco   | Ready        | Refused221g | 02-Aug-2023  |
+| 2023AF35882   | CSB         | Casablanca | Morocco   | AP           | Issued      | 02-Aug-2023  |
+| 2023AF37443   | CSB         | Casablanca | Morocco   | AP           | Issued      | 02-Aug-2023  |
+| 2023AF38875   | CSB         | Casablanca | Morocco   | AP           | Issued      | 02-Aug-2023  |
+| 2023AF39047   | CSB         | Casablanca | Morocco   | AP           | Issued      | 02-Aug-2023  |
+| 2023AF39313   | CSB         | Casablanca | Morocco   | AP           | Issued      | 02-Aug-2023  |
+| 2023AF39496   | CSB         | Casablanca | Morocco   | AP           | Issued      | 02-Aug-2023  |
+| 2023AF40301   | CSB         | Casablanca | Morocco   | AP           | Issued      | 02-Aug-2023  |
+| 2023AF40433   | CSB         | Casablanca | Morocco   | AP           | Issued      | 02-Aug-2023  |
+| 2023AF41834   | CSB         | Casablanca | Morocco   | AP           | Issued      | 02-Aug-2023  |
+| 2023AF42705   | CSB         | Casablanca | Morocco   | AP           | Issued      | 02-Aug-2023  |
+| 2023AF42846   | CSB         | Casablanca | Morocco   | AP           | Issued      | 02-Aug-2023  |
+| 2023AF43415   | CSB         | Casablanca | Morocco   | AP           | Issued      | 02-Aug-2023  |
+| 2023AF43490   | CSB         | Casablanca | Morocco   | AP           | Issued      | 02-Aug-2023  |
+| 2023AF43602   | CSB         | Casablanca | Morocco   | AP           | Issued      | 02-Aug-2023  |
+| 2023AF43795   | CSB         | Casablanca | Morocco   | AP           | Issued      | 02-Aug-2023  |
+| 2023AF43875   | CSB         | Casablanca | Morocco   | AP           | Issued      | 02-Aug-2023  |
+| 2023AF43891   | CSB         | Casablanca | Morocco   | AP           | Issued      | 02-Aug-2023  |
+| 2023AF44138   | CSB         | Casablanca | Morocco   | AP           | Issued      | 02-Aug-2023  |
+| 2023AF44383   | CSB         | Casablanca | Morocco   | AP           | Issued      | 02-Aug-2023  |
+| 2023AF44630   | CSB         | Casablanca | Morocco   | AP           | Issued      | 02-Aug-2023  |
+| 2023AF44806   | CSB         | Casablanca | Morocco   | AP           | Issued      | 02-Aug-2023  |
+| 2023AF44808   | CSB         | Casablanca | Morocco   | AP           | Issued      | 02-Aug-2023  |
+| 2023AF44914   | CSB         | Casablanca | Morocco   | AP           | Issued      | 02-Aug-2023  |
+| 2023AF44941   | CSB         | Casablanca | Morocco   | AP           | Issued      | 02-Aug-2023  |
+| 2023AF45212   | CSB         | Casablanca | Morocco   | AP           | Issued      | 02-Aug-2023  |
+| 2023AF45448   | CSB         | Casablanca | Morocco   | AP           | Issued      | 02-Aug-2023  |
+| 2023AF45464   | CSB         | Casablanca | Morocco   | AP           | Issued      | 02-Aug-2023  |
+| 2023AF45477   | CSB         | Casablanca | Morocco   | AP           | Issued      | 02-Aug-2023  |
+| 2023AF45515   | CSB         | Casablanca | Morocco   | AP           | Issued      | 02-Aug-2023  |
+| 2023AF45607   | CSB         | Casablanca | Morocco   | AP           | Issued      | 02-Aug-2023  |
+| 2023AF45621   | CSB         | Casablanca | Morocco   | AP           | Issued      | 02-Aug-2023  |
+| 2023AF45697   | CSB         | Casablanca | Morocco   | AP           | Issued      | 02-Aug-2023  |
+| 2023AF45722   | CSB         | Casablanca | Morocco   | AP           | Issued      | 02-Aug-2023  |
+| 2023AF46011   | CSB         | Casablanca | Morocco   | AP           | Issued      | 02-Aug-2023  |
+| 2023AF46134   | CSB         | Casablanca | Morocco   | AP           | Issued      | 02-Aug-2023  |
+| 2023AF46217   | CSB         | Casablanca | Morocco   | AP           | Issued      | 02-Aug-2023  |
+| 2023AF46225   | CSB         | Casablanca | Morocco   | AP           | Issued      | 02-Aug-2023  |
+| 2023AF46622   | CSB         | Casablanca | Morocco   | AP           | Issued      | 02-Aug-2023  |
+| 2023AF47078   | CSB         | Casablanca | Morocco   | AP           | Issued      | 02-Aug-2023  |
+| 2023AF47227   | CSB         | Casablanca | Morocco   | AP           | Issued      | 02-Aug-2023  |
+| 2023AF47736   | CSB         | Casablanca | Morocco   | AP           | Issued      | 02-Aug-2023  |
+| 2023AF47745   | CSB         | Casablanca | Morocco   | AP           | Issued      | 02-Aug-2023  |
++---------------+-------------+------------+-----------+--------------+-------------+--------------+
 Consulate: DJI
 +---------------+-------------+----------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City     | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+----------+-----------+--------------+----------+--------------|
-| 2023AF8997    | DJI         | Djibouti | Djibouti  | AP           | Issued   | 02-Aug-23    |
-| 2023AF14183   | DJI         | Djibouti | Djibouti  | AP           | Issued   | 02-Aug-23    |
+| 2023AF8997    | DJI         | Djibouti | Djibouti  | AP           | Issued   | 02-Aug-2023  |
+| 2023AF14183   | DJI         | Djibouti | Djibouti  | AP           | Issued   | 02-Aug-2023  |
+| 2023AS8193    | DJI         | Djibouti | Djibouti  | Refused221g  | AP       | 02-Aug-2023  |
 +---------------+-------------+----------+-----------+--------------+----------+--------------+
+Consulate: DKR
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023AF2468    | DKR         | Dakar  | Senegal   | Ready        | Issued   | 02-Aug-2023  |
+| 2023AF16497   | DKR         | Dakar  | Senegal   | AP           | Issued   | 02-Aug-2023  |
+| 2023AF27921   | DKR         | Dakar  | Senegal   | Ready        | Refused  | 02-Aug-2023  |
+| 2023AF37813   | DKR         | Dakar  | Senegal   | Ready        | Issued   | 02-Aug-2023  |
+| 2023AF46475   | DKR         | Dakar  | Senegal   | AP           | Issued   | 02-Aug-2023  |
++---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: DRS
 +---------------+-------------+---------------+-----------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City          | Country   | PrevStatus   | Status      | statusDate   |
 |---------------+-------------+---------------+-----------+--------------+-------------+--------------|
-| 2023AF60952   | DRS         | Dar es Salaam | Tanzania  | Ready        | Refused221g | 02-Aug-23    |
+| 2023AF59747   | DRS         | Dar es Salaam | Tanzania  | Ready        | Refused221g | 02-Aug-2023  |
+| 2023AF60952   | DRS         | Dar es Salaam | Tanzania  | Ready        | Refused221g | 02-Aug-2023  |
 +---------------+-------------+---------------+-----------+--------------+-------------+--------------+
 Consulate: FRN
 +---------------+-------------+-----------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City      | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+-----------+-----------+--------------+----------+--------------|
-| 2023EU11578   | FRN         | Frankfurt | Germany   | Transfer     | Ready    | 02-Aug-23    |
-| 2023EU13558   | FRN         | Frankfurt | Germany   | Ready        | AP       | 02-Aug-23    |
-| 2023OC1159    | FRN         | Frankfurt | Germany   | Ready        | Issued   | 02-Aug-23    |
+| 2023EU11578   | FRN         | Frankfurt | Germany   | Transfer     | Ready    | 02-Aug-2023  |
+| 2023EU13558   | FRN         | Frankfurt | Germany   | AP           | Issued   | 02-Aug-2023  |
+| 2023OC1159    | FRN         | Frankfurt | Germany   | AP           | Issued   | 02-Aug-2023  |
 +---------------+-------------+-----------+-----------+--------------+----------+--------------+
+Consulate: FTN
++---------------+-------------+----------+--------------+--------------+----------+--------------+
+| Case Number   | Consulate   | City     | Country      | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+----------+--------------+--------------+----------+--------------|
+| 2023AF5129    | FTN         | Freetown | Sierra Leone | AP           | Issued   | 02-Aug-2023  |
+| 2023AF6062    | FTN         | Freetown | Sierra Leone | AP           | Issued   | 02-Aug-2023  |
+| 2023AF7207    | FTN         | Freetown | Sierra Leone | AP           | Issued   | 02-Aug-2023  |
+| 2023AF9348    | FTN         | Freetown | Sierra Leone | AP           | Issued   | 02-Aug-2023  |
+| 2023AF42532   | FTN         | Freetown | Sierra Leone | Ready        | AP       | 02-Aug-2023  |
++---------------+-------------+----------+--------------+--------------+----------+--------------+
 Consulate: GUZ
 +---------------+-------------+-----------+-----------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City      | Country   | PrevStatus   | Status      | statusDate   |
 |---------------+-------------+-----------+-----------+--------------+-------------+--------------|
-| 2023AF1896    | GUZ         | Guangzhou | China     | Ready        | Refused     | 02-Aug-23    |
-| 2023EU26096   | GUZ         | Guangzhou | China     | Ready        | Refused221g | 02-Aug-23    |
+| 2023EU26096   | GUZ         | Guangzhou | China     | Ready        | Refused221g | 02-Aug-2023  |
 +---------------+-------------+-----------+-----------+--------------+-------------+--------------+
+Consulate: GYQ
++---------------+-------------+-----------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City      | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+-----------+-----------+--------------+----------+--------------|
+| 2023SA2302    | GYQ         | Guayaquil | Ecuador   | Ready        | Refused  | 02-Aug-2023  |
++---------------+-------------+-----------+-----------+--------------+----------+--------------+
 Consulate: ISL
 +---------------+-------------+-----------+-----------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City      | Country   | PrevStatus   | Status      | statusDate   |
 |---------------+-------------+-----------+-----------+--------------+-------------+--------------|
-| 2023AS6323    | ISL         | Islamabad | Pakistan  | Ready        | AP          | 02-Aug-23    |
-| 2023AS10752   | ISL         | Islamabad | Pakistan  | Ready        | Refused221g | 02-Aug-23    |
-| 2023AS10894   | ISL         | Islamabad | Pakistan  | Ready        | Refused221g | 02-Aug-23    |
+| 2023AS6323    | ISL         | Islamabad | Pakistan  | Ready        | AP          | 02-Aug-2023  |
+| 2023AS10752   | ISL         | Islamabad | Pakistan  | Ready        | Refused221g | 02-Aug-2023  |
+| 2023AS10894   | ISL         | Islamabad | Pakistan  | Ready        | Refused221g | 02-Aug-2023  |
 +---------------+-------------+-----------+-----------+--------------+-------------+--------------+
 Consulate: JAK
 +---------------+-------------+---------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City    | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+---------+-----------+--------------+----------+--------------|
-| 2023AF23666   | JAK         | Jakarta | Indonesia | Ready        | Issued   | 02-Aug-23    |
-| 2023EU26914   | JAK         | Jakarta | Indonesia | Ready        | Issued   | 02-Aug-23    |
+| 2023AF23666   | JAK         | Jakarta | Indonesia | Ready        | Issued   | 02-Aug-2023  |
+| 2023EU26914   | JAK         | Jakarta | Indonesia | Refused221g  | Issued   | 02-Aug-2023  |
 +---------------+-------------+---------+-----------+--------------+----------+--------------+
+Consulate: JHN
++---------------+-------------+--------------+--------------+--------------+----------+--------------+
+| Case Number   | Consulate   | City         | Country      | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------------+--------------+--------------+----------+--------------|
+| 2023AF53712   | JHN         | Johannesburg | South Africa | AP           | Issued   | 02-Aug-2023  |
++---------------+-------------+--------------+--------------+--------------+----------+--------------+
 Consulate: KDU
-+---------------+-------------+-----------+-----------+--------------+----------+--------------+
-| Case Number   | Consulate   | City      | Country   | PrevStatus   | Status   | statusDate   |
-|---------------+-------------+-----------+-----------+--------------+----------+--------------|
-| 2023AS485     | KDU         | Kathmandu | Nepal     | Refused221g  | Ready    | 02-Aug-23    |
-| 2023AS17046   | KDU         | Kathmandu | Nepal     | Refused221g  | Refused  | 02-Aug-23    |
-| 2023AS17793   | KDU         | Kathmandu | Nepal     | Refused221g  | AP       | 02-Aug-23    |
-| 2023AS18010   | KDU         | Kathmandu | Nepal     | Refused221g  | Refused  | 02-Aug-23    |
-+---------------+-------------+-----------+-----------+--------------+----------+--------------+
++---------------+-------------+-----------+-----------+--------------+-------------+--------------+
+| Case Number   | Consulate   | City      | Country   | PrevStatus   | Status      | statusDate   |
+|---------------+-------------+-----------+-----------+--------------+-------------+--------------|
+| 2023AS485     | KDU         | Kathmandu | Nepal     | Ready        | Refused221g | 02-Aug-2023  |
+| 2023AS17046   | KDU         | Kathmandu | Nepal     | Refused221g  | Refused     | 02-Aug-2023  |
+| 2023AS17793   | KDU         | Kathmandu | Nepal     | Refused221g  | AP          | 02-Aug-2023  |
+| 2023AS18010   | KDU         | Kathmandu | Nepal     | Refused221g  | Refused     | 02-Aug-2023  |
++---------------+-------------+-----------+-----------+--------------+-------------+--------------+
 Consulate: KGL
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+--------+-----------+--------------+----------+--------------|
-| 2023AF22971   | KGL         | Kigali | Rwanda    | Ready        | Issued   | 02-Aug-23    |
+| 2023AF380     | KGL         | Kigali | Rwanda    | Ready        | AP       | 02-Aug-2023  |
+| 2023AF3655    | KGL         | Kigali | Rwanda    | Refused221g  | AP       | 02-Aug-2023  |
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
+Consulate: KIN
++---------------+-------------+----------+----------------------------------+--------------+----------+--------------+
+| Case Number   | Consulate   | City     | Country                          | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+----------+----------------------------------+--------------+----------+--------------|
+| 2023AF35017   | KIN         | Kinshasa | Democratic Republic of the Congo | AP           | Ready    | 02-Aug-2023  |
+| 2023AF36687   | KIN         | Kinshasa | Democratic Republic of the Congo | AP           | Ready    | 02-Aug-2023  |
++---------------+-------------+----------+----------------------------------+--------------+----------+--------------+
 Consulate: KWT
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+--------+-----------+--------------+----------+--------------|
-| 2023AF14527   | KWT         | Kuwait | Kuwait    | Ready        | Issued   | 02-Aug-23    |
-| 2023AF31571   | KWT         | Kuwait | Kuwait    | Ready        | Issued   | 02-Aug-23    |
+| 2023AF14527   | KWT         | Kuwait | Kuwait    | AP           | Issued   | 02-Aug-2023  |
+| 2023AF31571   | KWT         | Kuwait | Kuwait    | AP           | Issued   | 02-Aug-2023  |
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+Consulate: LIB
++---------------+-------------+------------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City       | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+------------+-----------+--------------+----------+--------------|
+| 2023AF28142   | LIB         | Libreville | Gabon     | InTransit    | Ready    | 02-Aug-2023  |
++---------------+-------------+------------+-----------+--------------+----------+--------------+
+Consulate: LMA
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023SA1525    | LMA         | Lima   | Peru      | AP           | Issued   | 02-Aug-2023  |
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: LND
 +---------------+-------------+--------+----------------+--------------+----------+--------------+
 | Case Number   | Consulate   | City   | Country        | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+--------+----------------+--------------+----------+--------------|
-| 2023EU18671   | LND         | London | United Kingdom | Refused221g  | Issued   | 02-Aug-23    |
+| 2023EU18671   | LND         | London | United Kingdom | Ready        | Issued   | 02-Aug-2023  |
+| 2023EU30270   | LND         | London | United Kingdom | Refused221g  | Ready    | 02-Aug-2023  |
 +---------------+-------------+--------+----------------+--------------+----------+--------------+
-Consulate: LUA
+Consulate: LOM
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+--------+-----------+--------------+----------+--------------|
-| 2023AF34931   | LUA         | Luanda | Angola    | Ready        | AP       | 02-Aug-23    |
-| 2023AF39060   | LUA         | Luanda | Angola    | Ready        | Refused  | 02-Aug-23    |
+| 2023AF2883    | LOM         | Lome   | Togo      | Refused221g  | Refused  | 02-Aug-2023  |
+| 2023AF27999   | LOM         | Lome   | Togo      | Refused221g  | AP       | 02-Aug-2023  |
+| 2023AF41594   | LOM         | Lome   | Togo      | Refused221g  | Ready    | 02-Aug-2023  |
+| 2023AF50063   | LOM         | Lome   | Togo      | Refused221g  | Ready    | 02-Aug-2023  |
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
+Consulate: LUA
++---------------+-------------+--------+-----------+--------------+-------------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status      | statusDate   |
+|---------------+-------------+--------+-----------+--------------+-------------+--------------|
+| 2023AF20606   | LUA         | Luanda | Angola    | Issued       | Refused221g | 02-Aug-2023  |
+| 2023AF34931   | LUA         | Luanda | Angola    | Ready        | AP          | 02-Aug-2023  |
+| 2023AF39060   | LUA         | Luanda | Angola    | Ready        | Refused     | 02-Aug-2023  |
+| 2023AF39712   | LUA         | Luanda | Angola    | Ready        | AP          | 02-Aug-2023  |
+| 2023AF41504   | LUA         | Luanda | Angola    | Ready        | Refused221g | 02-Aug-2023  |
+| 2023AF41892   | LUA         | Luanda | Angola    | Ready        | Refused221g | 02-Aug-2023  |
+| 2023AF42141   | LUA         | Luanda | Angola    | Ready        | AP          | 02-Aug-2023  |
+| 2023AF43309   | LUA         | Luanda | Angola    | Ready        | Refused     | 02-Aug-2023  |
+| 2023AF43997   | LUA         | Luanda | Angola    | Ready        | Refused     | 02-Aug-2023  |
+| 2023AF44133   | LUA         | Luanda | Angola    | Ready        | Refused     | 02-Aug-2023  |
+| 2023AF44239   | LUA         | Luanda | Angola    | Ready        | Refused221g | 02-Aug-2023  |
+| 2023AF46523   | LUA         | Luanda | Angola    | Ready        | Refused221g | 02-Aug-2023  |
+| 2023AF51624   | LUA         | Luanda | Angola    | Ready        | AP          | 02-Aug-2023  |
++---------------+-------------+--------+-----------+--------------+-------------+--------------+
+Consulate: MRV
++---------------+-------------+----------+-----------+--------------+-------------+--------------+
+| Case Number   | Consulate   | City     | Country   | PrevStatus   | Status      | statusDate   |
+|---------------+-------------+----------+-----------+--------------+-------------+--------------|
+| 2023AF2621    | MRV         | Monrovia | Liberia   | Ready        | Refused221g | 02-Aug-2023  |
+| 2023AF8882    | MRV         | Monrovia | Liberia   | Refused221g  | AP          | 02-Aug-2023  |
+| 2023AF13865   | MRV         | Monrovia | Liberia   | Refused221g  | AP          | 02-Aug-2023  |
+| 2023AF18119   | MRV         | Monrovia | Liberia   | Ready        | AP          | 02-Aug-2023  |
++---------------+-------------+----------+-----------+--------------+-------------+--------------+
+Consulate: MST
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023AF36801   | MST         | Muscat | Oman      | Ready        | AP       | 02-Aug-2023  |
+| 2023EU23683   | MST         | Muscat | Oman      | Ready        | AP       | 02-Aug-2023  |
+| 2023EU28232   | MST         | Muscat | Oman      | Ready        | AP       | 02-Aug-2023  |
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+Consulate: MTL
++---------------+-------------+----------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City     | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+----------+-----------+--------------+----------+--------------|
+| 2023AS10819   | MTL         | Montreal | Canada    | Refused221g  | Refused  | 02-Aug-2023  |
+| 2023AS18814   | MTL         | Montreal | Canada    | Refused221g  | Issued   | 02-Aug-2023  |
+| 2023EU10670   | MTL         | Montreal | Canada    | Refused221g  | Issued   | 02-Aug-2023  |
+| 2023EU31768   | MTL         | Montreal | Canada    | Refused221g  | Issued   | 02-Aug-2023  |
++---------------+-------------+----------+-----------+--------------+----------+--------------+
 Consulate: NRB
 +---------------+-------------+---------+-----------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City    | Country   | PrevStatus   | Status      | statusDate   |
 |---------------+-------------+---------+-----------+--------------+-------------+--------------|
-| 2023AF22016   | NRB         | Nairobi | Kenya     | Ready        | Issued      | 02-Aug-23    |
-| 2023AF22707   | NRB         | Nairobi | Kenya     | Ready        | Issued      | 02-Aug-23    |
-| 2023AF23124   | NRB         | Nairobi | Kenya     | Ready        | Issued      | 02-Aug-23    |
-| 2023AF23390   | NRB         | Nairobi | Kenya     | Ready        | AP          | 02-Aug-23    |
-| 2023AF23514   | NRB         | Nairobi | Kenya     | Ready        | Refused221g | 02-Aug-23    |
-| 2023AF23608   | NRB         | Nairobi | Kenya     | Ready        | AP          | 02-Aug-23    |
+| 2023AF22016   | NRB         | Nairobi | Kenya     | AP           | Issued      | 02-Aug-2023  |
+| 2023AF22707   | NRB         | Nairobi | Kenya     | AP           | Issued      | 02-Aug-2023  |
+| 2023AF23124   | NRB         | Nairobi | Kenya     | AP           | Issued      | 02-Aug-2023  |
+| 2023AF23390   | NRB         | Nairobi | Kenya     | Ready        | AP          | 02-Aug-2023  |
+| 2023AF23514   | NRB         | Nairobi | Kenya     | Ready        | Refused221g | 02-Aug-2023  |
+| 2023AF23608   | NRB         | Nairobi | Kenya     | Ready        | AP          | 02-Aug-2023  |
 +---------------+-------------+---------+-----------+--------------+-------------+--------------+
 Consulate: PRS
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status      | statusDate   |
 |---------------+-------------+--------+-----------+--------------+-------------+--------------|
-| 2023AF35990   | PRS         | Paris  | France    | Ready        | Refused221g | 02-Aug-23    |
-| 2023AF36533   | PRS         | Paris  | France    | Ready        | AP          | 02-Aug-23    |
-| 2023AF57686   | PRS         | Paris  | France    | Ready        | AP          | 02-Aug-23    |
-| 2023AS11265   | PRS         | Paris  | France    | Ready        | Refused221g | 02-Aug-23    |
-| 2023EU30505   | PRS         | Paris  | France    | Ready        | Refused221g | 02-Aug-23    |
-| 2023EU31191   | PRS         | Paris  | France    | Ready        | Refused221g | 02-Aug-23    |
-| 2023SA2418    | PRS         | Paris  | France    | Ready        | Refused221g | 02-Aug-23    |
+| 2023AF4091    | PRS         | Paris  | France    | Ready        | AP          | 02-Aug-2023  |
+| 2023AF32629   | PRS         | Paris  | France    | Ready        | Refused221g | 02-Aug-2023  |
+| 2023AF35990   | PRS         | Paris  | France    | Ready        | Refused221g | 02-Aug-2023  |
+| 2023AF36533   | PRS         | Paris  | France    | Ready        | AP          | 02-Aug-2023  |
+| 2023AF37799   | PRS         | Paris  | France    | Ready        | AP          | 02-Aug-2023  |
+| 2023AF39257   | PRS         | Paris  | France    | Ready        | Refused221g | 02-Aug-2023  |
+| 2023AF40396   | PRS         | Paris  | France    | Ready        | Refused221g | 02-Aug-2023  |
+| 2023AF41924   | PRS         | Paris  | France    | Ready        | Refused221g | 02-Aug-2023  |
+| 2023AF42517   | PRS         | Paris  | France    | Ready        | Refused221g | 02-Aug-2023  |
+| 2023AF45671   | PRS         | Paris  | France    | Ready        | Refused221g | 02-Aug-2023  |
+| 2023AF57686   | PRS         | Paris  | France    | Ready        | AP          | 02-Aug-2023  |
+| 2023AS11265   | PRS         | Paris  | France    | Ready        | Refused221g | 02-Aug-2023  |
+| 2023EU30505   | PRS         | Paris  | France    | Ready        | AP          | 02-Aug-2023  |
+| 2023EU31191   | PRS         | Paris  | France    | Ready        | Refused221g | 02-Aug-2023  |
+| 2023SA2418    | PRS         | Paris  | France    | Ready        | Refused221g | 02-Aug-2023  |
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
+Consulate: PTS
++---------------+-------------+---------------+---------------------+--------------+----------+--------------+
+| Case Number   | Consulate   | City          | Country             | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+---------------+---------------------+--------------+----------+--------------|
+| 2023SA2841    | PTS         | Port Of Spain | Trinidad and Tobago | AP           | Ready    | 02-Aug-2023  |
++---------------+-------------+---------------+---------------------+--------------+----------+--------------+
+Consulate: RDJ
++---------------+-------------+----------------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City           | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+----------------+-----------+--------------+----------+--------------|
+| 2023AF47343   | RDJ         | Rio De Janeiro | Brazil    | AP           | Issued   | 02-Aug-2023  |
++---------------+-------------+----------------+-----------+--------------+----------+--------------+
 Consulate: RID
-+---------------+-------------+--------+--------------+--------------+----------+--------------+
-| Case Number   | Consulate   | City   | Country      | PrevStatus   | Status   | statusDate   |
-|---------------+-------------+--------+--------------+--------------+----------+--------------|
-| 2023AF59599   | RID         | Riyadh | Saudi Arabia | Ready        | Issued   | 02-Aug-23    |
-| 2023AS7049    | RID         | Riyadh | Saudi Arabia | Ready        | Issued   | 02-Aug-23    |
-| 2023AS8551    | RID         | Riyadh | Saudi Arabia | Ready        | Issued   | 02-Aug-23    |
-+---------------+-------------+--------+--------------+--------------+----------+--------------+
-Consulate: RNG
-+---------------+-------------+---------+-----------+--------------+----------+--------------+
-| Case Number   | Consulate   | City    | Country   | PrevStatus   | Status   | statusDate   |
-|---------------+-------------+---------+-----------+--------------+----------+--------------|
-| 2023AS19091   | RNG         | Rangoon | Burma     | Ready        | AP       | 02-Aug-23    |
-+---------------+-------------+---------+-----------+--------------+----------+--------------+
-Consulate: SOF
++---------------+-------------+--------+--------------+--------------+-------------+--------------+
+| Case Number   | Consulate   | City   | Country      | PrevStatus   | Status      | statusDate   |
+|---------------+-------------+--------+--------------+--------------+-------------+--------------|
+| 2023AF11929   | RID         | Riyadh | Saudi Arabia | Ready        | Refused221g | 02-Aug-2023  |
+| 2023AF59599   | RID         | Riyadh | Saudi Arabia | AP           | Issued      | 02-Aug-2023  |
+| 2023AS7049    | RID         | Riyadh | Saudi Arabia | AP           | Issued      | 02-Aug-2023  |
+| 2023AS8551    | RID         | Riyadh | Saudi Arabia | AP           | Issued      | 02-Aug-2023  |
++---------------+-------------+--------+--------------+--------------+-------------+--------------+
+Consulate: SUV
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+--------+-----------+--------------+----------+--------------|
-| 2023EU8663    | SOF         | Sofia  | Bulgaria  | Ready        | Refused  | 02-Aug-23    |
+| 2023OC1586    | SUV         | Suva   | Fiji      | Refused221g  | AP       | 03-Aug-2023  |
+| 2023OC1904    | SUV         | Suva   | Fiji      | Ready        | Transfer | 03-Aug-2023  |
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: TBL
-+---------------+-------------+---------+-----------+--------------+-------------+--------------+
-| Case Number   | Consulate   | City    | Country   | PrevStatus   | Status      | statusDate   |
-|---------------+-------------+---------+-----------+--------------+-------------+--------------|
-| 2023EU9182    | TBL         | Tbilisi | Georgia   | Ready        | Issued      | 02-Aug-23    |
-| 2023EU15901   | TBL         | Tbilisi | Georgia   | Ready        | Issued      | 02-Aug-23    |
-| 2023EU15928   | TBL         | Tbilisi | Georgia   | Ready        | Issued      | 02-Aug-23    |
-| 2023EU15974   | TBL         | Tbilisi | Georgia   | Ready        | Issued      | 02-Aug-23    |
-| 2023EU15999   | TBL         | Tbilisi | Georgia   | Ready        | Issued      | 02-Aug-23    |
-| 2023EU16343   | TBL         | Tbilisi | Georgia   | Ready        | Refused221g | 02-Aug-23    |
-| 2023EU16403   | TBL         | Tbilisi | Georgia   | Ready        | Issued      | 02-Aug-23    |
-| 2023EU16449   | TBL         | Tbilisi | Georgia   | Ready        | Issued      | 02-Aug-23    |
-| 2023EU16481   | TBL         | Tbilisi | Georgia   | Ready        | Issued      | 02-Aug-23    |
-| 2023EU17105   | TBL         | Tbilisi | Georgia   | Ready        | Issued      | 02-Aug-23    |
-| 2023EU17131   | TBL         | Tbilisi | Georgia   | Ready        | AP          | 02-Aug-23    |
-| 2023EU17147   | TBL         | Tbilisi | Georgia   | Ready        | Issued      | 02-Aug-23    |
-| 2023EU17486   | TBL         | Tbilisi | Georgia   | Ready        | Refused221g | 02-Aug-23    |
-| 2023EU17673   | TBL         | Tbilisi | Georgia   | Ready        | Issued      | 02-Aug-23    |
-| 2023EU17964   | TBL         | Tbilisi | Georgia   | Ready        | Issued      | 02-Aug-23    |
-| 2023EU18036   | TBL         | Tbilisi | Georgia   | Ready        | Issued      | 02-Aug-23    |
-| 2023EU18324   | TBL         | Tbilisi | Georgia   | Ready        | Issued      | 02-Aug-23    |
-+---------------+-------------+---------+-----------+--------------+-------------+--------------+
++---------------+-------------+---------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City    | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+---------+-----------+--------------+----------+--------------|
+| 2023EU9182    | TBL         | Tbilisi | Georgia   | AP           | Issued   | 02-Aug-2023  |
+| 2023EU15901   | TBL         | Tbilisi | Georgia   | AP           | Issued   | 02-Aug-2023  |
+| 2023EU15928   | TBL         | Tbilisi | Georgia   | AP           | Issued   | 02-Aug-2023  |
+| 2023EU15974   | TBL         | Tbilisi | Georgia   | AP           | Issued   | 02-Aug-2023  |
+| 2023EU15999   | TBL         | Tbilisi | Georgia   | AP           | Issued   | 02-Aug-2023  |
+| 2023EU16403   | TBL         | Tbilisi | Georgia   | AP           | Issued   | 02-Aug-2023  |
+| 2023EU16449   | TBL         | Tbilisi | Georgia   | AP           | Issued   | 02-Aug-2023  |
+| 2023EU16481   | TBL         | Tbilisi | Georgia   | AP           | Issued   | 02-Aug-2023  |
+| 2023EU17105   | TBL         | Tbilisi | Georgia   | AP           | Issued   | 02-Aug-2023  |
+| 2023EU17131   | TBL         | Tbilisi | Georgia   | AP           | Issued   | 02-Aug-2023  |
+| 2023EU17147   | TBL         | Tbilisi | Georgia   | AP           | Issued   | 02-Aug-2023  |
+| 2023EU17673   | TBL         | Tbilisi | Georgia   | AP           | Issued   | 02-Aug-2023  |
+| 2023EU17964   | TBL         | Tbilisi | Georgia   | AP           | Issued   | 02-Aug-2023  |
+| 2023EU18036   | TBL         | Tbilisi | Georgia   | AP           | Issued   | 02-Aug-2023  |
+| 2023EU18324   | TBL         | Tbilisi | Georgia   | AP           | Issued   | 02-Aug-2023  |
++---------------+-------------+---------+-----------+--------------+----------+--------------+
 Consulate: THT
 +---------------+-------------+----------+------------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City     | Country    | PrevStatus   | Status      | statusDate   |
 |---------------+-------------+----------+------------+--------------+-------------+--------------|
-| 2023EU3385    | THT         | Tashkent | Uzbekistan | Ready        | Issued      | 02-Aug-23    |
-| 2023EU4112    | THT         | Tashkent | Uzbekistan | Ready        | AP          | 02-Aug-23    |
-| 2023EU5703    | THT         | Tashkent | Uzbekistan | Ready        | Issued      | 02-Aug-23    |
-| 2023EU5979    | THT         | Tashkent | Uzbekistan | Ready        | Issued      | 02-Aug-23    |
-| 2023EU6778    | THT         | Tashkent | Uzbekistan | Ready        | Issued      | 02-Aug-23    |
-| 2023EU6942    | THT         | Tashkent | Uzbekistan | Ready        | Issued      | 02-Aug-23    |
-| 2023EU7425    | THT         | Tashkent | Uzbekistan | Refused221g  | Issued      | 02-Aug-23    |
-| 2023EU8600    | THT         | Tashkent | Uzbekistan | Ready        | Issued      | 02-Aug-23    |
-| 2023EU8679    | THT         | Tashkent | Uzbekistan | Refused221g  | Issued      | 02-Aug-23    |
-| 2023EU8744    | THT         | Tashkent | Uzbekistan | Ready        | Issued      | 02-Aug-23    |
-| 2023EU8780    | THT         | Tashkent | Uzbekistan | Ready        | Issued      | 02-Aug-23    |
-| 2023EU8853    | THT         | Tashkent | Uzbekistan | Ready        | Refused221g | 02-Aug-23    |
-| 2023EU8862    | THT         | Tashkent | Uzbekistan | Ready        | Issued      | 02-Aug-23    |
-| 2023EU8933    | THT         | Tashkent | Uzbekistan | Ready        | AP          | 02-Aug-23    |
-| 2023EU8943    | THT         | Tashkent | Uzbekistan | Ready        | Issued      | 02-Aug-23    |
-| 2023EU8980    | THT         | Tashkent | Uzbekistan | Ready        | Issued      | 02-Aug-23    |
-| 2023EU8995    | THT         | Tashkent | Uzbekistan | Ready        | Issued      | 02-Aug-23    |
-| 2023EU9015    | THT         | Tashkent | Uzbekistan | Ready        | Issued      | 02-Aug-23    |
-| 2023EU9079    | THT         | Tashkent | Uzbekistan | Ready        | Issued      | 02-Aug-23    |
-| 2023EU9103    | THT         | Tashkent | Uzbekistan | Ready        | Issued      | 02-Aug-23    |
-| 2023EU9119    | THT         | Tashkent | Uzbekistan | Ready        | Issued      | 02-Aug-23    |
-| 2023EU9152    | THT         | Tashkent | Uzbekistan | Ready        | Issued      | 02-Aug-23    |
-| 2023EU9615    | THT         | Tashkent | Uzbekistan | Ready        | Issued      | 02-Aug-23    |
-| 2023EU27519   | THT         | Tashkent | Uzbekistan | Ready        | Issued      | 02-Aug-23    |
-| 2023EU27764   | THT         | Tashkent | Uzbekistan | Ready        | AP          | 02-Aug-23    |
+| 2023EU3385    | THT         | Tashkent | Uzbekistan | AP           | Issued      | 02-Aug-2023  |
+| 2023EU4112    | THT         | Tashkent | Uzbekistan | Ready        | AP          | 02-Aug-2023  |
+| 2023EU7425    | THT         | Tashkent | Uzbekistan | Refused221g  | Issued      | 02-Aug-2023  |
+| 2023EU8853    | THT         | Tashkent | Uzbekistan | Ready        | Refused221g | 02-Aug-2023  |
+| 2023EU8933    | THT         | Tashkent | Uzbekistan | Ready        | AP          | 02-Aug-2023  |
+| 2023EU9103    | THT         | Tashkent | Uzbekistan | AP           | Issued      | 02-Aug-2023  |
+| 2023EU27519   | THT         | Tashkent | Uzbekistan | Ready        | Issued      | 02-Aug-2023  |
+| 2023EU27764   | THT         | Tashkent | Uzbekistan | Ready        | AP          | 02-Aug-2023  |
 +---------------+-------------+----------+------------+--------------+-------------+--------------+
 Consulate: TIA
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+--------+-----------+--------------+----------+--------------|
-| 2023EU22846   | TIA         | Tirana | Albania   | Ready        | AP       | 02-Aug-23    |
-| 2023EU25013   | TIA         | Tirana | Albania   | Ready        | AP       | 02-Aug-23    |
-| 2023EU26137   | TIA         | Tirana | Albania   | Ready        | AP       | 02-Aug-23    |
-| 2023EU27685   | TIA         | Tirana | Albania   | Ready        | AP       | 02-Aug-23    |
-| 2023EU28063   | TIA         | Tirana | Albania   | Ready        | AP       | 02-Aug-23    |
-| 2023EU29521   | TIA         | Tirana | Albania   | Ready        | AP       | 02-Aug-23    |
+| 2023EU3655    | TIA         | Tirana | Albania   | AP           | Issued   | 02-Aug-2023  |
+| 2023EU22178   | TIA         | Tirana | Albania   | AP           | Issued   | 02-Aug-2023  |
+| 2023EU22224   | TIA         | Tirana | Albania   | AP           | Issued   | 02-Aug-2023  |
+| 2023EU22846   | TIA         | Tirana | Albania   | AP           | Issued   | 02-Aug-2023  |
+| 2023EU23055   | TIA         | Tirana | Albania   | AP           | Issued   | 02-Aug-2023  |
+| 2023EU23548   | TIA         | Tirana | Albania   | AP           | Issued   | 02-Aug-2023  |
+| 2023EU24762   | TIA         | Tirana | Albania   | AP           | Issued   | 02-Aug-2023  |
+| 2023EU25182   | TIA         | Tirana | Albania   | AP           | Issued   | 02-Aug-2023  |
+| 2023EU26137   | TIA         | Tirana | Albania   | AP           | Issued   | 02-Aug-2023  |
+| 2023EU26377   | TIA         | Tirana | Albania   | AP           | Issued   | 02-Aug-2023  |
+| 2023EU26398   | TIA         | Tirana | Albania   | AP           | Issued   | 02-Aug-2023  |
+| 2023EU27685   | TIA         | Tirana | Albania   | AP           | Issued   | 02-Aug-2023  |
+| 2023EU27864   | TIA         | Tirana | Albania   | AP           | Issued   | 02-Aug-2023  |
+| 2023EU28063   | TIA         | Tirana | Albania   | AP           | Issued   | 02-Aug-2023  |
+| 2023EU29088   | TIA         | Tirana | Albania   | AP           | Issued   | 02-Aug-2023  |
+| 2023EU29464   | TIA         | Tirana | Albania   | Refused221g  | AP       | 02-Aug-2023  |
+| 2023EU29521   | TIA         | Tirana | Albania   | AP           | Issued   | 02-Aug-2023  |
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: VNN
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+--------+-----------+--------------+----------+--------------|
-| 2023EU31737   | VNN         | Vienna | Austria   | Refused221g  | Issued   | 02-Aug-23    |
+| 2023EU31737   | VNN         | Vienna | Austria   | AP           | Issued   | 02-Aug-2023  |
 +---------------+-------------+--------+-----------+--------------+----------+--------------+
 Consulate: WRW
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
 | Case Number   | Consulate   | City   | Country   | PrevStatus   | Status      | statusDate   |
 |---------------+-------------+--------+-----------+--------------+-------------+--------------|
-| 2023EU1638    | WRW         | Warsaw | Poland    | Ready        | Refused221g | 02-Aug-23    |
-| 2023EU3213    | WRW         | Warsaw | Poland    | Ready        | Issued      | 02-Aug-23    |
-| 2023EU7663    | WRW         | Warsaw | Poland    | Ready        | Issued      | 02-Aug-23    |
-| 2023EU12669   | WRW         | Warsaw | Poland    | Refused221g  | Issued      | 02-Aug-23    |
-| 2023EU14601   | WRW         | Warsaw | Poland    | Refused221g  | Issued      | 02-Aug-23    |
-| 2023EU16852   | WRW         | Warsaw | Poland    | Refused221g  | Issued      | 02-Aug-23    |
-| 2023EU27224   | WRW         | Warsaw | Poland    | Ready        | Issued      | 02-Aug-23    |
-| 2023EU27407   | WRW         | Warsaw | Poland    | Refused221g  | Ready       | 02-Aug-23    |
-| 2023EU27895   | WRW         | Warsaw | Poland    | Refused221g  | Issued      | 02-Aug-23    |
-| 2023EU27908   | WRW         | Warsaw | Poland    | Ready        | Issued      | 02-Aug-23    |
-| 2023EU30475   | WRW         | Warsaw | Poland    | Refused221g  | Issued      | 02-Aug-23    |
-| 2023EU30580   | WRW         | Warsaw | Poland    | Ready        | Issued      | 02-Aug-23    |
-| 2023EU31269   | WRW         | Warsaw | Poland    | Ready        | Refused221g | 02-Aug-23    |
-| 2023EU31272   | WRW         | Warsaw | Poland    | Ready        | Refused221g | 02-Aug-23    |
-| 2023EU31294   | WRW         | Warsaw | Poland    | Ready        | Issued      | 02-Aug-23    |
-| 2023EU31960   | WRW         | Warsaw | Poland    | Ready        | Issued      | 02-Aug-23    |
+| 2023EU1368    | WRW         | Warsaw | Poland    | Refused221g  | Ready       | 02-Aug-2023  |
+| 2023EU1638    | WRW         | Warsaw | Poland    | Ready        | Refused221g | 02-Aug-2023  |
+| 2023EU3213    | WRW         | Warsaw | Poland    | Refused221g  | Issued      | 02-Aug-2023  |
+| 2023EU7663    | WRW         | Warsaw | Poland    | Refused221g  | Issued      | 02-Aug-2023  |
+| 2023EU12669   | WRW         | Warsaw | Poland    | Refused221g  | Issued      | 02-Aug-2023  |
+| 2023EU14601   | WRW         | Warsaw | Poland    | Ready        | Issued      | 02-Aug-2023  |
+| 2023EU16852   | WRW         | Warsaw | Poland    | AP           | Issued      | 02-Aug-2023  |
+| 2023EU24165   | WRW         | Warsaw | Poland    | Ready        | AP          | 02-Aug-2023  |
+| 2023EU27224   | WRW         | Warsaw | Poland    | Refused221g  | Issued      | 02-Aug-2023  |
+| 2023EU27908   | WRW         | Warsaw | Poland    | Refused221g  | Issued      | 02-Aug-2023  |
+| 2023EU29465   | WRW         | Warsaw | Poland    | Refused221g  | Issued      | 02-Aug-2023  |
+| 2023EU30475   | WRW         | Warsaw | Poland    | AP           | Issued      | 02-Aug-2023  |
+| 2023EU30580   | WRW         | Warsaw | Poland    | Refused221g  | Issued      | 02-Aug-2023  |
+| 2023EU31269   | WRW         | Warsaw | Poland    | Ready        | Refused221g | 02-Aug-2023  |
+| 2023EU31272   | WRW         | Warsaw | Poland    | Ready        | Refused221g | 02-Aug-2023  |
+| 2023EU31294   | WRW         | Warsaw | Poland    | Ready        | Issued      | 02-Aug-2023  |
+| 2023EU31960   | WRW         | Warsaw | Poland    | Ready        | Issued      | 02-Aug-2023  |
 +---------------+-------------+--------+-----------+--------------+-------------+--------------+
 Consulate: YDE
 +---------------+-------------+---------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City    | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+---------+-----------+--------------+----------+--------------|
-| 2023AF38124   | YDE         | Yaounde | Cameroon  | Ready        | Issued   | 02-Aug-23    |
+| 2023AF38124   | YDE         | Yaounde | Cameroon  | AP           | Issued   | 02-Aug-2023  |
+| 2023AF40640   | YDE         | Yaounde | Cameroon  | Refused221g  | AP       | 02-Aug-2023  |
 +---------------+-------------+---------+-----------+--------------+----------+--------------+
 Consulate: YRV
 +---------------+-------------+---------+-----------+--------------+----------+--------------+
 | Case Number   | Consulate   | City    | Country   | PrevStatus   | Status   | statusDate   |
 |---------------+-------------+---------+-----------+--------------+----------+--------------|
-| 2023AS5061    | YRV         | Yerevan | Armenia   | Refused221g  | Issued   | 02-Aug-23    |
-| 2023AS12216   | YRV         | Yerevan | Armenia   | Ready        | Issued   | 02-Aug-23    |
-| 2023AS12376   | YRV         | Yerevan | Armenia   | Ready        | Issued   | 02-Aug-23    |
-| 2023EU20470   | YRV         | Yerevan | Armenia   | Refused221g  | AP       | 02-Aug-23    |
-| 2023EU23237   | YRV         | Yerevan | Armenia   | Refused221g  | Issued   | 02-Aug-23    |
-| 2023EU31961   | YRV         | Yerevan | Armenia   | Refused221g  | Issued   | 02-Aug-23    |
+| 2023AS5061    | YRV         | Yerevan | Armenia   | AP           | Issued   | 02-Aug-2023  |
+| 2023AS12216   | YRV         | Yerevan | Armenia   | AP           | Issued   | 02-Aug-2023  |
+| 2023AS12376   | YRV         | Yerevan | Armenia   | AP           | Issued   | 02-Aug-2023  |
+| 2023EU20470   | YRV         | Yerevan | Armenia   | Refused221g  | AP       | 02-Aug-2023  |
+| 2023EU23237   | YRV         | Yerevan | Armenia   | AP           | Issued   | 02-Aug-2023  |
+| 2023EU31961   | YRV         | Yerevan | Armenia   | Ready        | Issued   | 02-Aug-2023  |
 +---------------+-------------+---------+-----------+--------------+----------+--------------+
