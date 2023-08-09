@@ -3,7 +3,6 @@ let slider = document.createElement('input');
 slider.type = 'range';
 slider.id = 'dateSlider';
 slider.style.width = '50%';
-slider.height: 20px;
 slider.style.display = 'block';
 document.body.insertBefore(slider, document.getElementById('output'));
 
