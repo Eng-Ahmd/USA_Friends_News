@@ -1,24 +1,23 @@
-// Fetch the dates first
 fetch('dates.json')
     .then(response => response.json())
     .then(dates => {
-        // Convert the dates into a readable format
         let readableDates = dates.map(date => {
             let parts = date.split('_');
             return `2023-${parts[0]}-${parts[1]}`; 
         });
 
-        // The last date will be the default date
         let defaultDate = readableDates[readableDates.length - 1];
+        let minDate = readableDates[0];
+        let maxDate = readableDates[readableDates.length - 1];
 
-        // Set the default date
-        document.getElementById('datePicker').value = defaultDate;
+        let datePicker = document.getElementById('datePicker');
+        datePicker.min = minDate;
+        datePicker.max = maxDate;
+        datePicker.value = defaultDate;
 
-        // Load the data for the default date
         loadDateData(dates[dates.length - 1]);
 
-        // Attach an event listener to the date picker
-        document.getElementById('datePicker').addEventListener('change', function() {
+        datePicker.addEventListener('change', function() {
             let selectedDate = this.value;
             let index = readableDates.indexOf(selectedDate);
             if (index !== -1) {
