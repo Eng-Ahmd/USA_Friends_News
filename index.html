@@ -3,32 +3,12 @@
 <head>
     <title>DV23 Daily Consulates/Embassies updates</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <style>
-        body {
-            font-size: 14px;
-        }
-        pre {
-            color: white;
-            background-color: black;
-            padding: 10px;
-            font-family: 'Courier New', Courier, monospace;
-            max-width: 100%;
-            overflow-x: auto;
-            white-space: pre-wrap;
-            user-select: none;
-            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='500' height='500'%3E%3Cpattern id='watermark' patternUnits='userSpaceOnUse' width='500' height='500'%3E%3Ctext fill='lime' fill-opacity='0.25' font-size='20'%3Ehttps://t.me/USAFriendsNews%3C/text%3E%3C/pattern%3E%3Crect fill='url(%23watermark)' width='500' height='500' /%3E%3C/svg%3E");
-            background-repeat: repeat;
-        }
-        @media only screen and (max-width: 600px) {
-            body {
-                font-size: 10px;
-            }
-        }
-    </style>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <h1>DV23 Daily Consulates/Embassies updates by <a href="https://t.me/USAFriendsNews" target="_blank">https://t.me/USAFriendsNews</a></h1>
-    <h2>Use the Slider to change the date</h2>
+    <h2>Use the Date Picker to change the date</h2>
+    <input type="date" id="datePicker" />
     <pre id="output"></pre>
     <script src="script.js"></script>
 </body>
