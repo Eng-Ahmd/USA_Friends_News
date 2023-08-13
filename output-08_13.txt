@@ -1,0 +1,76 @@
+Consulate: ALG
++---------------+-------------+---------+-----------+--------------+-------------+--------------+
+| Case Number   | Consulate   | City    | Country   | PrevStatus   | Status      | statusDate   |
+|---------------+-------------+---------+-----------+--------------+-------------+--------------|
+| 2023AF36618   | ALG         | Algiers | Algeria   | Ready        | AP          | 13-Aug-2023  |
+| 2023AF40423   | ALG         | Algiers | Algeria   | Ready        | Refused221g | 13-Aug-2023  |
+| 2023AF42202   | ALG         | Algiers | Algeria   | Ready        | AP          | 13-Aug-2023  |
+| 2023AF42965   | ALG         | Algiers | Algeria   | Ready        | AP          | 13-Aug-2023  |
+| 2023AF44074   | ALG         | Algiers | Algeria   | Ready        | AP          | 13-Aug-2023  |
+| 2023AF44652   | ALG         | Algiers | Algeria   | Ready        | AP          | 13-Aug-2023  |
+| 2023AF44849   | ALG         | Algiers | Algeria   | Ready        | AP          | 13-Aug-2023  |
++---------------+-------------+---------+-----------+--------------+-------------+--------------+
+Consulate: AMM
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023AS15693   | AMM         | Amman  | Jordan    | Ready        | AP       | 13-Aug-2023  |
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+Consulate: BGH
++---------------+-------------+---------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City    | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+---------+-----------+--------------+----------+--------------|
+| 2023AS18793   | BGH         | Baghdad | Iraq      | Refused221g  | Ready    | 13-Aug-2023  |
++---------------+-------------+---------+-----------+--------------+----------+--------------+
+Consulate: CRO
++---------------+-------------+--------+-----------+--------------+-------------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status      | statusDate   |
+|---------------+-------------+--------+-----------+--------------+-------------+--------------|
+| 2023AF1326    | CRO         | Cairo  | Egypt     | Ready        | AP          | 13-Aug-2023  |
+| 2023AF3345    | CRO         | Cairo  | Egypt     | Ready        | AP          | 13-Aug-2023  |
+| 2023AF13504   | CRO         | Cairo  | Egypt     | Ready        | Transfer    | 13-Aug-2023  |
+| 2023AF14817   | CRO         | Cairo  | Egypt     | Ready        | Refused     | 13-Aug-2023  |
+| 2023AF19437   | CRO         | Cairo  | Egypt     | AP           | Issued      | 13-Aug-2023  |
+| 2023AF19497   | CRO         | Cairo  | Egypt     | AP           | Issued      | 13-Aug-2023  |
+| 2023AF19693   | CRO         | Cairo  | Egypt     | AP           | Issued      | 13-Aug-2023  |
+| 2023AF19871   | CRO         | Cairo  | Egypt     | Ready        | Refused     | 13-Aug-2023  |
+| 2023AF19928   | CRO         | Cairo  | Egypt     | Ready        | Refused     | 13-Aug-2023  |
+| 2023AF19933   | CRO         | Cairo  | Egypt     | Ready        | AP          | 13-Aug-2023  |
+| 2023AF19996   | CRO         | Cairo  | Egypt     | Ready        | Refused221g | 13-Aug-2023  |
+| 2023AF20201   | CRO         | Cairo  | Egypt     | Ready        | AP          | 13-Aug-2023  |
+| 2023AF20231   | CRO         | Cairo  | Egypt     | Ready        | Refused221g | 13-Aug-2023  |
+| 2023AF24864   | CRO         | Cairo  | Egypt     | Ready        | AP          | 13-Aug-2023  |
+| 2023AF27284   | CRO         | Cairo  | Egypt     | Ready        | Transfer    | 13-Aug-2023  |
+| 2023AF31230   | CRO         | Cairo  | Egypt     | Ready        | Refused     | 13-Aug-2023  |
+| 2023AS3347    | CRO         | Cairo  | Egypt     | Ready        | Refused221g | 13-Aug-2023  |
++---------------+-------------+--------+-----------+--------------+-------------+--------------+
+Consulate: DJI
++---------------+-------------+----------+-----------+--------------+-------------+--------------+
+| Case Number   | Consulate   | City     | Country   | PrevStatus   | Status      | statusDate   |
+|---------------+-------------+----------+-----------+--------------+-------------+--------------|
+| 2023AF26025   | DJI         | Djibouti | Djibouti  | Ready        | AP          | 13-Aug-2023  |
+| 2023AS3232    | DJI         | Djibouti | Djibouti  | Ready        | Refused221g | 13-Aug-2023  |
++---------------+-------------+----------+-----------+--------------+-------------+--------------+
+Consulate: KHT
++---------------+-------------+----------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City     | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+----------+-----------+--------------+----------+--------------|
+| 2023AF7291    | KHT         | Khartoum | Sudan     | Refused221g  | Transfer | 13-Aug-2023  |
+| 2023AF13812   | KHT         | Khartoum | Sudan     | Ready        | Transfer | 13-Aug-2023  |
++---------------+-------------+----------+-----------+--------------+----------+--------------+
+Consulate: MST
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+| Case Number   | Consulate   | City   | Country   | PrevStatus   | Status   | statusDate   |
+|---------------+-------------+--------+-----------+--------------+----------+--------------|
+| 2023AF36801   | MST         | Muscat | Oman      | AP           | Ready    | 13-Aug-2023  |
+| 2023AF43538   | MST         | Muscat | Oman      | Refused221g  | AP       | 13-Aug-2023  |
+| 2023EU10240   | MST         | Muscat | Oman      | Refused221g  | AP       | 13-Aug-2023  |
++---------------+-------------+--------+-----------+--------------+----------+--------------+
+Consulate: RID
++---------------+-------------+--------+--------------+--------------+-------------+--------------+
+| Case Number   | Consulate   | City   | Country      | PrevStatus   | Status      | statusDate   |
+|---------------+-------------+--------+--------------+--------------+-------------+--------------|
+| 2023AF15430   | RID         | Riyadh | Saudi Arabia | Ready        | AP          | 13-Aug-2023  |
+| 2023AF28463   | RID         | Riyadh | Saudi Arabia | Ready        | Refused221g | 13-Aug-2023  |
+| 2023AS5787    | RID         | Riyadh | Saudi Arabia | Refused221g  | Ready       | 13-Aug-2023  |
++---------------+-------------+--------+--------------+--------------+-------------+--------------+
